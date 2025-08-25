@@ -22,13 +22,13 @@
 | Member                           | Code       |
 |----------------------------------|------------|
 |Axel Randall Ordoñez Ricaldi|U202216827  |
-|        |  |
+|Yeira Shari Huaman Olivos        |U202210513  |
 |       |  |
 |  |  |
 |              |  |
 |          |  |
 
-<br> AGOSTO 2024
+<br> AGOSTO 2025
 </center>  
 
 # Registro de Versiones del Informe
