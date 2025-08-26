@@ -176,20 +176,23 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-IoBuild nace con un propósito claro: permitir que cualquier constructora, arquitecto o administrador de edificios pueda integrar soluciones de IoT en sus proyectos sin necesidad de ser experto en tecnología ni enfrentar procesos complejos. Creemos que los espacios donde vivimos y trabajamos deben ser inteligentes, eficientes y seguros, no estructuras limitadas a lo tradicional.
+IoBuild nace con un propósito claro: transformar los edificios y espacios inmobiliarios en entornos inteligentes, accesibles y altamente personalizables. Creemos que los espacios donde vivimos y trabajamos no deben ser estáticos, sino dinámicos, adaptándose a las necesidades de quienes los habitan y a la visión de quienes los construyen.
 
-Nuestra plataforma digital ofrece herramientas intuitivas para planificar, implementar y gestionar proyectos inmobiliarios inteligentes. A través de una experiencia visual y simple, los usuarios pueden simular el impacto del IoT en sus diseños, monitorear consumos energéticos, optimizar la seguridad o gestionar accesos de manera centralizada. No se requieren conocimientos técnicos avanzados: el proceso es rápido, accesible y pensado para transformar ideas en proyectos inmobiliarios inteligentes con facilidad.
+Nuestra plataforma digital ofrece herramientas intuitivas que permiten a empresas constructoras, ingenieros y arquitectos integrar fácilmente funcionalidades inteligentes en sus proyectos, como el control de iluminación, la automatización de ventanas, la programación de riego en áreas verdes o la gestión de energía en tiempo real. Al mismo tiempo, los propietarios pueden personalizar la experiencia de su hogar o edificio con ajustes simples y sin necesidad de conocimientos técnicos avanzados.
 
-IoBuild se dirige a constructoras e inmobiliarias que desean diferenciar sus proyectos con tecnología innovadora, a arquitectos e ingenieros que buscan integrar IoT desde la etapa de diseño, y a administradores de edificios que necesitan gestionar y optimizar sus operaciones en tiempo real. Asimismo, los residentes e inquilinos pueden controlar y personalizar sus espacios mediante una aplicación práctica que conecta confort, seguridad y sostenibilidad.
+IoBuild se dirige a dos segmentos clave:
 
-Nuestra propuesta de valor combina innovación, conectividad y sostenibilidad. Queremos que construir y gestionar un edificio inteligente sea tan sencillo como usar cualquier aplicación digital moderna, ofreciendo libertad para diseñar, integrar y administrar tecnología IoT sin barreras. También brindamos soluciones a empresas que buscan reducir costos, aumentar eficiencia y generar experiencias únicas para los usuarios de sus espacios.
+Empresas constructoras, arquitectos e ingenieros, que buscan diferenciar sus proyectos con propuestas de valor innovadoras y adaptadas a las nuevas tendencias de espacios inteligentes.
 
-**Misión:** Democratizar la construcción y gestión de edificios inteligentes, acercando la tecnología IoT a constructoras, arquitectos y residentes para crear espacios más seguros, eficientes y sostenibles.
+Propietarios e inquilinos, que desean disfrutar de mayor confort, eficiencia y personalización en sus viviendas o espacios de trabajo.
 
-**Visión:** Construir una comunidad global donde cada edificio represente un espacio conectado, promoviendo la innovación, el bienestar y un desarrollo urbano más sostenible.
+Nuestra propuesta de valor combina simplicidad, innovación y personalización. Queremos que la gestión de un espacio inteligente sea tan fácil como usar una aplicación móvil, eliminando barreras técnicas y potenciando tanto la habitabilidad como la eficiencia.
 
-En IoBuild trabajamos bajo un modelo de integración tecnológica flexible y escalable, lo que nos permite reducir costos innecesarios y apoyar un consumo más consciente de los recursos en los edificios. Apostamos por un enfoque sostenible, donde solo se implementa la tecnología realmente necesaria y de forma estratégica.
-Más que facilitar la construcción de edificios inteligentes, en IoBuild impulsamos que cada espacio tenga identidad propia y que la tecnología se convierta en una herramienta de cambio positivo para las ciudades del futuro.
+**Misión:** Democratizar el acceso a la tecnología para edificios inteligentes, brindando a constructoras y propietarios herramientas accesibles y prácticas que mejoren la experiencia de los espacios y optimicen su funcionamiento.
+
+**Visión:** Construir una comunidad en la que cada espacio cuente con identidad propia, promoviendo ciudades más inteligentes, sostenibles y centradas en las personas.
+
+Más que facilitar la automatización, en IoBuild buscamos que cada espacio cobre vida y refleje el estilo de quienes lo habitan. Queremos ser el puente entre la innovación tecnológica y el confort humano, impulsando una nueva era en el sector inmobiliario.
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
