@@ -136,6 +136,7 @@ Estos supuestos formarán la estructura de nuestra estrategia de diseño y propo
     - **Creemos que la integración con asistentes de voz (ej. Alexa, Google Home) mejorará la experiencia del usuario**, consiguiendo que el 40 % de los usuarios de hogares inteligentes conecte su cuenta en los primeros tres meses.
     - **Creemos que un sistema de permisos y roles permitirá a los administradores de proyectos controlar quién puede acceder a qué funciones**, logrando una reducción del 95 % en los problemas de seguridad o acceso no autorizado reportados.
 <br>
+
 [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)  
 [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)  
 
