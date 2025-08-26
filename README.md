@@ -23,7 +23,7 @@
 |----------------------------------|------------|
 |Axel Randall Ordoñez Ricaldi|U202216827  |
 |Yeira Shari Huaman Olivos        |U202210513  |
-|       |  |
+|Fabrizio Martin Panta Castro       |U20231A810  |
 |  |  |
 |              |  |
 |          |  |
