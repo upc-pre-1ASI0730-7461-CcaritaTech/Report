@@ -183,21 +183,26 @@
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-En los últimos años, el concepto de edificios inteligentes ha cobrado relevancia a nivel mundial como parte de la transformación digital de las ciudades. Las constructoras y arquitectos se ven cada vez más presionados por incorporar tecnologías que optimicen la eficiencia energética, la seguridad y la experiencia de los residentes. Sin embargo, la implementación de soluciones IoT en proyectos inmobiliarios sigue siendo un proceso costoso y complejo, debido a la fragmentación de proveedores, la falta de estándares de integración y la necesidad de contar con especialistas altamente capacitados en múltiples áreas tecnológicas.
+En los últimos años, el sector inmobiliario y de la construcción ha experimentado una transformación impulsada por la creciente demanda de espacios inteligentes, sostenibles y personalizables. Las tendencias globales en domótica, IoT (Internet of Things) y eficiencia energética han comenzado a redefinir la forma en que las personas interactúan con sus viviendas y lugares de trabajo. Sin embargo, en gran parte de Latinoamérica y específicamente en el Perú, la adopción de estas tecnologías sigue siendo limitada debido a altos costos de implementación, falta de estandarización y ausencia de soluciones accesibles para el usuario final.
 
-En el contexto latinoamericano, y particularmente en el Perú, la adopción de edificios inteligentes aún está en su fase inicial. Existen barreras económicas, técnicas y culturales que dificultan su masificación:
+Actualmente, la mayoría de proyectos inmobiliarios no incorpora de manera nativa funcionalidades inteligentes como control automatizado de iluminación, climatización, seguridad o gestión energética en tiempo real. Cuando estas soluciones se incluyen, suelen estar restringidas a segmentos de alto poder adquisitivo, generando una brecha de accesibilidad entre quienes pueden disfrutar de la tecnología y quienes no.
 
-- Muchas constructoras carecen de áreas de innovación o departamentos especializados en IoT, lo que limita la exploración de estas tecnologías.
+Por otro lado, los propietarios e inquilinos enfrentan problemas al intentar personalizar sus espacios: las opciones suelen ser costosas, requieren conocimientos técnicos avanzados o dependen de la contratación de múltiples proveedores sin integración entre sistemas. Esto genera experiencias fragmentadas y reduce el valor percibido de la inversión.
 
-- Los administradores de edificios no cuentan con herramientas centralizadas que permitan monitorear en tiempo real aspectos como consumo de energía, seguridad y mantenimiento.
+En el caso de las constructoras, arquitectos e ingenieros, la problemática se centra en la necesidad de diferenciar sus proyectos en un mercado altamente competitivo. Si bien existe interés en ofrecer soluciones innovadoras, los equipos de construcción se enfrentan a falta de plataformas unificadas que simplifiquen la integración de tecnología inteligente en sus edificaciones, lo que dificulta la planificación y eleva los costos de implementación.
 
-- Los residentes enfrentan sistemas aislados y poco intuitivos, lo que dificulta la personalización de su experiencia en los espacios que habitan.
+La problemática puede resumirse en los siguientes puntos:
+- **Accesibilidad limitada:** la mayoría de soluciones de automatización están dirigidas a mercados premium, dejando de lado a gran parte de la población.
 
-- La sostenibilidad y la eficiencia energética, si bien son una prioridad global, aún no se reflejan de manera consistente en los proyectos inmobiliarios locales.
+- **Falta de estandarización:** los sistemas actuales suelen ser propietarios y poco compatibles, lo que genera barreras técnicas.
 
-La problemática se intensifica debido a que las soluciones actuales disponibles en el mercado suelen estar orientadas a proyectos de gran escala y con altos presupuestos, lo que deja de lado a constructoras medianas, arquitectos independientes y gestores de edificios que desean implementar mejoras accesibles y escalables.
+- **Costos elevados:** implementar tecnologías inteligentes requiere inversiones iniciales altas, lo que desalienta a constructoras y propietarios.
 
-En este escenario surge IoBuild, con el propósito de democratizar la construcción y gestión de edificios inteligentes. La startup busca eliminar las barreras técnicas y económicas, ofreciendo una plataforma que permita a constructoras, arquitectos, administradores y residentes integrar soluciones IoT de manera simple, flexible y sostenible. Con ello, se atiende la necesidad de contar con espacios conectados, eficientes y seguros, adaptados a la realidad del mercado latinoamericano y alineados con las tendencias globales de innovación urbana.
+- **Complejidad técnica:** los usuarios finales carecen de herramientas intuitivas para personalizar y gestionar sus espacios de manera autónoma.
+
+- **Baja diferenciación en proyectos inmobiliarios:** las constructoras tienen dificultades para ofrecer un valor agregado innovador frente a la competencia.
+
+En este contexto, IoBuild surge como respuesta a la necesidad de democratizar el acceso a los espacios inteligentes, ofreciendo una plataforma que facilita la integración tecnológica desde la etapa de construcción hasta la personalización por parte del usuario final.
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
