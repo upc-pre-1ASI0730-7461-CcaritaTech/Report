@@ -183,6 +183,22 @@
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+En los últimos años, el concepto de edificios inteligentes ha cobrado relevancia a nivel mundial como parte de la transformación digital de las ciudades. Las constructoras y arquitectos se ven cada vez más presionados por incorporar tecnologías que optimicen la eficiencia energética, la seguridad y la experiencia de los residentes. Sin embargo, la implementación de soluciones IoT en proyectos inmobiliarios sigue siendo un proceso costoso y complejo, debido a la fragmentación de proveedores, la falta de estándares de integración y la necesidad de contar con especialistas altamente capacitados en múltiples áreas tecnológicas.
+
+En el contexto latinoamericano, y particularmente en el Perú, la adopción de edificios inteligentes aún está en su fase inicial. Existen barreras económicas, técnicas y culturales que dificultan su masificación:
+
+- Muchas constructoras carecen de áreas de innovación o departamentos especializados en IoT, lo que limita la exploración de estas tecnologías.
+
+- Los administradores de edificios no cuentan con herramientas centralizadas que permitan monitorear en tiempo real aspectos como consumo de energía, seguridad y mantenimiento.
+
+- Los residentes enfrentan sistemas aislados y poco intuitivos, lo que dificulta la personalización de su experiencia en los espacios que habitan.
+
+- La sostenibilidad y la eficiencia energética, si bien son una prioridad global, aún no se reflejan de manera consistente en los proyectos inmobiliarios locales.
+
+La problemática se intensifica debido a que las soluciones actuales disponibles en el mercado suelen estar orientadas a proyectos de gran escala y con altos presupuestos, lo que deja de lado a constructoras medianas, arquitectos independientes y gestores de edificios que desean implementar mejoras accesibles y escalables.
+
+En este escenario surge IoBuild, con el propósito de democratizar la construcción y gestión de edificios inteligentes. La startup busca eliminar las barreras técnicas y económicas, ofreciendo una plataforma que permita a constructoras, arquitectos, administradores y residentes integrar soluciones IoT de manera simple, flexible y sostenible. Con ello, se atiende la necesidad de contar con espacios conectados, eficientes y seguros, adaptados a la realidad del mercado latinoamericano y alineados con las tendencias globales de innovación urbana.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
