@@ -338,8 +338,25 @@ IoBuild es una plataforma digital que permite a empresas constructoras, arquitec
 |Business Assumptions|User Assumptions|
 |-|-|
 |1. - 12. |1. - 6.|
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+
+- **Integración accesible para constructoras**
+Creemos que las constructoras, arquitectos e ingenieros necesitan una solución accesible para integrar funcionalidades inteligentes en sus proyectos sin aumentar significativamente los costos. Sabremos que hemos tenido éxito cuando las empresas utilicen IoBuild en al menos un proyecto piloto y manifiesten que la plataforma redujo tiempos y complejidad en la implementación.
+
+- **Personalización sin conocimientos técnicos**
+Creemos que los propietarios e inquilinos desean personalizar su espacio inteligente sin necesidad de conocimientos técnicos avanzados. Sabremos que hemos tenido éxito cuando los usuarios logren configurar de forma autónoma funciones como iluminación, riego o climatización desde la aplicación.
+
+- **Usabilidad como factor decisivo**
+Creemos que la simplicidad en la interfaz será un factor clave para la adopción de IoBuild por parte de profesionales y propietarios. Sabremos que hemos tenido éxito cuando los usuarios completen tareas clave (crear un escenario de iluminación, programar un riego, automatizar persianas) en menos de cinco minutos.
+
+- **Ahorro energético como motivador**
+Creemos que la gestión eficiente de energía motivará a propietarios y constructoras a implementar IoBuild como parte de sus proyectos. Sabremos que hemos tenido éxito cuando los usuarios reporten una reducción en el consumo energético tras usar las funcionalidades de monitoreo y control.
+
+- **Flexibilidad y escalabilidad del sistema**
+Creemos que un modelo flexible y escalable permitirá que IoBuild sea adoptado tanto en proyectos nuevos como en remodelaciones. Sabremos que hemos tenido éxito cuando las constructoras integren IoBuild en proyectos en construcción y los propietarios en viviendas ya habitadas.
+
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
