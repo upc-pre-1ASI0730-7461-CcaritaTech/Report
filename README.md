@@ -341,20 +341,42 @@ Estos supuestos formarán la estructura de nuestra estrategia de diseño y propo
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- **Integración accesible para constructoras**
+- **Personalización para propietarios e inquilinos** <br>
+Creemos que los propietarios e inquilinos adoptarán IoBuild porque podrán personalizar fácilmente la iluminación, el clima y la seguridad de sus espacios sin conocimientos técnicos. Sabremos que hemos tenido éxito cuando más del 70% de los usuarios configuren al menos una escena o ajuste personalizado dentro del primer mes de uso.
+
+- **Experiencia unificada y usabilidad** <br>
+Creemos que una interfaz de control centralizada y simple aumentará la satisfacción del usuario y reducirá la frustración generada por múltiples aplicaciones y dispositivos fragmentados. Sabremos que hemos tenido éxito cuando los usuarios completen tareas clave como programar riego o crear una escena de iluminación en menos de cinco minutos y sin errores repetitivos.
+
+- **Eficiencia energética como propuesta de valor** <br>
+Creemos que la gestión centralizada de energía motivará a propietarios y constructoras a integrar IoBuild en sus proyectos. Sabremos que hemos tenido éxito cuando al menos el 40% de los usuarios reporten una reducción en sus consumos energéticos tras tres meses de uso.
+
+- **Alianzas estratégicas con fabricantes** <br>
+Creemos que integrar IoBuild con ecosistemas de hardware existentes aumentará la adopción de la plataforma y reducirá las barreras de entrada. Sabremos que hemos tenido éxito cuando concretemos al menos 5 alianzas estratégicas y al menos el 30% de los usuarios utilicen dispositivos externos conectados.
+
+- **Escalabilidad y acceso remoto** <br>
+Creemos que un sistema flexible y escalable, con acceso remoto, permitirá que IoBuild sea adoptado tanto en proyectos en construcción como en remodelaciones. Sabremos que hemos tenido éxito cuando las constructoras integren IoBuild en nuevos desarrollos y los propietarios lo adopten en viviendas existentes, logrando al menos un 50% de adopción equilibrada en ambos escenarios.
+
+- **Integración accesible para constructoras** <br>
 Creemos que las constructoras, arquitectos e ingenieros necesitan una solución accesible para integrar funcionalidades inteligentes en sus proyectos sin aumentar significativamente los costos. Sabremos que hemos tenido éxito cuando las empresas utilicen IoBuild en al menos un proyecto piloto y manifiesten que la plataforma redujo tiempos y complejidad en la implementación.
 
-- **Personalización sin conocimientos técnicos**
-Creemos que los propietarios e inquilinos desean personalizar su espacio inteligente sin necesidad de conocimientos técnicos avanzados. Sabremos que hemos tenido éxito cuando los usuarios logren configurar de forma autónoma funciones como iluminación, riego o climatización desde la aplicación.
+- **Seguridad y confianza en el manejo de datos** <br>
+Creemos que garantizar altos estándares de seguridad y privacidad en el manejo de datos será un factor decisivo para la adopción de IoBuild. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios indiquen sentirse seguros al compartir información de sus dispositivos y consumos.
 
-- **Usabilidad como factor decisivo**
-Creemos que la simplicidad en la interfaz será un factor clave para la adopción de IoBuild por parte de profesionales y propietarios. Sabremos que hemos tenido éxito cuando los usuarios completen tareas clave (crear un escenario de iluminación, programar un riego, automatizar persianas) en menos de cinco minutos.
+- **Soporte reducido gracias a la simplicidad** <br>
+Creemos que una plataforma intuitiva disminuirá la necesidad de soporte técnico para usuarios finales. Sabremos que hemos tenido éxito cuando el 40% de las incidencias de soporte se resuelvan con recursos de autoservicio como un chatbot.
 
-- **Ahorro energético como motivador**
-Creemos que la gestión eficiente de energía motivará a propietarios y constructoras a implementar IoBuild como parte de sus proyectos. Sabremos que hemos tenido éxito cuando los usuarios reporten una reducción en el consumo energético tras usar las funcionalidades de monitoreo y control.
+- **Diferenciación en el mercado inmobiliario** <br>
+Creemos que las constructoras que integren IoBuild en sus proyectos podrán diferenciarse frente a la competencia y atraer a más clientes interesados en innovación. Sabremos que hemos tenido éxito cuando los proyectos que usen IoBuild tengan un 20% más de consultas o visitas que los que no lo usan.
 
-- **Flexibilidad y escalabilidad del sistema**
-Creemos que un modelo flexible y escalable permitirá que IoBuild sea adoptado tanto en proyectos nuevos como en remodelaciones. Sabremos que hemos tenido éxito cuando las constructoras integren IoBuild en proyectos en construcción y los propietarios en viviendas ya habitadas.
+- **Cumplimiento de normativas de construcción inteligente** <br>
+Creemos que IoBuild facilitará a las constructoras cumplir con regulaciones y certificaciones de sostenibilidad. Sabremos que hemos tenido éxito cuando el 30 % de los proyectos que usen IoBuild consigan una certificación verde.
+
+- **Retención a través de actualizaciones constantes** <br>
+Creemos que la entrega periódica de nuevas funcionalidades y mejoras aumentará la retención de usuarios. Sabremos que hemos tenido éxito cuando la tasa de usuarios activos mensuales supere el 70% después de seis meses de uso.
+
+- **Valor para administradores de edificios** <br>
+Creemos que los administradores de edificios verán IoBuild como una herramienta útil para gestionar múltiples departamentos o inquilinos desde un solo panel. Sabremos que hemos tenido éxito cuando el 60% de los administradores gestionen más de tres espacios distintos desde la plataforma.
+
 
 
 #### 1.2.2.4. Lean UX Canvas.
