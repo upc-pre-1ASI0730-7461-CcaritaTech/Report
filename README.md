@@ -36,7 +36,9 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 25/08/2025 |CcaritaTech |Se crea el documento |
-| 0.1 | 27/08/2025 |Axel Ordoñez Ricaldi|Primer avance del capitulo 1|  
+| 0.1 | 27/08/2025 |Axel Ordoñez Ricaldi|Se han agregado las imágenes y se ha redactado la descripción de cada participante, así como la descripción general de la startup en el perfil.|  
+| 0.2 | 29/08/2025 |Axel Ordoñez Ricaldi|Primer avance del Capítulo 1, el cual incluye el desarrollo inicial de los antecedentes y la problemática, y se sube el Lean UX Problem Statement, y la elaboración del Problem Statement, el registro de Assumptions y la formulación de los Hypothesis Statements|
+
 
 </center>
 
@@ -155,12 +157,12 @@
 [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
 [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
 
-[5.3. Validation Interviews](#53-validation-interviews)  
+<!-- [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
 [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
 [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
 
-[5.4. Video About-the-Product](#54-video-about-the-product)  
+[5.4. Video About-the-Product](#54-video-about-the-product)   -->
 
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
@@ -200,7 +202,7 @@ Más que facilitar la automatización, en IoBuild buscamos que cada espacio cobr
 |Ccarita Cruz, Brayan Roberto  ![Imagen del compañero](https://raw.githubusercontent.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/refs/heads/develop/Assets/img/chapter-1/Roberto-photo.jpg)|U20221C218|Ingeniería de Software|Astro.js, Svelte, Golang, Design Sprint. Perseverante y puntual|
 |Panta Castro, Fabrizio Martin  ![Imagen del compañero](https://raw.githubusercontent.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/refs/heads/develop/Assets/img/chapter-1/Fabrizio%20Martin%20Panta%20Castro.jpg)|U20231A810|Ingeniería de Software|SQL, Python, Flutter, Vue, C++. Compañerismo y responsable con las entregas.|
 | Jean Niels Arizabal Condori <br> <img src="https://scontent.flim10-1.fna.fbcdn.net/v/t1.15752-9/540479972_1050696563580412_838079188219062104_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ixjyXEQJPRAQ7kNvwH37lIY&_nc_oc=Adk4vrzpsHxT_phyHG5aodfx5e3oUDw9Bk4R29J2zyfFHdIRE8-BwZI6sVNCX0Ll1AY&_nc_ad=z-m&_nc_cid=1144&_nc_zt=23&_nc_ht=scontent.flim10-1.fna&oh=03_Q7cD3AGd50fBjpfq48BcMdBwOAw2d_5CheOMz95Nl2YCXTtuSQ&oe=68D6FDC7" width="400"/> | U201919096 | Ingeniería de software | C++, SQL, Assembler, C#, Figma.<br>Hábil en programación, respeto y lealtad. |
-|Yeira Shari Huaman Olivos![Imagen del compañero]()|U202210513|Ingenieria de software||
+|Yeira Shari Huaman Olivos <br> <img src="https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/541191809_808114765232953_3983989556177332870_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=1vgnxq_pR38Q7kNvwGjPNe2&_nc_oc=AdmdxsAotY8vSZFDu6aBKm0lfbp7b4vSUMvzUaPUt94yUdViSv_vePQJUWudZMIe9aA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3AEE7_wJJ0Lg6_gfvdyHkD894PM6hQlNkwtMmpwdXlr82Q&oe=68D8BAFC" width="400"/> |U202210513|Ingenieria de software|C++, Python, CSS, HTML, Figma, SQL. Hábil en desarrollo frontend.|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
