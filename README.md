@@ -193,7 +193,7 @@
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Texto
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+![Lean UX Canvas](https://i.imgur.com/mSqQstx.png)
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2  |
 | - | - |-|
