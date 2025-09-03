@@ -226,12 +226,12 @@ Texto
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+| | **IoTBuild** | **Competidor 1 (Domotec Perú)** | **Competidor 2 (Orvibo Perú)** | **Competidor 3 (MWF Solutions)** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fortalezas** | Modelo de negocio por suscripción (ingresos recurrentes); alianza directa con constructoras; servicio integral que incluye instalación, soporte de cableado y plataforma centralizada; doble interfaz para administradores y residentes. | Especialistas en experiencia de cliente smart y conectividad centralizada; trabajan múltiples verticales (hogares, hoteles, edificios); alto nivel de integración. | Propuesta innovadora con soluciones “llave en mano” para hogares inteligentes; fácil integración y foco en simplificar la tecnología al usuario doméstico. | Experiencia multisectorial, enfoque integral en proyectos; soluciones personalizadas para empresas; alta capacidad técnica y enfoque en eficiencia y cumplimiento normativo. |
+| **Debilidades** | Alta dependencia del sector construcción e inmobiliario; ciclo de ventas potencialmente largo con las constructoras; requiere una inversión inicial fuerte en tecnología y personal técnico especializado. | Foco muy avanzado puede limitar llegada a usuarios menos familiarizados; reto en escalar por requerir asesoría y soporte muy personalizado. | Menor penetración en segmento corporativo; posible dependencia de productos de marcas externas/globales para domótica; segmentación principalmente residencial. | Dependencia de proyectos grandes (segmento corporativo/industrial); requiere relaciones comerciales de largo plazo; adaptación tecnológica constante frente a nuevas tendencias globales. |
+| **Oportunidades** | Auge de los "edificios inteligentes" como estándar en nuevos proyectos inmobiliarios; potencial para ofrecer servicios de valor añadido (mantenimiento predictivo, analítica de datos); expansión a otros mercados verticales. | Hoteles y edificios buscan modernización; auge de viviendas premium smart; oportunidad de crear plataformas propias de gestión y control; potencial expansión internacional. | Tendencia de adopción masiva de IoT y hogares inteligentes en Latinoamérica; posibilidad de alianzas con desarrolladoras inmobiliarias; ampliación de servicios postventa y soporte. | Crecimiento del mercado en automatización industrial y sostenibilidad; expansión a nuevas verticales (hospitales, data centers, infraestructuras especiales); alianzas con marcas globales. |
+| **Amenazas** | Posible resistencia de las constructoras a adoptar un modelo de suscripción; ciberseguridad como riesgo crítico al centralizar el control del edificio; rápida evolución de estándares y protocolos IoT que exigen actualización constante. | Vulnerabilidad a cambios en protocolos de asistentes de voz o plataformas smart grandes; volatilidad del mercado inmobiliario; ciberseguridad como preocupación creciente. | Entradas de nuevas startups globales con soluciones más económicas o DIY; cambio rápido de estándares (protocolos, compatibilidad); piratería tecnológica. | Competencia de multinacionales o integradores globales; cambios regulatorios en el sector técnico; riesgo tecnológico por obsolescencia rápida de equipos o sistemas. |
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
