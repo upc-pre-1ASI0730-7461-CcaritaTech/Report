@@ -346,11 +346,16 @@ En esta sección se define la información a recolectar de los segmentos objetiv
 ## 2.3. Needfinding.
 El Needfinding, como proceso de investigación, se enfocó en descubrir las necesidades y frustraciones subyacentes de dos segmentos de usuario clave: arquitectos e ingenieros civiles, representados por Miguel Veramendi; y dueños de apartamentos, representados por Carla Flores. A través de entrevistas cualitativas, se identificaron patrones comunes y específicos que revelaron la necesidad de herramientas tecnológicas para optimizar la colaboración y la gestión de proyectos en el sector de la construcción, así como la demanda de control intuitivo y centralizado en el hogar, priorizando la seguridad y la funcionalidad para el usuario final. Este entendimiento profundo de los deseos y expectativas de los usuarios fue fundamental para sentar las bases de una solución que responda genuinamente a sus requerimientos.
 ### 2.3.1. User Personas.
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+En esta sección se elaboraron perfiles representativos, denominados "User Personas", que compilan los rasgos esenciales de los usuarios a partir del estudio cualitativo de entrevistas. Este recurso permite transformar los datos de los individuos en arquetipos comprensibles que guían la estrategia de diseño, facilitando decisiones clave sobre funcionalidades y experiencia de usuario. Se crearon dos perfiles principales para el proyecto: uno correspondiente a arquitectos e ingenieros civiles, y otro vinculado a los dueños de apartamentos.
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+"Anexo Diagrama User Persona"
+https://drive.google.com/drive/folders/10sNho9YWDeJW3Xw0ahay69Ibh4TIfLv2?usp=sharing
+
+**Segmento 1: Arquitectos e Ingenieros Civiles**  
+![Imagen User Persona 1](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/543049925_767460223119946_5565182801349545414_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MnnETtWddk4Q7kNvwH0gZ17&_nc_oc=AdnSawnNK7VC21sKjrzcemjoHB3x7ZATCIYjQMFtoQQ3XBmnUyoYX5MVsQQ7fIw0kO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3QHe-PA1EEsWLpO8dhO6ZljJnaiSh50KN4dj0-YydTW_oA&oe=68E3F47E)
+
+**Segmento 2: Dueños de apartamentos**
+![Imagen User Persona 1](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/541959561_836779395677619_8376169761436085401_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=sw51uEqI7aIQ7kNvwGZtgU9&_nc_oc=AdnMdJfzSbh9AXpiHG81-jrlyMro84H7Broabq5W1pxO78oluhM6KcWF2oJkuSXdeQ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QG3R3QNV76sHErzF_Nne7bGAheP_l4s_KaxfZn3VNKKOw&oe=68E3F375)
 
 ### 2.3.2. User Task Matrix.
 | --- | ------ | Segmento 1  |  ------/----- | Segmento 2  | ---------- |
