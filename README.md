@@ -358,10 +358,10 @@ https://drive.google.com/drive/folders/10sNho9YWDeJW3Xw0ahay69Ibh4TIfLv2?usp=sha
 ![Imagen User Persona 1](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/541959561_836779395677619_8376169761436085401_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=sw51uEqI7aIQ7kNvwGZtgU9&_nc_oc=AdnMdJfzSbh9AXpiHG81-jrlyMro84H7Broabq5W1pxO78oluhM6KcWF2oJkuSXdeQ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QG3R3QNV76sHErzF_Nne7bGAheP_l4s_KaxfZn3VNKKOw&oe=68E3F375)
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  |  ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- |---------------| ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia    | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta          | Media       | Baja       |
+
+A continuación se presenta el User Task Matrix, elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos clave para el proyecto. Este artefacto permite visualizar las actividades principales que realiza cada tipo de usuario, así como entender la frecuencia con la que las llevan a cabo y el valor que les otorgan. La información obtenida en este análisis resulta fundamental para priorizar las funcionalidades en el desarrollo de la solución digital, garantizando que el diseño responda a las necesidades genuinas de quienes la utilizarán.
+
+![Imagen User Task Matrix](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/542466144_1338210284678607_2159738236897006469_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=GewyH_MT01YQ7kNvwEKF3gB&_nc_oc=AdlpmQHHshOHNc7GpHPvH7jkFtFN2MU9wwnVkw4k9hta2EAormFGAnC7l2cOP4a4yoM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QEdPhHsxcMgwroCoJsW4K2uCi1ymyGjOZ-lMSa8kcinzQ&oe=68E49591)
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
