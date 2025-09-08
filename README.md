@@ -362,24 +362,35 @@ https://drive.google.com/drive/folders/10sNho9YWDeJW3Xw0ahay69Ibh4TIfLv2?usp=sha
 A continuación se presenta el User Task Matrix, elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos clave para el proyecto. Este artefacto permite visualizar las actividades principales que realiza cada tipo de usuario, así como entender la frecuencia con la que las llevan a cabo y el valor que les otorgan. La información obtenida en este análisis resulta fundamental para priorizar las funcionalidades en el desarrollo de la solución digital, garantizando que el diseño responda a las necesidades genuinas de quienes la utilizarán.
 
 ![Imagen User Task Matrix](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/542466144_1338210284678607_2159738236897006469_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=GewyH_MT01YQ7kNvwEKF3gB&_nc_oc=AdlpmQHHshOHNc7GpHPvH7jkFtFN2MU9wwnVkw4k9hta2EAormFGAnC7l2cOP4a4yoM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QEdPhHsxcMgwroCoJsW4K2uCi1ymyGjOZ-lMSa8kcinzQ&oe=68E49591)
+
+
 ### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
+
+Con el propósito de obtener una comprensión integral de las necesidades, comportamientos, emociones y principales dificultades de nuestros segmentos de usuario, elaboramos un User Journey Map empleando la herramienta especializada UXPressia. Este ejercicio facilitó la representación clara y empática del recorrido que cada perfil de usuario experimenta, desde la detección de una necesidad inicial hasta la interacción final con el producto o servicio, permitiéndonos identificar oportunidades de mejora y optimización en su experiencia.
+
+La actividad se centró en dos segmentos clave:
+
+1. **Miguel Veramendi:** Un arquitecto que busca garantizar la viabilidad técnica de los proyectos mediante la integración de tecnologías para lograr diseños más innovadores.
+
+2. **Carla Flores:** Una abogada que busca soluciones que le permitan automatizar sus rutinas y tener un control sencillo y centralizado sobre sus dispositivos.
+
+Para ambos perfiles se diseñó un mapa que incluye:
+
+- Las fases del proceso.
+- Los objetivos del usuario en cada etapa.
+- El detalle de acciones realizadas, canales utilizados y emociones experimentadas.
+- Los problemas identificados y las oportunidades de mejora a lo largo del recorrido.
+
+Mediante el uso de UXPressia se obtuvo una representación visual clara y dinámica que favorece la toma de decisiones con un enfoque centrado en el usuario. Este proceso no solo profundiza en la comprensión de sus motivaciones y retos, sino que también orienta el diseño de soluciones más pertinentes, empáticas y funcionales para cada perfil identificado.
+
+**Enlace para ver los user persona:** <https://shorturl.at/ZHiAt>
+
+**Segmento Objetivo #1:** Arquitectos e Ingenieros Civiles
+![Imagen User Journey Mapping 1](https://drive.google.com/file/d/14jaqu0Y3Tc5O61uORtTF9rkvz39MVgS7/view)
+
+**Segmento Objetivo #2:** Dueños de apartamentos
+![Imagen User Journey Mapping 2](https://drive.google.com/file/d/1oMOtJmsNoSI1dxs-YwA9wKCPQcDVzoU8/view)
+
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
