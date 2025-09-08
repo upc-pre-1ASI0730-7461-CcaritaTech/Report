@@ -386,10 +386,10 @@ Mediante el uso de UXPressia se obtuvo una representación visual clara y dinám
 **Enlace para ver los user persona:** <https://shorturl.at/ZHiAt>
 
 **Segmento Objetivo #1:** Arquitectos e Ingenieros Civiles
-![Imagen User Journey Mapping 1](https://drive.google.com/file/d/14jaqu0Y3Tc5O61uORtTF9rkvz39MVgS7/view)
+![Imagen User Journey Mapping 1](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/541545013_1305465207882686_6644155826942647641_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xJE62fahRooQ7kNvwHJaXlU&_nc_oc=Adl_Alr5lRqEe70TlRkPbENhADh-62M-S40KX-XDMVrucLfMHvfrpiN-mVB-CyOac3AyIow3Hv7wehzghCMx89BQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QEWJW92FyBW7xOIeHixOr5yUg_1Dl8_KLg9NbYwMVDf1Q&oe=68E6C1B2)
 
 **Segmento Objetivo #2:** Dueños de apartamentos
-![Imagen User Journey Mapping 2](https://drive.google.com/file/d/1oMOtJmsNoSI1dxs-YwA9wKCPQcDVzoU8/view)
+![Imagen User Journey Mapping 2](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/542596434_1460996725051849_9160561945323462537_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=v_aMqVe5RJoQ7kNvwHgy4Q1&_nc_oc=AdkOWnDJg9YaoByp2ZfHUYr9EJvPAyAxRrBkGInx3WNNG0SD2XMFkPXpFNhGASdY6nsi4LJK5hoTEfvZ26HSAUPB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QE4Rpu43v1wmVzrF6ierlTugZsV0YFnD7YMOj7Sxc37xQ&oe=68E6E76A)
 
 
 ### 2.3.4. Empathy Mapping.
