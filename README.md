@@ -383,7 +383,7 @@ Para ambos perfiles se diseñó un mapa que incluye:
 
 Mediante el uso de UXPressia se obtuvo una representación visual clara y dinámica que favorece la toma de decisiones con un enfoque centrado en el usuario. Este proceso no solo profundiza en la comprensión de sus motivaciones y retos, sino que también orienta el diseño de soluciones más pertinentes, empáticas y funcionales para cada perfil identificado.
 
-**Enlace para ver los user persona:** <https://shorturl.at/ZHiAt>
+**Enlace para ver los User Journey Map:** <https://shorturl.at/NSujl>
 
 ---
 **Segmento Objetivo #1:** Arquitectos e Ingenieros Civiles <br>
