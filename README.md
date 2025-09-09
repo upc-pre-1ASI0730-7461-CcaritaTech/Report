@@ -394,11 +394,39 @@ Mediante el uso de UXPressia se obtuvo una representación visual clara y dinám
 
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+Como parte del enfoque de diseño centrado en el usuario, se desarrollaron mapas de empatía (Empathy Maps) para los dos segmentos principales identificados: Huéspedes Potenciales y Personal Administrativo del Hotel. Esta técnica, introducida por Dave Gray, permite plasmar de manera visual lo que los usuarios piensan, sienten, expresan y hacen en relación con el producto o servicio, facilitando una comprensión más profunda de su experiencia tanto emocional como cognitiva.
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+Objetivo del Empathy Mapping
+El mapa de empatía tiene como finalidad ampliar la visión sobre el usuario más allá de sus conductas observables, explorando sus motivaciones, temores, frustraciones y aspiraciones implícitas. Se trata de una herramienta clave para identificar oportunidades de mejora desde un enfoque cualitativo, complementando los hallazgos obtenidos a través de entrevistas, observaciones y análisis de comportamientos.
+
+**Enlace para ver los Empathy Map:** <https://shorturl.at/Hnsyi>
+
+---
+**Segmento Objetivo #1:** <br>
+![Imagen Empathy Mapping 1](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/541612686_1298572201099554_1826303212629683005_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=leHPr5aBhckQ7kNvwEa8ECc&_nc_oc=AdnlvY3OOrq0RKtYOJNq4cKsv14-tfAoRGWUZrOdIyzHiGz47JpLxP6Qz1cksrHz1BVBSLXI9loWlVeQSkRBt4n-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHYxWGDE5y1koLE012Yj0dN5mEiRgLYxST7aYdMiCkzRw&oe=68E6F83E)
+
+**Desglose del Empathy Map**
+- **Piensa:** “Quiero que mis proyectos sean innovadores, pero muchas tecnologías son demasiado costosas.”
+
+- **Siente:** “Me frustra que las regulaciones retrasen la implementación de soluciones sostenibles.”
+
+- **Dice:** “Quiero ofrecer espacios innovadores, sostenibles y seguros.”
+
+- **Hace:** Investiga constantemente nuevas tecnologías y tendencias del mercado.
+
+**Segmento Objetivo #2:** <br>
+![Imagen Empathy Mapping 2](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/541454160_1494429248573042_2464090199560015452_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=uGlv7gbxV1cQ7kNvwF8LS3A&_nc_oc=AdlQ2UYM7_vsn1dDfDGcorpm3grAYtns0LHH-Ns36Fu3wt_Q7E51St0J7Jn7hV-Ea_kF4riQZI8S-9FHD0rvD84b&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGo2akWGaDgabUabaF5bwOSFADS8uy3MWm-dQlQ04k2aw&oe=68E6D3C8)
+
+**Desglose del Empathy Map**
+- **Piensa:** “Si esta solución es confiable, podría integrarla sin problema en mi rutina diaria.”
+
+- **Siente:** “Me frustra cuando una aplicación promete mucho y no cumple con lo que necesito.”
+
+- **Dice:** “Necesito algo fácil de usar, que no me complique más de lo que ya estoy.”
+
+- **Hace:** Prueba aplicaciones o servicios digitales para evaluar su utilidad.
+
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
