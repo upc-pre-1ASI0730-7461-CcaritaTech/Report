@@ -364,7 +364,42 @@ Segmento 2:
 
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+El Impact Mapping es una metodología visual que permite conectar los objetivos estratégicos del negocio con las acciones concretas de los usuarios y las funcionalidades del producto digital. Mediante un esquema jerárquico en forma de árbol, esta técnica muestra cómo las metas comerciales se traducen en cambios de comportamiento esperados en los actores clave y en entregables que hacen posible dichos cambios.
+
+En el caso del presente proyecto, se utilizó esta herramienta para estructurar de manera clara la relación entre las metas SMART del modelo digital, los User Personas previamente definidos y las funcionalidades necesarias. El trabajo incluyó:
+
+* Business Goals SMART, que plantean metas específicas, medibles y con plazos definidos, orientadas tanto a la adquisición de usuarios como a la retención a largo plazo.
+
+* Actores principales, representados por Miguel Veramendi y Carla Flores, definidos a partir de sus motivaciones y del rol que cumplen en el uso de la solución.
+
+* Impactos esperados, expresados como conductas observables que cada actor debe realizar para contribuir al cumplimiento de los objetivos (ejemplo: incorporar la solución en propuestas de diseño o personalizar escenas en el hogar).
+
+* Deliverables funcionales, que son las características o elementos del producto pensados para provocar esos impactos (como plantillas de propuesta, dashboards de métricas o notificaciones guiadas).
+
+El mapa fue diseñado siguiendo un enfoque de diseño centrado en el usuario, utilizando prácticas visuales colaborativas que facilitan la alineación entre las metas de negocio y el desarrollo técnico de la solución.
+
+"Anexo: Impact Mapping"
+
+https://drive.google.com/file/d/1fFT-OfL06jICOptImqpWyogQl_eAtWj3/view?usp=sharing
+
+**Business Goal 1: Alcanzar 600 suscripciones activas al plan inicial en un periodo de 8 meses.**
+
+Este objetivo representa el primer paso estratégico para la consolidación del modelo de negocio digital. Se centra en la adquisición de usuarios iniciales, quienes validarán la propuesta de valor y permitirán generar un flujo de ingresos estable en la etapa temprana. La meta de 600 suscripciones en 8 meses no solo es medible y alcanzable según el análisis de mercado, sino que también responde a la necesidad de alcanzar un punto de equilibrio temprano, garantizando que la solución gane tracción rápidamente.
+
+Asimismo, este Business Goal está alineado con las actividades de los principales actores identificados (Miguel Veramendi y Carla Flores), quienes, a través de sus comportamientos clave (incorporar la solución en proyectos, usarla y recomendarla activamente), contribuyen al crecimiento de la comunidad de usuarios. En otras palabras, busca demostrar que el producto genera valor real desde el inicio, motivando tanto a profesionales como a usuarios finales a convertirse en promotores naturales de la plataforma.
+
+![Impact-Mapping-1](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/545975646_4288588531463470_2381738060230329154_n.png?stp=dst-png_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=x-iWzhV5BVwQ7kNvwE_RnG-&_nc_oc=AdmLwBNmeoAYZPQuoNam4bIKlKbsMCgz30-tUuRE_IfkM54XpBGPlRbDtxxqW9xfbAo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QHJNtiLsb7LmW9VkDwKBjdw3F2hirhmmp726vnjQKIe8A&oe=68E873BF)
+
+**Business Goal 2: Automatizar el 70 % de los procesos de personalización en un periodo de 6 meses y aumentar la retención de clientes recurrentes en un 25 % en 9 meses.**
+
+Este objetivo se enfoca en la optimización y sostenibilidad del negocio en el mediano plazo. Una vez conseguida la primera base de usuarios, el siguiente reto es reducir la fricción en el uso de la solución a través de automatizaciones que hagan la experiencia más sencilla, intuitiva y atractiva. Lograr que al menos el 70 % de los procesos de personalización se realicen automáticamente en 6 meses permitirá que los usuarios perciban mayor comodidad y ahorro de tiempo, lo que se traduce en satisfacción y confianza.
+
+De manera complementaria, la segunda parte de este objetivo busca incrementar la retención de clientes en un 25 % en 9 meses, consolidando relaciones duraderas y disminuyendo la tasa de abandono. Esta retención se apoya en la mejora continua de la experiencia, en el acompañamiento al usuario y en la generación de beneficios tangibles a lo largo del tiempo. En conclusión, no solo impulsa la eficiencia operativa, sino que también asegura la viabilidad del modelo a largo plazo, al fidelizar a los clientes y convertirlos en usuarios recurrentes.
+
+![Impact-Mapping-2](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/545536233_1068360505378677_4371305711560902641_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=HK652KGP-scQ7kNvwFEoafS&_nc_oc=Adlc-fbGBgmGkA46vPdSI7exdJu0Q-4QCiALGuLDQAykprvCbENnGqKm_6wtZws3DIg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QFJK6ASQgG9NndxCnOu8VRQUkUnPElxzraKnCi-IFqwKw&oe=68E88ADE)
+
+
+
 
 ## 3.4. Product Backlog.
 
