@@ -426,29 +426,9 @@ El mapa de empatía tiene como finalidad ampliar la visión sobre el usuario má
 
 - **Hace:** Prueba aplicaciones o servicios digitales para evaluar su utilidad.
 
+## 2.4. Big Picture EventStorming
 
-### 2.3.5. As-is Scenario Mapping.
-
-**Segmento 1**  
-Escenario: {escenario}
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
-
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
-## 2.4. Ubiquitous Language.
+## 2.5. Ubiquitous Language.
 
 
 | Ubiquitous Term | Definición del Dominio Funcional |
