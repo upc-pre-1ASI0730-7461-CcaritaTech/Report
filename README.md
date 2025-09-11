@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - 7461</strong><br>
+    <strong>Aplicaciones web - 7461</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
@@ -12,7 +12,7 @@
 <center>
 
 #### Startup: **CcaritaTech**
-#### Product: **--**
+#### Product: **IoBuild**
 
 </center>
 
@@ -21,14 +21,13 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-||  |
-|        |  |
-|       |  |
-|  |  |
-|              |  |
-|          |  |
+|Axel Randall Ordoñez Ricaldi|U202216827  |
+|Yeira Shari Huaman Olivos        |U202210513  |
+|Fabrizio Martin Panta Castro       |U20231A810  |
+|Brayan Roberto Ccarita Cruz|U20221C218|
+|Jean Niels Arizabal Condori|U201919096|
 
-<br> AGOSTO 2024
+<br> AGOSTO 2025
 </center>  
 
 # Registro de Versiones del Informe
@@ -36,12 +35,15 @@
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 25/08/2025 |CcaritaTech |Se crea el documento |  
+| 0.0 | 25/08/2025 |CcaritaTech |Se crea el documento |
+| 0.1 | 27/08/2025 |Axel Ordoñez Ricaldi|Se han agregado las imágenes y se ha redactado la descripción de cada participante, así como la descripción general de la startup en el perfil.|  
+| 0.2 | 29/08/2025 |Axel Ordoñez Ricaldi|Primer avance del Capítulo 1, el cual incluye el desarrollo inicial de los antecedentes y la problemática, y se sube el Lean UX Problem Statement, y la elaboración del Problem Statement, el registro de Assumptions y la formulación de los Hypothesis Statements|
+
 
 </center>
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/Report)
 
 (Imagenes de los commits cada entrega)
 
@@ -156,12 +158,12 @@
 [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
 [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
 
-[5.3. Validation Interviews](#53-validation-interviews)  
+<!-- [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
 [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
 [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
 
-[5.4. Video About-the-Product](#54-video-about-the-product)  
+[5.4. Video About-the-Product](#54-video-about-the-product)   -->
 
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
@@ -177,31 +179,219 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+IoBuild nace con un propósito claro: transformar los edificios y espacios inmobiliarios en entornos inteligentes, accesibles y altamente personalizables. Creemos que los espacios donde vivimos y trabajamos no deben ser estáticos, sino dinámicos, adaptándose a las necesidades de quienes los habitan y a la visión de quienes los construyen.
+
+Nuestra plataforma digital ofrece herramientas intuitivas que permiten a empresas constructoras, ingenieros y arquitectos integrar fácilmente funcionalidades inteligentes en sus proyectos, como el control de iluminación, la automatización de ventanas, la programación de riego en áreas verdes o la gestión de energía en tiempo real. Al mismo tiempo, los propietarios pueden personalizar la experiencia de su hogar o edificio con ajustes simples y sin necesidad de conocimientos técnicos avanzados.
+
+IoBuild se dirige a dos segmentos clave:
+
+Empresas constructoras, arquitectos e ingenieros, que buscan diferenciar sus proyectos con propuestas de valor innovadoras y adaptadas a las nuevas tendencias de espacios inteligentes.
+
+Propietarios e inquilinos, que desean disfrutar de mayor confort, eficiencia y personalización en sus viviendas o espacios de trabajo.
+
+Nuestra propuesta de valor combina simplicidad, innovación y personalización. Queremos que la gestión de un espacio inteligente sea tan fácil como usar una aplicación móvil, eliminando barreras técnicas y potenciando tanto la habitabilidad como la eficiencia.
+
+**Misión:** Democratizar el acceso a la tecnología para edificios inteligentes, brindando a constructoras y propietarios herramientas accesibles y prácticas que mejoren la experiencia de los espacios y optimicen su funcionamiento.
+
+**Visión:** Construir una comunidad en la que cada espacio cuente con identidad propia, promoviendo ciudades más inteligentes, sostenibles y centradas en las personas.
+
+Más que facilitar la automatización, en IoBuild buscamos que cada espacio cobre vida y refleje el estilo de quienes lo habitan. Queremos ser el puente entre la innovación tecnológica y el confort humano, impulsando una nueva era en el sector inmobiliario.
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Axel Randall Ordoñez Ricaldi 	![Imagen del compañero](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/blob/develop/Assets/img/chapter-1/Axel-photo.jpg?raw=true)|U202216827|Ingenieria de software|C++, React, Vue, Angular, C#, SQL, MongoDB, Python. Paciencia y buen trabajo en equipo|
+|Ccarita Cruz, Brayan Roberto  ![Imagen del compañero](https://raw.githubusercontent.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/refs/heads/develop/Assets/img/chapter-1/Roberto-photo.jpg)|U20221C218|Ingeniería de Software|Astro.js, Svelte, Golang, Design Sprint. Perseverante y puntual|
+|Panta Castro, Fabrizio Martin  ![Imagen del compañero](https://raw.githubusercontent.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/refs/heads/develop/Assets/img/chapter-1/Fabrizio%20Martin%20Panta%20Castro.jpg)|U20231A810|Ingeniería de Software|SQL, Python, Flutter, Vue, C++. Compañerismo y responsable con las entregas.|
+| Jean Niels Arizabal Condori <br> <img src="https://scontent.flim10-1.fna.fbcdn.net/v/t1.15752-9/540479972_1050696563580412_838079188219062104_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ixjyXEQJPRAQ7kNvwH37lIY&_nc_oc=Adk4vrzpsHxT_phyHG5aodfx5e3oUDw9Bk4R29J2zyfFHdIRE8-BwZI6sVNCX0Ll1AY&_nc_ad=z-m&_nc_cid=1144&_nc_zt=23&_nc_ht=scontent.flim10-1.fna&oh=03_Q7cD3AGd50fBjpfq48BcMdBwOAw2d_5CheOMz95Nl2YCXTtuSQ&oe=68D6FDC7" width="400"/> | U201919096 | Ingeniería de software | C++, SQL, Assembler, C#, Figma.<br>Hábil en programación, respeto y lealtad. |
+|Yeira Shari Huaman Olivos <br> <img src="https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/541191809_808114765232953_3983989556177332870_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=1vgnxq_pR38Q7kNvwGjPNe2&_nc_oc=AdmdxsAotY8vSZFDu6aBKm0lfbp7b4vSUMvzUaPUt94yUdViSv_vePQJUWudZMIe9aA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3AEE7_wJJ0Lg6_gfvdyHkD894PM6hQlNkwtMmpwdXlr82Q&oe=68D8BAFC" width="400"/> |U202210513|Ingenieria de software|C++, Python, CSS, HTML, Figma, SQL. Hábil en desarrollo frontend.|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+En los últimos años, el sector inmobiliario y de la construcción ha experimentado una transformación impulsada por la creciente demanda de espacios inteligentes, sostenibles y personalizables. Las tendencias globales en domótica, IoT (Internet of Things) y eficiencia energética han comenzado a redefinir la forma en que las personas interactúan con sus viviendas y lugares de trabajo. Sin embargo, en gran parte de Latinoamérica y específicamente en el Perú, la adopción de estas tecnologías sigue siendo limitada debido a altos costos de implementación, falta de estandarización y ausencia de soluciones accesibles para el usuario final.
+
+Actualmente, la mayoría de proyectos inmobiliarios no incorpora de manera nativa funcionalidades inteligentes como control automatizado de iluminación, climatización, seguridad o gestión energética en tiempo real. Cuando estas soluciones se incluyen, suelen estar restringidas a segmentos de alto poder adquisitivo, generando una brecha de accesibilidad entre quienes pueden disfrutar de la tecnología y quienes no.
+
+Por otro lado, los propietarios e inquilinos enfrentan problemas al intentar personalizar sus espacios: las opciones suelen ser costosas, requieren conocimientos técnicos avanzados o dependen de la contratación de múltiples proveedores sin integración entre sistemas. Esto genera experiencias fragmentadas y reduce el valor percibido de la inversión.
+
+En el caso de las constructoras, arquitectos e ingenieros, la problemática se centra en la necesidad de diferenciar sus proyectos en un mercado altamente competitivo. Si bien existe interés en ofrecer soluciones innovadoras, los equipos de construcción se enfrentan a falta de plataformas unificadas que simplifiquen la integración de tecnología inteligente en sus edificaciones, lo que dificulta la planificación y eleva los costos de implementación.
+
+La problemática puede resumirse en los siguientes puntos:
+- **Accesibilidad limitada:** la mayoría de soluciones de automatización están dirigidas a mercados premium, dejando de lado a gran parte de la población.
+
+- **Falta de estandarización:** los sistemas actuales suelen ser propietarios y poco compatibles, lo que genera barreras técnicas.
+
+- **Costos elevados:** implementar tecnologías inteligentes requiere inversiones iniciales altas, lo que desalienta a constructoras y propietarios.
+
+- **Complejidad técnica:** los usuarios finales carecen de herramientas intuitivas para personalizar y gestionar sus espacios de manera autónoma.
+
+- **Baja diferenciación en proyectos inmobiliarios:** las constructoras tienen dificultades para ofrecer un valor agregado innovador frente a la competencia.
+
+En este contexto, IoBuild surge como respuesta a la necesidad de democratizar el acceso a los espacios inteligentes, ofreciendo una plataforma que facilita la integración tecnológica desde la etapa de construcción hasta la personalización por parte del usuario final.<br><br>
+
+**1. What (¿Qué?)**
+
+La mayoría de proyectos inmobiliarios no incorporan de manera integral soluciones inteligentes desde su diseño, lo que provoca que los espacios continúen siendo rígidos y poco adaptables a las necesidades de los usuarios. Las opciones que existen en el mercado suelen estar enfocadas en segmentos de alto costo, como consecuencia, los usuarios finales terminan recurriendo a dispositivos aislados, como focos inteligentes o asistentes de voz, que no siempre son compatibles entre sí.
+
+**2. Why (¿Por qué?)**
+
+Porque las tecnologías de domótica e IoT han sido diseñadas de forma fragmentada, con estándares poco unificados que dificultan la integración entre sistemas. Además, el costo de implementación es elevado, ya que no solo implica la adquisición de hardware, sino también licencias y soporte especializado. A ello se suma la complejidad tecnológica, pues la configuración y mantenimiento de estos sistemas requieren conocimientos avanzados que no todos los usuarios poseen.
+
+**3. Who (¿Quién?)**
+
+Impacta principalmente en empresas constructoras, arquitectos e ingenieros que buscan diferenciar sus proyectos, pero no encuentran soluciones accesibles que les permitan añadir valor con espacios inteligentes. También, afecta a los propietarios e inquilinos, quienes experimentan frustración al no poder personalizar fácilmente sus viviendas u oficinas y ven reducido su nivel de confort.
+
+**4. Where (¿Dónde?)**
+
+Se manifiesta tanto en proyectos de construcción urbana como en remodelaciones de viviendas y oficinas. En el primer caso, los edificios se levantan bajo modelos tradicionales, con muy poca o nula integración de sistemas inteligentes, lo que limita el atractivo de las propuestas inmobiliarias. En el segundo, los propietarios interesados en modernizar sus espacios encuentran barreras técnicas y económicas que dificultan la incorporación de funcionalidades de automatización.
+
+**5. When (¿Cuándo?)**
+
+Se presenta en la actualidad, en un momento en que la digitalización y la sostenibilidad se han convertido en factores clave de competitividad. La demanda de espacios inteligentes es cada vez más alta, especialmente entre nuevas generaciones que valoran la tecnología como parte de su estilo de vida.
+
+**6. How (¿Cómo?)**
+
+Se refleja en la dificultad de las constructoras y arquitectos para ofrecer proyectos innovadores sin depender de sistemas costosos y difíciles de implementar. Para los propietarios e inquilinos, se traduce en experiencias limitadas, ya que deben conformarse con dispositivos sueltos que no logran integrarse en un ecosistema coherente.
+
+**7. How much (¿Cuánto?)**
+
+El costo de implementar tecnologías inteligentes en espacios inmobiliarios tradicionales suele ser elevado, no solo por el precio de los dispositivos, sino también por la necesidad de contratar integradores especializados y adquirir licencias propietarias. Para una empresa constructora, la integración de soluciones de automatización puede representar entre un 10 % y un 20 % adicional sobre el presupuesto inicial de un proyecto, lo que limita su adopción en desarrollos de bajo o mediano costo. Para un propietario, la inversión inicial en sistemas fragmentados puede superar varios miles de dólares, sin garantizar una experiencia unificada ni la posibilidad de escalar a nuevas funcionalidades.
+
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+IoBuild es una plataforma digital que permite a empresas constructoras, arquitectos, ingenieros y propietarios transformar edificios y espacios en entornos inteligentes, accesibles y personalizables, fomentando la innovación en el sector inmobiliario y mejorando la experiencia de habitar y gestionar espacios.
+
+**Contexto:** IoBuild es una plataforma que busca transformar edificios y espacios inmobiliarios en entornos inteligentes, accesibles y altamente personalizables. Nuestro servicio permite a empresas constructoras, arquitectos e ingenieros integrar fácilmente funcionalidades inteligentes en sus proyectos, al mismo tiempo que ofrece a propietarios e inquilinos la posibilidad de gestionar y personalizar su experiencia dentro de los espacios que habitan, sin necesidad de conocimientos técnicos avanzados.
+
+**Observación del problema:** Sin embargo, hemos identificado que muchas empresas constructoras aún enfrentan barreras para implementar soluciones de automatización y gestión inteligente debido a la complejidad tecnológica, los altos costos y la falta de integración de sistemas. Por otro lado, los propietarios suelen experimentar frustración al no encontrar una forma sencilla y centralizada para controlar sus espacios, lo que limita la adopción de estas tecnologías. Estas observaciones provienen de entrevistas con profesionales de la construcción, arquitectos y usuarios finales, quienes señalan dificultades para incorporar soluciones accesibles y confiables que se adapten a las necesidades reales de sus proyectos y hogares.
+
+**Impacto:** Esta situación genera una baja adopción de tecnologías inteligentes en nuevos proyectos inmobiliarios, lo que limita la capacidad de las constructoras para diferenciarse en el mercado y reduce el valor agregado que los propietarios perciben en sus viviendas o espacios de trabajo. Además, la falta de accesibilidad tecnológica contribuye a una brecha entre la innovación disponible y la experiencia práctica de los usuarios, afectando tanto la competitividad del sector como la satisfacción de los clientes finales.
+
+**Necesidad insatisfecha:** Actualmente, las empresas constructoras, arquitectos e ingenieros necesitan soluciones integradas y fáciles de implementar para modernizar sus proyectos con tecnologías inteligentes. Al mismo tiempo, los propietarios requieren herramientas intuitivas y accesibles que les permitan personalizar y gestionar sus espacios de manera práctica, confiable y sin barreras técnicas.
+
+**Pregunta de mejora:** ¿Cómo podríamos simplificar la integración y gestión de tecnologías inteligentes en proyectos inmobiliarios para que tanto constructoras como propietarios adopten estas soluciones con mayor facilidad, incrementando así el valor, la eficiencia y la satisfacción en los espacios construidos?
+
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
+
+En la fase inicial de desarrollo de la plataforma IoBuild, hemos identificado y articulado una serie de supuestos fundamentales siguiendo los principios de la metodología Lean UX. Estos supuestos son nuestras hipótesis iniciales sobre quiénes son nuestros usuarios, qué beneficios esperan, cómo operará el negocio, el impacto que anticipamos generar y las características clave que necesitamos para lograrlo. Formalizar estas creencias nos permite enfocar el desarrollo del producto en la validación temprana, la minimización de riesgos y la toma de decisiones estratégicas basada en datos.
+
+Los supuestos se han clasificado en cinco categorías principales para una estructuración clara:
+
+- **User Assumptions**: Nuestras creencias sobre las necesidades, comportamientos y motivaciones de las empresas constructoras, arquitectos y propietarios.
+- **User Outcome Assumptions**: Los resultados positivos y las ganancias de eficiencia que esperamos que nuestros usuarios experimenten al interactuar con IoBuild.
+- **Business Assumptions**: Hipótesis sobre la viabilidad de nuestro modelo de negocio y el contexto del mercado inmobiliario.
+- **Business Outcome Assumptions**: Los impactos mensurables que esperamos que la plataforma genere en la empresa, como crecimiento de ingresos y reducción de costos.
+- **Feature Assumptions**: Nuestras creencias sobre cómo funcionalidades específicas resolverán los problemas de los usuarios y validarán los supuestos de negocio.
+
+Estos supuestos formarán la estructura de nuestra estrategia de diseño y proporcionarán un marco para la validación continua.
+
+- **User Assumptions** 
+   - **Creemos que el 65 % de las empresas constructoras y arquitectos buscan soluciones de automatización de edificios que no requieran una integración compleja y costosa**, ya que las barreras tecnológicas y económicas actuales limitan la adopción de la domótica en sus proyectos.
+
+   - **Creemos que el 90 % de los propietarios y arrendatarios valoran una interfaz de control unificada para sus hogares inteligentes**, porque la fragmentación de aplicaciones y dispositivos genera una experiencia frustrante e ineficiente.
+
+   - **Creemos que el 80 % de los propietarios desea personalizar su entorno doméstico (iluminación, temperatura, seguridad) sin necesidad de conocimientos técnicos**, debido a que la personalización es un factor clave en la satisfacción residencial moderna.
+
+   - **Creemos que el 75 % de los ingenieros y técnicos de la construcción desean herramientas que les permitan configurar y desplegar sistemas inteligentes de forma remota y sin interrupciones**, porque la gestión de proyectos a gran escala demanda flexibilidad y control en tiempo real.
+
+   - **Creemos que el 55 % de los promotores inmobiliarios priorizarán la integración de tecnologías inteligentes si estas les permiten ofrecer un valor distintivo en el mercado**, ya que la innovación tecnológica se está convirtiendo en un factor decisivo de compra y arrendamiento.
+<br>
+
+- **User Outcome Assumptions**
+   - **Creemos que si las constructoras pueden integrar nuestra solución con un proceso simplificado y modular, entonces reducirán el tiempo de implementación de tecnologías inteligentes en al menos un 40 %**, lo que les permitirá finalizar proyectos más rápido y de manera más competitiva.
+
+    - **Creemos que si los propietarios tienen una herramienta accesible para controlar sus espacios, entonces su calificación de satisfacción con la experiencia de habitar será un 25 % superior** en encuestas de salida o de satisfacción anual.
+
+    - **Creemos que si nuestra plataforma permite la gestión centralizada de múltiples funciones (seguridad, energía, confort), entonces el 60 % de los usuarios reportará una reducción significativa de la frustración** asociada al uso de múltiples aplicaciones dispares.
+
+    - **Creemos que si los arquitectos y diseñadores pueden visualizar y simular la integración de nuestros sistemas en sus modelos BIM, entonces acelerarán su fase de diseño conceptual en un 30 %,** mejorando la eficiencia de sus flujos de trabajo.
+<br>
+
+- **Business Assumptions**
+   - **Creemos que el 70 % de nuestros ingresos provendrá de la venta de licencias de proyecto (B2B)** a constructoras y arquitectos, y el 30 % restante de suscripciones y servicios de gestión para propietarios finales (B2C), ya que el sector de la construcción se digitaliza a un ritmo acelerado.
+
+    - **Creemos que el 15 % de los proyectos registrados en la plataforma en el primer año superará los 100 usuarios activos**, lo que nos permitirá generar ingresos adicionales por el escalado de licencias.
+
+    - **Creemos que mantendremos un margen bruto del 60 %**, ya que nuestro modelo de negocio de software y la producción bajo demanda evitan los costos de inventario.
+
+    - **Creemos que cerraremos al menos 10 alianzas estratégicas con fabricantes de hardware y domótica**, lo que solidificará nuestra propuesta de valor y atraerá a un 20 % de clientes que prefieren ecosistemas de productos definidos.
+
+    - **Creemos que al ofrecer una prueba de concepto gratuita para proyectos pequeños, lograremos convertir al 25 % de esos usuarios en clientes de pago en los primeros seis meses**, validando así la efectividad de nuestro embudo de ventas.
+
+    - **Creemos que el 50 % de nuestras nuevas adquisiciones de clientes provendrá de marketing de contenido y alianzas con influenciadores de la industria inmobiliaria**, porque la confianza y las referencias son cruciales en este sector.
+<br>
+
+- **Business Outcome Assumptions**
+    - **Creemos que si los propietarios adoptan y utilizan la plataforma con regularidad, entonces lograremos una tasa de retención de licencias B2C del 75 % en el primer año**, lo que generará un flujo de ingresos recurrente.
+    - **Creemos que si la plataforma ofrece una experiencia de usuario fluida y sin complicaciones, entonces reduciremos los costos de soporte y atención al cliente en un 30 %** durante los primeros seis meses, mejorando la rentabilidad operativa.
+    - **Creemos que si los ingenieros pueden configurar los sistemas de forma remota, entonces se reducirá en un 40 %** el tiempo y los costos de implementación en sitio, permitiéndonos escalar nuestra operación a más proyectos simultáneamente.
+    - **Creemos que si fortalecemos las alianzas estratégicas, entonces conseguiremos una reducción del 15 % en los costos de adquisición de clientes (CAC)**, ya que las recomendaciones de nuestros socios nos proporcionarán nuevos clientes de forma más eficiente.
+    - **Creemos que si las empresas constructoras pueden integrar nuestra plataforma fácilmente, entonces incrementaremos la tasa de conversión de proyectos de prueba a clientes de pago en un 25 %** durante el primer semestre, aumentando los ingresos directos.
+<br>
+
+- **Feature Assumptions**
+    - **Creemos que la funcionalidad de un constructor de espacios inteligentes permitirá a los arquitectos e ingenieros diseñar layouts arrastrando y soltando dispositivos IoT**, de modo que el 60 % de ellos lo utilice para planificar sus proyectos en la plataforma.
+    - **Creemos que el simulador en tiempo real de flujos de automatización permitirá a las constructoras validar la lógica de sus sistemas antes de la instalación**, de forma que el 90 % lo utilice para testear sus configuraciones.
+    - **Creemos que el panel de control unificado permitirá a los propietarios gestionar su espacio desde una sola interfaz**, consiguiendo que el 80 % lo use como su herramienta principal de control diario.
+    - **Creemos que la integración con marcas de hardware permitirá a los usuarios conectar sus dispositivos existentes a la plataforma**, logrando que el 70 % de los clientes B2C lo use en su primera semana de activación.
+    - **Creemos que las notificaciones y alertas personalizables permitirán a los usuarios estar al tanto de la seguridad y el consumo de energía en sus propiedades**, de forma que el 50 % de ellos configure al menos 3 alertas en los primeros 30 días.
+    - **Creemos que la funcionalidad de acceso remoto permitirá a los ingenieros y propietarios gestionar sus espacios desde cualquier lugar**, alcanzando que el 75 % de las gestiones fuera de la oficina se realicen en dispositivos móviles.
+    - **Creemos que el sistema de reportes de consumo de energía permitirá a los usuarios tomar decisiones para optimizar sus gastos**, logrando una disminución del 20 % en el consumo energético reportado en el primer año.
+    - **Creemos que la funcionalidad de creación de "escenas" o ambientes (ej. "Modo cine") simplificará la vida de los propietarios**, con el 60 % de ellos creando al menos una escena en el primer mes de uso.
+    - **Creemos que la integración con asistentes de voz (ej. Alexa, Google Home) mejorará la experiencia del usuario**, consiguiendo que el 40 % de los usuarios de hogares inteligentes conecte su cuenta en los primeros tres meses.
+    - **Creemos que un sistema de permisos y roles permitirá a los administradores de proyectos controlar quién puede acceder a qué funciones**, logrando una reducción del 95 % en los problemas de seguridad o acceso no autorizado reportados.
+<br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+
+- **Personalización para propietarios e inquilinos** <br>
+Creemos que los propietarios e inquilinos adoptarán IoBuild porque podrán personalizar fácilmente la iluminación, el clima y la seguridad de sus espacios sin conocimientos técnicos. Sabremos que hemos tenido éxito cuando más del 70% de los usuarios configuren al menos una escena o ajuste personalizado dentro del primer mes de uso.
+
+- **Experiencia unificada y usabilidad** <br>
+Creemos que una interfaz de control centralizada y simple aumentará la satisfacción del usuario y reducirá la frustración generada por múltiples aplicaciones y dispositivos fragmentados. Sabremos que hemos tenido éxito cuando los usuarios completen tareas clave como programar riego o crear una escena de iluminación en menos de cinco minutos y sin errores repetitivos.
+
+- **Eficiencia energética como propuesta de valor** <br>
+Creemos que la gestión centralizada de energía motivará a propietarios y constructoras a integrar IoBuild en sus proyectos. Sabremos que hemos tenido éxito cuando al menos el 40% de los usuarios reporten una reducción en sus consumos energéticos tras tres meses de uso.
+
+- **Alianzas estratégicas con fabricantes** <br>
+Creemos que integrar IoBuild con ecosistemas de hardware existentes aumentará la adopción de la plataforma y reducirá las barreras de entrada. Sabremos que hemos tenido éxito cuando concretemos al menos 5 alianzas estratégicas y al menos el 30% de los usuarios utilicen dispositivos externos conectados.
+
+- **Escalabilidad y acceso remoto** <br>
+Creemos que un sistema flexible y escalable, con acceso remoto, permitirá que IoBuild sea adoptado tanto en proyectos en construcción como en remodelaciones. Sabremos que hemos tenido éxito cuando las constructoras integren IoBuild en nuevos desarrollos y los propietarios lo adopten en viviendas existentes, logrando al menos un 50% de adopción equilibrada en ambos escenarios.
+
+- **Integración accesible para constructoras** <br>
+Creemos que las constructoras, arquitectos e ingenieros necesitan una solución accesible para integrar funcionalidades inteligentes en sus proyectos sin aumentar significativamente los costos. Sabremos que hemos tenido éxito cuando las empresas utilicen IoBuild en al menos un proyecto piloto y manifiesten que la plataforma redujo tiempos y complejidad en la implementación.
+
+- **Seguridad y confianza en el manejo de datos** <br>
+Creemos que garantizar altos estándares de seguridad y privacidad en el manejo de datos será un factor decisivo para la adopción de IoBuild. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios indiquen sentirse seguros al compartir información de sus dispositivos y consumos.
+
+- **Soporte reducido gracias a la simplicidad** <br>
+Creemos que una plataforma intuitiva disminuirá la necesidad de soporte técnico para usuarios finales. Sabremos que hemos tenido éxito cuando el 40% de las incidencias de soporte se resuelvan con recursos de autoservicio como un chatbot.
+
+- **Diferenciación en el mercado inmobiliario** <br>
+Creemos que las constructoras que integren IoBuild en sus proyectos podrán diferenciarse frente a la competencia y atraer a más clientes interesados en innovación. Sabremos que hemos tenido éxito cuando los proyectos que usen IoBuild tengan un 20% más de consultas o visitas que los que no lo usan.
+
+- **Cumplimiento de normativas de construcción inteligente** <br>
+Creemos que IoBuild facilitará a las constructoras cumplir con regulaciones y certificaciones de sostenibilidad. Sabremos que hemos tenido éxito cuando el 30 % de los proyectos que usen IoBuild consigan una certificación verde.
+
+- **Retención a través de actualizaciones constantes** <br>
+Creemos que la entrega periódica de nuevas funcionalidades y mejoras aumentará la retención de usuarios. Sabremos que hemos tenido éxito cuando la tasa de usuarios activos mensuales supere el 70% después de seis meses de uso.
+
+- **Valor para administradores de edificios** <br>
+Creemos que los administradores de edificios verán IoBuild como una herramienta útil para gestionar múltiples departamentos o inquilinos desde un solo panel. Sabremos que hemos tenido éxito cuando el 60% de los administradores gestionen más de tres espacios distintos desde la plataforma.
+
+
+
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+![Lean UX Canvas](https://i.imgur.com/mSqQstx.png)
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+| | Segmento 1 | Segmento 2 |
+| - | - | - |
+| **Variables** | **Arquitectos e Ingenieros Civiles** | **Dueños de apartamentos (usuarios finales)** |
+| **Geográfica** | Principalmente en áreas urbanas de **alto crecimiento inmobiliario** en Latinoamérica, como ciudades capitales (Bogotá, Lima, Ciudad de México), donde la demanda de proyectos de construcción, como torres de apartamentos, es intensiva. | Residentes en zonas urbanas densamente pobladas, como **distritos centrales o suburbanos** de grandes ciudades. Priorizan la accesibilidad a servicios y transporte en regiones con un mercado inmobiliario activo. |
+| **Demográfica** | **Edad:** 30-55 años; **Género:** Predominantemente masculino, pero con creciente participación femenina; **Educación:** Título universitario en arquitectura, ingeniería civil o afines; **Ingresos:** Medio-alto (profesionales independientes o empleados en firmas); **Estado civil:** Mayoría casados o en unión libre, con o sin hijos. | **Edad:** 25-45 años; **Género:** Mixto; **Educación:** Nivel universitario o técnico; **Ingresos:** Medio a medio-alto; **Estado civil:** Solteros, parejas jóvenes o familias pequeñas; **Ocupación:** Profesionales urbanos, empleados o emprendedores. |
+| **Psicológica** | Orientados a la **innovación y sostenibilidad**, valoran la eficiencia, la **funcionalidad estructural** y la diferenciación competitiva. Personalidad meticulosa y colaborativa, motivados por el impacto en el mercado y la adopción de tendencias tecnológicas para mejorar diseños y la viabilidad del proyecto. | Buscadores de **comodidad y seguridad**. Tienen una actitud práctica hacia la tecnología (desde entusiastas a cautelosos). Valoran la conveniencia diaria y la privacidad. Su estilo de vida es urbano y dinámico, con énfasis en el equilibrio entre trabajo y vida personal, así como el ahorro de tiempo. |
+| **Función de comportamiento** | Alta frecuencia en la integración de tendencias tecnológicas en diseños y estructuras. Lealtad a herramientas y marcas que faciliten la **colaboración entre diseño y cálculo estructural** (software BIM, CAD, etc.). Buscan soluciones que optimicen costos, mantenimiento y la **seguridad de la construcción**. Se frustran por barreras regulatorias o la falta de compatibilidad tecnológica. Su objetivo es diferenciar proyectos y asegurar la **viabilidad técnica y estructural**. | Uso ocasional a diario de apps para el hogar. La adopción se basa en la **facilidad de uso y la seguridad**. Son leales a marcas intuitivas. Se frustran por la complejidad técnica o problemas de privacidad. Sus objetivos son automatizar rutinas, mejorar la seguridad y la eficiencia energética en su apartamento. |
 
 ---
 
