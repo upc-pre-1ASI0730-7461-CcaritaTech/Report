@@ -38,6 +38,10 @@
 | 0.0 | 25/08/2025 |CcaritaTech |Se crea el documento |
 | 0.1 | 27/08/2025 |Axel Ordoñez Ricaldi|Se han agregado las imágenes y se ha redactado la descripción de cada participante, así como la descripción general de la startup en el perfil.|  
 | 0.2 | 29/08/2025 |Axel Ordoñez Ricaldi|Primer avance del Capítulo 1, el cual incluye el desarrollo inicial de los antecedentes y la problemática, y se sube el Lean UX Problem Statement, y la elaboración del Problem Statement, el registro de Assumptions y la formulación de los Hypothesis Statements|
+| 0.3 | 02/09/2025 ||Se revisó y editó el Capítulo 1, incluyendo la sección sobre el Lean UX Process, garantizando la coherencia y claridad del contenido. Además, se integraron los avances de los colaboradores en dicho capítulo. Finalmente, se procedió a subir el informe a la rama develop|
+| 0.4 | 05/09/2025 ||Se avanzó en el desarrollo del Capítulo 2, incorporando el análisis competitivo y registrando las entrevistas en el informe, junto al diseño de las entrevistas, registro de entrevistas y analisis de las entrevistas. Asimismo, se documentó un progreso del needfinding en el informe|
+| 0.5 | 09/09/2025 ||Se completó el Capítulo 2, incluyendo la finalización del needfinding, Big Picture EventStorming y la creación del Ubiquitous Language. Además, se revisó y editó todo el capítulo para asegurar la coherencia y claridad del contenido. Finalmente, se subió el informe actualizado a la rama develop|
+
 
 
 </center>
