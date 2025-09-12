@@ -440,7 +440,43 @@ De manera complementaria, la segunda parte de este objetivo busca incrementar la
 
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
+| 1      | US01          | Sección "Sobre Nosotros" | Como visitante del sitio, quiero conocer la historia y valores de la aplicación, para tener mayor conexión y confianza con la empresa.  | 2                        |
+| 2      | US02          | Sección testimonios del cliente | Como visitante del sitio, quiero consultar testimonios de otros clientes, para generar confianza en la propuesta de valor de la start up  | 5                        |
+| 3      | US03          | Acceso a información de contacto | Como visitante del sitio, quiero acceder fácilmente a la información de contacto de IoBuild, para comunicarme en caso de dudas  | 5                        |
+| 4      | US04          | Visualización de servicios principales | Como visitante del sitio, quiero conocer los servicios que ofrece IoBuild, para entender su propuesta de valor  | 3                        |
+| 5      | US06          | Preguntas frecuentes | Como visitante del sitio, quiero consultar una sección de preguntas frecuentes, para resolver dudas comunes sin necesidad de contactar a la start up  | 3                        |
+| 6      | US07          | Internacionalización de la landing page | Como visitante del sitio, quiero poder encontrar más de un idioma disponible, para poder elegir el idioma de mi preferencia.  | 5                        |
+| 7      | US05          | Opción de registro | Como visitante del sitio, quiero registrarme en la aplicación, para tener acceso a las funcionalidades de la aplicación  | 3                        |
+| 8      | US08          | Registro de cuenta | Como constructora, quiero crear una cuenta en la plataforma, para acceder a las funcionalidades y gestionar mis proyectos  | 5                        |
+| 9      | US11          | Asignar cuenta | Como constructora quiero asignar cuenta para que los propietarios puedan acceder a las funcionalidades de la aplicación  | 5                        |
+| 10     | US21          | Configuración de preferencias | Como constructora, quiero actualizar mi contraseña o métodos de acceso, para mantener la seguridad de mi cuenta.  | 5                        |
+| 11     | US16          | Escenarios predefinidos de ambiente | Como propietario, quiero seleccionar escenarios de ambiente, para aplicar configuraciones predeterminadas de luces  | 5                        |
+| 12     | US12          | Configuración de iluminación | Como propietario, quiero ajustar la iluminación de mi espacio, para crear ambientes personalizados según mis preferencias  | 8                        |
+| 13     | US13          | Control de climatización | Como propietario, quiero regular la temperatura y humedad de mis ambientes, para mantener condiciones confortables  | 5                        |
+| 14     | US14          | Riego de áreas verdes | Como propietario, quiero programar el riego automático de jardines o áreas verdes, para optimizar el uso del agua y mantener los espacios cuidados.  | 5                        |
+| 15     | US15          | Gestión de dispositivos inteligentes | Como propietario, quiero administrar mis dispositivos inteligentes, para supervisar y controlar su funcionamiento desde la aplicación  | 8                        |
+| 16     | US17          | Notificaciones de mantenimiento | Como propietario, quiero recibir avisos sobre mantenimientos programados, para anticipar ajustes en mis espacios  | 3                        |
+| 17     | US18          | Personalización de notificaciones | Como propietario, quiero configurar qué tipo de notificaciones deseo recibir, para evitar información irrelevante.  | 3                        |
+| 18     | US19          | Actualización de datos personales | Como propietario, quiero modificar mi información básica, para mantener mi perfil actualizado  | 3                        |
+| 19     | US20          | Configuración de preferencias | Como propietario, quiero definir mis preferencias, para personalizar mi experiencia en la plataforma.  | 5                        |
+| 20     | US22          | Visualización de dispositivos conectados | Como propietario, quiero ver todos los dispositivos inteligentes conectados, para supervisar su estado  | 5                        |
+| 21     | US23          | Monitoreo en tiempo real | Como propietario, quiero visualizar en el dashboard el estado en tiempo real de mis dispositivos, para conocer cuál es su estado  | 8                        |
+| 22     | US24          | Registro de clientes | Como constructora, quiero registrar información de mis clientes, para agregarlos a la aplicación  | 5                        |
+| 23     | US25          | Gestión de entregables | Como constructora, quiero monitorear el avance de los proyectos para gestionar su avance  | 5                        |
+| 24     | US26          | Creación de proyectos | Como constructora, quiero registrar un nuevo proyecto en la plataforma, para integrar funcionalidades inteligentes desde la planificación  | 5                        |
+| 25     | US27          | Asignación de dispositivos a un proyecto | Como constructora, quiero asignar dispositivos inteligentes a un proyecto específico, para garantizar la automatización de los espacios  | 3                        |
+| 26     | TS01          | Crear ruta segura y mostrar datos específicos | Como desarrollador, quiero proteger el dashboard de fabricantes para que solo los fabricantes puedan visualizarlo  | 8                        |
+| 27     | TS02          | Registro de dispositivos inteligentes | Como Desarrollador, quiero registrar un nuevo dispositivo inteligente a través del API, para implementar una funcionalidad para gestionar los dispositivos que se registran  | 5                        |
+| 28     | TS03          | Modificar información de dispositivo | Como Desarrollador, quiero modificar la información de un dispositivo inteligente, para implementar una funcionalidad que ayude a actualizar sus atributos cuando cambien  | 8                        |
+| 29     | TS04          | Asignación de dispositivos a un espacio | Como Desarrollador, quiero asignar un dispositivo inteligente a un espacio específico, para que los propietarios puedan gestionarlo desde su vivienda o edificio  | 5                        |
+| 30     | US09          | Inicio de sesión | Como constructora, quiero iniciar sesión con mi cuenta registrada, para acceder a las funcionalidades de la aplicación  | 2                        |
+| 31     | US10          | Recuperación de contraseña | Como constructora, quiero recuperar mi contraseña si la olvido, para poder seguir accediendo a la plataforma sin crear una nueva cuenta  | 5                        |
+| 32     | TS05          | Eliminar un dispositivo inteligente | Como Desarrollador, quiero eliminar un dispositivo , para implementar una funcionalidad que ayude a mantener actualizada la lista de dispositivos en uso  | 8                        |
+| 33     | TS06          | Consultar listado de dispositivos por espacio | Como Desarrollador, quiero consultar todos los dispositivos asociados a un espacio, para implementar una funcionalidad que muestre al usuario qué equipos tiene disponibles  | 5                        |
+| 34     | TS07          | Consultar lista de clientes | Como Desarrollador, quiero consultar la lista de clientes a través del API, para diseñar una funcionalidad que permite filtrar a los clientes  | 8                        |
+| 35     | TS08          | Consultar lista de propietarios | Como Desarrollador, quiero consultar la lista de los propietarios a través del API, para diseñar una funcionalidad que permite filtrar a los propietarios  | 5                        |
+| 36     | TS09          | Consultar consumo energético en tiempo real | Como Desarrollador, quiero consultar el consumo energético de un espacio en tiempo real a través del API, para construir una funcionalidad que muestre el uso instantáneo de energía  | 8                        |
+| 37     | TS10          | Alertas de consumo energético elevado | Como Desarrollador, quiero consultar alertas de consumo energético elevado a través del API, para construir una funcionalidad que notifique a los usuarios sobre consumos inusuales  | 5                        |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
