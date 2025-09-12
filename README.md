@@ -411,18 +411,140 @@ En IoBuild, utilizaremos un lenguaje que refleje nuestra visión de transformar 
 
 
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
+#### **Descripción General**
+Este diseño corresponde a la aplicación web de IoBuild, una plataforma que impulsa el futuro de la construcción residencial mediante la integración inteligente de tecnología desde la etapa de diseño. La interfaz busca brindar a las constructoras y desarrolladores una experiencia clara y funcional, optimizando la planificación de proyectos y facilitando la incorporación de soluciones tecnológicas que aporten valor a los futuros propietarios.<br>
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+#### **1. Pantalla principal**
+**Header:**
+- Logo (esquina superior izquierda)
+- Menú de navegación con las opciones: Beneficios, Características, Planes, Nosotros y FAQ.
+- Selector de idioma (inglés y español).
+- El botón “Empezar Ahora”.
+
+![Imagen del Header del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/547184185_1409312160171082_4320287969107684909_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ud4smu8Nbn4Q7kNvwHaG1VU&_nc_oc=AdlEEqU4FrBO_oAyKStx6NMJ8FsnVJ-sAPalGta9GFFRSovdzkth19j3dETNrkuNtCTlrQDuN8edgwj6RqIuwObI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEkLPrRyw0aOZqRLKrYUy3siO-G8sUpboSpsV4rb9SHEQ&oe=68EB3709)
+<br>
+
+**Home:**
+- Mostramos nuestra propuesta de valor con nuestro mensaje central que es revolucionar los proyectos residenciales mediante la integración de IoT.
+- También contamos con dos botones claros para guiar al usuario (CTAs):
+    - **“¡Lo quiero!”:** Un llamado a la acción primario y directo.
+    - **"Ver Beneficios":** Una opción secundaria para usuarios que necesitan más información antes de decidir.
+
+![Imagen de la sección Home del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/543043639_769068599078754_7092594972623208063_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=KejXFHlg4bQQ7kNvwEdLTCs&_nc_oc=AdlY8g-ITjKL9glBz8iVbuukM0Z3MGGcUTsOGfBB9cPusbQYUxADMyjIoURm9cgJrFWOUZ-XSG8qw4onLofVPvPb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHAY2DKRleTRmKnxyu1Soi2UHbBIipxluCQcfT3G899Jw&oe=68EB39E5)
+<br>
+
+**Beneficios:**
+- Esta sección presenta a la empresa IoBuil y tiene como objetivo principal convencer al usuario de por qué debe elegirla.
+- Beneficios clave en secciones destacadas, la información central se presenta en tarjetas, cada uno explicando un beneficio específico:
+    - Integración desde Construcción
+    - Control Personalizado
+    - Gestión Centralizada
+    - Valor Agregado
+    - Ahorro Energético
+    - Soporte Especializado
+- El botón "Registrar mi Proyecto" es el paso clave que se quiere que el usuario realice.
+
+![Imagen de la sección Beneficios del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/542104330_1926395787904091_2065011281942347531_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=izF5IVwD7SgQ7kNvwGBNoU-&_nc_oc=AdnEav7GXxWR69LnHqV35Zm2HWOiskuDCfVGFBY3TGuZMWOUpGuPIyy0DvGnl5nuhwS4DEfMSeUElA1DYqb0O1wJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEdhpPjUopbUQaPZz9VE0ubSoWSbTwvTRIT5pFHGebmPg&oe=68EB2887)
+<br>
+
+**Características Técnicas Avanzadas:**
+- En esta sección presentamos las Características Técnicas Avanzadas y la Tecnología de Vanguardia que ofrece la plataforma, dirigida específicamente a la industria de la construcción.
+    - Dashboard Intuitivo
+    - Ecosistema de Dispositivos
+    - Gestión de Áreas Comunes
+
+![Imagen de la sección CTA 1 del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/542934637_807920531587886_7942219215528859354_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NS0oQXqbiAwQ7kNvwEpR4V6&_nc_oc=AdnMeUGIg5q4qfbk7OMTEcBmdh3c1E_5TTq2TDXPGEiW3ag1NS9av63I2k3yBzaKCGMmlLUvIP1SxK1oCLvzc46F&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHN5vfC39KDDORqhct-udQapDX4d0WG0u5WRBeJBKOaYA&oe=68EB2827)
+![Imagen de la sección CTA 2 del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/543703698_1746008622787030_905219355521369968_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YOlg3D4QxtMQ7kNvwFz39oG&_nc_oc=Admxc9StOD-P8GPITPcMazv2zzRtmnOOlQfA568QhrtMv0HieBuFDwWSiFjEvun7eFREqVe74IoAhZ0xLEq5PIkc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHO0boVA-bvuKFhuoMwGYIShQrjKuh6-hz7eaXCwf6xcg&oe=68EB1E9D)
+<br>
+
+**Testimonios:**
+- En esta sección se encuentran las opiniones y comentarios de las empresas que confiaron la transformación de sus proyectos en IoBuild.
+- Junto a un botón, Call to Action, “Crear mi Cuenta Ahora”, el cual invita a las empresas a dar el siguiente paso inmediato, aprovechando la confianza generada por los testimonios.
+
+![Imagen de la sección Testimonios del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545936634_1448656902847497_2876707668123206767_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NFn4VfZ7DdQQ7kNvwFy55-X&_nc_oc=AdnsuN_d3BtC_vfWcJbqWqVmSnkCg38F2q2-PxC8zID1Y_GY2Z6YHgBDYVnEx7zFviN_4QeF1NcwG_5y_DXpsO3R&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHato9j8JeokrUGWU8hegHwrgI0U4Z3UYpUVqa4on1vwA&oe=68EB1E2B)
+<br>
+
+**Planes Diseñados para tu Escala:**
+- En esta sección se presentan los planes de precios y suscripción de la plataforma, diseñados para adaptarse a diferentes escalas de proyectos.
+- Se presentan tres planes escalonados con diferentes niveles de funcionalidad y precio:
+    - **Starter ($299/mes):** Plan básico para proyectos pequeños.
+    - **Professional ($599/mes):** Plan etiquetado como "Más Popular", ideal para proyectos medianos.
+    - **Enterprise ($1,299/mes):** Plan premium para grandes desarrollos.
+
+![Imagen de la sección PDE del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545748671_1126652992127595_3205445573247519879_n.png?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vspylc5-LGAQ7kNvwHAZPmz&_nc_oc=AdlR8qRoShdaTd4dBhe3nisUVcUqjAPfLQ_6QPrWLOmS-isp_L67y-xTJiNBgCjIr2gKRTJhOo1NMTODxEK8H-6X&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHepizRr8ygEzxSkfrVoEK5I3FpdhdeMuKCYWT3AYSPWQ&oe=68EB410F)
+<br>
+
+- Esta sección actua como el cierre o "call to action" final de la presentación, diseñado para convertir al visitante en cliente.
+    - **"Crear Cuenta Ahora":** Para los decididos.
+    - **"Ver Planes":** Para los que necesitan más información antes de comprometerse.
+
+![Imagen de la sección Cierre del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/547084018_1986872135407512_7533900794389294392_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=g1OsrcBHbVoQ7kNvwGO8vhm&_nc_oc=Adk3TLeuH8kZtTMpOenAptFt3ITAYhC55dZvb8J-_xzmQ0AVksv22m44NrtJOP8vGtqZ58gknxIycLy7OZOPZTmF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGzaN22d-0V-0sQqxpk44BWsDV4KQtGkv8qd-ahVBJsKA&oe=68EB0EE8)
+<br>
+
+**Footer:**
+- Proporciona navegación adicional e información institucional.
+- Estructura de navegación organizada, la información se divide en cuatro columnas temáticas claras:
+    - **Producto:** Enlaces a características, precios, documentación y API.
+    - **Empresa:** Acceso a información corporativa, oportunidades laborales, blog y prensa.
+    - **Soporte:** Recursos de ayuda como FAQ, contacto, centro de ayuda y estado del sistema.
+    - **Legal:** Enlaces a los términos legales y políticas de privacidad.
+
+![Imagen de la sección Footer del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546097530_1508945870137606_2579688907605876187_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=py0o-Ms7iNkQ7kNvwGyFpKb&_nc_oc=Adkg4OQC1kYwqSb7KqPvVC_S_BPTj_TtKEzEwAEnggEqzGwcYSFcI1omZszDBiSyNXAMtkVkqF7mnCmNPyAyy2bi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QE_V02AGIaAMJ1Y3T8bUI-xjbg1bWWtv9M05fT_slsOTA&oe=68EB0C07)
+<br>
+
+
+#### **2. Sobre nosotros**
+**Nuestra misión:**
+- En esta sección se presenta la misión y filosofía de la empresa, estableciendo su propósito fundamental y su visión a largo plazo.
+- El objetivo principal es empoderar a las constructoras con herramientas para crear desarrollos que satisfagan las necesidades actuales, y se adapten y evolucionen con las demandas futuras.
+
+![Imagen de la sección Misión del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546476799_801410365913841_4332806494977399308_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=gSbdFwSgIUIQ7kNvwF7aATv&_nc_oc=AdmGlutjKGUU7WNhABhjNABcKM1VElB26M5Igjqy349x1OMnb7sRNFOqTbJKM7_ePI6kbXuVbLuQT9-pkp3DX_Uu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFa_DziDCJW0qDLC1V2Hax4-3LPKQ-7Y0Bhq-HFw-3v-w&oe=68EB18CB)
+<br>
+
+**Nuestros valores:**
+- Presentamos los valores fundamentales de la empresa, que guían su cultura y operaciones.
+    - Innovación
+    - Excelencia
+    - Colaboración
+    - Sostenibilidad
+
+![Imagen de la sección Valores del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/545966014_774488345310442_6023979702990276290_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=1MOgP5-CYYUQ7kNvwHjITjt&_nc_oc=AdlU6NdlDJ2A6mIlemVQcqvLVBhkLvI9hOqTvxeW6pnrST13UeU35kOWSQrJZKmxcwKYj-f3q6tTyuJlzEqr1rL3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHqaYVMkUL016muVozNW5If3NBkRLHz3Qbgvmdq5HasJQ&oe=68EB0AE0)
+<br>
+
+**Nuestro equipo:**
+- En esta sección se presentan a los cinco miembros que trabajamos en IoBuild, en las tarjetas podemos ver las fotos de los miembros junto a una pequeña descripción de cada uno de ellos.
+
+![Imagen de la sección Equipo del landing page]()
+<br>
+
+- Esta sección actúa como un cierre o "call to action" final, dirigido a potenciales clientes interesados.
+    - **"Ver Nuestros Planes":** Para quienes buscan información específica de precios y características.
+    - **"Contactar Equipo":** Para quienes prefieren una conversación directa con ventas o consultoría.
+
+![Imagen de la sección Cierre del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/542920712_1262871462306662_5747676941987382969_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=QwJ16q7H2OkQ7kNvwHjCsVI&_nc_oc=Adk6Z7tcfu-nzOfTkbl8ZrDq_hUifNSnGfAlMoOxm98s13aeLrthHv33JrwGB68yTlbkgLZ1VEQzjkhPyR3qa8OK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QE8MslfUlhE136KsOptXvBNA0QudVRHcO4heHJUY81BCg&oe=68EB3CC2)
+<br>
+
+#### **3. FAQ**
+**Preguntas Frecuentes:**
+- Funciona como una sección de Preguntas Frecuentes (FAQ) para resolver dudas comunes de manera autónoma y reducir la carga de soporte.
+- Explica que proporciona "Respuestas a las dudas más comunes sobre loBuild".
+- Organización por categorías, las preguntas están clasificadas en cuatro secciones temáticas:
+    - **General** (aspectos básicos)
+    - **Técnico** (detalles tecnológicos)
+    - **Precios** (aspectos económicos)
+    - **Soporte** (asistencia y ayuda)
+
+![Imagen de la sección Preguntas Frecuentes del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545697847_1556515355704090_3743376577603369427_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=M4HztBQWp9YQ7kNvwELcNHj&_nc_oc=AdmLvXI-5iIUJBirv2vegfJ4rJCceIu2OlIQ-msP3c7KDIAZQAKSPy1zCnCefAKZ0ND0gk2qrNQihz_94_DkToRB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHmxwhLRRfK1XuYfRlNUwmyfszX2vmzMLD4DMqUlMTcFA&oe=68EB24B0)
+<br>
+
+- Funciona como una alternativa para usuarios que no encontraron respuesta en las FAQs, capturando leads calificados.
+    - **"Contactar":** Para consultas generales o soporte directo.
+    - **"Solicitar Demo":** Para una demostración personalizada del producto.
+
+![Imagen de la sección Cierre del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546125143_571637575961986_8441775770711138809_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fKHKV9S80s0Q7kNvwESuzNz&_nc_oc=Adk8VnG-pRNkEVhb1kT5oj8BKQqyxN3mcBPncGdw2EaKTnwq83QxqWSV64HoOnW2TRVdkiR_ZQRdTPBjfcVpPu8N&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHk1VxgsXlzE05TP8S7uDZTUvQfGT0XA-oPDlNAr4Qptg&oe=68EB38CD)
+<br>
+
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
