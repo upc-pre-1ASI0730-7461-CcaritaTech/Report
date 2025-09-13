@@ -437,6 +437,13 @@ De manera complementaria, la segunda parte de este objetivo busca incrementar la
 
 
 ## 3.4. Product Backlog.
+A continuación, se presenta el Product Backlog con las historias de usuario y tareas técnicas priorizadas para el desarrollo del proyecto. Cada ítem incluye su identificación, título, descripción y la estimación en puntos de historia.
+
+Para el control y diseño del product backlog se utilizó la herramienta Trello, que permitió organizar y visualizar las tareas de manera clara y colaborativa. El backlog se estructuró en columnas que representan las diferentes etapas del desarrollo, facilitando el seguimiento del progreso y la gestión de prioridades.
+
+Link de colaboración en trello: https://goo.su/DYSGr6
+
+![Product-Backlog](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/543676527_1511301283336347_3366033098028311677_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YVYsUXArMXUQ7kNvwFovtFG&_nc_oc=AdkBuhGPu7fEVC4T5VLmM1O1LtqZPH7q-phetw5jQdVxjcvrWXS8NEdOOzMD4wFbKf4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QE8xutcRuJ47vREvsx9q0BCalkN8e6IDhxBB0cBdbtuVw&oe=68EC6B26)
 
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
