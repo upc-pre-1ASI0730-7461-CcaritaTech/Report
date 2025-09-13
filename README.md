@@ -428,6 +428,21 @@ El mapa de empatía tiene como finalidad ampliar la visión sobre el usuario má
 
 ## 2.4. Big Picture EventStorming
 
+Para el desarrollo del Big Picture EventStorming, se utilizó la herramienta Miro, que facilitó la colaboración y visualización de los diferentes elementos del proceso. A continuación, se presenta un resumen de los principales componentes identificados durante la sesión de EventStorming:
+
+Primero, se definierón las leyendas para los diferentes elementos que se van a usar en el EventStorming:
+![Big-Picture-EventStorming-Leyenda](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/546505533_1478537463540831_3333340588955856094_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Iq8eSS6xgDMQ7kNvwGbUCHy&_nc_oc=Adltn6_eB-OkW6ThLq2ByQGfMrmeh8bmiBFbOpZEVk2mgEboMF7FK4ZySja78rHTicE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QHkO77WaeP70WxyvV9gMSuxbRcNEwIJ2aNEIFTZLfwXKA&oe=68EC6137)
+
+**Domain Events:** Representa un hecho del negocio que ya ocurrió y no puede cambiarse.
+**Hotspot Question Improvement:** Señala un punto de incertidumbre, duda o posible conflicto en el proceso. Se utiliza para visibilizar preguntas que aún no tienen respuesta clara, de modo que el equipo pueda discutirlas y mejorarlas más adelante
+**Definition:** Aporta una explicación breve y precisa de un concepto clave dentro del dominio.
+**Actor:** Es la persona, rol u organización que interactúa con el sistema o provoca eventos.
+**Command:** Expresa la intención de realizar una acción en el sistema.
+**Comment:** Sirve para añadir notas, aclaraciones o hipótesis que enriquecen el contexto. No alteran el flujo, pero ayudan a documentar observaciones útiles para futuras discusiones.
+**Policy:** Define una regla de negocio que conecta automáticamente un evento con un comando.
+**External System:** Representa servicios o plataformas externas que interactúan con tu sistema, aunque no las controles directamente.
+
+
 ## 2.5. Ubiquitous Language.
 
 
