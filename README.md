@@ -579,9 +579,25 @@ Tanto el header como el footer refuerzan esta organización al centralizar los a
 
 
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+En el marco del diseño de la arquitectura de información, los Labeling Systems cumplen la función de comunicar de forma clara, coherente y predecible los elementos de interacción presentes en la interfaz. En IoBuild, cada etiqueta textual utilizada en botones, menús, enlaces y secciones está orientada a guiar al usuario en su recorrido por la Landing Page, facilitando la comprensión del propósito del proyecto y motivando la interacción con los elementos principales.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+La siguiente tabla resume las etiquetas implementadas, su ubicación y su función en la experiencia de usuario:
+
+| Etiqueta | Ubicación/Componente | Función |
+|----------|----------------------|---------|
+| Inicio | Header | Enlace a la página principal. Término estándar y familiar para usuarios. |
+| Sobre Nosotros | Header | Presentación del propósito y misión del proyecto. Genera cercanía y confianza. |
+| Equipo | Header | Sección dedicada al grupo desarrollador, destacando transparencia y credibilidad. |
+| Contacto | Header | Canal directo para comunicación con el equipo. Claro y orientado a la acción. |
+| Explora IoBuild | Hero Section (CTA principal) | Llamada a la acción inmediata para iniciar interacción con la plataforma. Imperativo motiva al usuario. |
+| Objetivos | Sección informativa | Describe las metas del proyecto. Etiqueta concisa y orientada al valor. |
+| Proyecto | Sección informativa | Explica en detalle la propuesta tecnológica. Término claro y descriptivo. |
+| Contáctanos | Footer | Refuerzo del canal de comunicación, mantiene consistencia semántica. |
+| Síguenos | Footer / Redes sociales | Agrupa accesos a redes sociales. Etiqueta convencional y reconocida globalmente. |
+| IoBuild | Marca | Nombre distintivo en mayúsculas. Actúa como ancla visual e identitaria del sitio. |
+
+El sistema de etiquetado en la Landing Page de IoBuild refleja una aplicación consistente de principios de usabilidad y arquitectura de información. Las etiquetas emplean un lenguaje simple, reconocible y orientado a la acción, lo que facilita tanto la navegación como la comprensión inmediata de los contenidos. Asimismo, existe una coherencia semántica entre el header, el cuerpo de la página y el footer, acompañada de un uso de imperativos y sustantivos comunes que refuerzan la accesibilidad cognitiva. Este Labeling System contribuye a la claridad, consistencia y escalabilidad de la experiencia web, garantizando que tanto profesionales técnicos como usuarios finales puedan interactuar sin fricciones con la plataforma.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
