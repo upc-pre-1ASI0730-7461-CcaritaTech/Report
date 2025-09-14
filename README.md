@@ -583,11 +583,22 @@ The labeling system aims at uniting the data effectively and represent them in s
 
 Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
 ### 4.2.3. SEO Tags and Meta Tags
+Los meta tags y etiquetas SEO son elementos esenciales dentro de la sección <head> de cualquier página web, ya que permiten definir cómo es interpretado, indexado y presentado el contenido de un sitio por parte de los motores de búsqueda (como Google) y las redes sociales (como Facebook, Twitter o LinkedIn). Aunque estos elementos no son visibles de forma directa para los usuarios, desempeñan un papel crucial en el posicionamiento orgánico, en la forma en que los enlaces se muestran al compartirse y en la claridad con la que se comunica la propuesta de valor del sitio.
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+En el caso de la Landing Page de IoBuild, se han incorporado meta etiquetas específicas con el objetivo de optimizar la indexación y visibilidad de la plataforma. La meta descripción resume de manera breve y clara la propuesta de IoBuild como una solución tecnológica orientada a la gestión y personalización de espacios inteligentes. Asimismo, se han definido meta keywords que incluyen términos relevantes como IoT, domótica, arquitectura inteligente, automatización de espacios y gestión de hogares inteligentes, lo que refuerza la capacidad del sitio para aparecer en búsquedas relacionadas.
+
+#### 1. Index
+La página principal de IoBuild incorpora un conjunto de etiquetas SEO que fortalecen su posicionamiento y presencia digital. Se incluyen una meta descripción clara sobre la propuesta de valor, palabras clave relacionadas con IoT y automatización residencial, así como etiquetas Open Graph y Twitter Card que aseguran una visualización atractiva y coherente al compartir el sitio en redes sociales. Estas configuraciones, junto con el ajuste de vista responsiva y la codificación adecuada, contribuyen a una experiencia accesible, profesional y optimizada para buscadores y usuarios.
+![Imagen de Meta Tags Index](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545924563_1981449309361755_2615012982454919773_n.png?stp=dst-png_s2048x2048&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YaFnR-a_VSEQ7kNvwGY620x&_nc_oc=AdkDW_2YAy7l1sENJtJHc45f61GOcKI2HjcTeGKhVMsXx11dR2ELhU2VNwIc3_-BrLlNOpfvWpnqYgLNBub89-bo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEKHhNaN55xsL7Kmne4v2iwcmAARPqcYtRzQR24k8dBag&oe=68EDCE81)
+
+#### 2. About Us
+La página Sobre Nosotros de IoBuild incluye etiquetas SEO básicas que refuerzan su propósito informativo y de marca. Se define un título claro y directo, junto con una meta descripción que comunica la misión del proyecto y presenta al equipo como motor de la propuesta de innovación en la industria de la construcción mediante tecnología IoT. Además, se configuran los parámetros técnicos de codificación (UTF-8) y de vista responsiva, asegurando accesibilidad, correcta interpretación del contenido y una experiencia de navegación óptima en distintos dispositivos.
+![Imagen de Meta Tags About-Us](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546932796_25562088580057548_7471885187897257817_n.png?stp=dst-png_s2048x2048&_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fz3haZKPMe4Q7kNvwGXiAqZ&_nc_oc=AdnRMMnTPaUTTEuhd8NuBbhDRE6csN843ukg5KglfnJzX1LLwAzhtcHonbZNGBE8fpHKWhdJ30eYQyOwKivF2Nxc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QH6pNKCCtbH40RJvqPVYISf_pihNA6ZMR-84ku5juNkYQ&oe=68EDD5CE)
+
+#### 3. FAQ
+La página FAQ - Preguntas Frecuentes de IoBuild incorpora etiquetas SEO orientadas a brindar claridad y accesibilidad al usuario. Se define un título descriptivo y directo que comunica de inmediato el propósito de la sección, acompañado de una meta descripción que resume su función como espacio de resolución de dudas sobre la plataforma SaaS y sus aplicaciones en proyectos de construcción con IoT. Asimismo, se incluyen configuraciones técnicas esenciales como la codificación UTF-8 y la vista responsiva, garantizando una correcta interpretación del contenido y una experiencia de navegación fluida en diversos dispositivos.
+![Imagen de Meta Tags FAQ](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/547297363_815734674134182_2168703356033145976_n.png?stp=dst-png_s2048x2048&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=2GmPyS8ps8MQ7kNvwHkA_1I&_nc_oc=AdnCZ1Axgt7ImUJX1ganN6Gp7e3z9Agvk4dt9EVbNU4ggMDslOLSqAcXdkldSgdhQoHb_K2Yh-mA8uZyFAuP9Hf7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QE63DQ6W7c9ByRQQJ1rGSXcgl_9A00AZATnfuBK2NBefg&oe=68EDB582)
+
 
 ### 4.2.4. Searching Systems.
 **Que se busca?:** Que buscara el usuario  
