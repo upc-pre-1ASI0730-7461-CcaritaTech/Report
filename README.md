@@ -841,58 +841,275 @@ Link de colaboración en trello: https://goo.su/DYSGr6
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
+#### **Tipografía**
+La tipografía seleccionada para los encabezados de nuestra marca es **Poppins**, debido a su estilo moderno. Su diseño elegante permite destacar títulos y secciones importantes, generando un impacto claro y atractivo para los usuarios. Esto la convierte en una elección ideal para comunicar innovación y profesionalismo dentro de la identidad visual.
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+Para el cuerpo de texto, se eligió **Roboto**, una tipografía ampliamente reconocida por su legibilidad en entornos digitales. Su diseño asegura una experiencia de lectura cómoda incluso en párrafos extensos. Al combinarse con Poppins, se logra un contraste armónico que refuerza la jerarquía tipográfica y facilita la comprensión del contenido.
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+Los tamaños tipográficos definidos, desde los **12px (0.75rem)** para detalles secundarios hasta los **36px (2.25rem)** para títulos principales, garantizan una estructura clara y ordenada. En conjunto, las elecciones tipográficas y de tamaños consolidan una comunicación visual coherente y funcional.
+
+#### **Colores**
+La elección de la paleta de colores en nuestro proyecto obedece a una estrategia visual cuidadosamente planificada, orientada a reflejar tecnología, confianza y sofisticación, valores fundamentales en la propuesta de CcaritaTech.
+
+- **Landing Page** <br>
+![Imagen de la paleta de colores del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/545576551_1174176471428022_7345013407813856713_n.png?stp=dst-png_p2048x2048&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YOQQ3gW2-uYQ7kNvwH3A3x1&_nc_oc=AdlXqsSJZwukJ9EHH89JCWOZwGxESvfUJ_Bu6gBb8yg5qJ0K-MvbVKpNa7MgaVuuV7-TpQh8ZOfRaUccDMvxc9Je&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGGrPjxMVggLr15nBCT-olfDCo0OIKzEdbzEyiCgksiFg&oe=68EB0F62)
+
+En la identidad visual, el color **verde menta primario (#10B981)** cumple el rol principal como color distintivo de la marca. Su tono fresco y vibrante transmite innovación y confianza, características que refuerzan la propuesta de valor de nuestro proyecto. Al mismo tiempo, este color genera una sensación positiva y cercana, lo que ayuda a establecer una conexión emocional con el usuario desde el primer contacto.
+
+Para lograr versatilidad y equilibrio, se incorporan dos variaciones del color primario. El color **menta claro (#ECFDF5)** se utiliza en fondos y áreas de descanso visual, ofreciendo luminosidad y amplitud sin perder coherencia cromática. Por su parte, el color **menta oscuro (#059669)** se reserva para realizar el contraste en los botones ya que para estos se usa el color menta claro. Este color aporta estructura y profesionalismo, asegurando que la información crítica sea fácilmente distinguible.
+
+En cuanto a la gama neutra, el **gris muy claro (#F9FAFB)** funciona como base para pantallas y secciones de contenido. Su neutralidad transmite orden y simplicidad, garantizando legibilidad y claridad al dar protagonismo a los elementos interactivos. En contraste, el **gris muy oscuro (#111827)** se emplea en títulos, encabezados y áreas que requieren solidez visual. Este color aporta estructura y profesionalismo, asegurando que la información crítica sea fácilmente distinguible.
+
+Para complementar la lectura, el sistema tipográfico integra dos niveles de color en los textos. El **texto primario (#111827)**, de alto contraste sobre fondos claros, asegura una comprensión inmediata y sin esfuerzo. En paralelo, el **texto secundario (#6B7280)** se aplica en descripciones, anotaciones o contenidos de menor jerarquía. Este gris intermedio suaviza la presentación de la información y evita la saturación visual, manteniendo un estilo moderno y equilibrado.
+
+En conjunto, esta paleta de verdes menta combinados con grises neutros y acentos bien definidos construye una interfaz clara, fresca y profesional. La coherencia cromática no solo mejora la experiencia de usuario, sino que también refuerza los valores de accesibilidad, confianza y modernidad que nuestra marca desea transmitir.
+
+#### **Lenguaje**
+En IoBuild, utilizaremos un lenguaje que refleje nuestra visión de transformar la construcción residencial mediante la integración inteligente de tecnología desde el diseño. Queremos conectar tanto con constructoras y desarrolladores como con los futuros propietarios, manteniendo siempre una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
+
+1. **Profesional pero accesible:** Nuestro objetivo es transmitir seriedad y conocimiento en la aplicación de soluciones tecnológicas a la construcción, sin dejar de ser comprensibles para todos los actores involucrados. Nuestro lenguaje estará planteado de manera clara y cercana, de modo que tanto expertos como clientes puedan comprender el valor de nuestra propuesta sin barreras.
+
+2. **Formal pero cálido:** Si bien mantenemos un tono formal que exprese compromiso, seguridad y confiabilidad, también buscamos acercarnos a nuestros usuarios de una manera humana y auténtica. Queremos que desarrolladores y propietarios sientan que IoBuild no solo ofrece tecnología, sino también acompañamiento y confianza en cada etapa del proceso.
+
+3. **Respetuoso y empático:** Reconocemos la diversidad de necesidades en el sector, desde constructoras que buscan eficiencia hasta propietarios que desean hogares adaptables y modernos. Nuestro lenguaje transmitirá respeto, promoviendo una relación colaborativa y de apoyo mutuo.
+
+4. **Inspirador y optimista:** En IoBuild creemos que el futuro de la construcción es más sostenible, adaptable y tecnológico. Por ello, nos comunicaremos con entusiasmo y convicción, motivando a nuestros usuarios a visualizar y construir una nueva forma de habitar hogares inteligentes.
+
+
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
+#### **Descripción General**
+Este diseño corresponde a la aplicación web de IoBuild, una plataforma que impulsa el futuro de la construcción residencial mediante la integración inteligente de tecnología desde la etapa de diseño. La interfaz busca brindar a las constructoras y desarrolladores una experiencia clara y funcional, optimizando la planificación de proyectos y facilitando la incorporación de soluciones tecnológicas que aporten valor a los futuros propietarios.<br>
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+#### **1. Pantalla principal**
+**Header:**
+- Logo (esquina superior izquierda)
+- Menú de navegación con las opciones: Beneficios, Características, Planes, Nosotros y FAQ.
+- Selector de idioma (inglés y español).
+- El botón “Empezar Ahora”.
+
+![Imagen del Header del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/547184185_1409312160171082_4320287969107684909_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ud4smu8Nbn4Q7kNvwHaG1VU&_nc_oc=AdlEEqU4FrBO_oAyKStx6NMJ8FsnVJ-sAPalGta9GFFRSovdzkth19j3dETNrkuNtCTlrQDuN8edgwj6RqIuwObI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEkLPrRyw0aOZqRLKrYUy3siO-G8sUpboSpsV4rb9SHEQ&oe=68EB3709)
+<br>
+
+**Home:**
+- Mostramos nuestra propuesta de valor con nuestro mensaje central que es revolucionar los proyectos residenciales mediante la integración de IoT.
+- También contamos con dos botones claros para guiar al usuario (CTAs):
+    - **“¡Lo quiero!”:** Un llamado a la acción primario y directo.
+    - **"Ver Beneficios":** Una opción secundaria para usuarios que necesitan más información antes de decidir.
+
+![Imagen de la sección Home del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/543043639_769068599078754_7092594972623208063_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=KejXFHlg4bQQ7kNvwEdLTCs&_nc_oc=AdlY8g-ITjKL9glBz8iVbuukM0Z3MGGcUTsOGfBB9cPusbQYUxADMyjIoURm9cgJrFWOUZ-XSG8qw4onLofVPvPb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHAY2DKRleTRmKnxyu1Soi2UHbBIipxluCQcfT3G899Jw&oe=68EB39E5)
+<br>
+
+**Beneficios:**
+- Esta sección presenta a la empresa IoBuil y tiene como objetivo principal convencer al usuario de por qué debe elegirla.
+- Beneficios clave en secciones destacadas, la información central se presenta en tarjetas, cada uno explicando un beneficio específico:
+    - Integración desde Construcción
+    - Control Personalizado
+    - Gestión Centralizada
+    - Valor Agregado
+    - Ahorro Energético
+    - Soporte Especializado
+- El botón "Registrar mi Proyecto" es el paso clave que se quiere que el usuario realice.
+
+![Imagen de la sección Beneficios del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/542104330_1926395787904091_2065011281942347531_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=izF5IVwD7SgQ7kNvwGBNoU-&_nc_oc=AdnEav7GXxWR69LnHqV35Zm2HWOiskuDCfVGFBY3TGuZMWOUpGuPIyy0DvGnl5nuhwS4DEfMSeUElA1DYqb0O1wJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEdhpPjUopbUQaPZz9VE0ubSoWSbTwvTRIT5pFHGebmPg&oe=68EB2887)
+<br>
+
+**Características Técnicas Avanzadas:**
+- En esta sección presentamos las Características Técnicas Avanzadas y la Tecnología de Vanguardia que ofrece la plataforma, dirigida específicamente a la industria de la construcción.
+    - Dashboard Intuitivo
+    - Ecosistema de Dispositivos
+    - Gestión de Áreas Comunes
+
+![Imagen de la sección CTA 1 del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/542934637_807920531587886_7942219215528859354_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NS0oQXqbiAwQ7kNvwEpR4V6&_nc_oc=AdnMeUGIg5q4qfbk7OMTEcBmdh3c1E_5TTq2TDXPGEiW3ag1NS9av63I2k3yBzaKCGMmlLUvIP1SxK1oCLvzc46F&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHN5vfC39KDDORqhct-udQapDX4d0WG0u5WRBeJBKOaYA&oe=68EB2827)
+![Imagen de la sección CTA 2 del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/543703698_1746008622787030_905219355521369968_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YOlg3D4QxtMQ7kNvwFz39oG&_nc_oc=Admxc9StOD-P8GPITPcMazv2zzRtmnOOlQfA568QhrtMv0HieBuFDwWSiFjEvun7eFREqVe74IoAhZ0xLEq5PIkc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHO0boVA-bvuKFhuoMwGYIShQrjKuh6-hz7eaXCwf6xcg&oe=68EB1E9D)
+<br>
+
+**Testimonios:**
+- En esta sección se encuentran las opiniones y comentarios de las empresas que confiaron la transformación de sus proyectos en IoBuild.
+- Junto a un botón, Call to Action, “Crear mi Cuenta Ahora”, el cual invita a las empresas a dar el siguiente paso inmediato, aprovechando la confianza generada por los testimonios.
+
+![Imagen de la sección Testimonios del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545936634_1448656902847497_2876707668123206767_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NFn4VfZ7DdQQ7kNvwFy55-X&_nc_oc=AdnsuN_d3BtC_vfWcJbqWqVmSnkCg38F2q2-PxC8zID1Y_GY2Z6YHgBDYVnEx7zFviN_4QeF1NcwG_5y_DXpsO3R&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHato9j8JeokrUGWU8hegHwrgI0U4Z3UYpUVqa4on1vwA&oe=68EB1E2B)
+<br>
+
+**Planes Diseñados para tu Escala:**
+- En esta sección se presentan los planes de precios y suscripción de la plataforma, diseñados para adaptarse a diferentes escalas de proyectos.
+- Se presentan tres planes escalonados con diferentes niveles de funcionalidad y precio:
+    - **Starter ($299/mes):** Plan básico para proyectos pequeños.
+    - **Professional ($599/mes):** Plan etiquetado como "Más Popular", ideal para proyectos medianos.
+    - **Enterprise ($1,299/mes):** Plan premium para grandes desarrollos.
+
+![Imagen de la sección PDE del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545748671_1126652992127595_3205445573247519879_n.png?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vspylc5-LGAQ7kNvwHAZPmz&_nc_oc=AdlR8qRoShdaTd4dBhe3nisUVcUqjAPfLQ_6QPrWLOmS-isp_L67y-xTJiNBgCjIr2gKRTJhOo1NMTODxEK8H-6X&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHepizRr8ygEzxSkfrVoEK5I3FpdhdeMuKCYWT3AYSPWQ&oe=68EB410F)
+<br>
+
+- Esta sección actua como el cierre o "call to action" final de la presentación, diseñado para convertir al visitante en cliente.
+    - **"Crear Cuenta Ahora":** Para los decididos.
+    - **"Ver Planes":** Para los que necesitan más información antes de comprometerse.
+
+![Imagen de la sección Cierre del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/547084018_1986872135407512_7533900794389294392_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=g1OsrcBHbVoQ7kNvwGO8vhm&_nc_oc=Adk3TLeuH8kZtTMpOenAptFt3ITAYhC55dZvb8J-_xzmQ0AVksv22m44NrtJOP8vGtqZ58gknxIycLy7OZOPZTmF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGzaN22d-0V-0sQqxpk44BWsDV4KQtGkv8qd-ahVBJsKA&oe=68EB0EE8)
+<br>
+
+**Footer:**
+- Proporciona navegación adicional e información institucional.
+- Estructura de navegación organizada, la información se divide en cuatro columnas temáticas claras:
+    - **Producto:** Enlaces a características, precios, documentación y API.
+    - **Empresa:** Acceso a información corporativa, oportunidades laborales, blog y prensa.
+    - **Soporte:** Recursos de ayuda como FAQ, contacto, centro de ayuda y estado del sistema.
+    - **Legal:** Enlaces a los términos legales y políticas de privacidad.
+
+![Imagen de la sección Footer del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546097530_1508945870137606_2579688907605876187_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=py0o-Ms7iNkQ7kNvwGyFpKb&_nc_oc=Adkg4OQC1kYwqSb7KqPvVC_S_BPTj_TtKEzEwAEnggEqzGwcYSFcI1omZszDBiSyNXAMtkVkqF7mnCmNPyAyy2bi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QE_V02AGIaAMJ1Y3T8bUI-xjbg1bWWtv9M05fT_slsOTA&oe=68EB0C07)
+<br>
+
+
+#### **2. Sobre nosotros**
+**Nuestra misión:**
+- En esta sección se presenta la misión y filosofía de la empresa, estableciendo su propósito fundamental y su visión a largo plazo.
+- El objetivo principal es empoderar a las constructoras con herramientas para crear desarrollos que satisfagan las necesidades actuales, y se adapten y evolucionen con las demandas futuras.
+
+![Imagen de la sección Misión del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546476799_801410365913841_4332806494977399308_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=gSbdFwSgIUIQ7kNvwF7aATv&_nc_oc=AdmGlutjKGUU7WNhABhjNABcKM1VElB26M5Igjqy349x1OMnb7sRNFOqTbJKM7_ePI6kbXuVbLuQT9-pkp3DX_Uu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFa_DziDCJW0qDLC1V2Hax4-3LPKQ-7Y0Bhq-HFw-3v-w&oe=68EB18CB)
+<br>
+
+**Nuestros valores:**
+- Presentamos los valores fundamentales de la empresa, que guían su cultura y operaciones.
+    - Innovación
+    - Excelencia
+    - Colaboración
+    - Sostenibilidad
+
+![Imagen de la sección Valores del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/545966014_774488345310442_6023979702990276290_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=1MOgP5-CYYUQ7kNvwHjITjt&_nc_oc=AdlU6NdlDJ2A6mIlemVQcqvLVBhkLvI9hOqTvxeW6pnrST13UeU35kOWSQrJZKmxcwKYj-f3q6tTyuJlzEqr1rL3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHqaYVMkUL016muVozNW5If3NBkRLHz3Qbgvmdq5HasJQ&oe=68EB0AE0)
+<br>
+
+**Nuestro equipo:**
+- En esta sección se presentan a los cinco miembros que trabajamos en IoBuild, en las tarjetas podemos ver las fotos de los miembros junto a una pequeña descripción de cada uno de ellos.
+
+![Imagen de la sección Equipo del landing page]()
+<br>
+
+- Esta sección actúa como un cierre o "call to action" final, dirigido a potenciales clientes interesados.
+    - **"Ver Nuestros Planes":** Para quienes buscan información específica de precios y características.
+    - **"Contactar Equipo":** Para quienes prefieren una conversación directa con ventas o consultoría.
+
+![Imagen de la sección Cierre del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/542920712_1262871462306662_5747676941987382969_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=QwJ16q7H2OkQ7kNvwHjCsVI&_nc_oc=Adk6Z7tcfu-nzOfTkbl8ZrDq_hUifNSnGfAlMoOxm98s13aeLrthHv33JrwGB68yTlbkgLZ1VEQzjkhPyR3qa8OK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QE8MslfUlhE136KsOptXvBNA0QudVRHcO4heHJUY81BCg&oe=68EB3CC2)
+<br>
+
+#### **3. FAQ**
+**Preguntas Frecuentes:**
+- Funciona como una sección de Preguntas Frecuentes (FAQ) para resolver dudas comunes de manera autónoma y reducir la carga de soporte.
+- Explica que proporciona "Respuestas a las dudas más comunes sobre loBuild".
+- Organización por categorías, las preguntas están clasificadas en cuatro secciones temáticas:
+    - **General** (aspectos básicos)
+    - **Técnico** (detalles tecnológicos)
+    - **Precios** (aspectos económicos)
+    - **Soporte** (asistencia y ayuda)
+
+![Imagen de la sección Preguntas Frecuentes del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545697847_1556515355704090_3743376577603369427_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=M4HztBQWp9YQ7kNvwELcNHj&_nc_oc=AdmLvXI-5iIUJBirv2vegfJ4rJCceIu2OlIQ-msP3c7KDIAZQAKSPy1zCnCefAKZ0ND0gk2qrNQihz_94_DkToRB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHmxwhLRRfK1XuYfRlNUwmyfszX2vmzMLD4DMqUlMTcFA&oe=68EB24B0)
+<br>
+
+- Funciona como una alternativa para usuarios que no encontraron respuesta en las FAQs, capturando leads calificados.
+    - **"Contactar":** Para consultas generales o soporte directo.
+    - **"Solicitar Demo":** Para una demostración personalizada del producto.
+
+![Imagen de la sección Cierre del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546125143_571637575961986_8441775770711138809_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fKHKV9S80s0Q7kNvwESuzNz&_nc_oc=Adk8VnG-pRNkEVhb1kT5oj8BKQqyxN3mcBPncGdw2EaKTnwq83QxqWSV64HoOnW2TRVdkiR_ZQRdTPBjfcVpPu8N&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHk1VxgsXlzE05TP8S7uDZTUvQfGT0XA-oPDlNAr4Qptg&oe=68EB38CD)
+<br>
+
+
 ## 4.2. Information Architecture.
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+CARRERA: Ingeniería de Software
+CURSO: Aplicaciones Web
+NRC: 7461
+PROFESOR: Angel Augusto Velasquez Nuñez
+CLIENTE(S): Javier Maximo Ordoñez Cordova, Christy Karen Callata Alvarez
+SITE o APP A EVALUAR: CcaritaTech
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:
+Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
+- **Configurar funcionalidades inteligentes:** Claridad y facilidad para integrar automatización (iluminación, climatización, seguridad, riego, etc.) dentro de la plataforma.
+- **Gestionar proyectos y roles técnicos:** Facilidad para asignar permisos y colaborar con otros profesionales dentro del mismo entorno.
+- **Acceder a documentación y guías técnicas:** Disponibilidad, organización y comprensión de recursos de soporte (manuales, tutoriales, BIM).
+Segmento Objetivo #2: Dueños de Apartamentos (Usuarios Finales)
+- **Controlar dispositivos desde un único panel:** Usabilidad de la interfaz centralizada para manejar iluminación, clima, seguridad y energía.
+- **Recibir notificaciones y alertas personalizadas:** Facilidad para activar, modificar y entender las notificaciones sobre consumo energético o seguridad.
+- **Acceder a reportes de consumo y eficiencia:** Claridad de la información mostrada y utilidad para la toma de decisiones sobre ahorro energético.
+
+
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+Dentro del diseño de interfaces digitales enfocadas en el usuario, el Organization System funciona como la base de la arquitectura de información, definiendo cómo se ordenan, agrupan y muestran los contenidos en la plataforma. Su propósito es facilitar la comprensión y la navegación, permitiendo que los usuarios encuentren de manera sencilla la propuesta de valor y los recursos más importantes. Este sistema ayuda a disminuir la carga mental, dirigir la atención hacia lo esencial y mejorar la experiencia general de interacción con el producto.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+En el caso de IoBuild, la Landing Page implementa un sistema de organización jerárquico y temático, pensado para comunicar de forma clara el propósito de la aplicación y dirigir la acción del visitante. La estructura se organiza en bloques que siguen una lógica de prioridad: en primer lugar, se despliega un hero section con un mensaje directo sobre la propuesta de valor y un llamado a la acción destacado (“Explora IoBuild”), seguido de secciones que detallan los beneficios de la plataforma para arquitectos, ingenieros y propietarios de viviendas. Posteriormente, se integran apartados complementarios como la presentación del equipo, los objetivos del proyecto y los canales de contacto.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+Tanto el header como el footer refuerzan esta organización al centralizar los accesos principales de navegación (inicio, características, contacto) y los secundarios (redes sociales y enlaces informativos). Esta disposición garantiza que los usuarios comprendan de manera inmediata qué es IoBuild, para quién está dirigido y cómo pueden empezar a interactuar con la solución. Además, la página aplica principios como la progressive disclosure y el diseño responsivo, asegurando una experiencia fluida y clara en dispositivos móviles y de escritorio.
+
+#### **Landing Page – Organization System**
+![Imagen de Landing Page – Organization System]()
+
+
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+En el marco del diseño de la arquitectura de información, los Labeling Systems cumplen la función de comunicar de forma clara, coherente y predecible los elementos de interacción presentes en la interfaz. En IoBuild, cada etiqueta textual utilizada en botones, menús, enlaces y secciones está orientada a guiar al usuario en su recorrido por la Landing Page, facilitando la comprensión del propósito del proyecto y motivando la interacción con los elementos principales.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+La siguiente tabla resume las etiquetas implementadas, su ubicación y su función en la experiencia de usuario:
+
+| Etiqueta | Ubicación/Componente | Función |
+|----------|----------------------|---------|
+| Inicio | Header | Enlace a la página principal. Término estándar y familiar para usuarios. |
+| Sobre Nosotros | Header | Presentación del propósito y misión del proyecto. Genera cercanía y confianza. |
+| Equipo | Header | Sección dedicada al grupo desarrollador, destacando transparencia y credibilidad. |
+| Contacto | Header | Canal directo para comunicación con el equipo. Claro y orientado a la acción. |
+| Explora IoBuild | Hero Section (CTA principal) | Llamada a la acción inmediata para iniciar interacción con la plataforma. Imperativo motiva al usuario. |
+| Objetivos | Sección informativa | Describe las metas del proyecto. Etiqueta concisa y orientada al valor. |
+| Proyecto | Sección informativa | Explica en detalle la propuesta tecnológica. Término claro y descriptivo. |
+| Contáctanos | Footer | Refuerzo del canal de comunicación, mantiene consistencia semántica. |
+| Síguenos | Footer / Redes sociales | Agrupa accesos a redes sociales. Etiqueta convencional y reconocida globalmente. |
+| IoBuild | Marca | Nombre distintivo en mayúsculas. Actúa como ancla visual e identitaria del sitio. |
+
+El sistema de etiquetado en la Landing Page de IoBuild refleja una aplicación consistente de principios de usabilidad y arquitectura de información. Las etiquetas emplean un lenguaje simple, reconocible y orientado a la acción, lo que facilita tanto la navegación como la comprensión inmediata de los contenidos. Asimismo, existe una coherencia semántica entre el header, el cuerpo de la página y el footer, acompañada de un uso de imperativos y sustantivos comunes que refuerzan la accesibilidad cognitiva. Este Labeling System contribuye a la claridad, consistencia y escalabilidad de la experiencia web, garantizando que tanto profesionales técnicos como usuarios finales puedan interactuar sin fricciones con la plataforma.
+
 ### 4.2.3. SEO Tags and Meta Tags
+Los meta tags y etiquetas SEO son elementos esenciales dentro de la sección <head> de cualquier página web, ya que permiten definir cómo es interpretado, indexado y presentado el contenido de un sitio por parte de los motores de búsqueda (como Google) y las redes sociales (como Facebook, Twitter o LinkedIn). Aunque estos elementos no son visibles de forma directa para los usuarios, desempeñan un papel crucial en el posicionamiento orgánico, en la forma en que los enlaces se muestran al compartirse y en la claridad con la que se comunica la propuesta de valor del sitio.
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+En el caso de la Landing Page de IoBuild, se han incorporado meta etiquetas específicas con el objetivo de optimizar la indexación y visibilidad de la plataforma. La meta descripción resume de manera breve y clara la propuesta de IoBuild como una solución tecnológica orientada a la gestión y personalización de espacios inteligentes. Asimismo, se han definido meta keywords que incluyen términos relevantes como IoT, domótica, arquitectura inteligente, automatización de espacios y gestión de hogares inteligentes, lo que refuerza la capacidad del sitio para aparecer en búsquedas relacionadas.
+
+#### 1. Index
+La página principal de IoBuild incorpora un conjunto de etiquetas SEO que fortalecen su posicionamiento y presencia digital. Se incluyen una meta descripción clara sobre la propuesta de valor, palabras clave relacionadas con IoT y automatización residencial, así como etiquetas Open Graph y Twitter Card que aseguran una visualización atractiva y coherente al compartir el sitio en redes sociales. Estas configuraciones, junto con el ajuste de vista responsiva y la codificación adecuada, contribuyen a una experiencia accesible, profesional y optimizada para buscadores y usuarios.
+![Imagen de Meta Tags Index](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545924563_1981449309361755_2615012982454919773_n.png?stp=dst-png_s2048x2048&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YaFnR-a_VSEQ7kNvwGY620x&_nc_oc=AdkDW_2YAy7l1sENJtJHc45f61GOcKI2HjcTeGKhVMsXx11dR2ELhU2VNwIc3_-BrLlNOpfvWpnqYgLNBub89-bo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEKHhNaN55xsL7Kmne4v2iwcmAARPqcYtRzQR24k8dBag&oe=68EDCE81)
+
+#### 2. About Us
+La página Sobre Nosotros de IoBuild incluye etiquetas SEO básicas que refuerzan su propósito informativo y de marca. Se define un título claro y directo, junto con una meta descripción que comunica la misión del proyecto y presenta al equipo como motor de la propuesta de innovación en la industria de la construcción mediante tecnología IoT. Además, se configuran los parámetros técnicos de codificación (UTF-8) y de vista responsiva, asegurando accesibilidad, correcta interpretación del contenido y una experiencia de navegación óptima en distintos dispositivos.
+![Imagen de Meta Tags About-Us](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546932796_25562088580057548_7471885187897257817_n.png?stp=dst-png_s2048x2048&_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fz3haZKPMe4Q7kNvwGXiAqZ&_nc_oc=AdnRMMnTPaUTTEuhd8NuBbhDRE6csN843ukg5KglfnJzX1LLwAzhtcHonbZNGBE8fpHKWhdJ30eYQyOwKivF2Nxc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QH6pNKCCtbH40RJvqPVYISf_pihNA6ZMR-84ku5juNkYQ&oe=68EDD5CE)
+
+#### 3. FAQ
+La página FAQ - Preguntas Frecuentes de IoBuild incorpora etiquetas SEO orientadas a brindar claridad y accesibilidad al usuario. Se define un título descriptivo y directo que comunica de inmediato el propósito de la sección, acompañado de una meta descripción que resume su función como espacio de resolución de dudas sobre la plataforma SaaS y sus aplicaciones en proyectos de construcción con IoT. Asimismo, se incluyen configuraciones técnicas esenciales como la codificación UTF-8 y la vista responsiva, garantizando una correcta interpretación del contenido y una experiencia de navegación fluida en diversos dispositivos.
+![Imagen de Meta Tags FAQ](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/547297363_815734674134182_2168703356033145976_n.png?stp=dst-png_s2048x2048&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=2GmPyS8ps8MQ7kNvwHkA_1I&_nc_oc=AdnCZ1Axgt7ImUJX1ganN6Gp7e3z9Agvk4dt9EVbNU4ggMDslOLSqAcXdkldSgdhQoHb_K2Yh-mA8uZyFAuP9Hf7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QE63DQ6W7c9ByRQQJ1rGSXcgl_9A00AZATnfuBK2NBefg&oe=68EDB582)
+
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+Al ingresar a la landing page de IoBuild, el usuario será recibido con una sección principal que introduce la propuesta de valor de la plataforma, acompañada de un botón destacado que invita a conocer más sobre sus funcionalidades. En la parte superior, la navegación se organiza mediante un menú claro y accesible que permite desplazarse hacia las secciones clave, como Sobre Nosotros, Preguntas Frecuentes y Contacto. Esta estructura busca brindar una experiencia fluida y ordenada, evitando confusiones y facilitando el acceso a la información más relevante.
+
+La navegación está reforzada con etiquetas descriptivas, jerarquía visual y un diseño responsivo, de manera que el usuario siempre tenga claridad sobre en qué parte del sitio se encuentra y cómo puede avanzar o retroceder dentro del flujo. El enfoque de la interfaz prioriza la simplicidad y la claridad, asegurando que el visitante pueda comprender rápidamente la misión de IoBuild y decidir explorar más a fondo sus soluciones tecnológicas.
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+La navegación es un elemento central en la landing page de IoBuild, ya que estructura el recorrido del usuario y facilita el acceso a la información clave sobre la plataforma. Bajo principios de simplicidad, accesibilidad y jerarquía visual, el sistema de navegación ha sido diseñado para garantizar una experiencia clara e intuitiva, tanto en dispositivos de escritorio como en móviles.
+
+IoBuild implementa un sistema de navegación global, persistente y horizontal, ubicado en la parte superior de la página. Este está compuesto por siete elementos principales:
+- **Home:** vinculado al logotipo de IoBuild, que permite regresar a la página de inicio desde cualquier sección.
+- **Beneficios:** apartado que resalta las ventajas concretas para constructoras y propietarios.
+- **Características:** detalle funcional de la plataforma.
+- **Planes:** presenta las opciones comerciales y niveles de servicio adecuados para distintos tamaños de proyecto.
+- **Sobre Nosotros:** ofrece información acerca de la misión, visión y equipo detrás del proyecto.
+- **FAQ:** presenta un apartado de preguntas frecuentes que resuelve las dudas más comunes de los usuarios.
+- **Empezar ahora (CTA):** botón destacado que impulsa la conversión (registro o contacto para proyecto), visualmente diferenciado del resto de enlaces.
+
+El diseño del header utiliza un fondo uniforme y elementos textuales de alto contraste, siguiendo un estilo minimalista que evita distracciones y centra la atención en las decisiones de navegación. La organización de los enlaces sigue una estructura en tres zonas: el logotipo alineado a la izquierda, las secciones principales al centro y las acciones de contacto alineadas a la derecha.
+
+En cuanto a adaptabilidad, la barra de navegación está construida bajo un enfoque mobile-first, ajustándose dinámicamente a distintas resoluciones. En pantallas pequeñas, el menú horizontal se convierte en un menú tipo hamburguesa, asegurando que todas las secciones permanezcan accesibles sin comprometer la usabilidad.
+
+Finalmente, la navegación en IoBuild cumple con principios fundamentales de usabilidad:
+- **Claridad:** los enlaces son directos y fácilmente identificables.
+- **Consistencia:** la barra se mantiene visible y uniforme en todo momento.
+- **Jerarquía:** las secciones más consultadas están ubicadas estratégicamente en el centro de la navegación.
+- **Retroalimentación visual:** se incluyen estados hover y focus que refuerzan la interacción del usuario.
+
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
