@@ -645,14 +645,42 @@ Finalmente, la navegación en IoBuild cumple con principios fundamentales de usa
 
 
 ## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
+La sección de Landing Page UI Design busca definir, estructurar y validar la interfaz visual de la página principal de IoBuild, garantizando una experiencia clara, accesible y centrada en los distintos perfiles de usuario interesados en soluciones IoT para la construcción. Para esta fase se diseñaron los primeros wireframes, los cuales permitieron organizar los contenidos clave como la propuesta de valor de la plataforma, los beneficios, características principales, planes de servicio, sección “Sobre Nosotros”, preguntas frecuentes y un footer con enlaces a contacto y redes sociales. Posteriormente, se elaboraron mockups de alta fidelidad aplicando un sistema de diseño minimalista y funcional, priorizando la jerarquía informativa, la coherencia visual y la consistencia entre dispositivos.
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+### 4.3.1. Landing Page Wireframe.
+[Link ded Figma]<https://shorturl.at/ZkQuE>
+
+#### 1. Home
+![Landing page Home Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548903069_1808293439783932_1809402883401001185_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=_FQVEgMlQakQ7kNvwE8gIZS&_nc_oc=AdnQmwAyL6a28uURJ5l8cPJcPtpVzKmU5lGEO0pNg2hQQpM8UuzOaMD_k9QYVhIZzdw&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFQsUhN-Iwu_32ixSUO2K588dIu0vH__PvcUz-yAUks2w&oe=68EFC57E)
+<br>
+
+#### 1. About Us
+![Landing page About-us Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547359754_601955382998827_928295364492448227_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=UBwZm2ICbwEQ7kNvwH5rZv2&_nc_oc=Adl03DhTV5o7MzKSM6tFjBLP-IiYIOJEmYMiNpjEc7Tz5rnIFzaHchdKbHHxjMznguo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGJM6WZQCTEp3O-gJHIDXDniQSm1gB8ny7NvErkXPJdGg&oe=68EFBBCB)
+<br>
+
+#### 1. FAQ
+![Landing page FAQ 1 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546798550_24992962880353499_1009259461898462028_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=uAlQp2FI2mkQ7kNvwEge5ff&_nc_oc=AdnaqvorL5LJ0TaV077ECix7w3kIGKilRqcH28PfpObgFLCoaRHIPiJMDsxOVBzMGQA&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH_ktMd3VEHXfz4sxte5gMqQd31COk-Mly8vFRpWuA3tQ&oe=68EFA2E7)
+
+![Landing page FAQ 2 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546514474_1160766582768172_8785964478305398275_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xT8N2SfERy0Q7kNvwE5r5vw&_nc_oc=AdlR_LLslQFTp2bB5TnbHqfy-wLMVoONfGq6BDAD28U6nqjWBtmyNWPiYDQQkebpRhE&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGx0z9eT1r79GxNOGTIltX34mmC3NYc1amFuWYKdA9AQw&oe=68EFBE94)
+<br>
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link ded Figma]<https://shorturl.at/ZkQuE>
+
+#### 1. Home
+![Landing page Home Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546695006_1144301977573119_928442194268798903_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=e78WUQ-fyZMQ7kNvwFCWf5X&_nc_oc=AdlGkSjf0dR9Rtw6Ed5T8dqt6qjNlt5e9tfZUjEqGsDSrFQvzSt-tDZWGA9lYD7iGos&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHH5BWWhF8KefPJW4XWALxwHn-UldHTXMhertZdMRyQ8A&oe=68EFC428)
+<br>
+
+#### 2. About Us
+![Landing page About-us Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547694686_819563307299824_2703498214179625419_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xijHjN0uxggQ7kNvwEFJ6ej&_nc_oc=AdkxJzrtV3foajwfKxP_D7JtxmgmREwmdwfj_zkklIyxbHDj1rBFJcdcU_HyWh4K3ME&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGNr7qDa-Q36wTHTcOm0TKW-jAWjLOnsq2c8TklsxdddA&oe=68EFC6FD)
+<br>
+
+#### 3. FAQ
+![Landing page FAQ 1 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546564864_1365322328560436_8806588611230711479_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=hoFtwCBGUSEQ7kNvwGYvMFi&_nc_oc=AdmKvnbAFWMohwRNPm5625LaMfjVIUKoITw93QbVwhThro5Wmikl1OuE1Ja72CvYYeM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFrAP3FxZrHVhFjMgk6yZsHLDz1-Pp6QtmGKqf4oimozQ&oe=68EFA1A9)
+
+![Landing page FAQ 2 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547461061_1098793541976064_8746295049078413109_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=p7CojEi702QQ7kNvwFeEOSZ&_nc_oc=AdlSY7T1YTML7je0Q8e1azHizGo9MxjFH4q3ZhLjHpxZqHrC6c7SIQ_DrBTq0qreFHU&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFUa2F2KYNKOJUpHq1EOnTFMwmyAJcn13Zl9Oe4yoTzZw&oe=68EFAB4F)
+<br>
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
