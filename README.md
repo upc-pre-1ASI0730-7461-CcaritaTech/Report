@@ -514,7 +514,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
 **Nuestro equipo:**
 - En esta sección se presentan a los cinco miembros que trabajamos en IoBuild, en las tarjetas podemos ver las fotos de los miembros junto a una pequeña descripción de cada uno de ellos.
 
-![Imagen de la sección Equipo del landing page]()
+![Imagen de la sección Equipo del landing page](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/547084018_1464904014558575_2755803025044948359_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=mUES0kk7qHYQ7kNvwE7CAnY&_nc_oc=Adm5dJS-p3LAU5qDqz_B5uKYMwjhdJhQ4geSoYXkp4lISNrTHVmvUg0VETVjvLEAr04&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QE7PMFZ-XgG7HLQy0Q3BS6ShL0_9XXfkjX-UegQCGmGtg&oe=68EFAAAA)
 <br>
 
 - Esta sección actúa como un cierre o "call to action" final, dirigido a potenciales clientes interesados.
@@ -546,16 +546,16 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
 
 
 ## 4.2. Information Architecture.
-UX Heuristics & Principles Evaluation
-Usability – Inclusive Design – Information Architecture
-CARRERA: Ingeniería de Software
-CURSO: Aplicaciones Web
-NRC: 7461
-PROFESOR: Angel Augusto Velasquez Nuñez
-CLIENTE(S): Javier Maximo Ordoñez Cordova, Christy Karen Callata Alvarez
+UX Heuristics & Principles Evaluation<br>
+Usability – Inclusive Design – Information Architecture<br>
+CARRERA: Ingeniería de Software<br>
+CURSO: Aplicaciones Web<br>
+NRC: 7461<br>
+PROFESOR: Angel Augusto Velasquez Nuñez<br>
+CLIENTE(S): Javier Maximo Ordoñez Cordova, Christy Karen Callata Alvarez<br>
 SITE o APP A EVALUAR: CcaritaTech
 
-TAREAS A EVALUAR:
+TAREAS A EVALUAR:<br>
 El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:
 Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
 - **Configurar funcionalidades inteligentes:** Claridad y facilidad para integrar automatización (iluminación, climatización, seguridad, riego, etc.) dentro de la plataforma.
