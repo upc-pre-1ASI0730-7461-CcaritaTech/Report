@@ -683,8 +683,29 @@ La sección de Landing Page UI Design busca definir, estructurar y validar la in
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+#### Vista del segmento #1: Arquitectos e Ingenieros Civiles
+![Segmento #1 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546934814_772875618820959_1643343708730820101_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zl9FtUFJeHAQ7kNvwGVPADA&_nc_oc=AdmJCkHiUoDbqzG13fAZr4eIOjwkurxzDz0QvQqm0U1f1xtPA8FRpZSCOIjX2nQwp8c&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGFBLwY28EtZYqZtAkJinyZtEzIIm2Z_8alQZSFa6s87g&oe=68F12890)
+
+![Segmento #1 Wireframe Profile](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548265726_810996184942497_3946170082989081874_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RoLOdR3sotIQ7kNvwFbX7Jj&_nc_oc=Adl0-Lz-QgqJfvy0c5rhX4K5hnQbSDWjTSDYp5IXF36Dak4xHeYRx3Jt991ojojXATY&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QElvvsxfcinRxj3WBB444AHuq-Yys8ongvFsyAKhqiafw&oe=68F11AB9)
+
+![Segmento #1 Wireframe Project](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547403499_798521849219373_14743688471030919_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xFnIff8XZKUQ7kNvwHjiU7o&_nc_oc=AdkIx3yShhsRMmqgN2Q6gb-PzJsPSaN1_N_vMhLfIGt0-LeDYG9vsMbr9oavEkHleLo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFkvyDCVW5smnRyvSba16UCLY1sIMmWAgAYtKMsRCTpkA&oe=68F1121D)
+
+![Segmento #1 Wireframe Management](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549216145_677842172009026_3176599930793983657_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=AYt7vl-wfIsQ7kNvwF8kNPG&_nc_oc=AdlvkAFH_ulkeE4AXQYJbaZeSgheavV-7zKw6P0LvlC3SAl5L4Pfs05p-RnWiJtvhFQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHMLykiQlB7KboQNRHrv6-w4unn9Iebe2QR_eW0A5O0jQ&oe=68F11DEC)
+
+![Segmento #1 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549789816_3700063793458399_951366129761349704_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=8S8zXvV0pNkQ7kNvwHZp1hP&_nc_oc=Adn6PeOyQRRDnOiXuVKNuKSaNaSNfPdQRCxsys1wMRfdf36GViFUETH7Xkk5R94RFNM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QGGqMyz62yJC31SxBTLvbZ1FKawGl63LQ757Ni1A8niGw&oe=68F13999)
+<br><br>
+
+#### Vista del segmento #2: Propietarios de departamentos
+![Segmento #2 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548789966_1363689778710882_7039934852377744894_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fkdiCQYFd7YQ7kNvwHq-hUf&_nc_oc=Admh4FG5P3XMUEYNSS_TW8FnhiZ7Sz7WzIU9XqHyMuWC5mUKdbQRot3AR7sHVA3mgh8&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHmfFGKaLMUqc3gYOmoTFfVty1Bc4Ksx1VpAoOkeUpPdA&oe=68F11129)
+
+![Segmento #2 Wireframe Profile](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549307912_1844807509806857_4502827599932578220_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=kZwF60FNusMQ7kNvwFk2wHk&_nc_oc=AdkQRzmxQoVc8nWKWQCU61_5LZ6IBQywhevri3ZdV6KHJdRaBHnBDCBp8wR1mOXEcCs&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QFBeLLykbgZinyG9xkmn1bAKe-NK-YFM-8dkTo-vhZcYg&oe=68F11858)
+
+![Segmento #2 Wireframe Management](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548892524_787827270691353_4787503330365265407_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zQYYl0PCj-sQ7kNvwHt6S7U&_nc_oc=AdlZP73_PZ2fsrw1ovraQLQgcvhjzFXe6mG9X7yn9_tBpFshw8-4y8EFCjBOfhPO7Lk&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH7XTt9gfRjl_ni8Gy0XSDIBFNOZQ_lePXOAMfhCGhvww&oe=68F122F1)
+
+![Segmento #2 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/548395799_806400318513018_2616395886245004489_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=IAbyFt8bA70Q7kNvwFh2uAC&_nc_oc=AdmgVEXQKET95xsVRTzhgvSzcaJAdcH9zDjYNOBpOZrOI8h7Qs8TBiJRPBdJL31cOxQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHZJ0SuuS2fLLBOtZHVJ0bveGZjIubVkMw0UzMWq0CF-w&oe=68F10B86)
+<br>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
