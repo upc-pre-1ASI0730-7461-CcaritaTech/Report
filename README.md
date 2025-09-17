@@ -741,13 +741,47 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
-### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+**Identity and Access Management**
+
+![Identity and Access Management Class Diagram](https://i.imgur.com/pz8Yk7u.jpeg)
+Este diagrama muestra el contexto de “Gestión de Identidad y Acceso” (Identity and Access Management) con las capas de Aplicación, Dominio e Infraestructura.
+La capa de Aplicación está representada por AuthService, que orquesta los casos de uso de registro de clientes y residentes, inicio de sesión, recuperación de contraseña, asignación de cuentas y actualización de credenciales.
+En la capa de Dominio se encuentra el agregado raíz User, con atributos de autenticación y estado, además de operaciones como authenticate() y updatePassword(). Los roles y permisos se modelan como entidades asociadas (Role, Permission) y los actores del sistema (Client, Resident) se especializan a partir de User.
+La capa de Infraestructura incluye UserRepository y PasswordEncoder, que permiten persistir usuarios y gestionar el cifrado de credenciales. El dominio permanece desacoplado de la tecnología, mientras la aplicación coordina la interacción entre capas.
+
+**Subscriptions and Payments Management**
+
+![Subscriptions and Payments Management Class Diagram](https://i.imgur.com/Lq0cEwL.jpeg)
+Este diagrama muestra el contexto de “Gestión de Suscripciones y Pagos” (Subscriptions and Payments Management) organizado en capas.
+En la Aplicación, BillingService maneja casos de uso como creación y renovación de suscripciones, cancelación y procesamiento de pagos.
+En la capa de Dominio, el agregado raíz Subscription contiene información del plan contratado (PlanType), el estado de la suscripción y las operaciones de renovación y cancelación. BillingCycle y Payment son entidades dependientes: un ciclo de facturación agrupa múltiples pagos, que reflejan montos, métodos y estados de transacción.
+En la Infraestructura, PaymentGateway abstrae la integración con proveedores externos de cobro y SubscriptionRepository asegura persistencia de las suscripciones. De esta forma, el dominio define las reglas del negocio (vigencia de planes y proyectos asociados) y la aplicación las conecta con servicios técnicos.
+
+**Profile and Preferences Management**
+
+![Profile and Preferences Management Class Diagram](https://i.imgur.com/ochpnVI.jpeg)
+Este diagrama muestra el contexto de “Gestión de Perfiles y Preferencias” (Profile and Preferences Management).
+La Aplicación está representada por ProfileService, que centraliza casos de uso como actualización de datos personales, configuración de idioma y ajustes de notificaciones.
+En el Dominio, el agregado raíz UserProfile modela la información de contacto y métodos de actualización, mientras que Preferences contiene opciones de idioma, temas visuales y notificaciones, y puede asociar múltiples NotificationPreference para personalizar los canales de comunicación.
+En la Infraestructura, ProfileRepository persiste y recupera perfiles de usuario. La separación de capas permite que las operaciones de la aplicación se centren en la experiencia del residente, mientras que el dominio mantiene las reglas de personalización.
+
+**Service Execution and Monitoring**
+
+![Service Execution and Monitoring Class Diagram](https://i.imgur.com/YZY6wat.jpeg)
+Este diagrama muestra el contexto de “Ejecución y Control de Dispositivos” (Service Execution and Monitoring).
+La Aplicación cuenta con DeviceService, responsable de registrar dispositivos, asignarlos a unidades habitacionales, enviar comandos y programar escenarios como riego automático.
+En la capa de Dominio, el agregado raíz Device define atributos como estado, ubicación y tipo de dispositivo, y provee operaciones para actualizar su estado y ejecutar comandos. Asociados al dispositivo están entidades como Command, Telemetry y Alert, que modelan la interacción con el hardware. Scene y Schedule permiten coordinar automatizaciones y rutinas preconfiguradas.
+La Infraestructura se compone de IoTGateway, que gestiona la comunicación con los dispositivos físicos, y DeviceRepository, que persiste la configuración y estado. De esta manera, el dominio expresa la lógica de automatización, mientras que la aplicación coordina las interacciones con la capa IoT.
+
+**Dashboard and Analytics**
+
+![Dashboard and Analytics Class Diagram](https://i.imgur.com/x3jfA3F.jpeg)
+Este diagrama muestra el contexto de “Monitoreo y Analítica” (Dashboard and Analytics).
+En la Aplicación, AnalyticsService ofrece casos de uso como generar reportes de consumo energético, actualizar paneles de control y consultar métricas históricas.
+La capa de Dominio está organizada alrededor del agregado raíz Dashboard, que agrupa Widgets para mostrar métricas en tiempo real. Report genera documentos con información consolidada, Analytics representa datos agregados de consumo y rendimiento, y MaintenanceNotification alerta sobre mantenimientos preventivos.
+En la Infraestructura, DataWarehouse sirve como fuente de datos analíticos y DashboardRepository gestiona la persistencia de configuraciones de dashboards. Así, la aplicación actúa como mediadora entre el dominio y las fuentes de datos externas.
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
