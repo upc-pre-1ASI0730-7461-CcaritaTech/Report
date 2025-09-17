@@ -542,7 +542,57 @@ A continuación, se presenta la tabla de control de estado del Sprint 1, la cual
 | US05              | Opción de registro                      | T07                  | Implementar botón de opción de registro                    | Como visitante del sitio, quiero registrarme en la aplicación, para tener acceso a las funcionalidades de la aplicación                             | 3                      | Yeira Huaman    | Done        |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+
+A continuación se presenta un registro de los commits realizados en la rama develop del repositorio upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech durante el Sprint 1. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación de la estructura inicial en HTML hasta la incorporación de componentes clave como la sección de preguntas frecuentes y el equipo. El historial también muestra la integración de estilos responsivos, activos visuales e internacionalización (i18n), evidenciando cómo la landing page fue transformándose paso a paso desde un esqueleto básico hasta una experiencia completa y accesible.
+
+| Repository                                                                 | Branch                                               | Commit Id | Commit Message                                                                  | Commited on (Date) |
+|----------------------------------------------------------------------------|------------------------------------------------------|-----------|---------------------------------------------------------------------------------|--------------------|
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | main                                                 | 42e921f   | chore: readme added.                                                            | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/assets     | b1d0cae   | feat: add feature images.                                                       | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/assets     | fb6ccdc   | feat: add testimonial images.                                                   | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/assets     | f850862   | feat: add bussiness images.                                                     | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/assets     | e1bc275   | feat: add member one image.1                                                    | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | develop                                              | 031ddf7   | Merge pull request #1 from upc-pre-1ASI0730-7461-CcaritaTech/feature/assets     | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/html-files | 2d289cf   | feat: add index html file.                                                      | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/html-files | bfbb943   | feat: add about us html file.                                                   | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/html-files | afc0b39   | feat: add faq html file.                                                        | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | develop                                              | 128798b   | Merge pull request #2 from upc-pre-1ASI0730-7461-CcaritaTech/feature/html-files | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/css-files  | 8e2ba11   | feat: add reset css file.                                                       | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/css-files  | 30287ea   | feat: add style css file.                                                       | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | develop                                              | c60d935   | Merge pull request #3 from upc-pre-1ASI0730-7461-CcaritaTech/feature/css-files  | Sep 09, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/js-files   | 901efb3   | feat: add script js file.                                                       | Sep 10, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | develop                                              | d7018d0   | Merge pull request #4 from upc-pre-1ASI0730-7461-CcaritaTech/feature/js-files   | Sep 10, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | 56b5b79   | update: Team member 2 info and image                                            | Sep 12, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | 9db667b   | chore: add my personal info to about us page                                    | Sep 14, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | develop                                              | fa826df   | Merge pull request #5 from upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | Sep 14, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | 2d1fa88   | chore: add my personal information to about us page                             | Sep 15, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | develop                                              | f1c608a   | Merge pull request #6 from upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | Sep 15, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | f407b87   | chore: add my personal info to about us page                                    | Sep 16, 2025       |
+| [github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/landing-page-CcaritaTech) | upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | b6c68d2   | Merge pull request #7 from upc-pre-1ASI0730-7461-CcaritaTech/feature/about-us   | Sep 16, 2025       |
+
+Durante el Sprint 1, se crearon ramas de desarrollo siguiendo la convención GitFlow (prefijo feature/). Cada rama fue creada desde develop y, tras completar su implementación, se integró mediante Pull Requests (PRs) con revisión por pares, lo que garantizó trazabilidad y calidad en el código.
+
+El equipo realizó commits frecuentes bajo la convención Conventional Commits, lo que permitió un historial claro y estructurado. Ejemplos de mensajes registrados incluyen:
+
+- **chore:** readme added
+
+- **feat:** add about us html file
+
+- **feat:** add testimonial images
+
+- **feat:** add faq html file
+
+- **feat:** add script js file
+
+- **chore:** add my personal info to about us page
+
+Las funcionalidades fueron integradas mediante PRs con descripciones claras, relación con la tarea correspondiente y aprobación del equipo. Este proceso colaborativo fomentó la detección temprana de errores, mejoras continuas y un aprendizaje compartido.
+
+En conjunto, la estrategia de ramificación, el uso disciplinado de commits y la revisión estructurada en GitHub aseguraron una integración continua exitosa, demostrando dominio en control de versiones y colaboración en un entorno profesional.
+
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
