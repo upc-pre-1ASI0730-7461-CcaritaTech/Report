@@ -754,7 +754,7 @@ Esta SPA se conecta con un API Backend central, encargado de coordinar las opera
 
 Gracias a este diseño modular, IoBuild mantiene una separación clara entre la experiencia de usuario y la lógica de negocio, lo que permite escalar sus funciones y reducir el tiempo de despliegue de nuevas capacidades.
 
-![Software Architecture Container Diagram](https://scontent.flim22-2.fna.fbcdn.net/v/t1.15752-9/549734054_3797065477258173_7733848741071725008_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=j4F3CcK3VgkQ7kNvwEQdcy1&_nc_oc=Adkj0G0zsxfm9eXtkQoVN8xiOWTH8w_GorwVEphK5cKeCx5hH9M95VdZQzlqMmMcJxg&_nc_ad=z-m&_nc_cid=1144&_nc_zt=23&_nc_ht=scontent.flim22-2.fna&oh=03_Q7cD3QGL15tJsTW1ONFyQqTgzDUrY6pNvXA-gbhYpm6488qBhA&oe=68F232FC)
+![Software Architecture Container Diagram](http://scontent.flim22-2.fna.fbcdn.net/v/t1.15752-9/550860342_1334601671541433_1851950353888792312_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MdMhPggaJu0Q7kNvwEdwOpP&_nc_oc=AdmEZR_KYMIl1isUJyVAcE53dLx5z6RXH2bQNR85x7N0OcpZkS9UkrmSpCoJDi8xbn0&_nc_ad=z-m&_nc_cid=1144&_nc_zt=23&_nc_ht=scontent.flim22-2.fna&oh=03_Q7cD3QGb9aHojQ9EtXCrNB8xzSq1vx2BNs1KWQdiuxSfNDwwzw&oe=68F25C20)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
