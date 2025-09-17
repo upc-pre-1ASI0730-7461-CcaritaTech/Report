@@ -488,22 +488,55 @@ supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para co
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+### 5.2.1. Sprint 1
+
+Durante el Sprint Planning 1 se definió la implementación de la landing page de la plataforma IoBuild, estableciendo la presencia inicial del producto y los principales puntos de contacto con los usuarios. El trabajo planificado incluyó tanto la organización de la estructura y el diseño visual como la incorporación de funcionalidades esenciales, como la responsividad, la internacionalización y la accesibilidad. A continuación, se detallan la planificación del Sprint, el backlog trabajado, la evidencia de desarrollo y los aspectos de colaboración del equipo.
+
+#### 5.2.1.1. Sprint Planning 1.
+| **Sprint #** | Sprint 1                                                                                                                                                                                                                                                                                             |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                      |
+| **Fecha** | 08/09/2025                                                                                                                                                                                                                                                                                           |
+| **Hora** | 22:00 pm (GMT-5)                                                                                                                                                                                                                                                                                     |
+| **Ubicación** | Reunión virtual por Discord                                                                                                                                                                                                                                                                          |
+| **Preparado por** | CcaritaTech Team                                                                                                                                                                                                                                                                                     |
+| **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari                                                                                                                       |
+| **Sprint Goal & User Stories** | Nuestro enfoque está en entregar una landing page informativa, accesible e internacionalizada.<br>Creemos que esto aportará confianza y facilitará el registro de los visitantes.<br>Esto se confirmará cuando los usuarios puedan navegar la página, resolver dudas y registrarse sin dificultades. |
+| **Velocidad del Sprint 1** | 26                                                                                                                                                                                                                                                                                                   |   
+| **Suma de Puntos de Historia** | 26                                                                                                                                                                                                                                                                                                   |
+
+
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+
+En este apartado se describen los aspectos funcionales más relevantes trabajados durante el Sprint 1 en el desarrollo de la plataforma IoBuild. Cada uno de ellos representa un subconjunto significativo dentro del alcance funcional de la solución, incluyendo componentes de interfaz, características técnicas (I18n), elementos de diseño visual y estructural (UX - UI) y preguntas frecuentes (FAQ).
+
+Para cada aspecto se asignó un responsable principal, denominado Líder (L), encargado de la dirección técnica o de la ejecución. De igual manera, se identificaron Colaboradores (C), miembros del equipo que participaron activamente en la implementación, validación o soporte.
+
+La Matriz LACX (Leadership and Collaboration Matrix) ofrece una representación clara y organizada de la distribución de responsabilidades, favoreciendo la trazabilidad y visibilidad del trabajo colaborativo desarrollado a lo largo del Sprint.
+
+| Team Member                   | GitHub Username | UX-UI | Home Page   | About Us | I18n | FAQ |
+|-------------------------------|-----------------|-------|-------------|----------|------|-----|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | C     | C           | L        | C    | C   |
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | C     | C           | C        | L    | C   |
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C     | L           | C        | C    | C   |
+| Panta Castro, Fabrizio Martin | F4brizio24      | C     | C           | C        | C    | L   |
+| Olivos Huaman, Yeira Shari    | YeiShari        | L     | C           | C        | C    | C   |
+
+#### 5.2.1.3. Sprint Backlog 1.
+El presente Sprint Backlog se orienta a definir la base funcional y visual de la plataforma web de IoBuild, garantizando una primera versión navegable, multilingüe, accesible y con fundamentos de experiencia de usuario listos para futuras extensiones. El objetivo principal del Sprint 1 es implementar una landing page responsive que integre los elementos principales de interfaz, la funcionalidad de internacionalización (I18n), aspectos de diseño UX–UI y una sección de preguntas frecuentes (FAQ), asegurando además el cumplimiento de criterios de accesibilidad (etiquetas ARIA, navegación asistida).
+
+A continuación, se presenta la tabla de control de estado del Sprint 1, la cual detalla las User Stories asignadas, sus correspondientes tareas (Work Items), descripciones funcionales, estimaciones en horas, responsables y el estado actual de avance.
+<br><br>
+![SprintBacklog n](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/547526985_644909325335591_188202778867180243_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=GXAwm19KYj8Q7kNvwGWURCE&_nc_oc=AdkpFp7MjRbQUgFEK5ocgFBxDFlK2d6joQ9F3dpCfYh3PkP3sqPzgyC9uU4LeNKbXjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGX3vct1TIgQRLNxOfxNOyoQq_acrUHzXlInxuGUr7AIQ&oe=68F1EB32) 
+#### 5.2.1.4. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
 
