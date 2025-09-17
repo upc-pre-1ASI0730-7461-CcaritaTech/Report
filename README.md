@@ -717,8 +717,109 @@ Se integrarán servicios RESTful para la comunicación con el backend y se crear
 <br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+#### Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
+Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestionar sus proyectos residenciales, centralizar la información de clientes, monitorear dispositivos IoT implementados en los edificios y configurar opciones de administración de manera eficiente.
+
+**Login / Create Account**
+
+**1. Login:**
+- El usuario de la constructora introduce su correo corporativo y contraseña.
+- Presiona el botón “Login” para acceder a su cuenta empresarial.
+
+**Create Account:**
+- Si es un nuevo usuario, completa un formulario con datos de la empresa, representante y correo corporativo.
+- Presiona “Create” para registrar la cuenta en el sistema.
+
+**Acción esperada:** Autenticarse exitosamente en la plataforma y acceder al Dashboard principal.<br><br>
+
+**2. Dashboard**
+-	Una vez autenticado, el usuario accede al panel principal, donde se visualiza un menú lateral con accesos a secciones clave:
+    - Home
+    - Profile
+    - Projects
+    - Client Management
+    - Configuration
+-	El Dashboard sirve como centro de navegación para todas las funciones de la plataforma.
+
+**Acción esperada:** Orientarse rápidamente en la aplicación y seleccionar la sección que desea administrar.<br><br>
+
+**3. Profile**
+-	Visualiza y edita información del usuario administrador como el nombre, logo, contacto, etc.
+-	Opciones para gestionar miembros del equipo y asignar roles.
+
+**Acción esperada:** Actualizar datos corporativos, ver plan y administrar accesos del equipo.<br><br>
+
+**4. Project Management**
+-	El usuario accede a la sección Projects, donde puede ver un listado de proyectos residenciales activos.
+-	Cada proyecto incluye nombre, estado, fecha y acceso a detalles.
+-	Puede pulsar “+ Add Project” para registrar un nuevo proyecto en la plataforma.
+
+**Acción esperada:** Visualizar, gestionar o crear proyectos residenciales vinculados a la constructora.<br><br>
+
+**5. Client Management**
+-	En la sección Client Management, se despliega una tabla con los clientes asociados a cada proyecto.
+-	Se muestran datos como nombre completo, proyecto asociado, estado y opciones de acción.
+-	El usuario puede añadir nuevos clientes con el botón “+ Add Client”.
+
+**Acción esperada:** Gestionar información de clientes vinculados a los proyectos residenciales.<br><br>
+
+
+**6. Configuration**
+-	En el apartado Configuration, la constructora puede administrar aspectos como notificaciones, seguridad, idioma de la aplicación y soporte técnico.
+-	Incluye secciones de seguridad y privacidad (cambio de contraseña, autenticación en dos pasos), así como alertas del sistema.
+
+**Acción esperada:** Personalizar la configuración de la plataforma para ajustarla a las necesidades de la empresa.<br><br>
+
+[Web Applications Wireflow Diagrams - Arquitectos e Ingenieros Civiles] <https://shorturl.at/ORylU>
+![Web Aplication Wireflow Guest](https://instagram.flim15-1.fna.fbcdn.net/v/t1.15752-9/550333562_1328869475288433_1662306578838956813_n.png?stp=dst-png_s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=qNJNjrmBKWoQ7kNvwFQl9sU&_nc_oc=Adk4AXL2qmmspdB1FhPnT3HT8w-2du28_InBF_CkSfr3uoD7ByHh6DnJl6y6rHhjhS_qwoORwYDuEkpbKdRgnmYI&_nc_zt=23&_nc_ht=instagram.flim15-1.fna&oh=03_Q7cD3QFrVhTITTB_EozewzQ51VMX-jg5BRpQFpBhIpaDg8Obfg&oe=68F2B5DB)
+
+
+#### Segmento Objetivo #2: Dueños de apartamentos
+
+
+**Login / Create Account**
+
+**1. Login:**
+- El usuario introduce su correo electrónico y contraseña.
+- Pulsa “Login” para acceder a su cuenta personal.
+
+**Create Account:**
+- Si es nuevo, completa un formulario con nombre completo, correo, dirección (unidad), y contraseña.
+- Pulsa “Create” para registrar la cuenta.
+
+**Acción esperada:** Autenticarse correctamente y acceder al Dashboard personal.<br><br>
+
+**2. Dashboard**
+-	Una vez autenticado, el usuario accede al panel principal, donde se visualiza un menú lateral con accesos a secciones clave::
+    - Home
+    - Profile
+    - Device Management
+    - Configuration
+-	Al ingresar, el dueño visualiza un Dashboard con widgets clave: consumo energético mensual (gráfico), estado general de dispositivos (rueda/donut), resumen de ahorros por dispositivo (gráfica) y un Notifications feed con alertas recientes.
+
+**Acción esperada:** Obtener un panorama rápido del estado del apartamento y acceder en un clic a control de dispositivos o a la configuración.<br><br>
+
+**3. Profile**
+-	Vista para ver/editar datos personales y de la unidad: nombre, contacto, dirección vinculada, Current Plan, zona horaria e idioma.
+-	Secciones: Edit Profile, Favorite Scene Configuration (botones Use para escenas guardadas), opciones para invitar a familiares o delegar accesos.
+
+**Acción esperada:** Actualizar información del propietario, gestionar quién tiene acceso y elegir escenas favoritas para uso rápido.<br><br>
+
+**4. Device Management**
+-	Acciones principales: + Add Device y + Create Scene.
+-	Dentro de cada dispositivo: estado en tiempo real, historial básico y acceso a ajustes
+
+**Acción esperada:** Añadir, identificar y controlar dispositivos individuales de forma ágil.<br><br>
+
+**5. Configuration**
+-	Panel con secciones: Notifications, Security and Privacy (cambio de contraseña, 2FA, gestión de sesiones), Support and Help y Advanced Device Management
+-	Opciones para activar/desactivar notificaciones críticas, administrar permisos de invitados y configurar preferencias globales de la unidad.
+
+**Acción esperada:** Personalizar la experiencia y garantizar seguridad y soporte.<br><br>
+
+[Web Applications Wireflow Diagrams - Dueños de apartamentos] <https://shorturl.at/h1jhp>
+![Web Aplication Wireflow Guest](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/548402069_1462689048354702_5698437424456371348_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Afd1fb_EjHQQ7kNvwFC4nCM&_nc_oc=AdkSnCN66vc0hXhaakODWYplx7Un3jvycTWnVOpLeybgyI_X_SaCoXRZ1qYskPtyvoGlSahry3ULZJmIgQJwPE_9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFsLIkkTD47bCnz53LW3PSf6Io3DHROGDV6DpFG-BOF6Q&oe=68F296F7)
+
 ### 4.4.2. Web Applications Mock-ups.
 Diseño en todo aspecto
 ![Web Aplication Mockup](image.jpg)
