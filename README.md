@@ -120,8 +120,8 @@
 [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
 [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
 [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
-[4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)   
-[4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)  
+[4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)   
+[4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
 
 [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
 
@@ -556,11 +556,13 @@ CLIENTE(S): Javier Maximo Ordoñez Cordova, Christy Karen Callata Alvarez<br>
 SITE o APP A EVALUAR: CcaritaTech
 
 TAREAS A EVALUAR:<br>
-El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:
+El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:<br>
+
 Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
 - **Configurar funcionalidades inteligentes:** Claridad y facilidad para integrar automatización (iluminación, climatización, seguridad, riego, etc.) dentro de la plataforma.
 - **Gestionar proyectos y roles técnicos:** Facilidad para asignar permisos y colaborar con otros profesionales dentro del mismo entorno.
 - **Acceder a documentación y guías técnicas:** Disponibilidad, organización y comprensión de recursos de soporte (manuales, tutoriales, BIM).
+
 Segmento Objetivo #2: Dueños de Apartamentos (Usuarios Finales)
 - **Controlar dispositivos desde un único panel:** Usabilidad de la interfaz centralizada para manejar iluminación, clima, seguridad y energía.
 - **Recibir notificaciones y alertas personalizadas:** Facilidad para activar, modificar y entender las notificaciones sobre consumo energético o seguridad.
@@ -573,9 +575,6 @@ Dentro del diseño de interfaces digitales enfocadas en el usuario, el Organizat
 En el caso de IoBuild, la Landing Page implementa un sistema de organización jerárquico y temático, pensado para comunicar de forma clara el propósito de la aplicación y dirigir la acción del visitante. La estructura se organiza en bloques que siguen una lógica de prioridad: en primer lugar, se despliega un hero section con un mensaje directo sobre la propuesta de valor y un llamado a la acción destacado (“Explora IoBuild”), seguido de secciones que detallan los beneficios de la plataforma para arquitectos, ingenieros y propietarios de viviendas. Posteriormente, se integran apartados complementarios como la presentación del equipo, los objetivos del proyecto y los canales de contacto.
 
 Tanto el header como el footer refuerzan esta organización al centralizar los accesos principales de navegación (inicio, características, contacto) y los secundarios (redes sociales y enlaces informativos). Esta disposición garantiza que los usuarios comprendan de manera inmediata qué es IoBuild, para quién está dirigido y cómo pueden empezar a interactuar con la solución. Además, la página aplica principios como la progressive disclosure y el diseño responsivo, asegurando una experiencia fluida y clara en dispositivos móviles y de escritorio.
-
-#### **Landing Page – Organization System**
-![Imagen de Landing Page – Organization System]()
 
 
 ### 4.2.2. Labeling Systems.
@@ -820,10 +819,10 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 [Web Applications Wireflow Diagrams - Dueños de apartamentos] <https://shorturl.at/h1jhp>
 ![Web Aplication Wireflow Guest](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/548402069_1462689048354702_5698437424456371348_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Afd1fb_EjHQQ7kNvwFC4nCM&_nc_oc=AdkSnCN66vc0hXhaakODWYplx7Un3jvycTWnVOpLeybgyI_X_SaCoXRZ1qYskPtyvoGlSahry3ULZJmIgQJwPE_9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFsLIkkTD47bCnz53LW3PSf6Io3DHROGDV6DpFG-BOF6Q&oe=68F296F7)
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 Diseño en todo aspecto
 ![Web Aplication Mockup](image.jpg)
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
 ## 4.5. Web Applications Prototyping.
