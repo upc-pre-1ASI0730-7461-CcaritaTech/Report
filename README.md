@@ -728,17 +728,38 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Design-level EventStorming.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
    
-### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+### 4.6.2. Software Architecture Context Diagram.
+El diagrama de contexto muestra la vista más general de IoBuild, destacando a sus actores principales y cómo se relacionan con la plataforma. En este nivel aparecen dos roles clave: las Constructoras, que usan IoBuild para agregar funciones inteligentes a sus proyectos y darles un valor diferencial; y los Propietarios, que ingresan al sistema para personalizar su hogar o espacio de trabajo de forma fácil y sin necesidad de conocimientos técnicos.
 
-### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+Aunque sus objetivos son distintos, ambos se conectan a la misma plataforma, que hace posible que los edificios y viviendas se conviertan en entornos más cómodos, accesibles y personalizables.
+
+Este modelo refuerza la misión de IoBuild: acercar la tecnología de los espacios inteligentes a constructoras y propietarios con herramientas prácticas, simples y útiles. Además, gracias a su diseño modular, la plataforma puede adaptarse a diferentes mercados y necesidades sin perder su esencia.
+
+![Software Architecture Context Diagram](https://scontent.flim3-3.fna.fbcdn.net/v/t1.15752-9/550230179_1120666132864238_8594509770681565109_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pjNQOTXgJscQ7kNvwF8lJ8d&_nc_oc=AdnWgtj8gQ2oKvXzE-lHGWTQ8XmRVkO5QS3CYBgykZbiMhNdZwke1XxYz0Kdpo9o89I&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim3-3.fna&oh=03_Q7cD3QGGYtgzg3w7TvBkS6x4qs7tK3_AbiggDuyE1smwuzfOpA&oe=68F242EF)
+
+
+### 4.6.3. Software Architecture Container Diagrams.
+
+El diagrama de contenedores profundiza en la estructura interna del sistema y muestra cómo está organizado IoBuild en términos de sus principales componentes de ejecución. La aplicación se compone de tres contenedores principales: la Landing Page, la Web App en SPA y el API Backend. Cada uno cumple un rol específico dentro del modelo de negocio.
+
+La Landing Page funciona como el punto de entrada, mostrando la propuesta de valor de IoBuild y diferenciando la experiencia según el tipo de usuario, ya sea una constructora o un propietario. Desde allí, los usuarios acceden a la Web App, una interfaz de una sola página (SPA) que reúne las funcionalidades principales: configuración de espacios inteligentes, personalización de ambientes, gestión de dispositivos y administración de perfiles.
+
+Esta SPA se conecta con un API Backend central, encargado de coordinar las operaciones entre los distintos módulos de la plataforma, como la gestión de proyectos, la administración de dispositivos y la configuración de automatizaciones.
+
+Gracias a este diseño modular, IoBuild mantiene una separación clara entre la experiencia de usuario y la lógica de negocio, lo que permite escalar sus funciones y reducir el tiempo de despliegue de nuevas capacidades.
+
+![Software Architecture Container Diagram](https://scontent.flim22-2.fna.fbcdn.net/v/t1.15752-9/549734054_3797065477258173_7733848741071725008_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=j4F3CcK3VgkQ7kNvwEQdcy1&_nc_oc=Adkj0G0zsxfm9eXtkQoVN8xiOWTH8w_GorwVEphK5cKeCx5hH9M95VdZQzlqMmMcJxg&_nc_ad=z-m&_nc_cid=1144&_nc_zt=23&_nc_ht=scontent.flim22-2.fna&oh=03_Q7cD3QGL15tJsTW1ONFyQqTgzDUrY6pNvXA-gbhYpm6488qBhA&oe=68F232FC)
+
+### 4.6.4. Software Architecture Components Diagrams.
+
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
