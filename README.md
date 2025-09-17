@@ -784,7 +784,27 @@ En la Infraestructura, DataWarehouse sirve como fuente de datos analíticos y Da
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+
+**Identity and Access Management**
+
+![Identity and Access Management Database Diagram](https://i.imgur.com/8Cb07Nl.jpeg)
+
+**Subscriptions and Payments Management**
+
+![Subscriptions and Payments Management Database Diagram](https://i.imgur.com/KTDLL05.jpeg)
+
+**Profile and Preferences Management**
+
+![Profile and Preferences Management Database Diagram](https://i.imgur.com/Hxcvsfw.jpeg)
+
+**Service Execution and Monitoring**
+
+![Service Execution and Monitoring Database Diagram](https://i.imgur.com/uiVbsCf.jpeg)
+
+**Dashboard and Analytics**
+
+![Dashboard and Analytics Database Diagram](https://i.imgur.com/vQY5jOn.jpeg)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
