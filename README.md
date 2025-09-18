@@ -179,10 +179,10 @@
 [Anexos](#anexos)  
 
 # Student Outcome
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+| Criterio Especifico                                                                             |Acciones Realizadas|Conclusiones|
+|-------------------------------------------------------------------------------------------------|-|-|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 |Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
