@@ -521,7 +521,14 @@ En el frontend, se emplea Vue.js como framework principal, implementando una arq
 La estructura y nomenclatura utilizadas en IoBuild siguen convenciones reconocidas como la Vue Style Guide y lineamientos generales de HTML/CSS. Además, el uso del inglés en identificadores, clases y funciones garantiza coherencia en el trabajo colaborativo, simplifica la integración con librerías externas y favorece la comprensión del código por parte de equipos internacionales.
 
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+Para gestionar el desarrollo de IoBuild de manera colaborativa, el equipo utilizó la funcionalidad de forks en GitHub. Al crear un fork, cada integrante seleccionó la cuenta donde alojar su copia del repositorio principal de CcaritaTech/IoBuild, asignó un nombre identificador y, de ser necesario, añadió una breve descripción sobre el propósito del fork. También se podía optar por clonar únicamente la rama principal antes de confirmar la acción.
+
+Una vez creado, el fork quedaba disponible en el perfil del desarrollador como una copia independiente del repositorio original, lista para experimentar, implementar nuevas funcionalidades o realizar pruebas sin afectar directamente al código base. Este flujo permitió mantener la seguridad del repositorio upstream, al mismo tiempo que fomentó la autonomía y la organización del trabajo en equipo.
+![imagen deploy 1](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/551209641_2590248784684689_62718898395542922_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ifER-GXOIrMQ7kNvwHxVHDI&_nc_oc=Adkiv_3giAav70o2cPnVsoby6_FPSQCATu1X7lg0_DE1fd_62FSKhoMq_pEWx7nlXoI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QFZlOHoz4v-a0vULHqgoxJr8EaX--BazSVIdOCmY9dSbg&oe=68F31165)
+![imagen deploy 2](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550819042_1752350062148532_6624849334403069959_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=I2lNrlt39YYQ7kNvwGuraK5&_nc_oc=AdkS2zjRB2o7oFLQoXKqRM4IdjYD_rSDfDvfJ4C49cCCW2pwCiYL9wThUvXd6GtoWCo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGhQwtjkEPL4C6GBemG87zT7jCzXBhrHy01osxxA_btsA&oe=68F2F1DC)
+![imagen deploy 3](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550441587_816068351085267_3258730573043838601_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=A5hNmABt0hYQ7kNvwGU7FEa&_nc_oc=AdnyeZGvY9fafkKzh41PaY3ywrrOXpoQLDtkkT5FJvwXYf0n2koE2bua1SrshSP6Sss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QFKljK2BjO5xXzNmodEHnq0wZl7X7y5M7wFByl-Z0IEGQ&oe=68F2E281)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 
