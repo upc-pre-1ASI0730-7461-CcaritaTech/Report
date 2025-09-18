@@ -1293,20 +1293,103 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 ![Web Aplication Wireflow Guest](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/548402069_1462689048354702_5698437424456371348_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Afd1fb_EjHQQ7kNvwFC4nCM&_nc_oc=AdkSnCN66vc0hXhaakODWYplx7Un3jvycTWnVOpLeybgyI_X_SaCoXRZ1qYskPtyvoGlSahry3ULZJmIgQJwPE_9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFsLIkkTD47bCnz53LW3PSf6Io3DHROGDV6DpFG-BOF6Q&oe=68F296F7)
 
 ### 4.4.3. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+#### Vista del segmento #1: Arquitectos e Ingenieros Civiles
+![Segmento #1 Mock-up Home](https://i.imgur.com/wLeFkTM.png)
+
+![Segmento #1 Mock-up Profile](https://i.imgur.com/7OIRjtS.png)
+
+![Segmento #1 Mock-up Project](https://i.imgur.com/ADSnk0p.png)
+
+![Segmento #1 Mock-up Management](https://i.imgur.com/v1ov938.png)
+
+![Segmento #1 Mock-up Configuration](https://i.imgur.com/6L9l5t1.png)
+<br><br>
+
+#### Vista del segmento #2: Propietarios de departamentos
+![Segmento #2 Mock-up Home](https://i.imgur.com/XsFJjIw.png)
+
+![Segmento #2 Mock-up Profile](https://i.imgur.com/sYr3uTs.png)
+
+![Segmento #2 Mock-up Management](https://i.imgur.com/Kf6tYY5.png)
+
+![Segmento #2 Mock-up Configuration](https://i.imgur.com/gFlZ4yZ.png)
+<br>
+
 ### 4.4.4. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+#### Segmento Objetivo #1: Ingenieros
+
+Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestionar sus proyectos residenciales, centralizar la información de clientes, monitorear dispositivos IoT implementados en los edificios y configurar opciones de administración de manera eficiente.
+
+En el Happy Path, se modeló el flujo ideal que sigue este tipo de usuario desde el menú Home hasta la visualización del estado de los componentes de uno de sus clientes. El recorrido empieza por el menú Home, donde al ingeniero se le presentan los accesos a los menús Profile, Projects, Device Management y Configuration. El ingeniero ingresa al menú Device Management después de seleccionarlo, y se le presenta un listado de sus clientes con información básica como su nombre, el proyecto al que está asociado, el estado de su cuenta y la opción de visualizar su perfil completo. Tras elegir esta opción, el ingeniero podrá visualizar el estado de los componentes del cliente seleccionado.
+
+Happy Path:
+![Web Aplication User Flow Diagram 1 Happy Path](https://i.imgur.com/wlsZ6y6.png)
+
+Unhappy Path:
+![Web Aplication User Flow Diagram 1 Unhappy Path](https://i.imgur.com/CrCaotI.png)
+
+#### Segmento Objetivo #2: Dueños de apartamentos
+
+Los dueños de los apartamentos buscan, con IoBuild, controlar de manera remota sus aparatos electrónicos y obtener información detallada sobre su desempeño.
+
+En el Happy Path, se modeló el flujo ideal que sigue este tipo de usuario desde el menú Home hasta la visualización de la información detallada de uno de sus dispositivos. El recorrido empieza por el menú Home, donde al dueño se le presentan los accesos a los menús Profile, Device Management y Configuration. El dueño ingresa al menú Device Management después de seleccionarlo, y se le presenta un listado de sus aparatos electrónicos con información básica como su nombre, su categoría, su estado en tiempo real y la opción de visualizar sus características y personalizarlo. Tras elegir esta opción, el dueño podrá visualizar el estado del componente seleccionado.
+
+Happy Path:
+![Web Aplication User Flow Diagram 2 Happy Path](https://i.imgur.com/Cj4etGN.png)
+
+Unhappy Path:
+![Web Aplication User Flow Diagram 2 Unappy Path](https://i.imgur.com/H0a6X3I.png)
+
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-level EventStorming.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+Para el diseño del Design Level Event Storming se tomó como base el trabajo realizado en el Big Picture Event Storming. Sin embargo, se incorporaron nuevos elementos y detalles adicionales propios de este nivel, los cuales se explican en la siguiente leyenda.
+![imagen design-level eventstorming leyenda](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/549725075_1191933876082227_6146326008305920957_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ytBpGeme2g0Q7kNvwENNyRk&_nc_oc=AdlPk6uyd0dThqCKjxgiYxX04WMl5twidbUSMc7SJzD7qB4x8RjKZKho6TXNqO-kbZY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QH2RHpwuaDH9suFn9qwqYUONioq1DYN1d8VlkwS-u04dA&oe=68F35A84)
+- **Aggregate:** Representa el núcleo de consistencia donde se agrupan entidades y objetos de valor. En tu caso, un aggregate puede ser el Proyecto Inteligente, ya que dentro de él se concentran configuraciones (iluminación, clima, seguridad) y el avance de obra que se controla como una unidad de consistencia.
+- **Domain Event:** Son los sucesos significativos que ya ocurrieron en el dominio. Aquí entran eventos como Configuración de iluminación aplicada, Clima del espacio ajustado, Reporte de avance generado o Acceso concedido a inquilino. Cada evento captura un cambio de estado relevante que los demás bounded contexts pueden reaccionar.
+- **Hotspot question improvem:** Señala un punto de incertidumbre, duda o posible conflicto en el proceso. Se utiliza para visibilizar preguntas que aún no tienen respuesta clara, de modo que el equipo pueda discutirlas y mejorarlas más adelante
+- **Command:** Son las instrucciones emitidas por un usuario o sistema para provocar un cambio. Ejemplos en tu event storming serían Configurar iluminación, Ajustar clima, Generar reporte o Asignar rol a usuario. Son intenciones que desencadenan la lógica de dominio y, si todo es válido, producen un evento de dominio.
+- **Policy:** Es la lógica que conecta eventos con comandos, actuando como reglas de negocio automáticas. Por ejemplo, si ocurre el evento Configuración de seguridad fallida, una policy podría disparar el comando Notificar al propietario. O si un Reporte de avance generado supera cierto umbral, se dispara automáticamente el comando Alertar al supervisor.
+- **External System:** Son servicios o integraciones externas al dominio que interactúan con él. En tu caso, podrían ser sensores IoT para obtener datos de clima o seguridad, y servicios de autenticación externos para validar identidades de usuarios.
+- **Actor**: Es la persona, rol u organización que interactúa con el sistema o provoca eventos.
+- **Definition:** Aporta una explicación breve y precisa de un concepto clave dentro del dominio.
+- **Comments** Sirve para añadir notas, aclaraciones o hipótesis que enriquecen el contexto. No alteran el flujo, pero ayudan a documentar observaciones útiles para futuras discusiones.
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
-   
+A continuación se muestra el design level eventstorming de dos de los subdominios planteados para IoBuild:
+
+**Resident Onboarding**<br>
+![Design-level EventStorming](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550894466_1584519502511178_1669121837837158688_n.png?stp=dst-png_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=5lKRNCIWPDIQ7kNvwFTEzMI&_nc_oc=AdnAubxnMXB09fcEt-WaMLD2l40PysDRsHqeqs_jiyzu99Ux9YDhcdMS_soS4c35QxU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QHudoBS3LJbLng8ej7QCbC2N71GjFqQp7L7FUa7J3T9DQ&oe=68F347F3)
+El design level eventstorming de Resident Onboarding describe el flujo de incorporación de un nuevo residente al sistema, desde el inicio de sesión del administrador hasta la asignación de un apartamento. El proceso comienza cuando la constructora accede al sistema (autenticación con Google) y selecciona la opción de crear un nuevo usuario. Luego, se llenan los datos correspondientes al residente y se procede a verificar la disponibilidad del apartamento, garantizando que no se encuentre previamente asignado a otra cuenta. Si ocurre un error al ingresar datos o si el departamento ya está ocupado, el sistema despliega notificaciones tanto para el administrador como para el usuario, manteniendo la transparencia en la gestión.
+
+En caso de que el apartamento esté disponible, el sistema lo asigna al nuevo usuario, validando que no exista duplicidad, y se confirma la creación de la cuenta vinculada al departamento. El modelo también plantea la necesidad de mejorar la experiencia mostrando únicamente los apartamentos no asignados, lo que agiliza el proceso de gestión. En resumen, este diseño identifica los comandos, eventos clave y reglas de negocio que permiten asegurar un registro confiable, evitando inconsistencias y garantizando que cada apartamento tenga un único propietario dentro del sistema.
+<br><br>
+
+**Subscription and Payment Management**<br>
+![Design-level EventStorming2](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550214984_814001621202128_4199239677057956828_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=cMoq97Iz5LQQ7kNvwGfvH8l&_nc_oc=AdmXezK1_mM6_k4j0uU9K3FdRk-KXJMAWyOIFDZw5HKZidPdmCH42Pazk9EFtplp0jU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGHDGH26LSwTrvPxpG3IDxuIHufX1ZDLa2M7fvBc3R3OQ&oe=68F34FA5)
+El design level eventstorming de Subscription and Payment Management describe el flujo completo de gestión de suscripciones en la plataforma, desde que una constructora selecciona un plan hasta la activación del mismo tras un pago exitoso. El proceso inicia con el acceso al catálogo de planes, la selección del plan y la firma del contrato, tras lo cual el sistema inicia el proceso de pago. El usuario procede con el pago y, dependiendo del resultado, el sistema acepta o rechaza la transacción. Solo si el pago es aprobado se activa el plan, la cuenta del cliente se actualiza con el nuevo servicio y se envía una notificación confirmando la activación, habilitando así las funcionalidades contratadas.
+
+En caso de que el pago falle, el sistema gestiona un flujo alternativo que incluye notificación de pago rechazado, procesamiento de reembolso y actualización de la cuenta sin beneficios del plan. Además, se establecen reglas de negocio críticas, como que cada cuenta solo puede tener un plan activo a la vez, y se contemplan preguntas abiertas sobre escenarios conflictivos (por ejemplo, qué ocurre si la constructora accede al plan antes de la confirmación del pago). En conjunto, este diseño permite visualizar los eventos clave, comandos y restricciones que aseguran un manejo transparente y confiable de las suscripciones y pagos dentro del sistema.
+<br><br>
+
+**Smart Project Setup**<br>
+![Design-level EventStorming3](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550385596_771890408889284_3967868240304070450_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=2JgsmJDO-VQQ7kNvwFgNM25&_nc_oc=AdmJ0t4ETK_MFj-20OHLJb6iRza3siOGKS16tPMd2bnl5AMThRZcXI8CQyXPUtLlw8Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QE_PqvxyFN01rDTPaXxqQ4jmkNHoumOlLgiWx34ujSB8g&oe=68F34687)
+El design level eventstorming de Smart Project Setup representa el flujo de configuración de un proyecto inteligente desde la recopilación de requerimientos hasta la transferencia final de control al propietario. El proceso arranca con la recepción de necesidades del cliente por parte de la constructora, el registro del proyecto en la plataforma y la carga de planos junto con las especificaciones técnicas mediante software BIM. Posteriormente, se seleccionan los módulos inteligentes y se realiza una validación con el cliente. Si la validación falla, se ajusta la configuración del proyecto; si es exitosa, se integran dispositivos certificados compatibles con la plataforma IoBuild y se continúa hacia la implementación.
+
+La fase de implementación se desarrolla con soporte de IoBuild y proveedores de hardware inteligente, donde pueden presentarse fallos que generan notificaciones de error. En caso contrario, la implementación avanza hasta completarse y se notifica al cliente. Finalmente, se valida la compatibilidad de los dispositivos integrados y se transfiere el control al propietario, quien recibe la administración del sistema. Este diseño enfatiza los eventos clave, reglas de negocio (como integrar solo dispositivos certificados), y escenarios alternativos frente a fallos, asegurando un proceso ordenado y confiable para la gestión de proyectos inteligentes.
+<br><br>
+**Dashboard and Analytics**<br>
+![Design-level EventStorming4](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550442274_3101359913377622_1489752789219280673_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=gfM71BT1PisQ7kNvwFP6XWk&_nc_oc=Adkj8NvrJZuf--ktwZNcrVk-rw2k3PDr8QzdGmfguHAnVbI0MgWcI-_nbGPcXbu_VuI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGVtTVHVRktl3hj-xkA1wcLSXjxt5LXDj6gNif-QuwB8A&oe=68F33FF5)
+El design level event storming de Dashboard and Analytics representa el flujo de monitoreo y gestión de dispositivos inteligentes dentro de un sistema. El proceso inicia con la autenticación del usuario y el acceso al dashboard, donde se muestra información detallada de cada dispositivo conectado, incluyendo estado operativo, historial de uso y consumo energético. Desde esta interfaz, el propietario puede seleccionar dispositivos específicos para configurarlos, lo que desencadena la presentación de parámetros y propuestas de optimización (como sugerencias para ahorro de energía).
+
+En paralelo, el sistema permite la generación de reportes sobre métricas de operación. Durante esta fase se realizan validaciones automáticas; si el reporte presenta fallos o incoherencias, se emiten alertas que son enviadas y recibidas por el propietario. Estas alertas pueden detonar la redacción y envío de sugerencias de ajuste, que posteriormente son aprobadas o rechazadas por el usuario. Una sugerencia aceptada actualiza los parámetros configurados en el sistema.
+<br><br>
+**Service Execution and Monitoring**<br>
+![Design-level EventStorming5](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550931308_831866082712882_7860734570248039804_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ctQWIjUT2NwQ7kNvwF9sunn&_nc_oc=AdlA2b63FcRFsD190YNfhBjhwVQvNQIbU79ZRTDZDSbt-ILys6Vp750haWH6sv4Fo1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QEkOO_gM0NfDSVD0r7QpBBSCy23Vn_BxddEZH6rvMb2VA&oe=68F358EE)
+El design level event storming de Service Execution and Monitoring describe el flujo para la gestión de dispositivos vinculados a la plataforma. El proceso comienza con el inicio de sesión del propietario en la aplicación, donde se autentica al usuario. Si la autenticación falla, se genera un evento de sesión fallida; en caso contrario, se accede al sistema y se habilita la navegación hacia la sección de dispositivos. Desde allí, el usuario selecciona el dispositivo a vincular e inicia el proceso de emparejamiento. El sistema valida la vinculación y, dependiendo del resultado, puede completarse exitosamente o presentar fallos que requieren reintentos.
+
+Cuando la vinculación es exitosa, el sistema notifica al usuario y registra el dispositivo como parte de la plataforma, actualizando automáticamente el panel de control. En caso de fallos, se emite una notificación de error y el sistema invita al reintento. Finalmente, una vez confirmada la vinculación, el propietario recibe la notificación de integración, y el dispositivo aparece disponible en su panel de control para ser administrado. Este diseño contempla tanto los escenarios de éxito como los de falla, asegurando un flujo de monitoreo confiable y orientado a la experiencia del usuario.
+
 ### 4.6.2. Software Architecture Context Diagram.
 El diagrama de contexto muestra la vista más general de IoBuild, destacando a sus actores principales y cómo se relacionan con la plataforma. En este nivel aparecen dos roles clave: las Constructoras, que usan IoBuild para agregar funciones inteligentes a sus proyectos y darles un valor diferencial; y los Propietarios, que ingresan al sistema para personalizar su hogar o espacio de trabajo de forma fácil y sin necesidad de conocimientos técnicos.
 
@@ -1331,7 +1414,17 @@ Gracias a este diseño modular, IoBuild mantiene una separación clara entre la 
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
+El diagrama de componentes profundiza aún más en la vista del sistema, enfocándose en la arquitectura interna del API Backend de IoBuild. Aquí se muestra cómo las responsabilidades de la lógica de negocio se dividen en distintos controladores, servicios y repositorios, lo que permite mantener una separación clara de preocupaciones y un código más mantenible.
 
+Los controladores (AuthController, UserController, DeviceController, SubscriptionController y DashboardController) actúan como punto de entrada desde la SPA, procesando las solicitudes de los usuarios y redirigiéndolas hacia los servicios correspondientes.
+
+Los servicios concentran la lógica de negocio y representan los diferentes contextos funcionales de la plataforma: AuthService gestiona autenticación y control de accesos, UserService administra perfiles y preferencias, DeviceService se encarga de los dispositivos inteligentes y las automatizaciones, SubscriptionService regula planes, pagos y suscripciones, AnalyticsService genera reportes, paneles e insights.
+
+Cada servicio se apoya en un repositorio especializado que gestiona la persistencia en la base de datos (UserRepository, DeviceRepository, SubscriptionRepository, DashboardRepository).
+
+Finalmente, todos los repositorios interactúan con el contenedor externo de base de datos (MySQL), donde se almacenan los datos de usuarios, dispositivos, suscripciones y métricas.
+
+![Software Architecture Component Diagram](https://i.imgur.com/yfLZ5A1.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
