@@ -27,7 +27,7 @@
 |Brayan Roberto Ccarita Cruz|U20221C218|
 |Jean Niels Arizabal Condori|U201919096|
 
-<br> AGOSTO 2025
+<br> Setiembre 2025
 </center>  
 
 # Registro de Versiones del Informe
@@ -51,10 +51,93 @@
 </center>
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/Report)
 
-(Imagenes de los commits cada entrega)
+URL de la organización de github: https://github.com/upc-pre-1ASI0730-7461-CcaritaTech
 
+Axel Ordoñez fue el encargado de crear todas las ramas, pero como se evidencia 
+en el network todos colaboraron en el reporte
+
+**TB1 - Desarrollo del reporte y desarrollo de la landing page**
+Esta primera entrega del proyecto IoBuild se ha centrado en establecer las bases documentales y de diseño, abarcando desde la definición inicial de la startup Ccaritatech y su solución innovadora, hasta el diseño detallado de la interfaz de usuario y la arquitectura de software. Se ha puesto un énfasis particular en la comprensión de las necesidades de los usuarios —constructores y propietarios— a través de diversas técnicas de elicitación y análisis de requisitos, así como en la especificación de los mismos para guiar el desarrollo de la plataforma.
+
+Se han documentado elementos clave como el perfil de la startup, la problemática relacionada con la gestión y personalización de espacios inteligentes y el proceso Lean UX utilizado para su conceptualización. La investigación de mercado se ha complementado con un análisis exhaustivo de competidores y entrevistas con potenciales usuarios, lo que ha permitido la creación de user personas y el mapeo de sus customer journeys.
+
+En la fase de diseño, se han establecido guías de estilo para asegurar coherencia visual y se ha avanzado en la arquitectura de información, definiendo sistemas de organización, etiquetado y navegación. Se han diseñado wireframes y mockups detallados para la Landing Page y la Web App, además de diagramas de flujo de usuario y wireflows que visualizan las interacciones principales.
+
+Asimismo, se ha iniciado la conceptualización de la arquitectura de software mediante la elaboración de diagramas de contexto, contenedores y componentes, junto con el diseño preliminar de la estructura de la base de datos en MySQL, sentando las bases para la implementación. Finalmente, se han realizado ajustes iniciales en el código para optimizar la funcionalidad y el rendimiento de la plataforma.
+
+**Capturas del avance de los colaboradores en el repositorio**
+![Pulse](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550509784_1112332767218605_7015430018320228579_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xEfEEgUyWpMQ7kNvwHRtM90&_nc_oc=AdkU8ZPFRIJiOGPV4HxOMK78KNGeKmrsBi2mQ-p62IXSmI5oSUlK1v9Jf0wMZ-fjv1o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QHjSFIIM8L_MEBWlqeb0pOMfBSFiBkTI0tFfXvh0qHv9g&oe=68F35ECA)
+![Contributors](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/548837459_3811609462477963_122540083232592175_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=XRX9deudrPsQ7kNvwFvB8g6&_nc_oc=AdktZ9aGCMnOV-MqL4aqS4mzw4j6_JvNCoXIM5P4kCHjobcywtOhrrzhFOH6ygwXLPs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QFwv_Z3Ug-DnRtoxPESkOBgGPOQtYqWEwxSLvHG5M3JiQ&oe=68F34E97)
+![Network1](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/548827213_763235300024801_5360289879226009924_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=q9HZONu-uzsQ7kNvwFaZmF_&_nc_oc=AdmkVvFGouGvaO8Y6cskN9xNfAQRVMKUDtFYZuP_t2gZoIYCVwEl1NhE1qhpFiHz1KY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QE_HkJJjfOhFUU70rTSSdIPmop7YAkiL8xVxuxp4BBVtQ&oe=68F34492)
+![Network2](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/549294677_1731715684146408_8407585632297735458_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=O72KSpszCt8Q7kNvwF7Kt1j&_nc_oc=AdkWJYcWmOyrldP7Hgo-WhcM2bRaJlv3JNmc-b9n-uwJFYvA4I6HQdi8RFgrW8ZpegU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QHV8DxT42QqS0CS6-ErStAvnkmP5Umjr1b96aEF9Gpd2w&oe=68F36C36)
+![Network3](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550790240_1041528157910706_5881572553077469553_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=CTVVsaBBZ8IQ7kNvwEnWMUN&_nc_oc=Adkz_ee0uzG2cooMo3MPtEDkYiTe2DjjVfVLI45ZTwiwVf54-6R1OvJtbXVBEiQR_e4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QG-NNSdKzkvPHdE5_UEq8RCVl-8_mV4uq_5v8M-aBJjIg&oe=68F354BE)
+![Network4](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550744084_1240590931086538_9054540993269171326_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=A5bhV50m-YEQ7kNvwHNtigU&_nc_oc=AdnI_bfZ1kbdIRFoTxLk6ffs-oR3va_EEB0k51q7RFTVkIIeVfxFw6XXvCyXckIMmfQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QFrbuY6dGzhD7hxOeo7cEvALGcePV6cBnn5SXXJ6sSw4Q&oe=68F376E0)
+![Network5](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/551410027_679244408532230_1745350695731094865_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=7ClfMxzdkpsQ7kNvwHZcvdu&_nc_oc=Adk5mSK-98ztaOL9CQHXXrQPfoEQAIYuUC6cIJiUTE9b76DajqR4_ShAbRCFA2olEnU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QEq38brmiuUVEECpd630iVJZvYYT1EiyK9UjIgHdvrPKg&oe=68F349EB)
+
+**Fabrizio Panta Castro**
+
+- **Definición de Hipótesis Lean UX y Análisis Preliminar.** Contribuyó con la formulación de hipótesis de diseño bajo Lean UX, además de la documentación de los antecedentes y problemática, estableciendo un marco sólido para comprender el reto.
+
+- **Visualización del Usuario.** Elaboró user journey mapping y empathy mapping, fortaleciendo la comprensión de las necesidades de los usuarios.
+
+- **Guías de Estilo.** Documentó lineamientos generales y específicos para la web, asegurando coherencia visual.
+
+- **Arquitectura de Información.** Integró sistemas de organización, etiquetado, búsqueda, navegación y SEO, claves para la usabilidad.
+
+- **Diseño de la Landing Page.** Desarrolló wireframes y mockups detallados de la página de aterrizaje.
+
+**Yeira Shari Huamán Olivos**
+
+- **Definición de Supuestos UX.** Documentó los supuestos de diseño bajo Lean UX como insumo para la validación temprana.
+
+- **Caracterización de Usuarios.** Creó user personas y la matriz de tareas, identificando roles y objetivos clave.
+
+- **Impact Mapping.** Mapeó los impactos esperados para alinear funcionalidades con los objetivos estratégicos.
+
+- **Diseño Visual en Figma.** Contribuyó con el diseño de la aplicación web y la landing page en Figma.
+
+**Brayan Ccarita Cruz**
+
+- **Despliegue de la Landing Page.** Aportó en la implementación inicial de la página de aterrizaje.
+
+- **Segmentación de Mercado.** Definió los segmentos objetivo relevantes para la plataforma.
+
+- **Lenguaje Ubicuo.** Documentó un lenguaje compartido para la comunicación clara entre negocio y desarrollo.
+
+- **Análisis Competitivo.** Propuso estrategias y tácticas frente a competidores, reforzando la propuesta de valor.
+
+**Jean Niels Arizabal Condori**
+
+- **Canvas de Lean UX.** Elaboró el Lean UX Canvas como guía central de la conceptualización.
+
+- **Diseño Visual y Flujos.** Contribuyó con mockups en Figma, diagramas de flujo de usuario y wireflows.
+
+- **Arquitectura de Software.** Documentó el C4 Model y diagramas de clases, proporcionando una visión técnica integral.
+
+- **Gestión de Configuración de Software.** Detalló configuraciones del entorno de desarrollo, gestión de código fuente, convenciones de estilo y despliegue.
+
+- **Diseño y Base de Datos.** Implementó diagramas de base de datos y colaboró en la implementación de landing page y servicios.
+
+**Axel Randall Ordoñez Ricaldi**
+
+- **Perfil de la Startup y Problemática.** Documentó la descripción de IoBuild y el problem statement bajo Lean UX.
+
+- **Entrevistas.** Diseñó, registró y analizó entrevistas a usuarios, generando insumos directos para el diseño.
+
+- **Gestión de Requisitos.** Elaboró historias de usuario y product backlog.
+
+- **Planificación y Seguimiento Ágil.** Lideró sprint planning, backlog y la definición de líderes/aspectos de sprint.
+
+- **Evidencias de Sprint.** Documentó evidencias de desarrollo, ejecución, despliegue y colaboración del equipo para revisión de sprint.
+
+**Contribuciones grupales**
+
+- **Big Picture Event Storming.** Desarrollo conjunto de la visión general del dominio.
+
+- **Design Level Event Storming.** Refinamiento de los procesos clave y definición de bounded contexts.
+
+- **Product Backlog.** Construcción colaborativa del backlog priorizado de IoBuild.
 
 # Contenido
 
@@ -99,16 +182,16 @@
 [2.3.2. User Task Matrix](#232-user-task-matrix)  
 [2.3.3. User Journey Mapping](#233-user-journey-mapping)  
 [2.3.4. Empathy Mapping](#234-empathy-mapping)  
-[2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping) 
 
-[2.4. Ubiquitous Language](#24-ubiquitous-language)  
+[2.4. Big Picture EventStorming](#24-big-picture-eventstorming)  
+
+[2.5. Ubiquitous Language](#25-ubiquitous-language)  
 
 [Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)  
 
-[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)    
-[3.2. User Stories](#32-user-stories)  
-[3.3. Impact Mapping](#33-impact-mapping)  
-[3.4. Product Backlog](#34-product-backlog)  
+[3.1. User Stories](#31-user-stories)  
+[3.2. Impact Mapping](#32-impact-mapping)  
+[3.3. Product Backlog](#33-product-backlog)  
 
 [Capítulo IV: Product Desig](#capítulo-iv-product-design)  
 
@@ -135,10 +218,11 @@
 
 [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
 
-[4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)  
-[4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)  
-[4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)  
-[4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
+[4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+[4.6.1. Design-Level EventStorming](#461-software-architecture-context-diagram) 
+[4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)  
+[4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)  
+[4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)  
 
 [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)  
 [4.7.1. Class Diagrams](#471-class-diagrams)  
@@ -156,15 +240,20 @@
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.X. Sprint ](#52x-sprint-n)  
-[5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)  
-[5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
-[5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
-[5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
-[5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
-[5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
+[5.2.1. Sprint 1](#521-sprint-1)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+[5.2.1.1. Aspect Leaders and Collaboratos](#5212-aspect-leaders-and-collaborators)
+[5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)  
+[5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)   
+[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) 
+
+
+[Conclusiones](#conclusiones)
+[Bibliografía](#bibliografía)
+[Anexos](#Anexos)
 
 <!-- [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
