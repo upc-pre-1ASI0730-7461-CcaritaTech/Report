@@ -1193,6 +1193,46 @@ Explicar como vamos a plannear el sprint?
 ![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+## Conclusiones
+
+#### Conclusiones
+
+El trabajo realizado con IoBuild permitió confirmar la vigencia y relevancia de los problem statements planteados en la etapa inicial. Las entrevistas y procesos de needfinding validaron que tanto las empresas constructoras como los propietarios enfrentan dificultades para acceder a soluciones de domótica accesibles, debido a los altos costos, la complejidad técnica y la falta de integración entre sistemas. Esta situación genera frustración en los usuarios finales y limita la capacidad de las constructoras para diferenciar sus proyectos en un mercado cada vez más competitivo.
+
+En cuanto a los assumptions formulados, se comprobó que los usuarios efectivamente valoran contar con una interfaz unificada y sencilla para gestionar sus espacios, así como la posibilidad de personalizar funciones sin conocimientos técnicos avanzados. No obstante, también se evidenció que la decisión de adopción en el sector construcción sigue dependiendo de factores como la facilidad de implementación en proyectos y la reducción de costos asociados.
+
+Las hypothesis statements fueron contrastadas con resultados favorables en varios aspectos. Se ratificó que la personalización de ambientes y la eficiencia energética representan un valor diferenciador clave para la adopción de IoBuild, mientras que las alianzas estratégicas con fabricantes continúan siendo fundamentales para incrementar la compatibilidad del sistema y reducir barreras de entrada. La hipótesis de escalabilidad en proyectos tanto de construcción nueva como de remodelación se percibe como viable, aunque aún requiere pruebas piloto adicionales en contextos reales.
+
+Finalmente, respecto a los criterios de éxito planteados bajo el marco de Lean UX, se concluye que estos son alcanzables siempre que IoBuild mantenga su enfoque en la simplicidad, la accesibilidad y la generación de valor tangible para los distintos segmentos. En conjunto, los resultados obtenidos respaldan que IoBuild cuenta con un potencial sólido para diferenciarse en el mercado inmobiliario, democratizando el acceso a tecnologías inteligentes y contribuyendo a la creación de espacios más sostenibles y personalizados.
+
+#### Recomendaciones
+
+
+
+## Bibliografía
+## Anexos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
