@@ -127,8 +127,8 @@
 [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
 [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
 [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
-[4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)   
-[4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)  
+[4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)   
+[4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
 
 [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
 
@@ -985,7 +985,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
 **Nuestro equipo:**
 - En esta sección se presentan a los cinco miembros que trabajamos en IoBuild, en las tarjetas podemos ver las fotos de los miembros junto a una pequeña descripción de cada uno de ellos.
 
-![Imagen de la sección Equipo del landing page]()
+![Imagen de la sección Equipo del landing page](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/547084018_1464904014558575_2755803025044948359_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=mUES0kk7qHYQ7kNvwE7CAnY&_nc_oc=Adm5dJS-p3LAU5qDqz_B5uKYMwjhdJhQ4geSoYXkp4lISNrTHVmvUg0VETVjvLEAr04&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QE7PMFZ-XgG7HLQy0Q3BS6ShL0_9XXfkjX-UegQCGmGtg&oe=68EFAAAA)
 <br>
 
 - Esta sección actúa como un cierre o "call to action" final, dirigido a potenciales clientes interesados.
@@ -1017,21 +1017,23 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
 
 
 ## 4.2. Information Architecture.
-UX Heuristics & Principles Evaluation
-Usability – Inclusive Design – Information Architecture
-CARRERA: Ingeniería de Software
-CURSO: Aplicaciones Web
-NRC: 7461
-PROFESOR: Angel Augusto Velasquez Nuñez
-CLIENTE(S): Javier Maximo Ordoñez Cordova, Christy Karen Callata Alvarez
+UX Heuristics & Principles Evaluation<br>
+Usability – Inclusive Design – Information Architecture<br>
+CARRERA: Ingeniería de Software<br>
+CURSO: Aplicaciones Web<br>
+NRC: 7461<br>
+PROFESOR: Angel Augusto Velasquez Nuñez<br>
+CLIENTE(S): Javier Maximo Ordoñez Cordova, Christy Karen Callata Alvarez<br>
 SITE o APP A EVALUAR: CcaritaTech
 
-TAREAS A EVALUAR:
-El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:
+TAREAS A EVALUAR:<br>
+El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:<br>
+
 Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
 - **Configurar funcionalidades inteligentes:** Claridad y facilidad para integrar automatización (iluminación, climatización, seguridad, riego, etc.) dentro de la plataforma.
 - **Gestionar proyectos y roles técnicos:** Facilidad para asignar permisos y colaborar con otros profesionales dentro del mismo entorno.
 - **Acceder a documentación y guías técnicas:** Disponibilidad, organización y comprensión de recursos de soporte (manuales, tutoriales, BIM).
+
 Segmento Objetivo #2: Dueños de Apartamentos (Usuarios Finales)
 - **Controlar dispositivos desde un único panel:** Usabilidad de la interfaz centralizada para manejar iluminación, clima, seguridad y energía.
 - **Recibir notificaciones y alertas personalizadas:** Facilidad para activar, modificar y entender las notificaciones sobre consumo energético o seguridad.
@@ -1044,9 +1046,6 @@ Dentro del diseño de interfaces digitales enfocadas en el usuario, el Organizat
 En el caso de IoBuild, la Landing Page implementa un sistema de organización jerárquico y temático, pensado para comunicar de forma clara el propósito de la aplicación y dirigir la acción del visitante. La estructura se organiza en bloques que siguen una lógica de prioridad: en primer lugar, se despliega un hero section con un mensaje directo sobre la propuesta de valor y un llamado a la acción destacado (“Explora IoBuild”), seguido de secciones que detallan los beneficios de la plataforma para arquitectos, ingenieros y propietarios de viviendas. Posteriormente, se integran apartados complementarios como la presentación del equipo, los objetivos del proyecto y los canales de contacto.
 
 Tanto el header como el footer refuerzan esta organización al centralizar los accesos principales de navegación (inicio, características, contacto) y los secundarios (redes sociales y enlaces informativos). Esta disposición garantiza que los usuarios comprendan de manera inmediata qué es IoBuild, para quién está dirigido y cómo pueden empezar a interactuar con la solución. Además, la página aplica principios como la progressive disclosure y el diseño responsivo, asegurando una experiencia fluida y clara en dispositivos móviles y de escritorio.
-
-#### **Landing Page – Organization System**
-![Imagen de Landing Page – Organization System]()
 
 
 ### 4.2.2. Labeling Systems.
@@ -1116,53 +1115,288 @@ Finalmente, la navegación en IoBuild cumple con principios fundamentales de usa
 
 
 ## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
+La sección de Landing Page UI Design busca definir, estructurar y validar la interfaz visual de la página principal de IoBuild, garantizando una experiencia clara, accesible y centrada en los distintos perfiles de usuario interesados en soluciones IoT para la construcción. Para esta fase se diseñaron los primeros wireframes, los cuales permitieron organizar los contenidos clave como la propuesta de valor de la plataforma, los beneficios, características principales, planes de servicio, sección “Sobre Nosotros”, preguntas frecuentes y un footer con enlaces a contacto y redes sociales. Posteriormente, se elaboraron mockups de alta fidelidad aplicando un sistema de diseño minimalista y funcional, priorizando la jerarquía informativa, la coherencia visual y la consistencia entre dispositivos.
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+### 4.3.1. Landing Page Wireframe.
+[Link ded Figma]<https://shorturl.at/ZkQuE>
+
+#### 1. Home
+![Landing page Home Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548903069_1808293439783932_1809402883401001185_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=_FQVEgMlQakQ7kNvwE8gIZS&_nc_oc=AdnQmwAyL6a28uURJ5l8cPJcPtpVzKmU5lGEO0pNg2hQQpM8UuzOaMD_k9QYVhIZzdw&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFQsUhN-Iwu_32ixSUO2K588dIu0vH__PvcUz-yAUks2w&oe=68EFC57E)
+<br>
+
+#### 1. About Us
+![Landing page About-us Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547359754_601955382998827_928295364492448227_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=UBwZm2ICbwEQ7kNvwH5rZv2&_nc_oc=Adl03DhTV5o7MzKSM6tFjBLP-IiYIOJEmYMiNpjEc7Tz5rnIFzaHchdKbHHxjMznguo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGJM6WZQCTEp3O-gJHIDXDniQSm1gB8ny7NvErkXPJdGg&oe=68EFBBCB)
+<br>
+
+#### 1. FAQ
+![Landing page FAQ 1 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546798550_24992962880353499_1009259461898462028_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=uAlQp2FI2mkQ7kNvwEge5ff&_nc_oc=AdnaqvorL5LJ0TaV077ECix7w3kIGKilRqcH28PfpObgFLCoaRHIPiJMDsxOVBzMGQA&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH_ktMd3VEHXfz4sxte5gMqQd31COk-Mly8vFRpWuA3tQ&oe=68EFA2E7)
+
+![Landing page FAQ 2 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546514474_1160766582768172_8785964478305398275_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xT8N2SfERy0Q7kNvwE5r5vw&_nc_oc=AdlR_LLslQFTp2bB5TnbHqfy-wLMVoONfGq6BDAD28U6nqjWBtmyNWPiYDQQkebpRhE&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGx0z9eT1r79GxNOGTIltX34mmC3NYc1amFuWYKdA9AQw&oe=68EFBE94)
+<br>
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link ded Figma]<https://shorturl.at/ZkQuE>
+
+#### 1. Home
+![Landing page Home Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546695006_1144301977573119_928442194268798903_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=e78WUQ-fyZMQ7kNvwFCWf5X&_nc_oc=AdlGkSjf0dR9Rtw6Ed5T8dqt6qjNlt5e9tfZUjEqGsDSrFQvzSt-tDZWGA9lYD7iGos&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHH5BWWhF8KefPJW4XWALxwHn-UldHTXMhertZdMRyQ8A&oe=68EFC428)
+<br>
+
+#### 2. About Us
+![Landing page About-us Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547694686_819563307299824_2703498214179625419_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xijHjN0uxggQ7kNvwEFJ6ej&_nc_oc=AdkxJzrtV3foajwfKxP_D7JtxmgmREwmdwfj_zkklIyxbHDj1rBFJcdcU_HyWh4K3ME&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGNr7qDa-Q36wTHTcOm0TKW-jAWjLOnsq2c8TklsxdddA&oe=68EFC6FD)
+<br>
+
+#### 3. FAQ
+![Landing page FAQ 1 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546564864_1365322328560436_8806588611230711479_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=hoFtwCBGUSEQ7kNvwGYvMFi&_nc_oc=AdmKvnbAFWMohwRNPm5625LaMfjVIUKoITw93QbVwhThro5Wmikl1OuE1Ja72CvYYeM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFrAP3FxZrHVhFjMgk6yZsHLDz1-Pp6QtmGKqf4oimozQ&oe=68EFA1A9)
+
+![Landing page FAQ 2 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547461061_1098793541976064_8746295049078413109_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=p7CojEi702QQ7kNvwFeEOSZ&_nc_oc=AdlSY7T1YTML7je0Q8e1azHizGo9MxjFH4q3ZhLjHpxZqHrC6c7SIQ_DrBTq0qreFHU&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFUa2F2KYNKOJUpHq1EOnTFMwmyAJcn13Zl9Oe4yoTzZw&oe=68EFAB4F)
+<br>
+
 ## 4.4. Web Applications UX/UI Design.
+La sección de Diseño UX/UI de Aplicaciones Web se enfoca en la creación de interfaces y la definición de la experiencia de usuario para las soluciones web de IoBuild. Este proceso abarca desde la conceptualización de las vistas funcionales hasta la definición de flujos de interacción completos, diseñados específicamente para satisfacer las necesidades de nuestros dos segmentos clave: Arquitectos/Ingenieros y Propietarios.
+
+En esta etapa inicial, se procedió al diseño de mockups de alta fidelidad, los cuales se alinearon con el sistema visual y la identidad de marca adoptados para la plataforma IoBuild. Este enfoque garantiza la consistencia, simplicidad y una clara orientación a la tarea en todas las interacciones.
+
+Los componentes de la interfaz fueron meticulosamente organizados siguiendo flujos de usuario validados previamente, tomando como referencia los Empathy Map desarrollados en fases anteriores. Esto asegura que cada acción del usuario tenga un propósito claro y un recorrido intuitivo dentro de la experiencia de la plataforma.
+
+La estructura de navegación ha sido concebida para ofrecer una experiencia inclusiva y eficiente, aplicando criterios de accesibilidad (a11y) para garantizar que la plataforma sea usable para todos, y soporte multilenguaje (i18n) para una adopción global.
+
+Se integrarán servicios RESTful para la comunicación con el backend y se crearán prototipos navegables que permitan validar funcionalmente las interacciones más críticas del sistema con usuarios reales. Esto asegurará que la solución digital de IoBuild no solo sea atractiva visualmente, sino también robusta, intuitiva y alineada con las expectativas de sus usuarios.
+
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+#### Vista del segmento #1: Arquitectos e Ingenieros Civiles
+![Segmento #1 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546934814_772875618820959_1643343708730820101_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zl9FtUFJeHAQ7kNvwGVPADA&_nc_oc=AdmJCkHiUoDbqzG13fAZr4eIOjwkurxzDz0QvQqm0U1f1xtPA8FRpZSCOIjX2nQwp8c&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGFBLwY28EtZYqZtAkJinyZtEzIIm2Z_8alQZSFa6s87g&oe=68F12890)
+
+![Segmento #1 Wireframe Profile](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548265726_810996184942497_3946170082989081874_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RoLOdR3sotIQ7kNvwFbX7Jj&_nc_oc=Adl0-Lz-QgqJfvy0c5rhX4K5hnQbSDWjTSDYp5IXF36Dak4xHeYRx3Jt991ojojXATY&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QElvvsxfcinRxj3WBB444AHuq-Yys8ongvFsyAKhqiafw&oe=68F11AB9)
+
+![Segmento #1 Wireframe Project](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547403499_798521849219373_14743688471030919_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xFnIff8XZKUQ7kNvwHjiU7o&_nc_oc=AdkIx3yShhsRMmqgN2Q6gb-PzJsPSaN1_N_vMhLfIGt0-LeDYG9vsMbr9oavEkHleLo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFkvyDCVW5smnRyvSba16UCLY1sIMmWAgAYtKMsRCTpkA&oe=68F1121D)
+
+![Segmento #1 Wireframe Management](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549216145_677842172009026_3176599930793983657_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=AYt7vl-wfIsQ7kNvwF8kNPG&_nc_oc=AdlvkAFH_ulkeE4AXQYJbaZeSgheavV-7zKw6P0LvlC3SAl5L4Pfs05p-RnWiJtvhFQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHMLykiQlB7KboQNRHrv6-w4unn9Iebe2QR_eW0A5O0jQ&oe=68F11DEC)
+
+![Segmento #1 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549789816_3700063793458399_951366129761349704_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=8S8zXvV0pNkQ7kNvwHZp1hP&_nc_oc=Adn6PeOyQRRDnOiXuVKNuKSaNaSNfPdQRCxsys1wMRfdf36GViFUETH7Xkk5R94RFNM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QGGqMyz62yJC31SxBTLvbZ1FKawGl63LQ757Ni1A8niGw&oe=68F13999)
+<br><br>
+
+#### Vista del segmento #2: Propietarios de departamentos
+![Segmento #2 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548789966_1363689778710882_7039934852377744894_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fkdiCQYFd7YQ7kNvwHq-hUf&_nc_oc=Admh4FG5P3XMUEYNSS_TW8FnhiZ7Sz7WzIU9XqHyMuWC5mUKdbQRot3AR7sHVA3mgh8&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHmfFGKaLMUqc3gYOmoTFfVty1Bc4Ksx1VpAoOkeUpPdA&oe=68F11129)
+
+![Segmento #2 Wireframe Profile](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549307912_1844807509806857_4502827599932578220_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=kZwF60FNusMQ7kNvwFk2wHk&_nc_oc=AdkQRzmxQoVc8nWKWQCU61_5LZ6IBQywhevri3ZdV6KHJdRaBHnBDCBp8wR1mOXEcCs&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QFBeLLykbgZinyG9xkmn1bAKe-NK-YFM-8dkTo-vhZcYg&oe=68F11858)
+
+![Segmento #2 Wireframe Management](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548892524_787827270691353_4787503330365265407_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zQYYl0PCj-sQ7kNvwHt6S7U&_nc_oc=AdlZP73_PZ2fsrw1ovraQLQgcvhjzFXe6mG9X7yn9_tBpFshw8-4y8EFCjBOfhPO7Lk&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH7XTt9gfRjl_ni8Gy0XSDIBFNOZQ_lePXOAMfhCGhvww&oe=68F122F1)
+
+![Segmento #2 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/548395799_806400318513018_2616395886245004489_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=IAbyFt8bA70Q7kNvwFh2uAC&_nc_oc=AdmgVEXQKET95xsVRTzhgvSzcaJAdcH9zDjYNOBpOZrOI8h7Qs8TBiJRPBdJL31cOxQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHZJ0SuuS2fLLBOtZHVJ0bveGZjIubVkMw0UzMWq0CF-w&oe=68F10B86)
+<br>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
-### 4.4.2. Web Applications Mock-ups.
+#### Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
+Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestionar sus proyectos residenciales, centralizar la información de clientes, monitorear dispositivos IoT implementados en los edificios y configurar opciones de administración de manera eficiente.
+
+**Login / Create Account**
+
+**1. Login:**
+- El usuario de la constructora introduce su correo corporativo y contraseña.
+- Presiona el botón “Login” para acceder a su cuenta empresarial.
+
+**Create Account:**
+- Si es un nuevo usuario, completa un formulario con datos de la empresa, representante y correo corporativo.
+- Presiona “Create” para registrar la cuenta en el sistema.
+
+**Acción esperada:** Autenticarse exitosamente en la plataforma y acceder al Dashboard principal.<br><br>
+
+**2. Dashboard**
+-	Una vez autenticado, el usuario accede al panel principal, donde se visualiza un menú lateral con accesos a secciones clave:
+    - Home
+    - Profile
+    - Projects
+    - Client Management
+    - Configuration
+-	El Dashboard sirve como centro de navegación para todas las funciones de la plataforma.
+
+**Acción esperada:** Orientarse rápidamente en la aplicación y seleccionar la sección que desea administrar.<br><br>
+
+**3. Profile**
+-	Visualiza y edita información del usuario administrador como el nombre, logo, contacto, etc.
+-	Opciones para gestionar miembros del equipo y asignar roles.
+
+**Acción esperada:** Actualizar datos corporativos, ver plan y administrar accesos del equipo.<br><br>
+
+**4. Project Management**
+-	El usuario accede a la sección Projects, donde puede ver un listado de proyectos residenciales activos.
+-	Cada proyecto incluye nombre, estado, fecha y acceso a detalles.
+-	Puede pulsar “+ Add Project” para registrar un nuevo proyecto en la plataforma.
+
+**Acción esperada:** Visualizar, gestionar o crear proyectos residenciales vinculados a la constructora.<br><br>
+
+**5. Client Management**
+-	En la sección Client Management, se despliega una tabla con los clientes asociados a cada proyecto.
+-	Se muestran datos como nombre completo, proyecto asociado, estado y opciones de acción.
+-	El usuario puede añadir nuevos clientes con el botón “+ Add Client”.
+
+**Acción esperada:** Gestionar información de clientes vinculados a los proyectos residenciales.<br><br>
+
+
+**6. Configuration**
+-	En el apartado Configuration, la constructora puede administrar aspectos como notificaciones, seguridad, idioma de la aplicación y soporte técnico.
+-	Incluye secciones de seguridad y privacidad (cambio de contraseña, autenticación en dos pasos), así como alertas del sistema.
+
+**Acción esperada:** Personalizar la configuración de la plataforma para ajustarla a las necesidades de la empresa.<br><br>
+
+[Web Applications Wireflow Diagrams - Arquitectos e Ingenieros Civiles] <https://shorturl.at/ORylU>
+![Web Aplication Wireflow Guest](https://instagram.flim15-1.fna.fbcdn.net/v/t1.15752-9/550333562_1328869475288433_1662306578838956813_n.png?stp=dst-png_s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=qNJNjrmBKWoQ7kNvwFQl9sU&_nc_oc=Adk4AXL2qmmspdB1FhPnT3HT8w-2du28_InBF_CkSfr3uoD7ByHh6DnJl6y6rHhjhS_qwoORwYDuEkpbKdRgnmYI&_nc_zt=23&_nc_ht=instagram.flim15-1.fna&oh=03_Q7cD3QFrVhTITTB_EozewzQ51VMX-jg5BRpQFpBhIpaDg8Obfg&oe=68F2B5DB)
+
+
+#### Segmento Objetivo #2: Dueños de apartamentos
+
+
+**Login / Create Account**
+
+**1. Login:**
+- El usuario introduce su correo electrónico y contraseña.
+- Pulsa “Login” para acceder a su cuenta personal.
+
+**Create Account:**
+- Si es nuevo, completa un formulario con nombre completo, correo, dirección (unidad), y contraseña.
+- Pulsa “Create” para registrar la cuenta.
+
+**Acción esperada:** Autenticarse correctamente y acceder al Dashboard personal.<br><br>
+
+**2. Dashboard**
+-	Una vez autenticado, el usuario accede al panel principal, donde se visualiza un menú lateral con accesos a secciones clave::
+    - Home
+    - Profile
+    - Device Management
+    - Configuration
+-	Al ingresar, el dueño visualiza un Dashboard con widgets clave: consumo energético mensual (gráfico), estado general de dispositivos (rueda/donut), resumen de ahorros por dispositivo (gráfica) y un Notifications feed con alertas recientes.
+
+**Acción esperada:** Obtener un panorama rápido del estado del apartamento y acceder en un clic a control de dispositivos o a la configuración.<br><br>
+
+**3. Profile**
+-	Vista para ver/editar datos personales y de la unidad: nombre, contacto, dirección vinculada, Current Plan, zona horaria e idioma.
+-	Secciones: Edit Profile, Favorite Scene Configuration (botones Use para escenas guardadas), opciones para invitar a familiares o delegar accesos.
+
+**Acción esperada:** Actualizar información del propietario, gestionar quién tiene acceso y elegir escenas favoritas para uso rápido.<br><br>
+
+**4. Device Management**
+-	Acciones principales: + Add Device y + Create Scene.
+-	Dentro de cada dispositivo: estado en tiempo real, historial básico y acceso a ajustes
+
+**Acción esperada:** Añadir, identificar y controlar dispositivos individuales de forma ágil.<br><br>
+
+**5. Configuration**
+-	Panel con secciones: Notifications, Security and Privacy (cambio de contraseña, 2FA, gestión de sesiones), Support and Help y Advanced Device Management
+-	Opciones para activar/desactivar notificaciones críticas, administrar permisos de invitados y configurar preferencias globales de la unidad.
+
+**Acción esperada:** Personalizar la experiencia y garantizar seguridad y soporte.<br><br>
+
+[Web Applications Wireflow Diagrams - Dueños de apartamentos] <https://shorturl.at/h1jhp>
+![Web Aplication Wireflow Guest](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/548402069_1462689048354702_5698437424456371348_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Afd1fb_EjHQQ7kNvwFC4nCM&_nc_oc=AdkSnCN66vc0hXhaakODWYplx7Un3jvycTWnVOpLeybgyI_X_SaCoXRZ1qYskPtyvoGlSahry3ULZJmIgQJwPE_9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFsLIkkTD47bCnz53LW3PSf6Io3DHROGDV6DpFG-BOF6Q&oe=68F296F7)
+
+### 4.4.3. Web Applications Mock-ups.
 Diseño en todo aspecto
 ![Web Aplication Mockup](image.jpg)
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Design-level EventStorming.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
    
-### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+### 4.6.2. Software Architecture Context Diagram.
+El diagrama de contexto muestra la vista más general de IoBuild, destacando a sus actores principales y cómo se relacionan con la plataforma. En este nivel aparecen dos roles clave: las Constructoras, que usan IoBuild para agregar funciones inteligentes a sus proyectos y darles un valor diferencial; y los Propietarios, que ingresan al sistema para personalizar su hogar o espacio de trabajo de forma fácil y sin necesidad de conocimientos técnicos.
 
-### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+Aunque sus objetivos son distintos, ambos se conectan a la misma plataforma, que hace posible que los edificios y viviendas se conviertan en entornos más cómodos, accesibles y personalizables.
+
+Este modelo refuerza la misión de IoBuild: acercar la tecnología de los espacios inteligentes a constructoras y propietarios con herramientas prácticas, simples y útiles. Además, gracias a su diseño modular, la plataforma puede adaptarse a diferentes mercados y necesidades sin perder su esencia.
+
+![Software Architecture Context Diagram](https://scontent.flim3-3.fna.fbcdn.net/v/t1.15752-9/550230179_1120666132864238_8594509770681565109_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pjNQOTXgJscQ7kNvwF8lJ8d&_nc_oc=AdnWgtj8gQ2oKvXzE-lHGWTQ8XmRVkO5QS3CYBgykZbiMhNdZwke1XxYz0Kdpo9o89I&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim3-3.fna&oh=03_Q7cD3QGGYtgzg3w7TvBkS6x4qs7tK3_AbiggDuyE1smwuzfOpA&oe=68F242EF)
+
+
+### 4.6.3. Software Architecture Container Diagrams.
+
+El diagrama de contenedores profundiza en la estructura interna del sistema y muestra cómo está organizado IoBuild en términos de sus principales componentes de ejecución. La aplicación se compone de tres contenedores principales: la Landing Page, la Web App en SPA y el API Backend. Cada uno cumple un rol específico dentro del modelo de negocio.
+
+La Landing Page funciona como el punto de entrada, mostrando la propuesta de valor de IoBuild y diferenciando la experiencia según el tipo de usuario, ya sea una constructora o un propietario. Desde allí, los usuarios acceden a la Web App, una interfaz de una sola página (SPA) que reúne las funcionalidades principales: configuración de espacios inteligentes, personalización de ambientes, gestión de dispositivos y administración de perfiles.
+
+Esta SPA se conecta con un API Backend central, encargado de coordinar las operaciones entre los distintos módulos de la plataforma, como la gestión de proyectos, la administración de dispositivos y la configuración de automatizaciones.
+
+Gracias a este diseño modular, IoBuild mantiene una separación clara entre la experiencia de usuario y la lógica de negocio, lo que permite escalar sus funciones y reducir el tiempo de despliegue de nuevas capacidades.
+
+![Software Architecture Container Diagram](http://scontent.flim22-2.fna.fbcdn.net/v/t1.15752-9/550860342_1334601671541433_1851950353888792312_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MdMhPggaJu0Q7kNvwEdwOpP&_nc_oc=AdmEZR_KYMIl1isUJyVAcE53dLx5z6RXH2bQNR85x7N0OcpZkS9UkrmSpCoJDi8xbn0&_nc_ad=z-m&_nc_cid=1144&_nc_zt=23&_nc_ht=scontent.flim22-2.fna&oh=03_Q7cD3QGb9aHojQ9EtXCrNB8xzSq1vx2BNs1KWQdiuxSfNDwwzw&oe=68F25C20)
+
+### 4.6.4. Software Architecture Components Diagrams.
+
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
-### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+**Identity and Access Management**
+
+![Identity and Access Management Class Diagram](https://i.imgur.com/pz8Yk7u.jpeg)
+Este diagrama muestra el contexto de “Gestión de Identidad y Acceso” (Identity and Access Management) con las capas de Aplicación, Dominio e Infraestructura.
+La capa de Aplicación está representada por AuthService, que orquesta los casos de uso de registro de clientes y residentes, inicio de sesión, recuperación de contraseña, asignación de cuentas y actualización de credenciales.
+En la capa de Dominio se encuentra el agregado raíz User, con atributos de autenticación y estado, además de operaciones como authenticate() y updatePassword(). Los roles y permisos se modelan como entidades asociadas (Role, Permission) y los actores del sistema (Client, Resident) se especializan a partir de User.
+La capa de Infraestructura incluye UserRepository y PasswordEncoder, que permiten persistir usuarios y gestionar el cifrado de credenciales. El dominio permanece desacoplado de la tecnología, mientras la aplicación coordina la interacción entre capas.
+
+**Subscriptions and Payments Management**
+
+![Subscriptions and Payments Management Class Diagram](https://i.imgur.com/Lq0cEwL.jpeg)
+Este diagrama muestra el contexto de “Gestión de Suscripciones y Pagos” (Subscriptions and Payments Management) organizado en capas.
+En la Aplicación, BillingService maneja casos de uso como creación y renovación de suscripciones, cancelación y procesamiento de pagos.
+En la capa de Dominio, el agregado raíz Subscription contiene información del plan contratado (PlanType), el estado de la suscripción y las operaciones de renovación y cancelación. BillingCycle y Payment son entidades dependientes: un ciclo de facturación agrupa múltiples pagos, que reflejan montos, métodos y estados de transacción.
+En la Infraestructura, PaymentGateway abstrae la integración con proveedores externos de cobro y SubscriptionRepository asegura persistencia de las suscripciones. De esta forma, el dominio define las reglas del negocio (vigencia de planes y proyectos asociados) y la aplicación las conecta con servicios técnicos.
+
+**Profile and Preferences Management**
+
+![Profile and Preferences Management Class Diagram](https://i.imgur.com/ochpnVI.jpeg)
+Este diagrama muestra el contexto de “Gestión de Perfiles y Preferencias” (Profile and Preferences Management).
+La Aplicación está representada por ProfileService, que centraliza casos de uso como actualización de datos personales, configuración de idioma y ajustes de notificaciones.
+En el Dominio, el agregado raíz UserProfile modela la información de contacto y métodos de actualización, mientras que Preferences contiene opciones de idioma, temas visuales y notificaciones, y puede asociar múltiples NotificationPreference para personalizar los canales de comunicación.
+En la Infraestructura, ProfileRepository persiste y recupera perfiles de usuario. La separación de capas permite que las operaciones de la aplicación se centren en la experiencia del residente, mientras que el dominio mantiene las reglas de personalización.
+
+**Service Execution and Monitoring**
+
+![Service Execution and Monitoring Class Diagram](https://i.imgur.com/YZY6wat.jpeg)
+Este diagrama muestra el contexto de “Ejecución y Control de Dispositivos” (Service Execution and Monitoring).
+La Aplicación cuenta con DeviceService, responsable de registrar dispositivos, asignarlos a unidades habitacionales, enviar comandos y programar escenarios como riego automático.
+En la capa de Dominio, el agregado raíz Device define atributos como estado, ubicación y tipo de dispositivo, y provee operaciones para actualizar su estado y ejecutar comandos. Asociados al dispositivo están entidades como Command, Telemetry y Alert, que modelan la interacción con el hardware. Scene y Schedule permiten coordinar automatizaciones y rutinas preconfiguradas.
+La Infraestructura se compone de IoTGateway, que gestiona la comunicación con los dispositivos físicos, y DeviceRepository, que persiste la configuración y estado. De esta manera, el dominio expresa la lógica de automatización, mientras que la aplicación coordina las interacciones con la capa IoT.
+
+**Dashboard and Analytics**
+
+![Dashboard and Analytics Class Diagram](https://i.imgur.com/x3jfA3F.jpeg)
+Este diagrama muestra el contexto de “Monitoreo y Analítica” (Dashboard and Analytics).
+En la Aplicación, AnalyticsService ofrece casos de uso como generar reportes de consumo energético, actualizar paneles de control y consultar métricas históricas.
+La capa de Dominio está organizada alrededor del agregado raíz Dashboard, que agrupa Widgets para mostrar métricas en tiempo real. Report genera documentos con información consolidada, Analytics representa datos agregados de consumo y rendimiento, y MaintenanceNotification alerta sobre mantenimientos preventivos.
+En la Infraestructura, DataWarehouse sirve como fuente de datos analíticos y DashboardRepository gestiona la persistencia de configuraciones de dashboards. Así, la aplicación actúa como mediadora entre el dominio y las fuentes de datos externas.
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+
+**Identity and Access Management**
+
+![Identity and Access Management Database Diagram](https://i.imgur.com/8Cb07Nl.jpeg)
+
+**Subscriptions and Payments Management**
+
+![Subscriptions and Payments Management Database Diagram](https://i.imgur.com/KTDLL05.jpeg)
+
+**Profile and Preferences Management**
+
+![Profile and Preferences Management Database Diagram](https://i.imgur.com/Hxcvsfw.jpeg)
+
+**Service Execution and Monitoring**
+
+![Service Execution and Monitoring Database Diagram](https://i.imgur.com/uiVbsCf.jpeg)
+
+**Dashboard and Analytics**
+
+![Dashboard and Analytics Database Diagram](https://i.imgur.com/vQY5jOn.jpeg)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
