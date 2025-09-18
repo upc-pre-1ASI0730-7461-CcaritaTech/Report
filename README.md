@@ -251,8 +251,8 @@ Asimismo, se ha iniciado la conceptualización de la arquitectura de software me
 [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) 
 
 
-[Conclusiones](#conclusiones)
-[Bibliografía](#bibliografía)
+[Conclusiones](#conclusiones)<br>
+[Bibliografía](#bibliografía)<br>
 [Anexos](#Anexos)
 
 <!-- [5.3. Validation Interviews](#53-validation-interviews)  
@@ -262,11 +262,7 @@ Asimismo, se ha iniciado la conceptualización de la arquitectura de software me
 
 [5.4. Video About-the-Product](#54-video-about-the-product)   -->
 
-[Conclusiones](#conclusiones)  
-[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
-[Video About-the-Team](#video-about-the-team)  
-[Bibliografía](#bibliografía)  
-[Anexos](#anexos)  
+  
 
 # Student Outcome
 | Criterio Especifico                                        |Acciones Realizadas      |Conclusiones             |
