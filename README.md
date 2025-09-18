@@ -1427,7 +1427,36 @@ Unhappy Path:
 ![Web Aplication User Flow Diagram 2 Unappy Path](https://i.imgur.com/H0a6X3I.png)
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+En esta etapa se presentan los prototipos de la aplicación web IoBuild, diseñados para navegadores de escritorio. El enfoque está en simular los flujos principales de cada segmento objetivo, garantizando una experiencia clara y funcional en pantallas grandes.
+
+**Segmento constructoras**
+<br>
+Los ingenieros usan la plataforma para gestionar proyectos residenciales, centralizar información de clientes, monitorear dispositivos IoT y configurar opciones de administración.
+
+- Desde el menú Home, acceden al Dashboard con datos de sus proyectos.
+
+- La barra lateral incluye cinco menús principales: Home, Profile, Project, Device Management y Configuration.
+
+- En Device Management se despliega la lista de clientes con datos como nombre, proyecto, estado de cuenta y opciones de gestión.
+
+- Al seleccionar un cliente, pueden visualizar el estado de los dispositivos IoT relacionados; si hay restricciones o errores, el sistema muestra un aviso.
+
+**Segmento Dueños de Departamentos**<br>
+Los propietarios buscan controlar de forma remota sus dispositivos y conocer su rendimiento.
+
+- El recorrido inicia en Home, donde se muestra un Dashboard con información general de los dispositivos.
+
+- En este caso, el menú lateral incluye cuatro opciones: Home, Profile, Device Management y Configuration.
+
+- En Device Management aparece la lista de aparatos conectados al departamento, con datos como nombre, categoría y estado.
+
+- El usuario puede ingresar al detalle de cada dispositivo o recibir un mensaje de error en caso de restricciones.
+
+Con estos flujos, los prototipos evidencian cómo cada tipo de usuario interactúa con la aplicación, asegurando una navegación coherente y ajustada a sus necesidades.
+
+A continuación se presenta el video con los prototipos navegables de ambos segmentos: https://goo.su/Cor4Q
+
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-level EventStorming.
 Para el diseño del Design Level Event Storming se tomó como base el trabajo realizado en el Big Picture Event Storming. Sin embargo, se incorporaron nuevos elementos y detalles adicionales propios de este nivel, los cuales se explican en la siguiente leyenda.
