@@ -481,7 +481,17 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
 extensiones tmbn? nose bn q quieren aca
 ### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
+El proyecto IoBuild, una plataforma SaaS para la gestión y personalización de dispositivos IoT en entornos de construcción y apartamentos inteligentes, se desarrolla bajo un enfoque profesional que prioriza las buenas prácticas de arquitectura, la colaboración en equipo, la automatización de flujos y la estandarización del entorno de desarrollo. La configuración del entorno se ha diseñado con base en el modelo C4 (Context, Container, Component, Code) y en los principios de la Clean Architecture, lo que asegura una separación clara de responsabilidades, la reutilización de componentes y la escalabilidad del sistema a futuro.
+
+Para el frontend, el equipo utiliza WebStorm como IDE principal, administrado a través de JetBrains Toolbox, lo que garantiza una configuración uniforme en todos los integrantes del equipo. Este entorno de trabajo ofrece integración nativa con Vue.js, framework elegido para el desarrollo de la interfaz, lo que facilita la generación de componentes, servicios y módulos directamente desde el IDE. Además, se aprovechan funciones avanzadas como la navegación semántica, la refactorización inteligente, la depuración integrada y la administración de dependencias, optimizando la productividad y reduciendo errores en el proceso de implementación.
+
+Vue.js se seleccionó como la tecnología central para el frontend debido a su arquitectura reactiva y declarativa, basada en componentes reutilizables que permiten un diseño flexible y modular. Gracias a su Vue CLI, la integración de librerías externas y su compatibilidad con metodologías modernas de desarrollo, la plataforma puede estructurarse en torno a bounded contexts, separando de forma clara la vista, la lógica y los servicios. Esta organización permite que diferentes miembros del equipo trabajen en paralelo sin comprometer la coherencia del sistema, mejorando los tiempos de entrega y asegurando la calidad del producto final.
+
+Finalmente, el equipo mantiene un repositorio paralelo denominado upc-pre-1ASI0730-7461-CcaritaTech (https://github.com/upc-pre-1ASI0730-7461-CcaritaTech), donde se gestionan versiones experimentales y entornos de prueba bajo un enfoque académico y exploratorio. Este repositorio funciona como un espacio seguro para validar prototipos, realizar pruebas funcionales y explorar nuevas características antes de ser integradas en el sistema principal. De esta manera, IoBuild asegura que las innovaciones sean evaluadas en un entorno controlado, evitando riesgos en la plataforma productiva y garantizando la estabilidad del proyecto central.
+
+![Repositorios de IoBuild](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/548867744_790677786698559_3041379617202090771_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YSkHmQz0bIYQ7kNvwEblbIE&_nc_oc=Adlmtg65-Fcr1G2fJnu5ImXywU10PMJ15Eg3BbgAkBcag8wty1sjyRncIo0TgB8Ht3s50iRvN_8ue76RZa95K4gA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHoTVP9fuNwfXO_f9ApRjqCp_PmAgPyg1Z1wH-vugdxHA&oe=68F2E043)
+<br>
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
