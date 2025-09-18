@@ -1206,6 +1206,18 @@ Finalmente, respecto a los criterios de éxito planteados bajo el marco de Lean 
 
 
 ## Bibliografía
+- CEELA. (2024). Perú – Proyecto CEELA – Eficiencia energética en edificios. Rescato de https://shorturl.at/fAOnK
+- Nexoinmobiliario. (2025). ¿Vale la pena comprar un departamento con certificación LEED Lima?. Rescato de https://shorturl.at/41Xpx
+- JLL. (2024). Evolución sostenible: Edificios verdes en América Latina. Rescato de https://shorturl.at/P8l2l
+- Digi. (2024). IoT Aplicaciones para edificios inteligentes: Casos de uso y principales ventajas. Rescato de https://shorturl.at/gfMsP
+- Domotec. (n.d.). Inicio. Rescato de https://shorturl.at/Hd9do
+- MWF Solutions. (n.d.). Incio. Rescato de https://mwfsolutions.pe/
+- Orbivo Perú. (n.d.). Inicio. Rescato de https://orviboperu.com.pe/
+- JetBrains. (n.d.). WebStorm. Rescatado de https://www.jetbrains.com/webstorm/
+- Lucid Software Inc. (n.d.). Lucidchart. Rescatado de https://shorturl.at/5hKy3
+- Structurizr Ltd. (n.d.). Structurizr. Rescatado de https://structurizr.com/
+- Fowler, M. (2013). GivenWhenThen. Rescatado de https://shorturl.at/rzc4x
+
 
 ## Anexos
 
