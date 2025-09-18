@@ -1660,3 +1660,96 @@ A continuación, se muestran las contribuciones del equipo durante el sprint:
 <br><br>
 **Network graph**
 ![Imagen de network graph](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550971363_1998051354313858_7966446455627817114_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=AmoRX_tFFhMQ7kNvwHNj6ad&_nc_oc=Adkx-Mmu7obPYlLcwyVP61yM_LUdx8VjRsYg0gN7B3V8KqVBslbRmaRC1Mw63Nj7AGo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QEGJD39-X7wcO7abXGmeNKQ7GWvyQJoxWwZIrhHo9IyjA&oe=68F2D8AC)
+
+
+## Conclusiones
+
+El trabajo realizado con IoBuild permitió confirmar la vigencia y relevancia de los problem statements planteados en la etapa inicial. Las entrevistas y procesos de needfinding validaron que tanto las empresas constructoras como los propietarios enfrentan dificultades para acceder a soluciones de domótica accesibles, debido a los altos costos, la complejidad técnica y la falta de integración entre sistemas. Esta situación genera frustración en los usuarios finales y limita la capacidad de las constructoras para diferenciar sus proyectos en un mercado cada vez más competitivo.
+
+En cuanto a los assumptions formulados, se comprobó que los usuarios efectivamente valoran contar con una interfaz unificada y sencilla para gestionar sus espacios, así como la posibilidad de personalizar funciones sin conocimientos técnicos avanzados. No obstante, también se evidenció que la decisión de adopción en el sector construcción sigue dependiendo de factores como la facilidad de implementación en proyectos y la reducción de costos asociados.
+
+Las hypothesis statements fueron contrastadas con resultados favorables en varios aspectos. Se ratificó que la personalización de ambientes y la eficiencia energética representan un valor diferenciador clave para la adopción de IoBuild, mientras que las alianzas estratégicas con fabricantes continúan siendo fundamentales para incrementar la compatibilidad del sistema y reducir barreras de entrada. La hipótesis de escalabilidad en proyectos tanto de construcción nueva como de remodelación se percibe como viable, aunque aún requiere pruebas piloto adicionales en contextos reales.
+
+Finalmente, respecto a los criterios de éxito planteados bajo el marco de Lean UX, se concluye que estos son alcanzables siempre que IoBuild mantenga su enfoque en la simplicidad, la accesibilidad y la generación de valor tangible para los distintos segmentos. En conjunto, los resultados obtenidos respaldan que IoBuild cuenta con un potencial sólido para diferenciarse en el mercado inmobiliario, democratizando el acceso a tecnologías inteligentes y contribuyendo a la creación de espacios más sostenibles y personalizados.
+
+
+
+## Bibliografía
+- CEELA. (2024). Perú – Proyecto CEELA – Eficiencia energética en edificios. Rescato de https://shorturl.at/fAOnK
+- Nexoinmobiliario. (2025). ¿Vale la pena comprar un departamento con certificación LEED Lima?. Rescato de https://shorturl.at/41Xpx
+- JLL. (2024). Evolución sostenible: Edificios verdes en América Latina. Rescato de https://shorturl.at/P8l2l
+- Digi. (2024). IoT Aplicaciones para edificios inteligentes: Casos de uso y principales ventajas. Rescato de https://shorturl.at/gfMsP
+- Domotec. (n.d.). Inicio. Rescato de https://shorturl.at/Hd9do
+- MWF Solutions. (n.d.). Incio. Rescato de https://mwfsolutions.pe/
+- Orbivo Perú. (n.d.). Inicio. Rescato de https://orviboperu.com.pe/
+- JetBrains. (n.d.). WebStorm. Rescatado de https://www.jetbrains.com/webstorm/
+- Lucid Software Inc. (n.d.). Lucidchart. Rescatado de https://shorturl.at/5hKy3
+- Structurizr Ltd. (n.d.). Structurizr. Rescatado de https://structurizr.com/
+- Fowler, M. (2013). GivenWhenThen. Rescatado de https://shorturl.at/rzc4x
+
+
+## Anexos
+
+#### ANEXO A: Investigación y Análisis de Usuarios
+
+Repositorio de la organización: <https://github.com/upc-pre-1ASI0730-7461-CcaritaTech>
+
+Figma: <https://shorturl.at/IIxF9>
+
+URL de las entrevistas: upc-pre-2025200-1asi0730-7461-CcaritaTech-needfinding - <https://goo.su/cQjgzUY>
+
+"Anexo: Diagrama de Lean UX Canvas" <https://shorturl.at/zmHgH>
+
+“Anexo: Diagrama User Persona” <https://goo.su/nQxos3>
+
+“Anexo: Diagrama Journey Mapping” <https://shorturl.at/NSujl>
+
+“Anexo: Diagrama Empathy Mapping” <https://shorturl.at/Hnsyi>
+
+“Anexo: Impact Mapping” <https://shorturl.at/7jHsO>
+
+Video demostrativo de la landing page: <https://goo.su/2pvWAVi>
+
+Este anexo contiene la evidencia de la investigación que valida la necesidad de la plataforma IoBuild y sustenta las decisiones de diseño centradas en el usuario.
+
+- A.1. Resumen de Entrevistas a Expertos del Sector Inmobiliario
+
+Contexto: Se realizaron entrevistas a gerentes de proyectos de construcción y arquitectos con el fin de comprender los desafíos y oportunidades para la implementación de tecnologías inteligentes en el mercado inmobiliario de Perú.
+
+Hallazgos Clave: Las entrevistas revelaron que las principales barreras para la adopción de domótica son los altos costos, la falta de soluciones integradas y la complejidad técnica. Los profesionales destacaron la necesidad de una plataforma que sea intuitiva y accesible, que permita diferenciar sus proyectos y gestionar de forma eficiente la tecnología desde la etapa de construcción.
+
+- A.2. User Persona: Arquitectos e Ingenieros Civiles
+
+Contexto: Basado en los hallazgos de la investigación, se diseñó este perfil para representar a nuestro usuario clave en el segmento B2B, un profesional que busca diferenciar sus proyectos con propuestas de valor innovadoras.
+
+Imagen User Persona 1: https://shorturl.at/do41z<br>
+_Figura A.1._ User Persona "Arquitectos e Ingenieros Civiles".
+- A.3. Empathy Map: Dueños de apartamentos
+
+Contexto: Este mapa visualiza lo que el usuario final, el propietario, piensa, siente, dice y hace en su interacción con la tecnología del hogar, sirviendo de base para un diseño de interfaz intuitivo y fácil de usar.
+
+Imagen Empathy Mapping 2: https://shorturl.at/G8xvd<br>
+_Figura A.2._ Empathy Map de los propietarios de apartamentos.
+#### ANEXO B: Documentación del Diseño y la Experiencia de Usuario (UX/UI)
+
+Este anexo incluye los artefactos visuales y la documentación del proceso de diseño que demuestran la planificación de la experiencia de usuario y la interfaz de la plataforma IoBuild.
+
+- B.1. User Journey Map
+
+Contexto: Este mapa visualiza el viaje completo del usuario con la plataforma, identificando los puntos de interacción y las oportunidades de mejora en cada etapa, desde el conocimiento inicial de IoBuild hasta el uso diario.
+
+Imagen User Journey Mapping 1: https://goo.su/j3JjKYm <br>
+_Figura B.1._ User Journy Map "Arquitectos e Ingenieros Civiles".
+
+Imagen User Journey Mapping 2: https://goo.su/6dIeR <br>
+_Figura B.2._ User Journy Map "Propietaros de Apartamentos".
+
+#### ANEXO C: Investigación y Análisis de Usuarios
+Este anexo contiene material técnico que sustenta la estructura y la viabilidad del proyecto, complementando el análisis presentado en el cuerpo principal del documento.
+
+- C.1. Diagrama de Arquitectura de la Plataforma (Modelo C4)
+
+Contexto: Se presenta un diagrama de la arquitectura de la plataforma IoBuild, siguiendo el modelo C4. Este modelo se utiliza para documentar arquitecturas de software de manera jerárquica y comprensible. En este caso, se ilustra el Diagrama de Contenedores, que desglosa los principales componentes de la plataforma (aplicación web, base de datos, APIs) y sus interacciones.
+
+Imagen Software Architecture Container Diagrams: https://goo.su/SOIgb<br>
+Figura C.1. Diagrama de Contenedores de la plataforma IoBuild.
