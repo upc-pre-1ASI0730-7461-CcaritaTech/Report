@@ -1331,7 +1331,17 @@ Gracias a este diseño modular, IoBuild mantiene una separación clara entre la 
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
+El diagrama de componentes profundiza aún más en la vista del sistema, enfocándose en la arquitectura interna del API Backend de IoBuild. Aquí se muestra cómo las responsabilidades de la lógica de negocio se dividen en distintos controladores, servicios y repositorios, lo que permite mantener una separación clara de preocupaciones y un código más mantenible.
 
+Los controladores (AuthController, UserController, DeviceController, SubscriptionController y DashboardController) actúan como punto de entrada desde la SPA, procesando las solicitudes de los usuarios y redirigiéndolas hacia los servicios correspondientes.
+
+Los servicios concentran la lógica de negocio y representan los diferentes contextos funcionales de la plataforma: AuthService gestiona autenticación y control de accesos, UserService administra perfiles y preferencias, DeviceService se encarga de los dispositivos inteligentes y las automatizaciones, SubscriptionService regula planes, pagos y suscripciones, AnalyticsService genera reportes, paneles e insights.
+
+Cada servicio se apoya en un repositorio especializado que gestiona la persistencia en la base de datos (UserRepository, DeviceRepository, SubscriptionRepository, DashboardRepository).
+
+Finalmente, todos los repositorios interactúan con el contenedor externo de base de datos (MySQL), donde se almacenan los datos de usuarios, dispositivos, suscripciones y métricas.
+
+![Software Architecture Component Diagram](https://i.imgur.com/yfLZ5A1.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
