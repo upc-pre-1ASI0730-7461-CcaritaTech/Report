@@ -1195,8 +1195,6 @@ Explicar como vamos a plannear el sprint?
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 ## Conclusiones
 
-#### Conclusiones
-
 El trabajo realizado con IoBuild permitió confirmar la vigencia y relevancia de los problem statements planteados en la etapa inicial. Las entrevistas y procesos de needfinding validaron que tanto las empresas constructoras como los propietarios enfrentan dificultades para acceder a soluciones de domótica accesibles, debido a los altos costos, la complejidad técnica y la falta de integración entre sistemas. Esta situación genera frustración en los usuarios finales y limita la capacidad de las constructoras para diferenciar sus proyectos en un mercado cada vez más competitivo.
 
 En cuanto a los assumptions formulados, se comprobó que los usuarios efectivamente valoran contar con una interfaz unificada y sencilla para gestionar sus espacios, así como la posibilidad de personalizar funciones sin conocimientos técnicos avanzados. No obstante, también se evidenció que la decisión de adopción en el sector construcción sigue dependiendo de factores como la facilidad de implementación en proyectos y la reducción de costos asociados.
@@ -1205,12 +1203,57 @@ Las hypothesis statements fueron contrastadas con resultados favorables en vario
 
 Finalmente, respecto a los criterios de éxito planteados bajo el marco de Lean UX, se concluye que estos son alcanzables siempre que IoBuild mantenga su enfoque en la simplicidad, la accesibilidad y la generación de valor tangible para los distintos segmentos. En conjunto, los resultados obtenidos respaldan que IoBuild cuenta con un potencial sólido para diferenciarse en el mercado inmobiliario, democratizando el acceso a tecnologías inteligentes y contribuyendo a la creación de espacios más sostenibles y personalizados.
 
-#### Recomendaciones
-
 
 
 ## Bibliografía
+
 ## Anexos
+
+#### ANEXO A: Investigación y Análisis de Usuarios
+
+Este anexo contiene la evidencia de la investigación que valida la necesidad de la plataforma IoBuild y sustenta las decisiones de diseño centradas en el usuario.
+
+- A.1. Resumen de Entrevistas a Expertos del Sector Inmobiliario
+
+Contexto: Se realizaron entrevistas a gerentes de proyectos de construcción y arquitectos con el fin de comprender los desafíos y oportunidades para la implementación de tecnologías inteligentes en el mercado inmobiliario de Perú.
+
+Hallazgos Clave: Las entrevistas revelaron que las principales barreras para la adopción de domótica son los altos costos, la falta de soluciones integradas y la complejidad técnica. Los profesionales destacaron la necesidad de una plataforma que sea intuitiva y accesible, que permita diferenciar sus proyectos y gestionar de forma eficiente la tecnología desde la etapa de construcción.
+
+- A.2. User Persona: Arquitectos e Ingenieros Civiles
+
+Contexto: Basado en los hallazgos de la investigación, se diseñó este perfil para representar a nuestro usuario clave en el segmento B2B, un profesional que busca diferenciar sus proyectos con propuestas de valor innovadoras.
+
+![Imagen User Persona 1](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/543049925_767460223119946_5565182801349545414_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MnnETtWddk4Q7kNvwH0gZ17&_nc_oc=AdnSawnNK7VC21sKjrzcemjoHB3x7ZATCIYjQMFtoQQ3XBmnUyoYX5MVsQQ7fIw0kO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3QHe-PA1EEsWLpO8dhO6ZljJnaiSh50KN4dj0-YydTW_oA&oe=68E3F47E)
+_Figura A.1._ User Persona "Arquitectos e Ingenieros Civiles". 
+- A.3. Empathy Map: Dueños de apartamentos
+
+Contexto: Este mapa visualiza lo que el usuario final, el propietario, piensa, siente, dice y hace en su interacción con la tecnología del hogar, sirviendo de base para un diseño de interfaz intuitivo y fácil de usar.
+
+![Imagen Empathy Mapping 2](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/541454160_1494429248573042_2464090199560015452_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=uGlv7gbxV1cQ7kNvwF8LS3A&_nc_oc=AdlQ2UYM7_vsn1dDfDGcorpm3grAYtns0LHH-Ns36Fu3wt_Q7E51St0J7Jn7hV-Ea_kF4riQZI8S-9FHD0rvD84b&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGo2akWGaDgabUabaF5bwOSFADS8uy3MWm-dQlQ04k2aw&oe=68E6D3C8)
+_Figura A.2._ Empathy Map de los propietarios de apartamentos.
+#### ANEXO B: Documentación del Diseño y la Experiencia de Usuario (UX/UI)
+
+Este anexo incluye los artefactos visuales y la documentación del proceso de diseño que demuestran la planificación de la experiencia de usuario y la interfaz de la plataforma IoBuild.
+
+- B.1. User Journey Map
+
+Contexto: Este mapa visualiza el viaje completo del usuario con la plataforma, identificando los puntos de interacción y las oportunidades de mejora en cada etapa, desde el conocimiento inicial de IoBuild hasta el uso diario.
+
+![Imagen User Journey Mapping 1](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/541545013_1305465207882686_6644155826942647641_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xJE62fahRooQ7kNvwHJaXlU&_nc_oc=Adl_Alr5lRqEe70TlRkPbENhADh-62M-S40KX-XDMVrucLfMHvfrpiN-mVB-CyOac3AyIow3Hv7wehzghCMx89BQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QEWJW92FyBW7xOIeHixOr5yUg_1Dl8_KLg9NbYwMVDf1Q&oe=68E6C1B2)
+_Figura B.1._ User Journy Map "Arquitectos e Ingenieros Civiles".
+
+![Imagen User Journey Mapping 2](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/542596434_1460996725051849_9160561945323462537_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=v_aMqVe5RJoQ7kNvwHgy4Q1&_nc_oc=AdkOWnDJg9YaoByp2ZfHUYr9EJvPAyAxRrBkGInx3WNNG0SD2XMFkPXpFNhGASdY6nsi4LJK5hoTEfvZ26HSAUPB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QE4Rpu43v1wmVzrF6ierlTugZsV0YFnD7YMOj7Sxc37xQ&oe=68E6E76A)
+_Figura B.2._ User Journy Map "Propietaros de Apartamentos".
+
+#### ANEXO C: Investigación y Análisis de Usuarios
+Este anexo contiene material técnico que sustenta la estructura y la viabilidad del proyecto, complementando el análisis presentado en el cuerpo principal del documento.
+
+- C.1. Diagrama de Arquitectura de la Plataforma (Modelo C4)
+
+Contexto: Se presenta un diagrama de la arquitectura de la plataforma IoBuild, siguiendo el modelo C4. Este modelo se utiliza para documentar arquitecturas de software de manera jerárquica y comprensible. En este caso, se ilustra el Diagrama de Contenedores, que desglosa los principales componentes de la plataforma (aplicación web, base de datos, APIs) y sus interacciones.
+
+![Imagen Software Architecture Container Diagrams.](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/550860342_1334601671541433_1851950353888792312_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MdMhPggaJu0Q7kNvwED6Vfi&_nc_oc=AdlMpb9Eh0rDdzyPyV813hqO1g14MelyH9aG4umq3FNjpgIaKJ2vFWoE9aeLmd1KYic&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3QESVjAObD2-AW7jonGUjmUI1aeqIuUzv9chB370TDEWVQ&oe=68F304E0)
+Figura C.1. Diagrama de Contenedores de la plataforma IoBuild.
 
 
 
