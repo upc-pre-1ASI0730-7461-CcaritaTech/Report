@@ -1293,8 +1293,28 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 ![Web Aplication Wireflow Guest](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/548402069_1462689048354702_5698437424456371348_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Afd1fb_EjHQQ7kNvwFC4nCM&_nc_oc=AdkSnCN66vc0hXhaakODWYplx7Un3jvycTWnVOpLeybgyI_X_SaCoXRZ1qYskPtyvoGlSahry3ULZJmIgQJwPE_9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFsLIkkTD47bCnz53LW3PSf6Io3DHROGDV6DpFG-BOF6Q&oe=68F296F7)
 
 ### 4.4.3. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+#### Vista del segmento #1: Arquitectos e Ingenieros Civiles
+![Segmento #1 Mock-up Home](https://i.imgur.com/wLeFkTM.png)
+
+![Segmento #1 Mock-up Profile](https://i.imgur.com/7OIRjtS.png)
+
+![Segmento #1 Mock-up Project](https://i.imgur.com/ADSnk0p.png)
+
+![Segmento #1 Mock-up Management](https://i.imgur.com/v1ov938.png)
+
+![Segmento #1 Mock-up Configuration](https://i.imgur.com/6L9l5t1.png)
+<br><br>
+
+#### Vista del segmento #2: Propietarios de departamentos
+![Segmento #2 Mock-up Home](https://i.imgur.com/XsFJjIw.png)
+
+![Segmento #2 Mock-up Profile](https://i.imgur.com/sYr3uTs.png)
+
+![Segmento #2 Mock-up Management](https://i.imgur.com/Kf6tYY5.png)
+
+![Segmento #2 Mock-up Configuration](https://i.imgur.com/gFlZ4yZ.png)
+<br>
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
