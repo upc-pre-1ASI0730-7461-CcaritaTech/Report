@@ -723,11 +723,11 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 
 **1. Login:**
 - El usuario de la constructora introduce su correo corporativo y contraseña.
-- Presiona el botón “Login” para acceder a su cuenta empresarial.
+-  Selecciona la opción “Login” para acceder a su cuenta empresarial.
 
 **Create Account:**
 - Si es un nuevo usuario, completa un formulario con datos de la empresa, representante y correo corporativo.
-- Presiona “Create” para registrar la cuenta en el sistema.
+- Selecciona “Create” para registrar la cuenta en el sistema.
 
 **Acción esperada:** Autenticarse exitosamente en la plataforma y acceder al Dashboard principal.<br><br>
 
