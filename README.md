@@ -649,8 +649,19 @@ https://goo.su/nQxos3
 
 A continuación se presenta el User Task Matrix, elaborado a partir del análisis de las entrevistas realizadas a los dos segmentos clave para el proyecto. Este artefacto permite visualizar las actividades principales que realiza cada tipo de usuario, así como entender la frecuencia con la que las llevan a cabo y el valor que les otorgan. La información obtenida en este análisis resulta fundamental para priorizar las funcionalidades en el desarrollo de la solución digital, garantizando que el diseño responda a las necesidades genuinas de quienes la utilizarán.
 
-![Imagen User Task Matrix](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/542466144_1338210284678607_2159738236897006469_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=GewyH_MT01YQ7kNvwEKF3gB&_nc_oc=AdlpmQHHshOHNc7GpHPvH7jkFtFN2MU9wwnVkw4k9hta2EAormFGAnC7l2cOP4a4yoM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QEdPhHsxcMgwroCoJsW4K2uCi1ymyGjOZ-lMSa8kcinzQ&oe=68E49591)
-
+| N° | Tarea (Task) | Miguel Veramendi |            | Carla Flores | |
+| :---: | :--- |:----------------:|:----------:| :---: | :---: |
+| | |    Frecuency     | Importance | Frecuency | Importance |
+| 1 | Revisar el consumo eléctrico en recibos mensuales |     Monthly      |    High    | Monthly | High |
+| 2 | Estimar el gasto de dispositivos y equipos utilizados |      Weekly      |    High    | Occasionally | Medium |
+| 3 | Coordinar con proveedores o servicios de mantenimiento |     Monthly      |    High    | Monthly | Medium |
+| 4 | Supervisar el uso responsable de equipos y recursos |      Weekly      |    High    | Weekly | Medium |
+| 5 | Identificar picos de consumo y momentos de mayor gasto |      Weekly      |    High    | Weekly | High |
+| 6 | Buscar alternativas de sostenibilidad y eficiencia |      Weekly      |    High    | Weekly | High |
+| 7 | Establecer metas de ahorro |    Sometimes     |    High    | Always | High |
+| 8 | Comparar consumo entre periodos |    Sometimes     |    High    | Sometimes | Medium |
+| 9 | Revisar gastos generales del hogar o del proyecto |     Monthly      |    High    | Monthly | High |
+| 10 | Asistir a capacitaciones o talleres de actualización |    Quarterly     |   Medium   | Quarterly | Medium |
 
 ### 2.3.3. User Journey Mapping.
 
