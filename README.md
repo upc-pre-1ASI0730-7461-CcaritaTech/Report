@@ -437,72 +437,72 @@ Estos supuestos formarán la estructura de nuestra estrategia de diseño y propo
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- **Creemos que lograremos** una tasa de retención de licencias B2C del 75 % en el primer año<br>
+- **Creemos que lograremos** una tasa de retención de licencias B2C del 75% en el primer año<br>
   **Si** propietarios y arrendatarios<br>
-  **Obtienen** una calificación de satisfacción un 25 % superior en la experiencia de habitar<br>
+  **Obtienen** una calificación de satisfacción un 25% superior en la experiencia de habitar<br>
   **Con** el panel de control unificado de la plataforma.<br>
 
-- **Creemos** que lograremos reducir los costos de soporte y atención al cliente en un 30 % en seis meses <br>
+- **Creemos** que lograremos reducir los costos de soporte y atención al cliente en un 30% en seis meses <br>
   **Si** usuarios finales (propietarios) <br>
   **Obtienen** una reducción significativa de la frustración al gestionar múltiples funciones <br>
   **Con** la funcionalidad de gestión centralizada de seguridad, energía y confort.<br>
 
-- **Creemos** que lograremos reducir en un 40 % los costos de implementación en sitio <br>
+- **Creemos** que lograremos reducir en un 40% los costos de implementación en sitio <br>
   **Si** ingenieros y técnicos de la construcción <br>
   **Obtienen** la posibilidad de configurar y desplegar sistemas de forma remota y sin interrupciones <br>
   **Con** la funcionalidad de acceso remoto para proyectos inteligentes.<br>
 
-- **Creemos** que lograremos una reducción del 15 % en el CAC gracias a alianzas estratégicas <br>
+- **Creemos** que lograremos una reducción del 15% en el CAC gracias a alianzas estratégicas <br>
   **Si** constructoras y arquitectos <br>
-  **Obtienen** un 30 % de aceleración en la fase de diseño conceptual <br>
+  **Obtienen** un 30% de aceleración en la fase de diseño conceptual <br>
   **Con** el constructor de espacios inteligentes y la simulación en modelos BIM.<br>
 
-- **Creemos** que lograremos incrementar la tasa de conversión de proyectos de prueba a clientes de pago en un 25 % durante el primer semestre <br>
+- **Creemos** que lograremos incrementar la tasa de conversión de proyectos de prueba a clientes de pago en un 25% durante el primer semestre <br>
   **Si** empresas constructoras <br>
-  **Obtienen** una reducción del 40 % en el tiempo de implementación de tecnologías inteligentes <br>
+  **Obtienen** una reducción del 40% en el tiempo de implementación de tecnologías inteligentes <br>
   **Con** el simulador en tiempo real de flujos de automatización.<br>
 
-- **Creemos** que lograremos un flujo de ingresos recurrente gracias a una tasa de retención B2C del 75 % <br>
+- **Creemos** que lograremos un flujo de ingresos recurrente gracias a una tasa de retención B2C del 75% <br>
   **Si** propietarios <br>
-  **Obtienen** una gestión centralizada que reduce en un 60 % la frustración de usar múltiples aplicaciones <br>
+  **Obtienen** una gestión centralizada que reduce en un 60% la frustración de usar múltiples aplicaciones <br>
   **Con** la integración con asistentes de voz y el panel unificado de IoBuild.<br>
   
-- **Creemos** que lograremos reducir los costos de soporte en un 30 % en los primeros seis meses <br>
+- **Creemos** que lograremos reducir los costos de soporte en un 30% en los primeros seis meses <br>
   **Si** propietarios de viviendas inteligentes <br>
-  **Obtienen** un aumento del 25 % en su satisfacción con la experiencia de habitar <br>
+  **Obtienen** un aumento del 25% en su satisfacción con la experiencia de habitar <br>
   **Con** la funcionalidad de personalización de escenas como “Modo cine”<br>
   
-- **Creemos** que lograremos escalar nuestra operación a más proyectos simultáneamente reduciendo en un 40 % los costos de implementación <br>
+- **Creemos** que lograremos escalar nuestra operación a más proyectos simultáneamente reduciendo en un 40% los costos de implementación <br>
   **Si** ingenieros y técnicos de construcción <br>
   **Obtienen** mayor flexibilidad y control remoto de los sistemas inteligentes <br>
   **Con** el sistema de gestión remota y reportes energéticos en la plataforma.<br>
   
-- **Creemos** que lograremos incrementar los ingresos directos en un 25 % al convertir proyectos de prueba en clientes de pago <br>
+- **Creemos** que lograremos incrementar los ingresos directos en un 25% al convertir proyectos de prueba en clientes de pago <br>
   **Si** constructoras y promotores inmobiliarios <br>
-  **Obtienen** una reducción del 40 % en el tiempo de integración de tecnologías inteligentes en sus proyectos <br>
+  **Obtienen** una reducción del 40% en el tiempo de integración de tecnologías inteligentes en sus proyectos <br>
   **Con** la prueba de concepto gratuita y el simulador en tiempo real de automatización.<br>
   
-- **Creemos** que lograremos reducir en un 40 % los costos y tiempos de implementación en sitio <br>
+- **Creemos** que lograremos reducir en un 40% los costos y tiempos de implementación en sitio <br>
   **Si** ingenieros de proyectos <br>
-  **Obtienen** una aceleración del 30 % en la fase de diseño conceptual <br>
+  **Obtienen** una aceleración del 30% en la fase de diseño conceptual <br>
   **Con** el simulador en tiempo real y la integración con modelos BIM.<br>
   
-- **Creemos** que lograremos una reducción del 15 % en el CAC gracias a recomendaciones de socios estratégicos <br>
+- **Creemos** que lograremos una reducción del 15% en el CAC gracias a recomendaciones de socios estratégicos <br>
   **Si** promotores inmobiliarios <br>
-  **Obtienen** una experiencia de integración simplificada y modular que disminuye el tiempo de implementación en un 40 % <br>
+  **Obtienen** una experiencia de integración simplificada y modular que disminuye el tiempo de implementación en un 40% <br>
   **Con** la integración directa con marcas de hardware compatibles.<br>
   
-- **Creemos** que lograremos incrementar los ingresos directos en un 25 % durante el primer semestre <br>
+- **Creemos** que lograremos incrementar los ingresos directos en un 25% durante el primer semestre <br>
   **Si** constructoras <br>
-  **Obtienen** una disminución del 60 % en la frustración por la fragmentación de aplicaciones <br>
+  **Obtienen** una disminución del 60% en la frustración por la fragmentación de aplicaciones <br>
   **Con** la gestión centralizada de funciones en un solo panel de control.<br>
   
-- **Creemos** que lograremos un flujo de ingresos recurrente mediante la retención del 75 % de usuarios B2C <br>
+- **Creemos** que lograremos un flujo de ingresos recurrente mediante la retención del 75% de usuarios B2C <br>
   **Si** propietarios y arrendatarios <br>
-  **Obtienen** un 20 % de reducción en su consumo energético anual <br>
+  **Obtienen** un 20% de reducción en su consumo energético anual <br>
   **Con** el sistema de reportes y análisis de consumo de energía.<br>
   
-- **Creemos** que lograremos reducir los costos de soporte en un 30 % en seis meses <br>
+- **Creemos** que lograremos reducir los costos de soporte en un 30% en seis meses <br>
   **Si** usuarios residenciales <br>
   **Obtienen** una experiencia personalizada sin necesidad de conocimientos técnicos <br>
   **Con** la funcionalidad de creación de escenas y automatizaciones adaptadas al usuario.<br>
