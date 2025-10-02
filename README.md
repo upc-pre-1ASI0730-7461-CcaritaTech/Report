@@ -1222,14 +1222,20 @@ Finalmente, el sitio se enfoca en eliminar las últimas barreras para la compra.
 [Link ded Figma]<https://shorturl.at/ZkQuE>
 
 #### 1. Home
+- La interfaz sigue una estructura en Z con un header fijo con logo y menú principal, un hero section con título, subtítulo y un llamado a la acción destacado (“Empezar ahora”). En las secciones intermedias se presentan los beneficios en formato de tarjetas, seguidos de testimonios y planes de precios. El footer reúne enlaces organizados por categorías, accesos a redes sociales y aviso de copyright. El diseño es claro, escaneable y enfocado en la conversión, guiando al usuario de manera natural desde el primer contacto hasta la acción final.<br>
+
 ![Landing page Home Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548903069_1808293439783932_1809402883401001185_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=_FQVEgMlQakQ7kNvwE8gIZS&_nc_oc=AdnQmwAyL6a28uURJ5l8cPJcPtpVzKmU5lGEO0pNg2hQQpM8UuzOaMD_k9QYVhIZzdw&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFQsUhN-Iwu_32ixSUO2K588dIu0vH__PvcUz-yAUks2w&oe=68EFC57E)
 <br>
 
 #### 1. About Us
+- El wireframe de About se organiza en un esquema de columnas, a la izquierda se ubican el título y los párrafos descriptivos, mientras que a la derecha se reserva un espacio para la imagen. La página integra secciones jerarquizadas que construyen una narrativa clara sobre la identidad de la marca. En la parte inferior se disponen tarjetas con íconos y descripciones, seguidas de la presentación del equipo con un miembro destacado y cuatro integrantes adicionales. La composición se enmarca con una navegación principal en la parte superior y un footer completo al final, manteniendo coherencia visual y un flujo narrativo fluido.<br>
+
 ![Landing page About-us Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547359754_601955382998827_928295364492448227_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=UBwZm2ICbwEQ7kNvwH5rZv2&_nc_oc=Adl03DhTV5o7MzKSM6tFjBLP-IiYIOJEmYMiNpjEc7Tz5rnIFzaHchdKbHHxjMznguo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGJM6WZQCTEp3O-gJHIDXDniQSm1gB8ny7NvErkXPJdGg&oe=68EFBBCB)
 <br>
 
 #### 1. FAQ
+- La sección adopta un acordeón vertical, donde cada pregunta se despliega para mostrar respuestas detalladas. Los contenidos abarcan temas clave como precios, diseño, edición y alianzas. En la parte superior, filtros por categoría facilitan la exploración del material, mientras que en la parte inferior un CTA “Didn’t Find Your Answer?” dirige a la página de contacto. El diseño mantiene un estilo minimalista y ordenado, y una jerarquía visual clara, optimizada para la legibilidad y una experiencia sin distracciones.<br>
+
 ![Landing page FAQ 1 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546798550_24992962880353499_1009259461898462028_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=uAlQp2FI2mkQ7kNvwEge5ff&_nc_oc=AdnaqvorL5LJ0TaV077ECix7w3kIGKilRqcH28PfpObgFLCoaRHIPiJMDsxOVBzMGQA&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH_ktMd3VEHXfz4sxte5gMqQd31COk-Mly8vFRpWuA3tQ&oe=68EFA2E7)
 
 ![Landing page FAQ 2 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546514474_1160766582768172_8785964478305398275_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xT8N2SfERy0Q7kNvwE5r5vw&_nc_oc=AdlR_LLslQFTp2bB5TnbHqfy-wLMVoONfGq6BDAD28U6nqjWBtmyNWPiYDQQkebpRhE&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGx0z9eT1r79GxNOGTIltX34mmC3NYc1amFuWYKdA9AQw&oe=68EFBE94)
