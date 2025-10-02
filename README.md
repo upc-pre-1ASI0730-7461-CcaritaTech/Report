@@ -437,10 +437,10 @@ Estos supuestos formarán la estructura de nuestra estrategia de diseño y propo
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- **Creemos que lograremos** una tasa de retención de licencias B2C del 75 % en el primer año
-  **Si** propietarios y arrendatarios 
-  **Obtienen** una calificación de satisfacción un 25 % superior en la experiencia de habitar
-  **Con** el panel de control unificado de la plataforma.
+- **Creemos que lograremos** una tasa de retención de licencias B2C del 75 % en el primer año<br>
+  **Si** propietarios y arrendatarios<br>
+  **Obtienen** una calificación de satisfacción un 25 % superior en la experiencia de habitar<br>
+  **Con** el panel de control unificado de la plataforma.<br>
 
 
 
