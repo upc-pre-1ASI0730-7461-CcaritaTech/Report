@@ -1415,29 +1415,37 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 <br>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
-#### Segmento Objetivo #1: Ingenieros
+#### Segmento Objetivo #1: Arquitectos e Ingenieros Civiles
 
-Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestionar sus proyectos residenciales, centralizar la información de clientes, monitorear dispositivos IoT implementados en los edificios y configurar opciones de administración de manera eficiente.
+**1. Profile**
+**User Goal:** Como ingeniero, quiero ver y editar mi infomación.
+![Segmento #1 User Flow #1](https://i.imgur.com/kvUggyz.png)
 
-En el Happy Path, se modeló el flujo ideal que sigue este tipo de usuario desde el menú Home hasta la visualización del estado de los componentes de uno de sus clientes. El recorrido empieza por el menú Home, donde al ingeniero se le presentan los accesos a los menús Profile, Projects, Device Management y Configuration. El ingeniero ingresa al menú Device Management después de seleccionarlo, y se le presenta un listado de sus clientes con información básica como su nombre, el proyecto al que está asociado, el estado de su cuenta y la opción de visualizar su perfil completo. Tras elegir esta opción, el ingeniero podrá visualizar el estado de los componentes del cliente seleccionado.
+**2. Project Management**
+**User Goal:** Como ingeniero, quiero ver, editar y añadir projects en los que estoy trabajando.
+![Segmento #1 User Flow #2](https://i.imgur.com/tXPBba2.png)
 
-Happy Path:
-![Web Aplication User Flow Diagram 1 Happy Path](https://i.imgur.com/wlsZ6y6.png)
+**3. Client Management**
+**User Goal:** Como ingeniero, quiero monitorear los dispositivos de los projectos en los que estoy trabajando.
+![Segmento #1 User Flow #3](https://i.imgur.com/8twMdcS.png)
 
-Unhappy Path:
-![Web Aplication User Flow Diagram 1 Unhappy Path](https://i.imgur.com/CrCaotI.png)
+**4. Configuration**
+**User Goal:** Como ingeniero, quiero personalizar la configuración de la plataforma.
+![Segmento #1 User Flow #4](https://i.imgur.com/ahMWrPP.png)
 
 #### Segmento Objetivo #2: Dueños de apartamentos
 
-Los dueños de los apartamentos buscan, con IoBuild, controlar de manera remota sus aparatos electrónicos y obtener información detallada sobre su desempeño.
+**1. Profile**
+**User Goal:** Como propietario, quiero ver y editar mi infomación.
+![Segmento #2 User Flow #1](https://i.imgur.com/BvaODWv.png)
 
-En el Happy Path, se modeló el flujo ideal que sigue este tipo de usuario desde el menú Home hasta la visualización de la información detallada de uno de sus dispositivos. El recorrido empieza por el menú Home, donde al dueño se le presentan los accesos a los menús Profile, Device Management y Configuration. El dueño ingresa al menú Device Management después de seleccionarlo, y se le presenta un listado de sus aparatos electrónicos con información básica como su nombre, su categoría, su estado en tiempo real y la opción de visualizar sus características y personalizarlo. Tras elegir esta opción, el dueño podrá visualizar el estado del componente seleccionado.
+**2. Device Management**
+**User Goal:** Como propietario, quiero monitorear y configurar mis dispositivos.
+![Segmento #2 User Flow #2](https://i.imgur.com/eMS1Dpv.png)
 
-Happy Path:
-![Web Aplication User Flow Diagram 2 Happy Path](https://i.imgur.com/Cj4etGN.png)
-
-Unhappy Path:
-![Web Aplication User Flow Diagram 2 Unappy Path](https://i.imgur.com/H0a6X3I.png)
+**3. Configuration**
+**User Goal:** Como propietario, quiero personalizar la configuración de la plataforma.
+![Segmento #2 User Flow #3](https://i.imgur.com/4ToJGYV.png)
 
 ## 4.5. Web Applications Prototyping.
 En esta etapa se presentan los prototipos de la aplicación web IoBuild, diseñados para navegadores de escritorio. El enfoque está en simular los flujos principales de cada segmento objetivo, garantizando una experiencia clara y funcional en pantallas grandes.
