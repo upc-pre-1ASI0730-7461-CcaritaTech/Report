@@ -476,7 +476,7 @@ Creemos que los administradores de edificios verán IoBuild como una herramienta
 
 
 #### 1.2.2.4. Lean UX Canvas.
-![Lean UX Canvas](https://i.imgur.com/mSqQstx.png)
+![Lean UX Canvas](https://i.imgur.com/iJmy8Kv.png)
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2 |
 | - | - | - |
