@@ -1332,23 +1332,57 @@ Se integrarán servicios RESTful para la comunicación con el backend y se crear
 ### 4.4.1. Web Applications Wireframes.
 
 #### Vista del segmento #1: Arquitectos e Ingenieros Civiles
+#### 1. Home
+- El área principal está dedicada a la "Project Overview", que incluye varios gráficos informativos: un gráfico circular sobre el estado de los proyectos (diseño, planificación, implementación), gráficos de barras sobre el presupuesto y la asignación de dispositivos IoT, y un gráfico de líneas para el proceso general.
+
 ![Segmento #1 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546934814_772875618820959_1643343708730820101_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zl9FtUFJeHAQ7kNvwGVPADA&_nc_oc=AdmJCkHiUoDbqzG13fAZr4eIOjwkurxzDz0QvQqm0U1f1xtPA8FRpZSCOIjX2nQwp8c&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGFBLwY28EtZYqZtAkJinyZtEzIIm2Z_8alQZSFa6s87g&oe=68F12890)
+<br>
+
+#### 2. Proflie
+- El área principal de contenido está estructurada para mostrar primero un resumen del perfil del usuario ("Full Name", "Role") junto con un botón "Edit Profile". Debajo, se detallan los "Account Information", que incluyen campos para el nombre completo, correo electrónico y número de teléfono. Más abajo, se presentan opciones de configuración adicionales como el "Current Plan" con una opción para renovar, la "Time Zone"y el "App language".
 
 ![Segmento #1 Wireframe Profile](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548265726_810996184942497_3946170082989081874_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RoLOdR3sotIQ7kNvwFbX7Jj&_nc_oc=Adl0-Lz-QgqJfvy0c5rhX4K5hnQbSDWjTSDYp5IXF36Dak4xHeYRx3Jt991ojojXATY&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QElvvsxfcinRxj3WBB444AHuq-Yys8ongvFsyAKhqiafw&oe=68F11AB9)
+<br>
+
+#### 3. Projects
+- El área principal de contenido presenta un encabezado "My Projects" y un botón prominente "+ Add Project", sugiriendo la capacidad de crear nuevas iniciativas. Debajo, se visualizan tres tarjetas de proyecto idénticas en su estructura, cada una con un marcador de posición para una imagen, un título "Name Project", etiquetas indicando "In implementation" y la cantidad de dispositivos asociados, y una barra de progreso.
 
 ![Segmento #1 Wireframe Project](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547403499_798521849219373_14743688471030919_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xFnIff8XZKUQ7kNvwHjiU7o&_nc_oc=AdkIx3yShhsRMmqgN2Q6gb-PzJsPSaN1_N_vMhLfIGt0-LeDYG9vsMbr9oavEkHleLo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFkvyDCVW5smnRyvSba16UCLY1sIMmWAgAYtKMsRCTpkA&oe=68F1121D)
+<br>
+
+#### 4. Client Managment
+- El área principal del contenido presenta el encabezado "My Clients" y un botón "+ Add Client" , lo que sugiere la capacidad de incorporar nuevos clientes al sistema. Debajo, se presenta una tabla organizada con columnas para "Full Name", "Associated Project", "Account Statement" y "Actions".
 
 ![Segmento #1 Wireframe Management](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549216145_677842172009026_3176599930793983657_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=AYt7vl-wfIsQ7kNvwF8kNPG&_nc_oc=AdlvkAFH_ulkeE4AXQYJbaZeSgheavV-7zKw6P0LvlC3SAl5L4Pfs05p-RnWiJtvhFQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHMLykiQlB7KboQNRHrv6-w4unn9Iebe2QR_eW0A5O0jQ&oe=68F11DEC)
+<br>
+
+#### 5. Configuration
+- El área principal del contenido se divide en tres secciones claras: "Notifications", "Security and Privacy", y "Support and Help". En la sección de Notificaciones, los usuarios pueden activar o desactivar alertas de expiración, actualizaciones del sistema y notificaciones de clientes mediante interruptores. La sección de Seguridad y Privacidad ofrece opciones para cambiar la contraseña, configurar la autenticación de dos factores y gestionar las sesiones activas, cada una con un icono de configuración para mayor detalle. Finalmente, la sección de Soporte y Ayuda proporciona enlaces a un Centro de ayuda y Contacto de Soporte.
 
 ![Segmento #1 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549789816_3700063793458399_951366129761349704_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=8S8zXvV0pNkQ7kNvwHZp1hP&_nc_oc=Adn6PeOyQRRDnOiXuVKNuKSaNaSNfPdQRCxsys1wMRfdf36GViFUETH7Xkk5R94RFNM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QGGqMyz62yJC31SxBTLvbZ1FKawGl63LQ757Ni1A8niGw&oe=68F13999)
 <br><br>
 
 #### Vista del segmento #2: Propietarios de departamentos
+#### 1. Home
+- El área principal está dedicada a la "Project Overview", que incluye varios gráficos informativos: un gráfico circular sobre el estado de los proyectos (diseño, planificación, implementación), gráficos de barras sobre el presupuesto y la asignación de dispositivos IoT, y un gráfico de líneas para el proceso general.
+
 ![Segmento #2 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548789966_1363689778710882_7039934852377744894_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fkdiCQYFd7YQ7kNvwHq-hUf&_nc_oc=Admh4FG5P3XMUEYNSS_TW8FnhiZ7Sz7WzIU9XqHyMuWC5mUKdbQRot3AR7sHVA3mgh8&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHmfFGKaLMUqc3gYOmoTFfVty1Bc4Ksx1VpAoOkeUpPdA&oe=68F11129)
+<br>
+
+#### 2. Profile
+- El área principal de contenido está estructurada para mostrar primero un resumen del perfil del usuario ("Full Name", "Role") junto con un botón "Edit Profile". Debajo, se detallan los "Account Information", que incluyen campos para el nombre completo, correo electrónico y número de teléfono. Además, se introduce una nueva sección titulada "Favorite Scene Configuration" (Configuración de Escena Favorita), que lista múltiples opciones de "Energy-Saving Mode" con botones "Use", indicando la capacidad de configurar escenarios o modos preestablecidos para dispositivos. Más abajo, se presentan opciones de configuración adicionales como el "Current Plan" con una opción para renovar, la "Time Zone"y el "App language".
 
 ![Segmento #2 Wireframe Profile](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549307912_1844807509806857_4502827599932578220_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=kZwF60FNusMQ7kNvwFk2wHk&_nc_oc=AdkQRzmxQoVc8nWKWQCU61_5LZ6IBQywhevri3ZdV6KHJdRaBHnBDCBp8wR1mOXEcCs&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QFBeLLykbgZinyG9xkmn1bAKe-NK-YFM-8dkTo-vhZcYg&oe=68F11858)
+<br>
+
+#### 3. Device Management
+- El encabezado "My Devices" es prominente, acompañado de dos botones de acción principales: "+ Create Scene", que permite agrupar y automatizar múltiples dispositivos, y "+ Add Device", para incorporar nuevos equipos al sistema. La información de los dispositivos se presenta en una tabla con columnas para "Name", "Category", "Real-time status" y "Actions". La tabla lista dispositivos con estados alternos de "On" y "Off", y cada uno incluye un icono de configuración para acceder a ajustes específicos.
 
 ![Segmento #2 Wireframe Management](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548892524_787827270691353_4787503330365265407_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zQYYl0PCj-sQ7kNvwHt6S7U&_nc_oc=AdlZP73_PZ2fsrw1ovraQLQgcvhjzFXe6mG9X7yn9_tBpFshw8-4y8EFCjBOfhPO7Lk&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH7XTt9gfRjl_ni8Gy0XSDIBFNOZQ_lePXOAMfhCGhvww&oe=68F122F1)
+<br>
+
+#### 4. Configuration
+- El área principal del contenido se divide en tres secciones claras: "Notifications", "Security and Privacy", y "Support and Help". En la sección de Notificaciones, los usuarios pueden activar o desactivar alertas de expiración, actualizaciones del sistema y notificaciones de clientes mediante interruptores. La sección de Seguridad y Privacidad ofrece opciones para cambiar la contraseña, configurar la autenticación de dos factores y gestionar las sesiones activas, cada una con un icono de configuración para mayor detalle. Finalmente, la sección de Soporte y Ayuda proporciona enlaces a un Centro de ayuda y Contacto de Soporte. La sección "Advanced Device Management", que incluye opciones para "Automated Scenes" y "User Permissions".
 
 ![Segmento #2 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/548395799_806400318513018_2616395886245004489_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=IAbyFt8bA70Q7kNvwFh2uAC&_nc_oc=AdmgVEXQKET95xsVRTzhgvSzcaJAdcH9zDjYNOBpOZrOI8h7Qs8TBiJRPBdJL31cOxQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHZJ0SuuS2fLLBOtZHVJ0bveGZjIubVkMw0UzMWq0CF-w&oe=68F10B86)
 <br>
