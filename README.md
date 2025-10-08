@@ -2125,6 +2125,10 @@ A continuación, se presenta la tabla de control de estado del Sprint 2, la cual
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+!()[https://i.imgur.com/5ZtafLR.png]
+
+!()[https://i.imgur.com/gfpCmIZ.png]
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Durante el Sprint 2 de IoBuild, el desarrollo se centró en la implementación funcional de la aplicación web, integrando la interfaz con una API desplegada basada en la estructura del archivo db.json. Esta API, disponible en https://iobuild-api.arroz.dev/, actúa como una fuente de datos remota simulada, permitiendo el consumo de información dinámica sin necesidad de un backend.
 
