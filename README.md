@@ -2017,7 +2017,21 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Durante el Sprint 2 de IoBuild, el desarrollo se centró en la implementación funcional de la aplicación web, integrando la interfaz con una API desplegada basada en la estructura del archivo db.json. Esta API, disponible en https://iobuild-api.arroz.dev/, actúa como una fuente de datos remota simulada, permitiendo el consumo de información dinámica sin necesidad de un backend.
 
+**Estado actual:**
+
+- Se desarrollaron e integraron las principales vistas de la plataforma (Dashboard, Profile, Settings, My Devices, My Projects y Subscriptions), garantizando coherencia visual, navegación fluida y conexión con la API.
+
+- La API desplegada funciona a partir de un archivo db.json, que define las colecciones de datos y expone endpoints REST para operaciones CRUD (Create, Read, Update, Delete).
+
+- No se ha implementado aún una capa backend con controladores, servicios o lógica de negocio avanzada; sin embargo, la arquitectura actual está preparada para su futura incorporación.
+
+- Se habilitaron funcionalidades interactivas como la edición de datos de usuario, la actualización de información desde la API, la gestión por roles (Owner/Builder) y la visualización de contenido dinámico.
+
+- Se reforzaron la internacionalización (i18n), consolidando una interfaz moderna, clara y adaptable.
+
+El enfoque de este sprint se centró en las épicas relacionadas con la implementación funcional del front-end y la integración con una API desplegada basada en db.json, que permite simular la interacción con un sistema backend real. Este avance consolidó una versión plenamente operativa de la aplicación web de IoBuild, permitiendo la gestión dinámica de datos y sentando las bases para la posterior incorporación de un backend con lógica de negocio y persistencia avanzada.
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
