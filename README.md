@@ -1586,17 +1586,19 @@ Gracias a este diseño modular, IoBuild mantiene una separación clara entre la 
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
-El diagrama de componentes profundiza aún más en la vista del sistema, enfocándose en la arquitectura interna del API Backend de IoBuild. Aquí se muestra cómo las responsabilidades de la lógica de negocio se dividen en distintos controladores, servicios y repositorios, lo que permite mantener una separación clara de preocupaciones y un código más mantenible.
+El diagrama de componentes muestra la arquitectura interna del contenedor Single Page Application (SPA) de IoBuild, destacando cómo se estructura la lógica del lado del cliente en capas claramente diferenciadas. Esta organización permite mantener una experiencia fluida para los usuarios y una separación clara entre la presentación, la gestión del estado y la comunicación con el backend.
 
-Los controladores (AuthController, UserController, DeviceController, SubscriptionController y DashboardController) actúan como punto de entrada desde la SPA, procesando las solicitudes de los usuarios y redirigiéndolas hacia los servicios correspondientes.
+Las vistas (Auth, Devices, Dashboard, Profile y Subscriptions) representan las pantallas principales con las que interactúan los usuarios. Desde estas vistas, los usuarios pueden iniciar sesión, gestionar dispositivos, visualizar métricas o administrar suscripciones, dependiendo de su rol dentro del sistema (constructor o propietario).
 
-Los servicios concentran la lógica de negocio y representan los diferentes contextos funcionales de la plataforma: AuthService gestiona autenticación y control de accesos, UserService administra perfiles y preferencias, DeviceService se encarga de los dispositivos inteligentes y las automatizaciones, SubscriptionService regula planes, pagos y suscripciones, AnalyticsService genera reportes, paneles e insights.
+Las stores (AuthStore, DeviceStore, DashboardStore, ProfileStore, SubscriptionStore) manejan el estado interno de la aplicación y coordinan la lógica de interacción entre las vistas y los servicios. Estas se encargan de mantener los datos locales sincronizados y de orquestar las operaciones del usuario.
 
-Cada servicio se apoya en un repositorio especializado que gestiona la persistencia en la base de datos (UserRepository, DeviceRepository, SubscriptionRepository, DashboardRepository).
+Las services (AuthService, DeviceService, DashboardService, ProfileService, SubscriptionService) implementan la lógica de negocio en el cliente y actúan como intermediarios entre las stores y las APIs del backend.
 
-Finalmente, todos los repositorios interactúan con el contenedor externo de base de datos (MySQL), donde se almacenan los datos de usuarios, dispositivos, suscripciones y métricas.
+Finalmente, las API clients (AuthApi, UserApi, DeviceApi, SubscriptionApi, AnalyticsApi) representan las integraciones con los distintos contextos delimitados del sistema backend. Estas conexiones permiten que la SPA obtenga y envíe información de manera eficiente, coordinando datos de autenticación, dispositivos, suscripciones y analítica.
 
-![Software Architecture Component Diagram](https://i.imgur.com/yfLZ5A1.png)
+Gracias a esta estructura modular, IoBuild puede mantener una interfaz reactiva, segura y extensible, en la que cada componente cumple un rol definido dentro del ecosistema de espacios inteligentes.
+
+![Software Architecture Component Diagram](https://i.imgur.com/5uACpiU.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
