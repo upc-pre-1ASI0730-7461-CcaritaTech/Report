@@ -2010,6 +2010,45 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 | Panta Castro, Fabrizio Martin | F4brizio24      | C         | C                   | C               | C                     | L             |                             
 | Olivos Huaman, Yeira Shari    | YeiShari        | C         | L                   | C               | C                     | C             |
 
+#### 5.2.2.3. Sprint Backlog 2.
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2 de IoBuild, las actividades se centraron en el desarrollo e integración de la aplicación web, orientada a los perfiles Owner y Builder. El equipo enfocó sus esfuerzos en la implementación de las vistas principales, la gestión de datos dinámicos y la consolidación del diseño visual y funcional de la plataforma.
+
+En esta etapa se construyó la estructura base de la aplicación, integrando componentes como Dashboard, Profile, Settings, My Devices, My Projects y Subscriptions, garantizando una navegación fluida y coherente entre las secciones. Asimismo, se implementaron funcionalidades de edición de perfil, cambio de idioma (i18n) y ajustes de usuario, fortaleciendo la experiencia interactiva del sistema.
+
+El diseño visual mantuvo la identidad de IoBuild, priorizando la consistencia de la interfaz, la responsividad y la usabilidad en distintos dispositivos. Se aplicó una tipografía uniforme y un esquema de color que refuerza la claridad y el profesionalismo de la plataforma.
+
+La colaboración del equipo se coordinó mediante GitHub, siguiendo un flujo de trabajo basado en ramas por feature, commits normalizados (Conventional Commits) y Pull Requests revisados en equipo, asegurando la trazabilidad, coherencia y calidad del código entregado.
+
+A continuación, se presentan las contribuciones individuales de los miembros del equipo durante este sprint.
+
+#### Insights
+
+![Imagen de Insights](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/562861809_24639645009037306_2734890267585177946_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=SzKX4oktIxAQ7kNvwFDWOps&_nc_oc=AdldHaPJ9HyjM7C4i_qaO0qhYWZCZ3SltDUc2huDR-JRQ2FYaOLX_o74hfMa9k9PKH4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gGFgMargr60LM7ex6myVow50P0e3KhDg1okTbUtt-8tZQ&oe=690E762E)
+
+#### Contribuciones por miembro
+
+![Imagen de Insights2](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/557972616_2733439220381428_4804545144051177583_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=eQLShG-prtEQ7kNvwGyD_P9&_nc_oc=AdkapHKt8Rq06ZRiuOEr8A0pYgIXJHWUXFaDGh4AbBRN5CWwzkzqff3yo0n5mmZOFqA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gEXTfnMXxKP5DKftvUt6tOjKpJu7Uok8imH9Ao1o-u52A&oe=690E4E6C)
+
+#### Commits del repositorio
+
+![Imagen de Commits](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/562687313_1098247288743174_3553633454091400077_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=04oglCuCJ08Q7kNvwFpz7NA&_nc_oc=AdkIZksX1BnQTua2V7Sx5zfI7qwn-298wLBqCLCLFpEpGZd8jEokGGVSNbD3T80y054&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gGTxUylM7ZdnOHDQKkymqibUIBX0EUaSTa-miYCfiar-g&oe=690E4A52)
+![Imagen de Commits2](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/555642591_738206539239944_6059631015254507575_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=tklVXAAQxecQ7kNvwE8H2tP&_nc_oc=AdnpUsODSbI2G6M1jywZwbm4-nwL3QNRbtlmg60OZN-dARJkIkXkIr3a_IuVzL6jOz0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gFFwQqOB3WGTecJPzn8gbqIMtq-V8vUYmRdqfAknA5b6Q&oe=690E5C68)
+![Imagen de Commits3](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/557661893_24713751958245395_3323473219290101119_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=EcoHN9eNqhkQ7kNvwE7YTmT&_nc_oc=AdnRlLTxkM-NoIeejPOH2tF5PGxLZifI060TyIv8DEadMnmNgWjuxVlGork1D-F6uBI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gH8L-P5BmekbPV2aVHYtf2NgfW0bXpTZ05B1ttRcqpe9g&oe=690E497C)
+
+#### Network Graph
+
+![Network Graph](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/557725858_771769069011130_2563857239917357493_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pEnaJdraYhkQ7kNvwFzjCG6&_nc_oc=AdmXt7F5CB7jucQPXLWwovAg7ZouksXN4Snz6jgqsCfl1O-kEr581xsAl86OK_H6EgM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gGqn2XF9n9Ll9_mZk6Ei61nSdOYlSHkr0wUiCS2zz953g&oe=690E594A)
 
 ## Conclusiones
 
