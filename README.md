@@ -2060,6 +2060,124 @@ A continuación, se muestran las contribuciones del equipo durante el sprint:
 **Network graph**
 ![Imagen de network graph](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550971363_1998051354313858_7966446455627817114_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=AmoRX_tFFhMQ7kNvwHNj6ad&_nc_oc=Adkx-Mmu7obPYlLcwyVP61yM_LUdx8VjRsYg0gN7B3V8KqVBslbRmaRC1Mw63Nj7AGo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QEGJD39-X7wcO7abXGmeNKQ7GWvyQJoxWwZIrhHo9IyjA&oe=68F2D8AC)
 
+### 5.2.2. Sprint 2
+
+Durante el Sprint 2 se estableció el desarrollo de la aplicación web de la plataforma IoBuild, enfocándose en la implementación de las principales vistas y funcionalidades orientadas a los perfiles Owner y Builder. El trabajo incluyó la integración de la interfaz con la base de datos, la gestión dinámica de la información de usuario y la mejora de la experiencia visual y de navegación. Asimismo, se priorizó la internacionalización (i18n) y la coherencia del diseño, consolidando una versión funcional y estable del sistema.
+
+#### 5.2.2.1. Sprint Planning 2.
+| **Sprint #**                                 | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Fecha**                                    | 29/09/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Hora**                                     | 19:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Preparado por**                            | CcaritaTech Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari                                                                                                                                                                                                                                                                                                                    |
+| **Sprint Goal & User Stories**               | Nuestro enfoque se centra en entregar una aplicación web funcional, accesible e intuitiva, que integre correctamente las vistas principales para los distintos tipos de usuarios.<br>Creemos que esto fortalecerá la experiencia de uso y la interacción dentro de la plataforma, permitiendo una gestión más fluida y personalizada.<br>Esto se confirmará cuando los usuarios puedan navegar sin dificultades, acceder a sus perfiles y utilizar las funcionalidades clave de manera eficiente. |
+| **Velocidad del Sprint 2**                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |   
+| **Suma de Puntos de Historia**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En este apartado se describen los aspectos funcionales más relevantes trabajados durante el Sprint 2, centrados en el desarrollo de la aplicación web de la plataforma IoBuild. Cada aspecto representa un componente clave dentro del alcance funcional de la solución, abarcando vistas, integración de funcionalidades y coherencia visual en los perfiles Owner y Builder.
+
+Para cada aspecto se designó un Líder (L), responsable de la dirección técnica y la implementación principal, así como Colaboradores (C), encargados de apoyar en el desarrollo, validación y documentación de cada módulo.
+
+La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara la distribución de responsabilidades, garantizando la trazabilidad, coordinación y efectividad del trabajo colaborativo realizado durante el Sprint.
+
+| Team Member                   | GitHub Username | Dashboard | Profile & UI Design | Settings & I18n | My Devices & Projects | Subscriptions |
+|-------------------------------|-----------------|-----------|---------------------|-----------------|-----------------------|---------------|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | C         | C                   | L               | C                     | C             |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | L         | C                   | C               | C                     | C             |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C         | C                   | C               | L                     | C             |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      | C         | C                   | C               | C                     | L             |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        | C         | L                   | C               | C                     | C             |
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+El presente Sprint Backlog se orienta a definir la base funcional y visual de la plataforma web de IoBuild, garantizando una primera versión navegable, multilingüe, accesible y con fundamentos de experiencia de usuario listos para futuras extensiones. El objetivo principal del Sprint 1 es implementar un front end responsive que integre los elementos principales de interfaz, la funcionalidad de internacionalización (I18n), aspectos de diseño UX–UI y una sección de preguntas frecuentes (FAQ), asegurando además el cumplimiento de criterios de accesibilidad (etiquetas ARIA, navegación asistida).
+
+A continuación, se presenta la tabla de control de estado del Sprint 2, la cual detalla las User Stories asignadas, sus correspondientes tareas (Work Items), descripciones funcionales, estimaciones en horas, responsables y el estado actual de avance.
+<br><br>
+![SprintBacklog n](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/555622030_1420385199060963_2023494971609453992_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=3oquCGvG5nAQ7kNvwENhnAa&_nc_oc=AdmWwBBj4lR32xKnx9oJIDI6aaChTR4HuuKhi1ukwYx_-toxfVGsdTTermY_5Fr6N7c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3gH20wsfg9SFF0aJx5StV1sTiTH8LRLl0W2pmVB848xLgQ&oe=690E77D2)
+
+| *Sprint 1*      |                                          |                      |                                                                    |                                                                                                                                                       |                        |                 |            |
+|-------------------|------------------------------------------|----------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| *User Story*    |                                          | *Work-Item / Task* |                                                                    |                                                                                                                                                       |                        |                 |            |
+| *User Story ID* | *User Story Title*                     | *Task Id*          | *Task Title*                                                     | *Description*                                                                                                                                       | *Estimation (Hours)* | *Assigned To* | *Status* |
+| US08          | Registro de cuenta                       | T01                  | Implementar registro de usuario en la plataforma                   | Como usuario, quiero crear una cuenta en la plataforma, para acceder a las funcionalidades y gestionar mis proyectos                                  | 5                      | Jean Arizabal   | Done       |
+| US11          | Asignar cuenta                           | T02                  | Habilitar asignación de cuentas para propietarios                  | Como usuario quiero asignar cuenta para que los propietarios puedan acceder a las funcionalidades de la aplicación                                    | 5                      | Jean Arizabal   | Done       |
+| US21          | Configuración de preferencias            | T03                  | Implementar actualización de credenciales del usuario              | Como usuario, quiero actualizar mi contraseña o métodos de acceso, para mantener la seguridad de mi cuenta.                                           | 5                      | Jean Arizabal   | Done       |
+| US16          | Escenarios predefinidos de ambiente      | T04                  | Implementar control personalizado de iluminación                   | Como propietario, quiero seleccionar escenarios de ambiente, para aplicar configuraciones predeterminadas de luces                                    | 5                      | Axel Ordoñez    | Done       |
+| US12          | Configuración de iluminación             | T05                  | Desarrollar control de temperatura y humedad                       | Como propietario, quiero ajustar la iluminación de mi espacio, para crear ambientes personalizados según mis preferencias                             | 8                      | Axel Ordoñez    | Done       |
+| US13          | Control de climatización                 | T06                  | Configurar programación automática de riego                        | Como propietario, quiero regular la temperatura y humedad de mis ambientes, para mantener condiciones confortables                                    | 5                      | Axel Ordoñez    | Done       |
+| US14          | Riego de áreas verdes                    | T07                  | Implementar panel de gestión de dispositivos inteligentes          | Como propietario, quiero programar el riego automático de jardines o áreas verdes, para optimizar el uso del agua y mantener los espacios cuidados.   | 5                      | Yeira Huaman    | Done       |
+| US15          | Gestión de dispositivos inteligentes     | T08                  | Habilitar notificaciones de mantenimiento programado               | Como propietario, quiero administrar mis dispositivos inteligentes, para supervisar y controlar su funcionamiento desde la aplicación                 | 8                      | Yeira Huaman    | To review  |
+| US17          | Notificaciones de mantenimiento          | T09                  | Desarrollar configuración de preferencias de notificaciones        | Como propietario, quiero recibir avisos sobre mantenimientos programados, para anticipar ajustes en mis espacios                                      | 3                      | Roberto CCarita | Done       |
+| US18          | Personalización de notificaciones        | T10                  | Implementar edición de información de perfil del propietario       | Como propietario, quiero configurar qué tipo de notificaciones deseo recibir, para evitar información irrelevante.                                    | 3                      | Roberto CCarita | To Fix     |
+| US19          | Actualización de datos personales        | T11                  | Crear módulo de configuración de preferencias del propietario      | Como propietario, quiero modificar mi información básica, para mantener mi perfil actualizado                                                         | 3                      | Roberto CCarita | To review  |
+| US20          | Configuración de preferencias            | T12                  | Implementar vista general de dispositivos conectados               | Como propietario, quiero definir mis preferencias, para personalizar mi experiencia en la plataforma.                                                 | 5                      | Fabrizio Panta  | Done       |
+| US22          | Visualización de dispositivos conectados | T13                  | Desarrollar dashboard con monitoreo en tiempo real de dispositivos | Como propietario, quiero ver todos los dispositivos inteligentes conectados, para supervisar su estado                                                | 5                      | Fabrizio Panta  | To Fix     |
+| US23          | Monitoreo en tiempo real                 | T14                  | Desarrollar dashboard con monitoreo en tiempo real de dispositivos | Como propietario, quiero visualizar en el dashboard el estado en tiempo real de mis dispositivos, para conocer cuál es su estado                      | 8                      | Fabrizio Panta  | Done       |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Durante el Sprint 2 de IoBuild, el desarrollo se centró en la implementación funcional de la aplicación web, integrando la interfaz con una API desplegada basada en la estructura del archivo db.json. Esta API, disponible en https://iobuild-api.arroz.dev/, actúa como una fuente de datos remota simulada, permitiendo el consumo de información dinámica sin necesidad de un backend.
+
+**Estado actual:**
+
+- Se desarrollaron e integraron las principales vistas de la plataforma (Dashboard, Profile, Settings, My Devices, My Projects y Subscriptions), garantizando coherencia visual, navegación fluida y conexión con la API.
+
+- La API desplegada funciona a partir de un archivo db.json, que define las colecciones de datos y expone endpoints REST para operaciones CRUD (Create, Read, Update, Delete).
+
+- No se ha implementado aún una capa backend con controladores, servicios o lógica de negocio avanzada; sin embargo, la arquitectura actual está preparada para su futura incorporación.
+
+- Se habilitaron funcionalidades interactivas como la edición de datos de usuario, la actualización de información desde la API, la gestión por roles (Owner/Builder) y la visualización de contenido dinámico.
+
+- Se reforzaron la internacionalización (i18n), consolidando una interfaz moderna, clara y adaptable.
+
+El enfoque de este sprint se centró en las épicas relacionadas con la implementación funcional del front-end y la integración con una API desplegada basada en db.json, que permite simular la interacción con un sistema backend real. Este avance consolidó una versión plenamente operativa de la aplicación web de IoBuild, permitiendo la gestión dinámica de datos y sentando las bases para la posterior incorporación de un backend con lógica de negocio y persistencia avanzada.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 2 se puso en marcha el proceso completo de deployment de la aplicación web de IoBuild, utilizando Vercel como proveedor de alojamiento y despliegue continuo. Este proceso permitió publicar una versión funcional y accesible de la plataforma, conectada con la API desplegada y preparada para futuras integraciones de servicios web y módulos adicionales.
+
+![Imagen de Deploy Evidence1](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/557706453_1558964075260541_5267662118703251603_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=e7CeI44U3sEQ7kNvwHSzTC8&_nc_oc=AdkKPO3V5wSn-mgwhQcQiZBYW7sJsv7v7FZ8P7zEkNCC0cwfvRU6jSfWNjA_Fma3iWE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gFVKie_Xqo5RgOykgOm8CfRl78jRlykGaGDByiFL8WaBQ&oe=690E6EB3)
+![Imagen de Deploy Evidence2](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/555881077_2306523896467248_9118003558503419534_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fQ7hIhuYlCcQ7kNvwF9AOd7&_nc_oc=AdnGckLoBuF5r5f1B19iJm4DGH0UhY7B9yczPOTA9CXcfGWwjlMJ8BSCnECqFNsV_nE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gHslXoEqHsrNdCiknA7_ju1lI8CH-2Y7tsPPH3-vPenFg&oe=690E69AA)
+![Imagen de Deploy Evidence3](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/555814368_697048536122268_4105118464704812276_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=oHbfXvNSux4Q7kNvwFd-3H2&_nc_oc=AdlVprxvYD5P9DUpUU78oq4XXWAkHqr7BTr3PVB1Ub9cUOqYK-3E_bzbth-9d1uzoBE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gGV6TCeKxF3HvmRz7FAjvxBMC3HP1XMQzyuH9UpFHSOTA&oe=690E7931)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2 de IoBuild, las actividades se centraron en el desarrollo e integración de la aplicación web, orientada a los perfiles Owner y Builder. El equipo enfocó sus esfuerzos en la implementación de las vistas principales, la gestión de datos dinámicos y la consolidación del diseño visual y funcional de la plataforma.
+
+En esta etapa se construyó la estructura base de la aplicación, integrando componentes como Dashboard, Profile, Settings, My Devices, My Projects y Subscriptions, garantizando una navegación fluida y coherente entre las secciones. Asimismo, se implementaron funcionalidades de edición de perfil, cambio de idioma (i18n) y ajustes de usuario, fortaleciendo la experiencia interactiva del sistema.
+
+El diseño visual mantuvo la identidad de IoBuild, priorizando la consistencia de la interfaz, la responsividad y la usabilidad en distintos dispositivos. Se aplicó una tipografía uniforme y un esquema de color que refuerza la claridad y el profesionalismo de la plataforma.
+
+La colaboración del equipo se coordinó mediante GitHub, siguiendo un flujo de trabajo basado en ramas por feature, commits normalizados (Conventional Commits) y Pull Requests revisados en equipo, asegurando la trazabilidad, coherencia y calidad del código entregado.
+
+A continuación, se presentan las contribuciones individuales de los miembros del equipo durante este sprint.
+
+#### Insights
+
+![Imagen de Insights](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/562861809_24639645009037306_2734890267585177946_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=SzKX4oktIxAQ7kNvwFDWOps&_nc_oc=AdldHaPJ9HyjM7C4i_qaO0qhYWZCZ3SltDUc2huDR-JRQ2FYaOLX_o74hfMa9k9PKH4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gGFgMargr60LM7ex6myVow50P0e3KhDg1okTbUtt-8tZQ&oe=690E762E)
+
+#### Contribuciones por miembro
+
+![Imagen de Insights2](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/557972616_2733439220381428_4804545144051177583_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=eQLShG-prtEQ7kNvwGyD_P9&_nc_oc=AdkapHKt8Rq06ZRiuOEr8A0pYgIXJHWUXFaDGh4AbBRN5CWwzkzqff3yo0n5mmZOFqA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gEXTfnMXxKP5DKftvUt6tOjKpJu7Uok8imH9Ao1o-u52A&oe=690E4E6C)
+
+#### Commits del repositorio
+
+![Imagen de Commits](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/562687313_1098247288743174_3553633454091400077_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=04oglCuCJ08Q7kNvwFpz7NA&_nc_oc=AdkIZksX1BnQTua2V7Sx5zfI7qwn-298wLBqCLCLFpEpGZd8jEokGGVSNbD3T80y054&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gGTxUylM7ZdnOHDQKkymqibUIBX0EUaSTa-miYCfiar-g&oe=690E4A52)
+![Imagen de Commits2](https://scontent.flim28-1.fna.fbcdn.net/v/t1.15752-9/555642591_738206539239944_6059631015254507575_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=tklVXAAQxecQ7kNvwE8H2tP&_nc_oc=AdnpUsODSbI2G6M1jywZwbm4-nwL3QNRbtlmg60OZN-dARJkIkXkIr3a_IuVzL6jOz0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&oh=03_Q7cD3gFFwQqOB3WGTecJPzn8gbqIMtq-V8vUYmRdqfAknA5b6Q&oe=690E5C68)
+![Imagen de Commits3](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/557661893_24713751958245395_3323473219290101119_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=EcoHN9eNqhkQ7kNvwE7YTmT&_nc_oc=AdnRlLTxkM-NoIeejPOH2tF5PGxLZifI060TyIv8DEadMnmNgWjuxVlGork1D-F6uBI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gH8L-P5BmekbPV2aVHYtf2NgfW0bXpTZ05B1ttRcqpe9g&oe=690E497C)
+
+#### Network Graph
+
+![Network Graph](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/557725858_771769069011130_2563857239917357493_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pEnaJdraYhkQ7kNvwFzjCG6&_nc_oc=AdmXt7F5CB7jucQPXLWwovAg7ZouksXN4Snz6jgqsCfl1O-kEr581xsAl86OK_H6EgM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gGqn2XF9n9Ll9_mZk6Ei61nSdOYlSHkr0wUiCS2zz953g&oe=690E594A)
 
 ## Conclusiones
 
