@@ -2016,6 +2016,10 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+![Execution Evidence 1](https://i.imgur.com/vgXLcHX.jpeg)
+
+![Execution Evidence 2](https://i.imgur.com/9c3uVbV.jpeg)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Durante el Sprint 2 de IoBuild, el desarrollo se centró en la implementación funcional de la aplicación web, integrando la interfaz con una API desplegada basada en la estructura del archivo db.json. Esta API, disponible en https://iobuild-api.arroz.dev/, actúa como una fuente de datos remota simulada, permitiendo el consumo de información dinámica sin necesidad de un backend.
 
