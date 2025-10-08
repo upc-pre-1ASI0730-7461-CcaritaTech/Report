@@ -1299,14 +1299,20 @@ Finalmente, el sitio se enfoca en eliminar las últimas barreras para la compra.
 [Link ded Figma]<https://shorturl.at/ZkQuE>
 
 #### 1. Home
+- El mockup de la página principal presenta una estética moderna y minimalista, enfocada en la claridad y la atracción visual. En la parte superior, el header integra el logo junto con enlaces a Benefits, Features, Plans, About Us y FAQ, además de un botón de llamado a la acción “Get Started”. El hero section concentra la atención con un título llamativo y un botón CTA (“I want it!”) sobre un fondo verde claro. Más abajo, el contenido se organiza en bloques visuales con imágenes y una tipografía legible, destacando secciones como “Advanced Technical Features” y “Plans Designed for Your Scale”. Finalmente, el footer reúne enlaces estructurados (Home Page, Community, Legal, Company), íconos de redes sociales y un mensaje de marca que refuerza la identidad visual del sitio.
+
 ![Landing page Home Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546695006_1144301977573119_928442194268798903_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=e78WUQ-fyZMQ7kNvwFCWf5X&_nc_oc=AdlGkSjf0dR9Rtw6Ed5T8dqt6qjNlt5e9tfZUjEqGsDSrFQvzSt-tDZWGA9lYD7iGos&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHH5BWWhF8KefPJW4XWALxwHn-UldHTXMhertZdMRyQ8A&oe=68EFC428)
 <br>
 
 #### 2. About Us
-![Landing page About-us Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547694686_819563307299824_2703498214179625419_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xijHjN0uxggQ7kNvwEFJ6ej&_nc_oc=AdkxJzrtV3foajwfKxP_D7JtxmgmREwmdwfj_zkklIyxbHDj1rBFJcdcU_HyWh4K3ME&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGNr7qDa-Q36wTHTcOm0TKW-jAWjLOnsq2c8TklsxdddA&oe=68EFC6FD)
+- Esta sección presenta una introducción sobre la misión de CcaritaTech, destacando su enfoque en la innovación y el impacto social. Le siguen las secciones “Our Values” y “Our Team”, que reflejan los principios de la organización y presentan a su equipo. Cada apartado combina textos con imágenes representativas, creando una composición equilibrada. Predomina un estilo limpio y luminoso, con fondos claros, amplio espaciado y jerarquía tipográfica definida, lo que refuerza la coherencia visual y facilita una experiencia clara y atractiva para el usuario.
+
+![Landing page About-us Mock-up](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/554299604_9794796440645124_1743929010221443666_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=yQDxcb7ImRYQ7kNvwG4ydpj&_nc_oc=Adlp4ktTeC2xJ2HB4a8Lm5UYyFuAQ8zOgLxHfj0TiXJygMYBSzOdBGnjvrrLeyKqhUwRuInyT0_PGbpxCCV1YqYj&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3gGNPGXMvAMhxgK0TMKYrd4Wtc0UyDUsZEIcpCldD22bhQ&oe=690E4D7E)
 <br>
 
 #### 3. FAQ
+- El mockup de la sección FAQ utiliza una estructura de acordeón que organiza las preguntas frecuentes de forma clara y accesible. Al desplegar cada entrada, se muestra una respuesta concisa y comprensible, manteniendo la coherencia con el branding visual de la plataforma. Además, se incorpora una sección complementaria con canales de contacto para ofrecer soporte adicional. La interfaz destaca por su simplicidad, legibilidad y enfoque en la eficiencia, facilitando que el usuario encuentre rápidamente la información que necesita.
+
 ![Landing page FAQ 1 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546564864_1365322328560436_8806588611230711479_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=hoFtwCBGUSEQ7kNvwGYvMFi&_nc_oc=AdmKvnbAFWMohwRNPm5625LaMfjVIUKoITw93QbVwhThro5Wmikl1OuE1Ja72CvYYeM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFrAP3FxZrHVhFjMgk6yZsHLDz1-Pp6QtmGKqf4oimozQ&oe=68EFA1A9)
 
 ![Landing page FAQ 2 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547461061_1098793541976064_8746295049078413109_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=p7CojEi702QQ7kNvwFeEOSZ&_nc_oc=AdlSY7T1YTML7je0Q8e1azHizGo9MxjFH4q3ZhLjHpxZqHrC6c7SIQ_DrBTq0qreFHU&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFUa2F2KYNKOJUpHq1EOnTFMwmyAJcn13Zl9Oe4yoTzZw&oe=68EFAB4F)
