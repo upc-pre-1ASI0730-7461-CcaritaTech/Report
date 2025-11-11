@@ -2179,6 +2179,47 @@ A continuación, se presentan las contribuciones individuales de los miembros de
 
 ![Network Graph](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/557725858_771769069011130_2563857239917357493_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pEnaJdraYhkQ7kNvwFzjCG6&_nc_oc=AdmXt7F5CB7jucQPXLWwovAg7ZouksXN4Snz6jgqsCfl1O-kEr581xsAl86OK_H6EgM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3gGqn2XF9n9Ll9_mZk6Ei61nSdOYlSHkr0wUiCS2zz953g&oe=690E594A)
 
+### 5.2.3. Sprint 3
+
+Durante el Sprint 3 se desarrolló la API de la plataforma IoBuild, enfocándose en la implementación de los principales endpoints y la gestión lógica de los datos para los perfiles Owner y Builder. El trabajo incluyó la integración con la base de datos, la creación de servicios y controladores, y la validación del flujo de información entre las entidades. Asimismo, se priorizó la estabilidad del sistema, la correcta estructuración del código y el cumplimiento de buenas prácticas en el desarrollo backend, consolidando una versión funcional y confiable del servicio.
+
+#### 5.2.3.1. Sprint Planning 3.
+| **Sprint #**                                 | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Fecha**                                    | 27/10/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Hora**                                     | 16:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Preparado por**                            | CcaritaTech Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari                                                                                                                                                                                                                                                                                                                    |
+| **Sprint Goal & User Stories**               | Nuestro enfoque se centra en desarrollar una API funcional, segura y bien estructurada, que sirva como base sólida para la comunicación entre el sistema y las aplicaciones cliente.<br>Buscamos garantizar un flujo de datos eficiente y confiable, facilitando la correcta gestión de la información y el soporte de las funcionalidades principales.<br>Esto se confirmará cuando los endpoints respondan adecuadamente, gestionen los datos sin errores y mantengan la integridad del sistema en todas las operaciones. |
+| **Velocidad del Sprint 3**                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |   
+| **Suma de Puntos de Historia**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+
+| Team Member                   | GitHub Username |  |  |  |  |  |
+|-------------------------------|-----------------|-----------|---------------------|-----------------|-----------------------|---------------|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | C         | C                   | L               | C                     | C             |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | L         | C                   | C               | C                     | C             |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C         | C                   | C               | L                     | C             |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      | C         | C                   | C               | C                     | L             |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        | C         | L                   | C               | C                     | C             |
+
+#### 5.2.3.3. Sprint Backlog 3.
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
 ## Conclusiones
 
 El trabajo realizado con IoBuild permitió confirmar la vigencia y relevancia de los problem statements planteados en la etapa inicial. Las entrevistas y procesos de needfinding validaron que tanto las empresas constructoras como los propietarios enfrentan dificultades para acceder a soluciones de domótica accesibles, debido a los altos costos, la complejidad técnica y la falta de integración entre sistemas. Esta situación genera frustración en los usuarios finales y limita la capacidad de las constructoras para diferenciar sus proyectos en un mercado cada vez más competitivo.
