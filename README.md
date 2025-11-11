@@ -2199,14 +2199,19 @@ Durante el Sprint 3 se desarrolló la API de la plataforma IoBuild, enfocándose
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 
+En este apartado se describen los aspectos técnicos y funcionales más relevantes trabajados durante el Sprint 3, centrados en el desarrollo de la API REST de la plataforma IoBuild. Cada aspecto representa un módulo clave del backend, abarcando la implementación de endpoints (CRUD), el diseño de la lógica de negocio asociada y la definición de modelos de datos (schemas) para los recursos principales.
 
-| Team Member                   | GitHub Username |  |  |  |  |  |
-|-------------------------------|-----------------|-----------|---------------------|-----------------|-----------------------|---------------|
-| Arizabal Condori, Jean Niels  | JeanArizabal    | C         | C                   | L               | C                     | C             |                             
-| Ccarita Cruz, Roberto Brayan  | hallzyx         | L         | C                   | C               | C                     | C             |                             
-| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C         | C                   | C               | L                     | C             |                             
-| Panta Castro, Fabrizio Martin | F4brizio24      | C         | C                   | C               | C                     | L             |                             
-| Olivos Huaman, Yeira Shari    | YeiShari        | C         | L                   | C               | C                     | C             |
+Para cada aspecto se designó un Líder (L), responsable de la dirección técnica y la implementación principal, así como Colaboradores (C), encargados de apoyar en el desarrollo, validación y documentación de cada módulo.
+
+La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara la distribución de responsabilidades, garantizando la trazabilidad, coordinación y efectividad del trabajo colaborativo realizado durante el Sprint.
+
+| Team Member                   | GitHub Username | Projects Management | Authentication and Users | Profile Management | Devices Management | Diseño de Schemas y Estructura API |
+|-------------------------------|-----------------|---------------------|--------------------------|--------------------|--------------------|------------------------------------|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | L                   | C                        | C                  | C                  | C                                  |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | C                   | L                        | C                  | C                  | C                                  |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C                   | C                        | L                  | C                  | C                                  |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      | C                   | C                        | C                  | C                  | L                                  |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        | C                   | C                        | C                  | L                  | C                                  |
 
 #### 5.2.3.3. Sprint Backlog 3.
 
