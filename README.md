@@ -2246,6 +2246,29 @@ El backend fue configurado y desplegado exitosamente en un entorno productivo, g
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+Durante el Sprint 2 de IoBuild, el equipo se enfocó en el desarrollo del backend, implementando la estructura base de controladores, servicios y modelos para la gestión de usuarios, dispositivos y proyectos. Se configuró la base de datos MySQL y se validó su integración con el sistema mediante Workbench.
+
+Además, se documentaron y probaron los endpoints REST desde Swagger, garantizando la correcta comunicación con el frontend. Finalmente, se realizó el despliegue del backend en Railway, asegurando su disponibilidad y conexión con la aplicación web.
+
+#### Insights
+
+![Imagen de Insights](https://i.postimg.cc/CMP0KYVr/pulse.png)
+
+#### Contribuciones por miembro
+
+![Imagen de Insights2](https://i.postimg.cc/d37x1b8N/contributors.png)
+
+#### Commits del repositorio
+
+![Imagen de Commits](https://i.postimg.cc/zGS88hDv/commits1.png)
+![Imagen de Commits2](https://i.postimg.cc/J4jGHG4s/commits2.png)
+![Imagen de Commits3](https://i.postimg.cc/nrBcmPx7/commits3.png)
+
+#### Network Graph
+
+![Network Graph](https://i.postimg.cc/NMK392td/networkgraph.png)
+
+
 ## Conclusiones
 
 El trabajo realizado con IoBuild permitió confirmar la vigencia y relevancia de los problem statements planteados en la etapa inicial. Las entrevistas y procesos de needfinding validaron que tanto las empresas constructoras como los propietarios enfrentan dificultades para acceder a soluciones de domótica accesibles, debido a los altos costos, la complejidad técnica y la falta de integración entre sistemas. Esta situación genera frustración en los usuarios finales y limita la capacidad de las constructoras para diferenciar sus proyectos en un mercado cada vez más competitivo.
