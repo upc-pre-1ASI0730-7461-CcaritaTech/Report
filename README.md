@@ -2221,6 +2221,18 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Durante el Sprint 3 de IoBuild, el trabajo se centró en el desarrollo e implementación del backend de la plataforma, construido con .NET y conectado a una base de datos MySQL. Este avance permitió disponer de una API funcional y documentada en Swagger, desde donde fue posible visualizar y probar los distintos endpoints relacionados con usuarios, dispositivos, proyectos y autenticación.
+
+**Estado Actual:**
+
+- Se implementó la estructura base del backend, con sus controladores, modelos y servicios, asegurando la correcta conexión con la base de datos y la persistencia de datos en Workbench.
+- Se configuraron los endpoints principales para la administración de dispositivos y proyectos.
+- La API fue documentada y validada mediante Swagger, lo que permitió verificar el correcto funcionamiento de las rutas y la respuesta de cada operación CRUD.
+- Se reforzó la arquitectura general del proyecto, dejando la base lista para futuras implementaciones de lógica de negocio avanzada y seguridad.
+
+El enfoque de este sprint estuvo en migrar de una API simulada a una API real, consolidando la infraestructura del backend y garantizando la persistencia y consulta real de datos. Con ello, IoBuild cuenta ahora con una base técnica sólida que permite continuar con la integración completa del sistema y el desarrollo de nuevas funcionalidades.
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
