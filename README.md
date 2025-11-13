@@ -275,12 +275,12 @@ Asimismo, se ha iniciado la conceptualización de la arquitectura de software me
 [Bibliografía](#bibliografía)<br>
 [Anexos](#Anexos)
 
-<!-- [5.3. Validation Interviews](#53-validation-interviews)  
+[5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
 [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
 [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
 
-[5.4. Video About-the-Product](#54-video-about-the-product)   -->
+<!-- [5.4. Video About-the-Product](#54-video-about-the-product)   -->
 
   
 
@@ -2353,6 +2353,88 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 #### Network Graph
 
 ![Network Graph](https://i.postimg.cc/NMK392td/networkgraph.png)
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas
+En esta sección se detalla el enfoque adoptado para realizar las entrevistas de validación con los distintos segmentos objetivo definidos para el producto. El propósito principal fue analizar la experiencia de los usuarios con el prototipo actual, identificar posibles limitaciones, confirmar la propuesta de valor y reconocer oportunidades de mejora.
+
+**Segmento Objetivo #1: Arquitectos e Ingenieros Civiles**
+**User Flow - Happy Path**
+- El ingeniero se encuentra en la página de inicio (Home).
+- Hace clic en “Proyectos” en el menú lateral izquierdo.
+- El sistema carga la pantalla de Mis Proyectos (My Projects), mostrando los proyectos existentes.
+- El ingeniero hace clic en el botón “Agregar proyecto” (Add Project).
+- El sistema crea un nuevo proyecto y actualiza la vista con la lista actualizada.
+- ingenieroisualiza el nuevo proyecto agregado dentro de su galería de proyectos.
+- El flujo finaliza cuando el usuario ve sus proyectos correctamente actualizados.
+<br>
+
+Formulario de preguntas:
+- ¿Te resulta fácil encontrar la opción “Proyectos” en el menú lateral?
+- ¿Te parece clara la interfaz cuando accedes a la sección “Mis Proyectos”?
+- ¿Te resulta sencillo agregar un nuevo proyecto desde la pantalla de “Mis Proyectos”?
+- ¿Consideras que la visualización de tus proyectos en la galería es clara y ordenada?
+- ¿El proceso completo de agregar un proyecto cumple con tus expectativas de rapidez y facilidad?
+<br>
+
+**User Flow - Unhappy Path**
+- El ingeniero se encuentra en la página de inicio (Home) y navega hacia “Proyectos”.
+- El sistema carga la vista de Mis Proyectos (My Projects).
+- Hace clic en “Agregar proyecto” (Add Project) para crear uno nuevo.
+- El sistema detecta que se ha alcanzado el límite máximo de proyectos permitidos.
+- Se muestra un mensaje de error en pantalla:
+  - “No se puede exceder el número máximo de proyectos. Actualiza tu plan para continuar.”
+- El ingeniero no puede agregar el nuevo proyecto debido a la restricción.
+- El sistema mantiene la lista de proyectos sin cambios.
+<br>
+
+Formulario de preguntas:
+- ¿Te queda claro el motivo por el cual no puedes agregar más proyectos cuando alcanzas el límite?
+- ¿Te parecería útil que el sistema te muestre cuántos proyectos te quedan antes de llegar al límite?
+- ¿Consideras adecuada la opción de actualizar tu plan para poder agregar más proyectos?
+- ¿Te resultaría útil recibir una notificación previa cuando estés cerca del límite de proyectos?
+<br>
+
+**Segmento Objetivo #2: Dueños de Apartamentos**
+**User Flow - Happy Path**
+- El dueño se encuentra en la página de inicio (Home).
+- El usuario hace clic en “Perfil” en el menú lateral izquierdo.
+- El sistema carga la pantalla de Perfil, donde se muestra la información de la cuenta.
+- El usuario hace clic en el botón “Editar perfil” (Edit Profile).
+- El usuario modifica su información (nombre, correo u otros campos) y guarda los cambios.
+- El sistema actualiza la pantalla con los nuevos datos del perfil.
+- El usuario visualiza la información actualizada correctamente en su perfil.
+<br>
+
+Formulario de preguntas:
+- ¿Te resulta fácil acceder a la opción “Perfil” desde el menú lateral?
+- ¿Te es clara la información que se muestra en la pantalla de tu perfil?
+- ¿Te resulta sencillo editar tu información personal desde el botón “Editar perfil”?
+- ¿Te es clara la visualización de los datos actualizados en tu perfil?
+<br>
+
+**User Flow - Unhappy Path**
+- El usuario se encuentra en la página de inicio (Home) y accede a “Perfil” desde el menú lateral.
+- El sistema carga la pantalla de Perfil.
+- El usuario hace clic en “Editar perfil” y realiza cambios en su información.
+- Al intentar guardar los cambios, ocurre un error en el sistema.
+- Se muestra un mensaje de error en pantalla:
+  - “No se pudo editar en este momento. Intenta de nuevo en unos minutos.”
+- El usuario no puede guardar los cambios realizados.
+- El sistema mantiene la información anterior del perfil sin modificaciones.
+<br>
+
+Formulario de preguntas:
+- ¿El mensaje de error que aparece al fallar la edición te resulta claro y comprensible?
+- ¿Te gustaría que el sistema te notifique automáticamente cuando sea posible volver a intentar editar tu perfil?
+- ¿Te parece adecuado que se mantenga tu información anterior cuando ocurre un error al guardar?
+<br>
+
+### 5.3.2. Registro de Entrevistas
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
 
 
 ## Conclusiones
