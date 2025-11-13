@@ -56,6 +56,16 @@
 | 1.8     | 06/10/2025 | Fabrizio Panta Castro | Se implementó la pantalla de Configuración en el frontend, incorporando sus funcionalidades y ajustes visuales según el diseño aprobado en Figma. |
 | 1.9     | 07/10/2025 | Yeira Huaman Olivos | Se desarrolló la pantalla de Perfil en el frontend, aplicando el diseño y las características definidas en Figma. |
 | 2.0     | 08/10/2025 | Axel Ordoñez Ricaldi | Se desarrolló la pantalla de Clientes en el frontend, incorporando su diseño y funcionalidades según lo establecido en Figma. Asimismo, se integraron todas las pantallas completadas en un entorno unificado, dejando el proyecto listo para realizar el deploy del frontend y verificar su correcto funcionamiento en conjunto. |
+| 2.1     | 27/10/2025 | Brayan Ccarita Cruz | Se desarrolló el backend correspondiente al bounded context IAM (Identity and Access Management), creando los endpoints necesarios para la autenticación y gestión de usuarios. |
+| 2.2     | 28/10/2025 | Jean Niels Arizabal Condori | Se realizó el diseño de los endpoints del backend, definiendo las rutas, métodos y parámetros necesarios para cada uno de los bounded contexts. |
+| 2.3     | 29/10/2025 | Fabrizio Panta Castro | Se inició la implementación del código backend correspondiente al bounded context Device Management, desarrollando los endpoints principales para la gestión de dispositivos. |
+| 2.4     | 03/11/2025 | Yeira Huaman Olivos | Se completó la implementación del backend del bounded context Device Management, completando los endpoints restantes y realizando pruebas iniciales. |
+| 2.5     | 04/11/2025 | Jean Niels Arizabal Condori | Se implementó el backend del bounded context Projects, desarrollando los endpoints responsables de la creación, actualización y visualización de proyectos. |
+| 2.6     | 05/11/2025 | Axel Ordoñez Ricaldi | Se culminó la implementación del bounded context Projects, completando los endpoints faltantes y realizando pruebas de integración. |
+| 2.7     | 10/11/2025 | Brayan Ccarita Cruz | Se agregaron los videos “About the Product” y “About the Team” en la landing page. |
+| 2.8     | 11/11/2025 | Yeira Huaman Olivos | Se realizó la conexión entre el backend y el frontend, garantizando la correcta comunicación de datos a través de las APIs desarrolladas. |
+| 2.9     | 12/11/2025 | Fabrizio Panta Castro | Se corrigieron las imágenes del informe y se agregó la documentación correspondiente al Sprint 3. |
+| 3.0     | 13/11/2025 | Axel Ordoñez Ricaldi | Se realizó el deploy del backend, configurando el entorno de producción y asegurando la correcta conexión con la base de datos y el frontend. |
 
 
 </center>
