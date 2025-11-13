@@ -2215,6 +2215,8 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.3.3. Sprint Backlog 3.
 
+
+
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
@@ -2234,6 +2236,13 @@ El enfoque de este sprint estuvo en migrar de una API simulada a una API real, c
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 3 se implementó el proceso completo de despliegue del backend de IoBuild, utilizando Railway como plataforma de hosting e integración continua. A través de la vinculación directa con el repositorio de GitHub, se automatizó el pipeline de construcción, publicación y actualización del servicio.
+El backend fue configurado y desplegado exitosamente en un entorno productivo, garantizando su conexión con la base de datos en MySQL y la disponibilidad de los endpoints a través de Swagger.
+
+![Imagen de Deploy Evidence1S3](https://i.postimg.cc/pdXRsdQH/aeba3624-6d5b-4fa0-b1fb-94a7a8acff35.jpg)
+![Imagen de Deploy Evidence2S3](https://i.postimg.cc/mrF8fYyP/acad1737-798a-4f2a-98e3-86612b14a2f5.jpg)
+![Imagen de Deploy Evidence3S3](https://i.postimg.cc/50V5hZ00/0a03fbe1-b7e7-4df4-a23e-9d2cc0132afc.jpg)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
