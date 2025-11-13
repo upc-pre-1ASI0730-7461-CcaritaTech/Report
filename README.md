@@ -923,7 +923,7 @@ Este objetivo representa el primer paso estratégico para la consolidación del 
 
 Asimismo, este Business Goal está alineado con las actividades de los principales actores identificados (Miguel Veramendi y Carla Flores), quienes, a través de sus comportamientos clave (incorporar la solución en proyectos, usarla y recomendarla activamente), contribuyen al crecimiento de la comunidad de usuarios. En otras palabras, busca demostrar que el producto genera valor real desde el inicio, motivando tanto a profesionales como a usuarios finales a convertirse en promotores naturales de la plataforma.
 
-![Impact-Mapping-1](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/545975646_4288588531463470_2381738060230329154_n.png?stp=dst-png_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=x-iWzhV5BVwQ7kNvwE_RnG-&_nc_oc=AdmLwBNmeoAYZPQuoNam4bIKlKbsMCgz30-tUuRE_IfkM54XpBGPlRbDtxxqW9xfbAo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QHJNtiLsb7LmW9VkDwKBjdw3F2hirhmmp726vnjQKIe8A&oe=68E873BF)
+![Impact-Mapping-1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%203/Impact-Mapping-1.png)
 
 **Business Goal 2: Automatizar el 70 % de los procesos de personalización en un periodo de 6 meses y aumentar la retención de clientes recurrentes en un 25 % en 9 meses.**
 
@@ -931,7 +931,7 @@ Este objetivo se enfoca en la optimización y sostenibilidad del negocio en el m
 
 De manera complementaria, la segunda parte de este objetivo busca incrementar la retención de clientes en un 25 % en 9 meses, consolidando relaciones duraderas y disminuyendo la tasa de abandono. Esta retención se apoya en la mejora continua de la experiencia, en el acompañamiento al usuario y en la generación de beneficios tangibles a lo largo del tiempo. En conclusión, no solo impulsa la eficiencia operativa, sino que también asegura la viabilidad del modelo a largo plazo, al fidelizar a los clientes y convertirlos en usuarios recurrentes.
 
-![Impact-Mapping-2](https://scontent.flim28-2.fna.fbcdn.net/v/t1.15752-9/545536233_1068360505378677_4371305711560902641_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=HK652KGP-scQ7kNvwFEoafS&_nc_oc=Adlc-fbGBgmGkA46vPdSI7exdJu0Q-4QCiALGuLDQAykprvCbENnGqKm_6wtZws3DIg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&oh=03_Q7cD3QFJK6ASQgG9NndxCnOu8VRQUkUnPElxzraKnCi-IFqwKw&oe=68E88ADE)
+![Impact-Mapping-2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%203/Impact-Mapping-2.png)
 
 
 
@@ -943,7 +943,7 @@ Para el control y diseño del product backlog se utilizó la herramienta Trello,
 
 Link de colaboración en trello: https://goo.su/DYSGr6
 
-![Product-Backlog](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/543676527_1511301283336347_3366033098028311677_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YVYsUXArMXUQ7kNvwFovtFG&_nc_oc=AdkBuhGPu7fEVC4T5VLmM1O1LtqZPH7q-phetw5jQdVxjcvrWXS8NEdOOzMD4wFbKf4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QE8xutcRuJ47vREvsx9q0BCalkN8e6IDhxBB0cBdbtuVw&oe=68EC6B26)
+![Product-Backlog](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%203/Product-Backlog.png)
 
 | #Orden | User Story ID | Titulo                                        | Descripción                                                                                                                                                                          | Story Points (1/2/3/5/8) |
 | ------ |---------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------ |
