@@ -2251,57 +2251,60 @@ El presente Sprint Backlog se orienta al desarrollo e integración del backend d
 
 A continuación, se presenta la tabla de control de estado del Sprint 3, que detalla las User Stories, sus tareas asociadas (Work Items), descripciones funcionales, estimaciones en horas, responsables y estado actual de avance.
 
+Link del desarrollo colaborativo en trello: https://goo.su/YTZK
+
+![sprint-backlog-3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint_Backlog%233.jpg)
 
 
-| *Sprint 3*      |                                               |                    |                                                      |                                                                                                                                        |                      |                      |          |
-|-----------------|-----------------------------------------------|--------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------|----------|
-| *User Story*    |                                               | *Work-Item / Task* |                                                      |                                                                                                                                        |                      |                      |          |
-| *User Story ID* | *User Story Title*                            | *Task Id*          | *Task Title*                                         | *Description*                                                                                                                          | *Estimation (Hours)* | *Assigned To*        | *Status* |
-| TS01            | Listar proyectos por Constructor              | TS01T01            | Crear endpoint GET /projects segun el builderId      | Implementar la ruta para obtener todos los proyectos filtrados por el ID del proyecto.                                                 | 3                    | Jean Arizabal        | Done     |
-|                 |                                               | TS01T02            | Implementar lógica de filtrado por builder           | Desarrollar la consulta en el swagger que obtenga los proyectos según el constructorId.                                                | 2                    | Jean Arizabal        | Done     |
-|                 |                                               | TS01T03            | Validar existencia de builder                        | Verificar que el constructor especificado exista antes de devolver la lista.                                                           | 1                    | Jean Arizabal        | Done     |
-|                 |                                               | TS01T04            | Formatear respuesta de la API                        | Estructurar los datos devueltos (name, location, totalUnits, description).                                                             | 1                    | Axel Ordoñez         | Done     |
-|                 |                                               | TS01T05            | Crear pruebas de integración                         | Probar que el endpoint devuelva correctamente los proyectos asociados y maneje casos sin resultados.                                   | 1                    | Axel Ordoñez         | Done     |
-| TS02            | Crear un Proyecto                             | TS02T01            | Crear endpoint POST /projects                        | Implementar la ruta que permita registrar un nuevo proyecto.                                                                           | 3                    | Jean Arizabal        | Done     |
-|                 |                                               | TS02T02            | Implementar validaciones de campos obligatorios      | Asegurar que se incluyan a, description, location, totalUnits, builderId y imageUrl.                                                   | 3                    | Jean Arizabal        | Done     |
-|                 |                                               | TS02T03            | Asociar proyecto a un constructor existente          | Validar que el builderId referenciado exista antes de la inserción.                                                                    | 1                    | Axel Ordoñez         | Done     |
-|                 |                                               | TS02T04            | Implementar control de errores y respuestas HTTP     | Devolver errores claros (400, 404, 500) ante entradas inválidas o fallas en la base de datos.                                          | 1                    | Axel Ordoñez         | Done     |
-|                 |                                               | TS02T05            | Crear pruebas unitarias y de integración             | Validar la creación exitosa del proyecto, errores de validación y asociaciones inválidas.                                              | 3                    | Axel Ordoñez         | Done     |
-| TS03            | Obtener Proyecto por ID                       | TS03T01            | Crear endpoint GET /projects/{projectId}             | Implementar la ruta que permita obtener la información de un proyecto individual.                                                      | 1                    | Jean Arizabal        | Done     |
-|                 |                                               | TS03T02            | Implementar búsqueda del proyecto en el swagger      | Desarrollar la consulta que obtenga el proyecto con su información completa (description, location, totalUnits, builderId y imageUrl). | 2                    | Jean Arizabal        | Done     |
-|                 |                                               | TS03T03            | Validar existencia del proyecto                      | Manejar errores en caso de que el id no exista.                                                                                        | 2                    | Axel Ordoñez         | Done     |
-|                 |                                               | TS03T04            | Estructurar respuesta de detalle del proyecto        | Formatear la salida con datos relevantes para la vista de detalle.                                                                     | 1                    | Axel Ordoñez         | Done     |
-|                 |                                               | TS03T05            | Crear pruebas unitarias e integración del endpoint   | Verificar respuesta correcta, manejo de errores y formatos de salida.                                                                  | 1                    | Axel Ordoñez         | Done     |
-| TS10            | Listar dispositivos                           | TS10T01            | Crear endpoint GET /devices                          | Implementar la ruta para listar dispositivos.                                                                                          | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS10T02            | Implementar filtros por ubicación y estado           | Permitir parámetros opcionales en la consulta                                                                                          | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS10T03            | Validar parámetros de entrada                        | Controlar valores inválidos o no permitidos en los filtros.                                                                            | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS10T04            | Crear pruebas unitarias y de integración             | Probar resultados con y sin filtros, además de errores comunes.                                                                        | 1                    | Fabrizio Panta       | Done     |
-| TS11            | Eliminar un dispositivo por id                | TS11T01            | Crear endpoint DELETE /devices/{id}                  | Implementar la ruta para eliminar un dispositivo.                                                                                      | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS11T02            | Validar existencia del dispositivo                   | Confirmar que el dispositivo exista antes de intentar eliminarlo.                                                                      | 2                    | Fabrizio Panta       | Done     |
-|                 |                                               | TS11T03            | Implementar eliminación lógica o física según reglas | Determinar si se elimina físicamente o se marca como “inactivo”.                                                                       | 1                    | Fabrizio Panta       | Done     |
-|                 |                                               | TS11T04            | Manejar respuestas HTTP adecuadas                    | Devolver 200 (éxito), 404 (no encontrado) o 500 (error interno).                                                                       | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS11T05            | Crear pruebas unitarias y de integración             | Validar eliminación exitosa, errores de inexistencia y fallos de servidor.                                                             | 1                    | Fabrizio Panta       | Done     |
-| TS12            | Actualizar información de un proyecto         | TS12T01            | Crear endpoint PUT /projects/{id}                    | Implementar la ruta que reciba solicitudes de actualización para proyectos existentes.                                                 | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS12T02            | Implementar validaciones de campos                   | Validar que los campos name, location y description cumplan los requisitos de formato y longitud.                                      | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS12T03            | Verificar existencia del proyecto                    | Confirmar que el proyecto identificado por {id} exista antes de aplicar los cambios.                                                   | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS12T04            | Actualizar los datos en el repositorio               | Aplicar los cambios validados y persistirlos correctamente en la base de datos.                                                        | 1                    | Fabrizio Panta       | Done     |
-|                 |                                               | TS12T05            | Manejar respuestas HTTP y errores                    | Retornar los códigos adecuados: 200 OK (éxito), 400 Bad Request (errores de validación), 404 Not Found (proyecto inexistente).         | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS12T06            | Realizar y de integración                            | Validar actualización exitosa, campos inválidos y recursos inexistentes según los escenarios descritos.                                | 1                    | Fabrizio Panta       | Done     |
-| TS13            | Actualizar información de un dispositivo      | TS13T01            | Crear endpoint PUT /devices/{id}                     | Implementar la ruta para actualizar un dispositivo existente.                                                                          | 2                    | Fabrizio Panta       | Done     |
-|                 |                                               | TS13T02            | Implementar validaciones de entrada                  | Validar que los campos name y location sean correctos y no estén vacíos.                                                               | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS13T03            | Verificar existencia del dispositivo                 | Asegurar que el id del dispositivo exista antes de actualizarlo.                                                                       | 2                    | Yeira Huaman         | Done     |
-|                 |                                               | TS13T04            | Actualizar información en base de datos              | Persistir los cambios validados en el modelo del dispositivo.                                                                          | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS13T05            | Manejar respuestas HTTP y control de errores         | Responder con 200 OK, 400 Bad Request o 404 Not Found según el escenario.                                                              | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS13T06            | Realizar pruebas unitarias y de integración          | Comprobar actualización exitosa, errores de validación y manejo de dispositivos inexistentes.                                          | 1                    | Fabrizio Panta       | Done     |
-| TS14            | Crear un nuevo dispositivo                    | TS14T01            | Crear endpoint POST /devices                         | Implementar la ruta para registrar nuevos dispositivos.                                                                                | 3                    | Yeira Huaman         | Done     |
-|                 |                                               | TS14T02            | Implementar validaciones de campos obligatorios      | Asegurar que name, type y location sean requeridos y tengan formato válido.                                                            | 3                    | Fabrizio Panta       | Done     |
-|                 |                                               | TS14T03            | Insertar nuevo registro en el repositorio            | Persistir el nuevo dispositivo con los datos proporcionados.                                                                           | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS14T04            | Manejar respuestas HTTP y errores                    | Retornar 201 Created (éxito), 400 Bad Request (validaciones fallidas) o 409 Conflict (nombre duplicado).                               | 1                    | Yeira Huaman         | Done     |
-|                 |                                               | TS14T05            | Realizar pruebas de integración                      | Validar creación correcta, errores por campos faltantes y conflictos de duplicidad.                                                    | 3                    | Yeira Huaman         | Done     |
-| TS15            | Crear ruta segura y mostrar datos específicos | TS14T01            | Crear middleware de autenticación y autorización     | Validar tokens JWT y roles de usuario antes de acceder al dashboard.                                                                   | 1                    | Roberto Ccarita      | Done     |
-|                 |                                               | TS14T02            | Implementar consulta de datos específicos            | Mostrar datos relevantes (proyectos, métricas, dispositivos propios).                                                                  | 2                    | Roberto Ccarita      | Done     |
-|                 |                                               | TS14T03            | Manejar errores de acceso no autorizado (401/403)    | Responder con mensajes claros cuando el usuario no tenga permisos.                                                                     | 2                    | Roberto Ccarita      | Done     |
-|                 |                                               | TS14T04            | Realizar pruebas de integración                      | Probar accesos válidos, intentos sin token, y accesos con roles incorrectos.                                                           | 1                    | Roberto Ccarita      | Done     |
+| Sprint 3        |                                                 |                  |                                                      |                                                                                                                                        |                     |                    |         |
+|-----------------|-------------------------------------------------|------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|---------|
+| User Story      |                                                 | Work-Item / Task |                                                      |                                                                                                                                        |                     |                    |         |
+| User Story ID   | User Story Title                                | Task Id          | Task Title                                           | Description                                                                                                                            | Estimation (Hours)  | Assigned To        | Status  |
+| TS01            | Listar proyectos por Constructor                | TS01T01          | Crear endpoint GET /projects segun el builderId      | Implementar la ruta para obtener todos los proyectos filtrados por el ID del proyecto.                                                 | 3                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS01T02          | Implementar lógica de filtrado por builder           | Desarrollar la consulta en el swagger que obtenga los proyectos según el constructorId.                                                | 2                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS01T03          | Validar existencia de builder                        | Verificar que el constructor especificado exista antes de devolver la lista.                                                           | 1                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS01T04          | Formatear respuesta de la API                        | Estructurar los datos devueltos (name, location, totalUnits, description).                                                             | 1                   | Axel Ordoñez       | Done    |
+|                 |                                                 | TS01T05          | Crear pruebas de integración                         | Probar que el endpoint devuelva correctamente los proyectos asociados y maneje casos sin resultados.                                   | 1                   | Axel Ordoñez       | Done    |
+| TS02            | Crear un Proyecto                               | TS02T01          | Crear endpoint POST /projects                        | Implementar la ruta que permita registrar un nuevo proyecto.                                                                           | 3                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS02T02          | Implementar validaciones de campos obligatorios      | Asegurar que se incluyan a, description, location, totalUnits, builderId y imageUrl.                                                   | 3                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS02T03          | Asociar proyecto a un constructor existente          | Validar que el builderId referenciado exista antes de la inserción.                                                                    | 1                   | Axel Ordoñez       | Done    |
+|                 |                                                 | TS02T04          | Implementar control de errores y respuestas HTTP     | Devolver errores claros (400, 404, 500) ante entradas inválidas o fallas en la base de datos.                                          | 1                   | Axel Ordoñez       | Done    |
+|                 |                                                 | TS02T05          | Crear pruebas unitarias y de integración             | Validar la creación exitosa del proyecto, errores de validación y asociaciones inválidas.                                              | 3                   | Axel Ordoñez       | Done    |
+| TS03            | Obtener Proyecto por ID                         | TS03T01          | Crear endpoint GET /projects/{projectId}             | Implementar la ruta que permita obtener la información de un proyecto individual.                                                      | 1                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS03T02          | Implementar búsqueda del proyecto en el swagger      | Desarrollar la consulta que obtenga el proyecto con su información completa (description, location, totalUnits, builderId y imageUrl). | 2                   | Jean Arizabal      | Done    |
+|                 |                                                 | TS03T03          | Validar existencia del proyecto                      | Manejar errores en caso de que el id no exista.                                                                                        | 2                   | Axel Ordoñez       | Done    |
+|                 |                                                 | TS03T04          | Estructurar respuesta de detalle del proyecto        | Formatear la salida con datos relevantes para la vista de detalle.                                                                     | 1                   | Axel Ordoñez       | Done    |
+|                 |                                                 | TS03T05          | Crear pruebas unitarias e integración del endpoint   | Verificar respuesta correcta, manejo de errores y formatos de salida.                                                                  | 1                   | Axel Ordoñez       | Done    |
+| TS10            | Listar dispositivos                             | TS10T01          | Crear endpoint GET /devices                          | Implementar la ruta para listar dispositivos.                                                                                          | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS10T02          | Implementar filtros por ubicación y estado           | Permitir parámetros opcionales en la consulta                                                                                          | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS10T03          | Validar parámetros de entrada                        | Controlar valores inválidos o no permitidos en los filtros.                                                                            | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS10T04          | Crear pruebas unitarias y de integración             | Probar resultados con y sin filtros, además de errores comunes.                                                                        | 1                   | Fabrizio Panta     | Done    |
+| TS11            | Eliminar un dispositivo por id                  | TS11T01          | Crear endpoint DELETE /devices/{id}                  | Implementar la ruta para eliminar un dispositivo.                                                                                      | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS11T02          | Validar existencia del dispositivo                   | Confirmar que el dispositivo exista antes de intentar eliminarlo.                                                                      | 2                   | Fabrizio Panta     | Done    |
+|                 |                                                 | TS11T03          | Implementar eliminación lógica o física según reglas | Determinar si se elimina físicamente o se marca como “inactivo”.                                                                       | 1                   | Fabrizio Panta     | Done    |
+|                 |                                                 | TS11T04          | Manejar respuestas HTTP adecuadas                    | Devolver 200 (éxito), 404 (no encontrado) o 500 (error interno).                                                                       | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS11T05          | Crear pruebas unitarias y de integración             | Validar eliminación exitosa, errores de inexistencia y fallos de servidor.                                                             | 1                   | Fabrizio Panta     | Done    |
+| TS12            | Actualizar información de un proyecto           | TS12T01          | Crear endpoint PUT /projects/{id}                    | Implementar la ruta que reciba solicitudes de actualización para proyectos existentes.                                                 | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS12T02          | Implementar validaciones de campos                   | Validar que los campos name, location y description cumplan los requisitos de formato y longitud.                                      | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS12T03          | Verificar existencia del proyecto                    | Confirmar que el proyecto identificado por {id} exista antes de aplicar los cambios.                                                   | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS12T04          | Actualizar los datos en el repositorio               | Aplicar los cambios validados y persistirlos correctamente en la base de datos.                                                        | 1                   | Fabrizio Panta     | Done    |
+|                 |                                                 | TS12T05          | Manejar respuestas HTTP y errores                    | Retornar los códigos adecuados: 200 OK (éxito), 400 Bad Request (errores de validación), 404 Not Found (proyecto inexistente).         | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS12T06          | Realizar y de integración                            | Validar actualización exitosa, campos inválidos y recursos inexistentes según los escenarios descritos.                                | 1                   | Fabrizio Panta     | Done    |
+| TS13            | Actualizar información de un dispositivo        | TS13T01          | Crear endpoint PUT /devices/{id}                     | Implementar la ruta para actualizar un dispositivo existente.                                                                          | 2                   | Fabrizio Panta     | Done    |
+|                 |                                                 | TS13T02          | Implementar validaciones de entrada                  | Validar que los campos name y location sean correctos y no estén vacíos.                                                               | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS13T03          | Verificar existencia del dispositivo                 | Asegurar que el id del dispositivo exista antes de actualizarlo.                                                                       | 2                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS13T04          | Actualizar información en base de datos              | Persistir los cambios validados en el modelo del dispositivo.                                                                          | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS13T05          | Manejar respuestas HTTP y control de errores         | Responder con 200 OK, 400 Bad Request o 404 Not Found según el escenario.                                                              | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS13T06          | Realizar pruebas unitarias y de integración          | Comprobar actualización exitosa, errores de validación y manejo de dispositivos inexistentes.                                          | 1                   | Fabrizio Panta     | Done    |
+| TS14            | Crear un nuevo dispositivo                      | TS14T01          | Crear endpoint POST /devices                         | Implementar la ruta para registrar nuevos dispositivos.                                                                                | 3                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS14T02          | Implementar validaciones de campos obligatorios      | Asegurar que name, type y location sean requeridos y tengan formato válido.                                                            | 3                   | Fabrizio Panta     | Done    |
+|                 |                                                 | TS14T03          | Insertar nuevo registro en el repositorio            | Persistir el nuevo dispositivo con los datos proporcionados.                                                                           | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS14T04          | Manejar respuestas HTTP y errores                    | Retornar 201 Created (éxito), 400 Bad Request (validaciones fallidas) o 409 Conflict (nombre duplicado).                               | 1                   | Yeira Huaman       | Done    |
+|                 |                                                 | TS14T05          | Realizar pruebas de integración                      | Validar creación correcta, errores por campos faltantes y conflictos de duplicidad.                                                    | 3                   | Yeira Huaman       | Done    |
+| TS15            | Crear ruta segura y mostrar datos específicos   | TS15T01          | Crear middleware de autenticación y autorización     | Validar tokens JWT y roles de usuario antes de acceder al dashboard.                                                                   | 1                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS15T02          | Implementar consulta de datos específicos            | Mostrar datos relevantes (proyectos, métricas, dispositivos propios).                                                                  | 2                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS15T03          | Manejar errores de acceso no autorizado (401/403)    | Responder con mensajes claros cuando el usuario no tenga permisos.                                                                     | 2                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS15T04          | Realizar pruebas de integración                      | Probar accesos válidos, intentos sin token, y accesos con roles incorrectos.                                                           | 1                   | Roberto Ccarita    | Done    |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
@@ -2311,7 +2314,7 @@ A continuación, se presenta la tabla de control de estado del Sprint 3, que det
 
 Durante el Sprint 3 de IoBuild, el trabajo se centró en el desarrollo e implementación del backend de la plataforma, construido con .NET y conectado a una base de datos MySQL. Este avance permitió disponer de una API funcional y documentada en Swagger, desde donde fue posible visualizar y probar los distintos endpoints relacionados con usuarios, dispositivos, proyectos y autenticación.
 
-**Estado Actual:**
+*Estado Actual:*
 
 - Se implementó la estructura base del backend, con sus controladores, modelos y servicios, asegurando la correcta conexión con la base de datos y la persistencia de datos en Workbench.
 - Se configuraron los endpoints principales para la administración de dispositivos y proyectos.
@@ -2358,8 +2361,8 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 ### 5.3.1. Diseño de Entrevistas
 En esta sección se detalla el enfoque adoptado para realizar las entrevistas de validación con los distintos segmentos objetivo definidos para el producto. El propósito principal fue analizar la experiencia de los usuarios con el prototipo actual, identificar posibles limitaciones, confirmar la propuesta de valor y reconocer oportunidades de mejora.
 
-**Segmento Objetivo #1: Arquitectos e Ingenieros Civiles**
-**User Flow - Happy Path**
+*Segmento Objetivo #1: Arquitectos e Ingenieros Civiles*
+*User Flow - Happy Path*
 - El ingeniero se encuentra en la página de inicio (Home).
 - Hace clic en “Proyectos” en el menú lateral izquierdo.
 - El sistema carga la pantalla de Mis Proyectos (My Projects), mostrando los proyectos existentes.
@@ -2367,7 +2370,7 @@ En esta sección se detalla el enfoque adoptado para realizar las entrevistas de
 - El sistema crea un nuevo proyecto y actualiza la vista con la lista actualizada.
 - ingenieroisualiza el nuevo proyecto agregado dentro de su galería de proyectos.
 - El flujo finaliza cuando el usuario ve sus proyectos correctamente actualizados.
-<br>
+  <br>
 
 Formulario de preguntas:
 - ¿Te resulta fácil encontrar la opción “Proyectos” en el menú lateral?
@@ -2375,28 +2378,28 @@ Formulario de preguntas:
 - ¿Te resulta sencillo agregar un nuevo proyecto desde la pantalla de “Mis Proyectos”?
 - ¿Consideras que la visualización de tus proyectos en la galería es clara y ordenada?
 - ¿El proceso completo de agregar un proyecto cumple con tus expectativas de rapidez y facilidad?
-<br>
+  <br>
 
-**User Flow - Unhappy Path**
+*User Flow - Unhappy Path*
 - El ingeniero se encuentra en la página de inicio (Home) y navega hacia “Proyectos”.
 - El sistema carga la vista de Mis Proyectos (My Projects).
 - Hace clic en “Agregar proyecto” (Add Project) para crear uno nuevo.
 - El sistema detecta que se ha alcanzado el límite máximo de proyectos permitidos.
 - Se muestra un mensaje de error en pantalla:
-  - “No se puede exceder el número máximo de proyectos. Actualiza tu plan para continuar.”
+    - “No se puede exceder el número máximo de proyectos. Actualiza tu plan para continuar.”
 - El ingeniero no puede agregar el nuevo proyecto debido a la restricción.
 - El sistema mantiene la lista de proyectos sin cambios.
-<br>
+  <br>
 
 Formulario de preguntas:
 - ¿Te queda claro el motivo por el cual no puedes agregar más proyectos cuando alcanzas el límite?
 - ¿Te parecería útil que el sistema te muestre cuántos proyectos te quedan antes de llegar al límite?
 - ¿Consideras adecuada la opción de actualizar tu plan para poder agregar más proyectos?
 - ¿Te resultaría útil recibir una notificación previa cuando estés cerca del límite de proyectos?
-<br>
+  <br>
 
-**Segmento Objetivo #2: Dueños de Apartamentos**
-**User Flow - Happy Path**
+*Segmento Objetivo #2: Dueños de Apartamentos*
+*User Flow - Happy Path*
 - El dueño se encuentra en la página de inicio (Home).
 - El usuario hace clic en “Perfil” en el menú lateral izquierdo.
 - El sistema carga la pantalla de Perfil, donde se muestra la información de la cuenta.
@@ -2404,31 +2407,31 @@ Formulario de preguntas:
 - El usuario modifica su información (nombre, correo u otros campos) y guarda los cambios.
 - El sistema actualiza la pantalla con los nuevos datos del perfil.
 - El usuario visualiza la información actualizada correctamente en su perfil.
-<br>
+  <br>
 
 Formulario de preguntas:
 - ¿Te resulta fácil acceder a la opción “Perfil” desde el menú lateral?
 - ¿Te es clara la información que se muestra en la pantalla de tu perfil?
 - ¿Te resulta sencillo editar tu información personal desde el botón “Editar perfil”?
 - ¿Te es clara la visualización de los datos actualizados en tu perfil?
-<br>
+  <br>
 
-**User Flow - Unhappy Path**
+*User Flow - Unhappy Path*
 - El usuario se encuentra en la página de inicio (Home) y accede a “Perfil” desde el menú lateral.
 - El sistema carga la pantalla de Perfil.
 - El usuario hace clic en “Editar perfil” y realiza cambios en su información.
 - Al intentar guardar los cambios, ocurre un error en el sistema.
 - Se muestra un mensaje de error en pantalla:
-  - “No se pudo editar en este momento. Intenta de nuevo en unos minutos.”
+    - “No se pudo editar en este momento. Intenta de nuevo en unos minutos.”
 - El usuario no puede guardar los cambios realizados.
 - El sistema mantiene la información anterior del perfil sin modificaciones.
-<br>
+  <br>
 
 Formulario de preguntas:
 - ¿El mensaje de error que aparece al fallar la edición te resulta claro y comprensible?
 - ¿Te gustaría que el sistema te notifique automáticamente cuando sea posible volver a intentar editar tu perfil?
 - ¿Te parece adecuado que se mantenga tu información anterior cuando ocurre un error al guardar?
-<br>
+  <br>
 
 ### 5.3.2. Registro de Entrevistas
 
@@ -2498,13 +2501,13 @@ Hallazgos Clave: Las entrevistas revelaron que las principales barreras para la 
 Contexto: Basado en los hallazgos de la investigación, se diseñó este perfil para representar a nuestro usuario clave en el segmento B2B, un profesional que busca diferenciar sus proyectos con propuestas de valor innovadoras.
 
 Imagen User Persona 1: https://shorturl.at/do41z<br>
-_Figura A.1._ User Persona "Arquitectos e Ingenieros Civiles".
+Figura A.1. User Persona "Arquitectos e Ingenieros Civiles".
 - A.3. Empathy Map: Dueños de apartamentos
 
 Contexto: Este mapa visualiza lo que el usuario final, el propietario, piensa, siente, dice y hace en su interacción con la tecnología del hogar, sirviendo de base para un diseño de interfaz intuitivo y fácil de usar.
 
 Imagen Empathy Mapping 2: https://shorturl.at/G8xvd<br>
-_Figura A.2._ Empathy Map de los propietarios de apartamentos.
+Figura A.2. Empathy Map de los propietarios de apartamentos.
 #### ANEXO B: Documentación del Diseño y la Experiencia de Usuario (UX/UI)
 
 Este anexo incluye los artefactos visuales y la documentación del proceso de diseño que demuestran la planificación de la experiencia de usuario y la interfaz de la plataforma IoBuild.
@@ -2514,10 +2517,10 @@ Este anexo incluye los artefactos visuales y la documentación del proceso de di
 Contexto: Este mapa visualiza el viaje completo del usuario con la plataforma, identificando los puntos de interacción y las oportunidades de mejora en cada etapa, desde el conocimiento inicial de IoBuild hasta el uso diario.
 
 Imagen User Journey Mapping 1: https://goo.su/j3JjKYm <br>
-_Figura B.1._ User Journy Map "Arquitectos e Ingenieros Civiles".
+Figura B.1. User Journy Map "Arquitectos e Ingenieros Civiles".
 
 Imagen User Journey Mapping 2: https://goo.su/6dIeR <br>
-_Figura B.2._ User Journy Map "Propietaros de Apartamentos".
+Figura B.2. User Journy Map "Propietaros de Apartamentos".
 
 #### ANEXO C: Investigación y Análisis de Usuarios
 Este anexo contiene material técnico que sustenta la estructura y la viabilidad del proyecto, complementando el análisis presentado en el cuerpo principal del documento.
