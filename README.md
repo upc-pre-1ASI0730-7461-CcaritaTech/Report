@@ -1725,43 +1725,26 @@ Gracias a esta estructura modular, IoBuild puede mantener una interfaz reactiva,
 
 **Identity and Access Management**
 
-![Identity and Access Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Identity_and_Access_Management_Class_Diagram.jpeg)
-Este diagrama muestra el contexto de “Gestión de Identidad y Acceso” (Identity and Access Management) con las capas de Aplicación, Dominio e Infraestructura.
-La capa de Aplicación está representada por AuthService, que orquesta los casos de uso de registro de clientes y residentes, inicio de sesión, recuperación de contraseña, asignación de cuentas y actualización de credenciales.
-En la capa de Dominio se encuentra el agregado raíz User, con atributos de autenticación y estado, además de operaciones como authenticate() y updatePassword(). Los roles y permisos se modelan como entidades asociadas (Role, Permission) y los actores del sistema (Client, Resident) se especializan a partir de User.
-La capa de Infraestructura incluye UserRepository y PasswordEncoder, que permiten persistir usuarios y gestionar el cifrado de credenciales. El dominio permanece desacoplado de la tecnología, mientras la aplicación coordina la interacción entre capas.
+![Identity and Access Management Class Diagram](https://i.imgur.com/xRIGS30.png)
 
 **Subscriptions and Payments Management**
 
 ![Subscriptions and Payments Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Class_Diagram.jpeg)
-Este diagrama muestra el contexto de “Gestión de Suscripciones y Pagos” (Subscriptions and Payments Management) organizado en capas.
-En la Aplicación, BillingService maneja casos de uso como creación y renovación de suscripciones, cancelación y procesamiento de pagos.
-En la capa de Dominio, el agregado raíz Subscription contiene información del plan contratado (PlanType), el estado de la suscripción y las operaciones de renovación y cancelación. BillingCycle y Payment son entidades dependientes: un ciclo de facturación agrupa múltiples pagos, que reflejan montos, métodos y estados de transacción.
-En la Infraestructura, PaymentGateway abstrae la integración con proveedores externos de cobro y SubscriptionRepository asegura persistencia de las suscripciones. De esta forma, el dominio define las reglas del negocio (vigencia de planes y proyectos asociados) y la aplicación las conecta con servicios técnicos.
+
+**Projects Management**
+![Projects Management Class Diagram](https://i.imgur.com/Jcarrxq.png)
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profile_and_Preferences_Management_Class_Diagram.jpeg)
-Este diagrama muestra el contexto de “Gestión de Perfiles y Preferencias” (Profile and Preferences Management).
-La Aplicación está representada por ProfileService, que centraliza casos de uso como actualización de datos personales, configuración de idioma y ajustes de notificaciones.
-En el Dominio, el agregado raíz UserProfile modela la información de contacto y métodos de actualización, mientras que Preferences contiene opciones de idioma, temas visuales y notificaciones, y puede asociar múltiples NotificationPreference para personalizar los canales de comunicación.
-En la Infraestructura, ProfileRepository persiste y recupera perfiles de usuario. La separación de capas permite que las operaciones de la aplicación se centren en la experiencia del residente, mientras que el dominio mantiene las reglas de personalización.
+![Profile and Preferences Management Class Diagram](https://i.imgur.com/afw8S4p.png)
 
 **Service Execution and Monitoring**
 
-![Service Execution and Monitoring Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Service_Execution_and_Monitoring_Class_Diagram.jpeg)
-Este diagrama muestra el contexto de “Ejecución y Control de Dispositivos” (Service Execution and Monitoring).
-La Aplicación cuenta con DeviceService, responsable de registrar dispositivos, asignarlos a unidades habitacionales, enviar comandos y programar escenarios como riego automático.
-En la capa de Dominio, el agregado raíz Device define atributos como estado, ubicación y tipo de dispositivo, y provee operaciones para actualizar su estado y ejecutar comandos. Asociados al dispositivo están entidades como Command, Telemetry y Alert, que modelan la interacción con el hardware. Scene y Schedule permiten coordinar automatizaciones y rutinas preconfiguradas.
-La Infraestructura se compone de IoTGateway, que gestiona la comunicación con los dispositivos físicos, y DeviceRepository, que persiste la configuración y estado. De esta manera, el dominio expresa la lógica de automatización, mientras que la aplicación coordina las interacciones con la capa IoT.
+![Service Execution and Monitoring Class Diagram](https://i.imgur.com/X3YuJHg.png)
 
 **Dashboard and Analytics**
 
 ![Dashboard and Analytics Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Class_Diagram.jpeg)
-Este diagrama muestra el contexto de “Monitoreo y Analítica” (Dashboard and Analytics).
-En la Aplicación, AnalyticsService ofrece casos de uso como generar reportes de consumo energético, actualizar paneles de control y consultar métricas históricas.
-La capa de Dominio está organizada alrededor del agregado raíz Dashboard, que agrupa Widgets para mostrar métricas en tiempo real. Report genera documentos con información consolidada, Analytics representa datos agregados de consumo y rendimiento, y MaintenanceNotification alerta sobre mantenimientos preventivos.
-En la Infraestructura, DataWarehouse sirve como fuente de datos analíticos y DashboardRepository gestiona la persistencia de configuraciones de dashboards. Así, la aplicación actúa como mediadora entre el dominio y las fuentes de datos externas.
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
