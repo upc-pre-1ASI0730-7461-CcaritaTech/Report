@@ -999,7 +999,7 @@ Los tamaños tipográficos definidos, desde los **12px (0.75rem)** para detalles
 La elección de la paleta de colores en nuestro proyecto obedece a una estrategia visual cuidadosamente planificada, orientada a reflejar tecnología, confianza y sofisticación, valores fundamentales en la propuesta de CcaritaTech.
 
 - **Landing Page** <br>
-![Imagen de la paleta de colores del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/545576551_1174176471428022_7345013407813856713_n.png?stp=dst-png_p2048x2048&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YOQQ3gW2-uYQ7kNvwH3A3x1&_nc_oc=AdlXqsSJZwukJ9EHH89JCWOZwGxESvfUJ_Bu6gBb8yg5qJ0K-MvbVKpNa7MgaVuuV7-TpQh8ZOfRaUccDMvxc9Je&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGGrPjxMVggLr15nBCT-olfDCo0OIKzEdbzEyiCgksiFg&oe=68EB0F62)
+![Imagen de la paleta de colores del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Paleta_Colores.png)
 
 En la identidad visual, el color **verde menta primario (#10B981)** cumple el rol principal como color distintivo de la marca. Su tono fresco y vibrante transmite innovación y confianza, características que refuerzan la propuesta de valor de nuestro proyecto. Al mismo tiempo, este color genera una sensación positiva y cercana, lo que ayuda a establecer una conexión emocional con el usuario desde el primer contacto.
 
@@ -1034,7 +1034,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
 - Selector de idioma (inglés y español).
 - El botón “Empezar Ahora”.
 
-![Imagen del Header del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/547184185_1409312160171082_4320287969107684909_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ud4smu8Nbn4Q7kNvwHaG1VU&_nc_oc=AdlEEqU4FrBO_oAyKStx6NMJ8FsnVJ-sAPalGta9GFFRSovdzkth19j3dETNrkuNtCTlrQDuN8edgwj6RqIuwObI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEkLPrRyw0aOZqRLKrYUy3siO-G8sUpboSpsV4rb9SHEQ&oe=68EB3709)
+![Imagen del Header del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Header.png)
 <br>
 
 **Home:**
@@ -1043,7 +1043,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - **“¡Lo quiero!”:** Un llamado a la acción primario y directo.
     - **"Ver Beneficios":** Una opción secundaria para usuarios que necesitan más información antes de decidir.
 
-![Imagen de la sección Home del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/543043639_769068599078754_7092594972623208063_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=KejXFHlg4bQQ7kNvwEdLTCs&_nc_oc=AdlY8g-ITjKL9glBz8iVbuukM0Z3MGGcUTsOGfBB9cPusbQYUxADMyjIoURm9cgJrFWOUZ-XSG8qw4onLofVPvPb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHAY2DKRleTRmKnxyu1Soi2UHbBIipxluCQcfT3G899Jw&oe=68EB39E5)
+![Imagen de la sección Home del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Home.png)
 <br>
 
 **Beneficios:**
@@ -1057,7 +1057,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - Soporte Especializado
 - El botón "Registrar mi Proyecto" es el paso clave que se quiere que el usuario realice.
 
-![Imagen de la sección Beneficios del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/542104330_1926395787904091_2065011281942347531_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=izF5IVwD7SgQ7kNvwGBNoU-&_nc_oc=AdnEav7GXxWR69LnHqV35Zm2HWOiskuDCfVGFBY3TGuZMWOUpGuPIyy0DvGnl5nuhwS4DEfMSeUElA1DYqb0O1wJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEdhpPjUopbUQaPZz9VE0ubSoWSbTwvTRIT5pFHGebmPg&oe=68EB2887)
+![Imagen de la sección Beneficios del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Beneficios.png)
 <br>
 
 **Características Técnicas Avanzadas:**
@@ -1066,15 +1066,14 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - Ecosistema de Dispositivos
     - Gestión de Áreas Comunes
 
-![Imagen de la sección CTA 1 del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/542934637_807920531587886_7942219215528859354_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NS0oQXqbiAwQ7kNvwEpR4V6&_nc_oc=AdnMeUGIg5q4qfbk7OMTEcBmdh3c1E_5TTq2TDXPGEiW3ag1NS9av63I2k3yBzaKCGMmlLUvIP1SxK1oCLvzc46F&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHN5vfC39KDDORqhct-udQapDX4d0WG0u5WRBeJBKOaYA&oe=68EB2827)
-![Imagen de la sección CTA 2 del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/543703698_1746008622787030_905219355521369968_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YOlg3D4QxtMQ7kNvwFz39oG&_nc_oc=Admxc9StOD-P8GPITPcMazv2zzRtmnOOlQfA568QhrtMv0HieBuFDwWSiFjEvun7eFREqVe74IoAhZ0xLEq5PIkc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHO0boVA-bvuKFhuoMwGYIShQrjKuh6-hz7eaXCwf6xcg&oe=68EB1E9D)
+![Imagen de la sección CTA 1 del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Caracter%C3%ADsticas.png)
 <br>
 
 **Testimonios:**
 - En esta sección se encuentran las opiniones y comentarios de las empresas que confiaron la transformación de sus proyectos en IoBuild.
 - Junto a un botón, Call to Action, “Crear mi Cuenta Ahora”, el cual invita a las empresas a dar el siguiente paso inmediato, aprovechando la confianza generada por los testimonios.
 
-![Imagen de la sección Testimonios del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545936634_1448656902847497_2876707668123206767_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NFn4VfZ7DdQQ7kNvwFy55-X&_nc_oc=AdnsuN_d3BtC_vfWcJbqWqVmSnkCg38F2q2-PxC8zID1Y_GY2Z6YHgBDYVnEx7zFviN_4QeF1NcwG_5y_DXpsO3R&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHato9j8JeokrUGWU8hegHwrgI0U4Z3UYpUVqa4on1vwA&oe=68EB1E2B)
+![Imagen de la sección Testimonios del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Testimonios.png)
 <br>
 
 **Planes Diseñados para tu Escala:**
@@ -1084,14 +1083,14 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - **Professional ($599/mes):** Plan etiquetado como "Más Popular", ideal para proyectos medianos.
     - **Enterprise ($1,299/mes):** Plan premium para grandes desarrollos.
 
-![Imagen de la sección PDE del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545748671_1126652992127595_3205445573247519879_n.png?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Vspylc5-LGAQ7kNvwHAZPmz&_nc_oc=AdlR8qRoShdaTd4dBhe3nisUVcUqjAPfLQ_6QPrWLOmS-isp_L67y-xTJiNBgCjIr2gKRTJhOo1NMTODxEK8H-6X&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHepizRr8ygEzxSkfrVoEK5I3FpdhdeMuKCYWT3AYSPWQ&oe=68EB410F)
+![Imagen de la sección PDE del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Planes.png)
 <br>
 
 - Esta sección actua como el cierre o "call to action" final de la presentación, diseñado para convertir al visitante en cliente.
     - **"Crear Cuenta Ahora":** Para los decididos.
     - **"Ver Planes":** Para los que necesitan más información antes de comprometerse.
 
-![Imagen de la sección Cierre del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/547084018_1986872135407512_7533900794389294392_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=g1OsrcBHbVoQ7kNvwGO8vhm&_nc_oc=Adk3TLeuH8kZtTMpOenAptFt3ITAYhC55dZvb8J-_xzmQ0AVksv22m44NrtJOP8vGtqZ58gknxIycLy7OZOPZTmF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QGzaN22d-0V-0sQqxpk44BWsDV4KQtGkv8qd-ahVBJsKA&oe=68EB0EE8)
+![Imagen de la sección Cierre del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/End-Hero1.png)
 <br>
 
 **Footer:**
@@ -1102,7 +1101,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - **Soporte:** Recursos de ayuda como FAQ, contacto, centro de ayuda y estado del sistema.
     - **Legal:** Enlaces a los términos legales y políticas de privacidad.
 
-![Imagen de la sección Footer del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546097530_1508945870137606_2579688907605876187_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=py0o-Ms7iNkQ7kNvwGyFpKb&_nc_oc=Adkg4OQC1kYwqSb7KqPvVC_S_BPTj_TtKEzEwAEnggEqzGwcYSFcI1omZszDBiSyNXAMtkVkqF7mnCmNPyAyy2bi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QE_V02AGIaAMJ1Y3T8bUI-xjbg1bWWtv9M05fT_slsOTA&oe=68EB0C07)
+![Imagen de la sección Footer del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Footer.png)
 <br>
 
 
@@ -1111,7 +1110,7 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
 - En esta sección se presenta la misión y filosofía de la empresa, estableciendo su propósito fundamental y su visión a largo plazo.
 - El objetivo principal es empoderar a las constructoras con herramientas para crear desarrollos que satisfagan las necesidades actuales, y se adapten y evolucionen con las demandas futuras.
 
-![Imagen de la sección Misión del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546476799_801410365913841_4332806494977399308_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=gSbdFwSgIUIQ7kNvwF7aATv&_nc_oc=AdmGlutjKGUU7WNhABhjNABcKM1VElB26M5Igjqy349x1OMnb7sRNFOqTbJKM7_ePI6kbXuVbLuQT9-pkp3DX_Uu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFa_DziDCJW0qDLC1V2Hax4-3LPKQ-7Y0Bhq-HFw-3v-w&oe=68EB18CB)
+![Imagen de la sección Misión del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Misi%C3%B3n.png)
 <br>
 
 **Nuestros valores:**
@@ -1121,20 +1120,20 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - Colaboración
     - Sostenibilidad
 
-![Imagen de la sección Valores del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/545966014_774488345310442_6023979702990276290_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=1MOgP5-CYYUQ7kNvwHjITjt&_nc_oc=AdlU6NdlDJ2A6mIlemVQcqvLVBhkLvI9hOqTvxeW6pnrST13UeU35kOWSQrJZKmxcwKYj-f3q6tTyuJlzEqr1rL3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QHqaYVMkUL016muVozNW5If3NBkRLHz3Qbgvmdq5HasJQ&oe=68EB0AE0)
+![Imagen de la sección Valores del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Valores.png)
 <br>
 
 **Nuestro equipo:**
 - En esta sección se presentan a los cinco miembros que trabajamos en IoBuild, en las tarjetas podemos ver las fotos de los miembros junto a una pequeña descripción de cada uno de ellos.
 
-![Imagen de la sección Equipo del landing page](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/547084018_1464904014558575_2755803025044948359_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=mUES0kk7qHYQ7kNvwE7CAnY&_nc_oc=Adm5dJS-p3LAU5qDqz_B5uKYMwjhdJhQ4geSoYXkp4lISNrTHVmvUg0VETVjvLEAr04&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QE7PMFZ-XgG7HLQy0Q3BS6ShL0_9XXfkjX-UegQCGmGtg&oe=68EFAAAA)
+![Imagen de la sección Equipo del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Nuestro_Equipo.png)
 <br>
 
 - Esta sección actúa como un cierre o "call to action" final, dirigido a potenciales clientes interesados.
     - **"Ver Nuestros Planes":** Para quienes buscan información específica de precios y características.
     - **"Contactar Equipo":** Para quienes prefieren una conversación directa con ventas o consultoría.
 
-![Imagen de la sección Cierre del landing page](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/542920712_1262871462306662_5747676941987382969_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=QwJ16q7H2OkQ7kNvwHjCsVI&_nc_oc=Adk6Z7tcfu-nzOfTkbl8ZrDq_hUifNSnGfAlMoOxm98s13aeLrthHv33JrwGB68yTlbkgLZ1VEQzjkhPyR3qa8OK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3QE8MslfUlhE136KsOptXvBNA0QudVRHcO4heHJUY81BCg&oe=68EB3CC2)
+![Imagen de la sección Cierre del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/End-Hero2.png)
 <br>
 
 #### **3. FAQ**
@@ -1147,14 +1146,14 @@ Este diseño corresponde a la aplicación web de IoBuild, una plataforma que imp
     - **Precios** (aspectos económicos)
     - **Soporte** (asistencia y ayuda)
 
-![Imagen de la sección Preguntas Frecuentes del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545697847_1556515355704090_3743376577603369427_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=M4HztBQWp9YQ7kNvwELcNHj&_nc_oc=AdmLvXI-5iIUJBirv2vegfJ4rJCceIu2OlIQ-msP3c7KDIAZQAKSPy1zCnCefAKZ0ND0gk2qrNQihz_94_DkToRB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHmxwhLRRfK1XuYfRlNUwmyfszX2vmzMLD4DMqUlMTcFA&oe=68EB24B0)
+![Imagen de la sección Preguntas Frecuentes del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/FAQ.png)
 <br>
 
 - Funciona como una alternativa para usuarios que no encontraron respuesta en las FAQs, capturando leads calificados.
     - **"Contactar":** Para consultas generales o soporte directo.
     - **"Solicitar Demo":** Para una demostración personalizada del producto.
 
-![Imagen de la sección Cierre del landing page](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546125143_571637575961986_8441775770711138809_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fKHKV9S80s0Q7kNvwESuzNz&_nc_oc=Adk8VnG-pRNkEVhb1kT5oj8BKQqyxN3mcBPncGdw2EaKTnwq83QxqWSV64HoOnW2TRVdkiR_ZQRdTPBjfcVpPu8N&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QHk1VxgsXlzE05TP8S7uDZTUvQfGT0XA-oPDlNAr4Qptg&oe=68EB38CD)
+![Imagen de la sección Cierre del landing page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/End-Hero3.png)
 <br>
 
 
@@ -1217,15 +1216,15 @@ En el caso de la Landing Page de IoBuild, se han incorporado meta etiquetas espe
 
 #### 1. Index
 La página principal de IoBuild incorpora un conjunto de etiquetas SEO que fortalecen su posicionamiento y presencia digital. Se incluyen una meta descripción clara sobre la propuesta de valor, palabras clave relacionadas con IoT y automatización residencial, así como etiquetas Open Graph y Twitter Card que aseguran una visualización atractiva y coherente al compartir el sitio en redes sociales. Estas configuraciones, junto con el ajuste de vista responsiva y la codificación adecuada, contribuyen a una experiencia accesible, profesional y optimizada para buscadores y usuarios.
-![Imagen de Meta Tags Index](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/545924563_1981449309361755_2615012982454919773_n.png?stp=dst-png_s2048x2048&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YaFnR-a_VSEQ7kNvwGY620x&_nc_oc=AdkDW_2YAy7l1sENJtJHc45f61GOcKI2HjcTeGKhVMsXx11dR2ELhU2VNwIc3_-BrLlNOpfvWpnqYgLNBub89-bo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QEKHhNaN55xsL7Kmne4v2iwcmAARPqcYtRzQR24k8dBag&oe=68EDCE81)
+![Imagen de Meta Tags Index](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Meta_Tags_Index.png)
 
 #### 2. About Us
 La página Sobre Nosotros de IoBuild incluye etiquetas SEO básicas que refuerzan su propósito informativo y de marca. Se define un título claro y directo, junto con una meta descripción que comunica la misión del proyecto y presenta al equipo como motor de la propuesta de innovación en la industria de la construcción mediante tecnología IoT. Además, se configuran los parámetros técnicos de codificación (UTF-8) y de vista responsiva, asegurando accesibilidad, correcta interpretación del contenido y una experiencia de navegación óptima en distintos dispositivos.
-![Imagen de Meta Tags About-Us](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/546932796_25562088580057548_7471885187897257817_n.png?stp=dst-png_s2048x2048&_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fz3haZKPMe4Q7kNvwGXiAqZ&_nc_oc=AdnRMMnTPaUTTEuhd8NuBbhDRE6csN843ukg5KglfnJzX1LLwAzhtcHonbZNGBE8fpHKWhdJ30eYQyOwKivF2Nxc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QH6pNKCCtbH40RJvqPVYISf_pihNA6ZMR-84ku5juNkYQ&oe=68EDD5CE)
+![Imagen de Meta Tags About-Us](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Meta_Tags_AboutUs.png)
 
 #### 3. FAQ
 La página FAQ - Preguntas Frecuentes de IoBuild incorpora etiquetas SEO orientadas a brindar claridad y accesibilidad al usuario. Se define un título descriptivo y directo que comunica de inmediato el propósito de la sección, acompañado de una meta descripción que resume su función como espacio de resolución de dudas sobre la plataforma SaaS y sus aplicaciones en proyectos de construcción con IoT. Asimismo, se incluyen configuraciones técnicas esenciales como la codificación UTF-8 y la vista responsiva, garantizando una correcta interpretación del contenido y una experiencia de navegación fluida en diversos dispositivos.
-![Imagen de Meta Tags FAQ](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/547297363_815734674134182_2168703356033145976_n.png?stp=dst-png_s2048x2048&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=2GmPyS8ps8MQ7kNvwHkA_1I&_nc_oc=AdnCZ1Axgt7ImUJX1ganN6Gp7e3z9Agvk4dt9EVbNU4ggMDslOLSqAcXdkldSgdhQoHb_K2Yh-mA8uZyFAuP9Hf7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QE63DQ6W7c9ByRQQJ1rGSXcgl_9A00AZATnfuBK2NBefg&oe=68EDB582)
+![Imagen de Meta Tags FAQ](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Meta_Tags_FAQ.png)
 
 
 ### 4.2.4. Searching Systems.
@@ -1278,21 +1277,21 @@ Finalmente, el sitio se enfoca en eliminar las últimas barreras para la compra.
 #### 1. Home
 - La interfaz sigue una estructura en Z con un header fijo con logo y menú principal, un hero section con título, subtítulo y un llamado a la acción destacado (“Empezar ahora”). En las secciones intermedias se presentan los beneficios en formato de tarjetas, seguidos de testimonios y planes de precios. El footer reúne enlaces organizados por categorías, accesos a redes sociales y aviso de copyright. El diseño es claro, escaneable y enfocado en la conversión, guiando al usuario de manera natural desde el primer contacto hasta la acción final.<br>
 
-![Landing page Home Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548903069_1808293439783932_1809402883401001185_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=_FQVEgMlQakQ7kNvwE8gIZS&_nc_oc=AdnQmwAyL6a28uURJ5l8cPJcPtpVzKmU5lGEO0pNg2hQQpM8UuzOaMD_k9QYVhIZzdw&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFQsUhN-Iwu_32ixSUO2K588dIu0vH__PvcUz-yAUks2w&oe=68EFC57E)
+![Landing page Home Wireframe](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_Home_Wireframe.png)
 <br>
 
 #### 1. About Us
 - El wireframe de About se organiza en un esquema de columnas, a la izquierda se ubican el título y los párrafos descriptivos, mientras que a la derecha se reserva un espacio para la imagen. La página integra secciones jerarquizadas que construyen una narrativa clara sobre la identidad de la marca. En la parte inferior se disponen tarjetas con íconos y descripciones, seguidas de la presentación del equipo con un miembro destacado y cuatro integrantes adicionales. La composición se enmarca con una navegación principal en la parte superior y un footer completo al final, manteniendo coherencia visual y un flujo narrativo fluido.<br>
 
-![Landing page About-us Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547359754_601955382998827_928295364492448227_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=UBwZm2ICbwEQ7kNvwH5rZv2&_nc_oc=Adl03DhTV5o7MzKSM6tFjBLP-IiYIOJEmYMiNpjEc7Tz5rnIFzaHchdKbHHxjMznguo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGJM6WZQCTEp3O-gJHIDXDniQSm1gB8ny7NvErkXPJdGg&oe=68EFBBCB)
+![Landing page About-us Wireframe](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_About-us_Wireframe.png)
 <br>
 
 #### 1. FAQ
 - La sección adopta un acordeón vertical, donde cada pregunta se despliega para mostrar respuestas detalladas. Los contenidos abarcan temas clave como precios, diseño, edición y alianzas. En la parte superior, filtros por categoría facilitan la exploración del material, mientras que en la parte inferior un CTA “Didn’t Find Your Answer?” dirige a la página de contacto. El diseño mantiene un estilo minimalista y ordenado, y una jerarquía visual clara, optimizada para la legibilidad y una experiencia sin distracciones.<br>
 
-![Landing page FAQ 1 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546798550_24992962880353499_1009259461898462028_n.png?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=uAlQp2FI2mkQ7kNvwEge5ff&_nc_oc=AdnaqvorL5LJ0TaV077ECix7w3kIGKilRqcH28PfpObgFLCoaRHIPiJMDsxOVBzMGQA&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH_ktMd3VEHXfz4sxte5gMqQd31COk-Mly8vFRpWuA3tQ&oe=68EFA2E7)
+![Landing page FAQ 1 Wireframe](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_FAQ_Wireframe.png)
 
-![Landing page FAQ 2 Wireframe](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546514474_1160766582768172_8785964478305398275_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xT8N2SfERy0Q7kNvwE5r5vw&_nc_oc=AdlR_LLslQFTp2bB5TnbHqfy-wLMVoONfGq6BDAD28U6nqjWBtmyNWPiYDQQkebpRhE&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGx0z9eT1r79GxNOGTIltX34mmC3NYc1amFuWYKdA9AQw&oe=68EFBE94)
+![Landing page FAQ 2 Wireframe](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_FAQ2_Wireframe.png)
 <br>
 
 ### 4.3.2. Landing Page Mock-up.
@@ -1301,21 +1300,21 @@ Finalmente, el sitio se enfoca en eliminar las últimas barreras para la compra.
 #### 1. Home
 - El mockup de la página principal presenta una estética moderna y minimalista, enfocada en la claridad y la atracción visual. En la parte superior, el header integra el logo junto con enlaces a Benefits, Features, Plans, About Us y FAQ, además de un botón de llamado a la acción “Get Started”. El hero section concentra la atención con un título llamativo y un botón CTA (“I want it!”) sobre un fondo verde claro. Más abajo, el contenido se organiza en bloques visuales con imágenes y una tipografía legible, destacando secciones como “Advanced Technical Features” y “Plans Designed for Your Scale”. Finalmente, el footer reúne enlaces estructurados (Home Page, Community, Legal, Company), íconos de redes sociales y un mensaje de marca que refuerza la identidad visual del sitio.
 
-![Landing page Home Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546695006_1144301977573119_928442194268798903_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=e78WUQ-fyZMQ7kNvwFCWf5X&_nc_oc=AdlGkSjf0dR9Rtw6Ed5T8dqt6qjNlt5e9tfZUjEqGsDSrFQvzSt-tDZWGA9lYD7iGos&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHH5BWWhF8KefPJW4XWALxwHn-UldHTXMhertZdMRyQ8A&oe=68EFC428)
+![Landing page Home Mock-up](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_Home_Mock-up.png)
 <br>
 
 #### 2. About Us
 - Esta sección presenta una introducción sobre la misión de CcaritaTech, destacando su enfoque en la innovación y el impacto social. Le siguen las secciones “Our Values” y “Our Team”, que reflejan los principios de la organización y presentan a su equipo. Cada apartado combina textos con imágenes representativas, creando una composición equilibrada. Predomina un estilo limpio y luminoso, con fondos claros, amplio espaciado y jerarquía tipográfica definida, lo que refuerza la coherencia visual y facilita una experiencia clara y atractiva para el usuario.
 
-![Landing page About-us Mock-up](https://scontent.flim15-2.fna.fbcdn.net/v/t1.15752-9/554299604_9794796440645124_1743929010221443666_n.png?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=yQDxcb7ImRYQ7kNvwG4ydpj&_nc_oc=Adlp4ktTeC2xJ2HB4a8Lm5UYyFuAQ8zOgLxHfj0TiXJygMYBSzOdBGnjvrrLeyKqhUwRuInyT0_PGbpxCCV1YqYj&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-2.fna&oh=03_Q7cD3gGNPGXMvAMhxgK0TMKYrd4Wtc0UyDUsZEIcpCldD22bhQ&oe=690E4D7E)
+![Landing page About-us Mock-up](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_About-us_Mock-up.png)
 <br>
 
 #### 3. FAQ
 - El mockup de la sección FAQ utiliza una estructura de acordeón que organiza las preguntas frecuentes de forma clara y accesible. Al desplegar cada entrada, se muestra una respuesta concisa y comprensible, manteniendo la coherencia con el branding visual de la plataforma. Además, se incorpora una sección complementaria con canales de contacto para ofrecer soporte adicional. La interfaz destaca por su simplicidad, legibilidad y enfoque en la eficiencia, facilitando que el usuario encuentre rápidamente la información que necesita.
 
-![Landing page FAQ 1 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546564864_1365322328560436_8806588611230711479_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=hoFtwCBGUSEQ7kNvwGYvMFi&_nc_oc=AdmKvnbAFWMohwRNPm5625LaMfjVIUKoITw93QbVwhThro5Wmikl1OuE1Ja72CvYYeM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFrAP3FxZrHVhFjMgk6yZsHLDz1-Pp6QtmGKqf4oimozQ&oe=68EFA1A9)
+![Landing page FAQ 1 Mock-up](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_FAQ%201_Mock-up.png)
 
-![Landing page FAQ 2 Mock-up](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547461061_1098793541976064_8746295049078413109_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=p7CojEi702QQ7kNvwFeEOSZ&_nc_oc=AdlSY7T1YTML7je0Q8e1azHizGo9MxjFH4q3ZhLjHpxZqHrC6c7SIQ_DrBTq0qreFHU&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFUa2F2KYNKOJUpHq1EOnTFMwmyAJcn13Zl9Oe4yoTzZw&oe=68EFAB4F)
+![Landing page FAQ 2 Mock-up](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Landingpage_FAQ%202_Mock-up.png)
 <br>
 
 ## 4.4. Web Applications UX/UI Design.
@@ -1335,56 +1334,56 @@ Se integrarán servicios RESTful para la comunicación con el backend y se crear
 #### 1. Home
 - El área principal está dedicada a la "Project Overview", que incluye varios gráficos informativos: un gráfico circular sobre el estado de los proyectos (diseño, planificación, implementación), gráficos de barras sobre el presupuesto y la asignación de dispositivos IoT, y un gráfico de líneas para el proceso general.
 
-![Segmento #1 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/546934814_772875618820959_1643343708730820101_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zl9FtUFJeHAQ7kNvwGVPADA&_nc_oc=AdmJCkHiUoDbqzG13fAZr4eIOjwkurxzDz0QvQqm0U1f1xtPA8FRpZSCOIjX2nQwp8c&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QGFBLwY28EtZYqZtAkJinyZtEzIIm2Z_8alQZSFa6s87g&oe=68F12890)
+![Segmento #1 Wireframe Home](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Wireframe_Home.png)
 <br>
 
 #### 2. Proflie
 - El área principal de contenido está estructurada para mostrar primero un resumen del perfil del usuario ("Full Name", "Role") junto con un botón "Edit Profile". Debajo, se detallan los "Account Information", que incluyen campos para el nombre completo, correo electrónico y número de teléfono. Más abajo, se presentan opciones de configuración adicionales como el "Current Plan" con una opción para renovar, la "Time Zone"y el "App language".
 
-![Segmento #1 Wireframe Profile](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548265726_810996184942497_3946170082989081874_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RoLOdR3sotIQ7kNvwFbX7Jj&_nc_oc=Adl0-Lz-QgqJfvy0c5rhX4K5hnQbSDWjTSDYp5IXF36Dak4xHeYRx3Jt991ojojXATY&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QElvvsxfcinRxj3WBB444AHuq-Yys8ongvFsyAKhqiafw&oe=68F11AB9)
+![Segmento #1 Wireframe Profile](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Wireframe_Profile.png)
 <br>
 
 #### 3. Projects
 - El área principal de contenido presenta un encabezado "My Projects" y un botón prominente "+ Add Project", sugiriendo la capacidad de crear nuevas iniciativas. Debajo, se visualizan tres tarjetas de proyecto idénticas en su estructura, cada una con un marcador de posición para una imagen, un título "Name Project", etiquetas indicando "In implementation" y la cantidad de dispositivos asociados, y una barra de progreso.
 
-![Segmento #1 Wireframe Project](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/547403499_798521849219373_14743688471030919_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xFnIff8XZKUQ7kNvwHjiU7o&_nc_oc=AdkIx3yShhsRMmqgN2Q6gb-PzJsPSaN1_N_vMhLfIGt0-LeDYG9vsMbr9oavEkHleLo&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QFkvyDCVW5smnRyvSba16UCLY1sIMmWAgAYtKMsRCTpkA&oe=68F1121D)
+![Segmento #1 Wireframe Project](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Wireframe_Projects.png)
 <br>
 
 #### 4. Client Managment
 - El área principal del contenido presenta el encabezado "My Clients" y un botón "+ Add Client" , lo que sugiere la capacidad de incorporar nuevos clientes al sistema. Debajo, se presenta una tabla organizada con columnas para "Full Name", "Associated Project", "Account Statement" y "Actions".
 
-![Segmento #1 Wireframe Management](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549216145_677842172009026_3176599930793983657_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=AYt7vl-wfIsQ7kNvwF8kNPG&_nc_oc=AdlvkAFH_ulkeE4AXQYJbaZeSgheavV-7zKw6P0LvlC3SAl5L4Pfs05p-RnWiJtvhFQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHMLykiQlB7KboQNRHrv6-w4unn9Iebe2QR_eW0A5O0jQ&oe=68F11DEC)
+![Segmento #1 Wireframe Management](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Wireframe_Management.png)
 <br>
 
 #### 5. Configuration
 - El área principal del contenido se divide en tres secciones claras: "Notifications", "Security and Privacy", y "Support and Help". En la sección de Notificaciones, los usuarios pueden activar o desactivar alertas de expiración, actualizaciones del sistema y notificaciones de clientes mediante interruptores. La sección de Seguridad y Privacidad ofrece opciones para cambiar la contraseña, configurar la autenticación de dos factores y gestionar las sesiones activas, cada una con un icono de configuración para mayor detalle. Finalmente, la sección de Soporte y Ayuda proporciona enlaces a un Centro de ayuda y Contacto de Soporte.
 
-![Segmento #1 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549789816_3700063793458399_951366129761349704_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=8S8zXvV0pNkQ7kNvwHZp1hP&_nc_oc=Adn6PeOyQRRDnOiXuVKNuKSaNaSNfPdQRCxsys1wMRfdf36GViFUETH7Xkk5R94RFNM&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QGGqMyz62yJC31SxBTLvbZ1FKawGl63LQ757Ni1A8niGw&oe=68F13999)
+![Segmento #1 Wireframe Configuration](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Wireframe_Configuration.png)
 <br><br>
 
 #### Vista del segmento #2: Propietarios de departamentos
 #### 1. Home
 - El área principal está dedicada a la "Project Overview", que incluye varios gráficos informativos: un gráfico circular sobre el estado de los proyectos (diseño, planificación, implementación), gráficos de barras sobre el presupuesto y la asignación de dispositivos IoT, y un gráfico de líneas para el proceso general.
 
-![Segmento #2 Wireframe Home](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548789966_1363689778710882_7039934852377744894_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=fkdiCQYFd7YQ7kNvwHq-hUf&_nc_oc=Admh4FG5P3XMUEYNSS_TW8FnhiZ7Sz7WzIU9XqHyMuWC5mUKdbQRot3AR7sHVA3mgh8&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QHmfFGKaLMUqc3gYOmoTFfVty1Bc4Ksx1VpAoOkeUpPdA&oe=68F11129)
+![Segmento #2 Wireframe Home](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Wireframe_Home.png)
 <br>
 
 #### 2. Profile
 - El área principal de contenido está estructurada para mostrar primero un resumen del perfil del usuario ("Full Name", "Role") junto con un botón "Edit Profile". Debajo, se detallan los "Account Information", que incluyen campos para el nombre completo, correo electrónico y número de teléfono. Además, se introduce una nueva sección titulada "Favorite Scene Configuration" (Configuración de Escena Favorita), que lista múltiples opciones de "Energy-Saving Mode" con botones "Use", indicando la capacidad de configurar escenarios o modos preestablecidos para dispositivos. Más abajo, se presentan opciones de configuración adicionales como el "Current Plan" con una opción para renovar, la "Time Zone"y el "App language".
 
-![Segmento #2 Wireframe Profile](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/549307912_1844807509806857_4502827599932578220_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=kZwF60FNusMQ7kNvwFk2wHk&_nc_oc=AdkQRzmxQoVc8nWKWQCU61_5LZ6IBQywhevri3ZdV6KHJdRaBHnBDCBp8wR1mOXEcCs&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QFBeLLykbgZinyG9xkmn1bAKe-NK-YFM-8dkTo-vhZcYg&oe=68F11858)
+![Segmento #2 Wireframe Profile](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Wireframe_Profile.png)
 <br>
 
 #### 3. Device Management
 - El encabezado "My Devices" es prominente, acompañado de dos botones de acción principales: "+ Create Scene", que permite agrupar y automatizar múltiples dispositivos, y "+ Add Device", para incorporar nuevos equipos al sistema. La información de los dispositivos se presenta en una tabla con columnas para "Name", "Category", "Real-time status" y "Actions". La tabla lista dispositivos con estados alternos de "On" y "Off", y cada uno incluye un icono de configuración para acceder a ajustes específicos.
 
-![Segmento #2 Wireframe Management](https://scontent.flim4-2.fna.fbcdn.net/v/t1.15752-9/548892524_787827270691353_4787503330365265407_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zQYYl0PCj-sQ7kNvwHt6S7U&_nc_oc=AdlZP73_PZ2fsrw1ovraQLQgcvhjzFXe6mG9X7yn9_tBpFshw8-4y8EFCjBOfhPO7Lk&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&oh=03_Q7cD3QH7XTt9gfRjl_ni8Gy0XSDIBFNOZQ_lePXOAMfhCGhvww&oe=68F122F1)
+![Segmento #2 Wireframe Management](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Wireframe_Management.png)
 <br>
 
 #### 4. Configuration
 - El área principal del contenido se divide en tres secciones claras: "Notifications", "Security and Privacy", y "Support and Help". En la sección de Notificaciones, los usuarios pueden activar o desactivar alertas de expiración, actualizaciones del sistema y notificaciones de clientes mediante interruptores. La sección de Seguridad y Privacidad ofrece opciones para cambiar la contraseña, configurar la autenticación de dos factores y gestionar las sesiones activas, cada una con un icono de configuración para mayor detalle. Finalmente, la sección de Soporte y Ayuda proporciona enlaces a un Centro de ayuda y Contacto de Soporte. La sección "Advanced Device Management", que incluye opciones para "Automated Scenes" y "User Permissions".
 
-![Segmento #2 Wireframe Configuration](https://scontent.flim4-3.fna.fbcdn.net/v/t1.15752-9/548395799_806400318513018_2616395886245004489_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=IAbyFt8bA70Q7kNvwFh2uAC&_nc_oc=AdmgVEXQKET95xsVRTzhgvSzcaJAdcH9zDjYNOBpOZrOI8h7Qs8TBiJRPBdJL31cOxQ&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&oh=03_Q7cD3QHZJ0SuuS2fLLBOtZHVJ0bveGZjIubVkMw0UzMWq0CF-w&oe=68F10B86)
+![Segmento #2 Wireframe Configuration](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Wireframe_Configuration.png)
 <br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -1442,7 +1441,7 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 **Acción esperada:** Personalizar la configuración de la plataforma para ajustarla a las necesidades de la empresa.<br><br>
 
 [Web Applications Wireflow Diagrams - Arquitectos e Ingenieros Civiles] <https://shorturl.at/ORylU>
-![Web Aplication Wireflow Guest](https://instagram.flim15-1.fna.fbcdn.net/v/t1.15752-9/550333562_1328869475288433_1662306578838956813_n.png?stp=dst-png_s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=qNJNjrmBKWoQ7kNvwFQl9sU&_nc_oc=Adk4AXL2qmmspdB1FhPnT3HT8w-2du28_InBF_CkSfr3uoD7ByHh6DnJl6y6rHhjhS_qwoORwYDuEkpbKdRgnmYI&_nc_zt=23&_nc_ht=instagram.flim15-1.fna&oh=03_Q7cD3QFrVhTITTB_EozewzQ51VMX-jg5BRpQFpBhIpaDg8Obfg&oe=68F2B5DB)
+![Web Aplication Wireflow Guest](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Wireflow_Segmento2.png)
 
 
 #### Segmento Objetivo #2: Dueños de apartamentos
@@ -1489,63 +1488,63 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 **Acción esperada:** Personalizar la experiencia y garantizar seguridad y soporte.<br><br>
 
 [Web Applications Wireflow Diagrams - Dueños de apartamentos] <https://shorturl.at/h1jhp>
-![Web Aplication Wireflow Guest](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/548402069_1462689048354702_5698437424456371348_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Afd1fb_EjHQQ7kNvwFC4nCM&_nc_oc=AdkSnCN66vc0hXhaakODWYplx7Un3jvycTWnVOpLeybgyI_X_SaCoXRZ1qYskPtyvoGlSahry3ULZJmIgQJwPE_9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim15-1.fna&oh=03_Q7cD3QFsLIkkTD47bCnz53LW3PSf6Io3DHROGDV6DpFG-BOF6Q&oe=68F296F7)
+![Web Aplication Wireflow Guest](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Wireflow_Segmento1.png)
 
 ### 4.4.3. Web Applications Mock-ups.
 #### Vista del segmento #1: Arquitectos e Ingenieros Civiles
 #### 1. Home
 - En el área principal del panel, hay una sección de "Project Overview" que incluye dos gráficos: uno de barras titulado "Budget Allocated" y uno de líneas llamado "Devices Implemented", que proporcionan una visión rápida del rendimiento. A la derecha, se encuentra un "Notification Feed" con mensajes sobre la expiración de un proyecto y la adición de un nuevo cliente.
 
-![Segmento #1 Mock-up Home](https://i.imgur.com/wLeFkTM.png)
+![Segmento #1 Mock-up Home](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Mock-up_Home.png)
 <br>
 
 #### 2. Proflie
 - En esta pantalla, se destacan los detalles del perfil del usuario, "Roberto Ccarita", con un botón prominente para "Edit Profile". La información se organiza en varias secciones claras: "Account Information", donde se muestran el nombre completo, el correo electrónico y el número de teléfono del usuario; "Time Zone", "Current Plan" y "App Language", establecido en "English".
 
-![Segmento #1 Mock-up Profile](https://i.imgur.com/7OIRjtS.png)
+![Segmento #1 Mock-up Profile](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Mock-up_Profile.png)
 <br>
 
 #### 3. Projects
 - En esta pantalla, se presenta una galería de proyectos individuales, cada uno ilustrado con una imagen de un edificio moderno. Cada tarjeta de proyecto incluye el nombre del proyecto, su estado y la fecha de su última actualización. Un botón "More Details" para acceder a información más profunda sobre cada proyecto. Además, en la parte superior derecha, un botón "+ Add Project" indica la funcionalidad para crear nuevos proyectos dentro de la aplicación.
 
-![Segmento #1 Mock-up Project](https://i.imgur.com/ADSnk0p.png)
+![Segmento #1 Mock-up Project](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Mock-up_Projects.png)
 <br>
 
 #### 4. Clients
 - Esta vista presenta una tabla detallada con información de los clientes, incluyendo su "Full Name", "Associated Project", "Account Statement" y "Actions". El estado de la cuenta varía entre "Active", "Suspended" y "Stand by". Para cada cliente, se ofrecen opciones como "View Profile" y un icono de configuración, permitiendo al usuario gestionar los detalles del cliente. En la esquina superior derecha, un botón "+ Add Client" facilita la incorporación de nuevos clientes.
 
-![Segmento #1 Mock-up Management](https://i.imgur.com/v1ov938.png)
+![Segmento #1 Mock-up Management](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Mock-up_Management.png)
 <br>
 
 #### 5. Configuration
 - Esta vista está organizada en tres áreas principales que permiten al usuario personalizar y gestionar su experiencia. La sección "Notifications" incluye toggles para activar o desactivar alertas de expiración, actualizaciones del sistema, notificaciones de clientes y notificaciones push. La sección "Security and Privacy" ofrece opciones para cambiar la contraseña, configurar la autenticación de dos factores, gestionar sesiones y añadir una dirección de correo electrónico alternativa, todas ellas con un icono de engranaje que sugiere configuraciones adicionales. Finalmente, la sección "Support and Help" proporciona enlaces a FAQs y contacto de soporte.
 
-![Segmento #1 Mock-up Configuration](https://i.imgur.com/6L9l5t1.png)
+![Segmento #1 Mock-up Configuration](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_Mock-up_Configuration.png)
 <br><br>
 
 #### Vista del segmento #2: Propietarios de departamentos
 #### 1. Home
 - La sección principal, "Overview" (Resumen), incluye dos gráficos: uno de líneas que detalla el "Energy Consumption" (Consumo de Energía) a lo largo del tiempo, y un gráfico de barras que ilustra los "Energy Savings By Device (%)" (Ahorros de Energía por Dispositivo) para elementos como luces, termostatos, aire acondicionado y cámaras. A la derecha, el "Notification Feed" (Feed de Notificaciones) alerta sobre "High power consumption detected" (Se detectó un alto consumo de energía) y "Air conditioner may need maintenance" (El aire acondicionado puede necesitar mantenimiento). Esta pantalla ofrece al propietario una visión integral y en tiempo real del consumo energético y el estado de los dispositivos, facilitando la gestión eficiente de las propiedades.
 
-![Segmento #2 Mock-up Home](https://i.imgur.com/XsFJjIw.png)
+![Segmento #2 Mock-up Home](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Mock-up_Home.png)
 <br>
 
 #### 2. Proflie
 - En la sección "Account Information", se detallan los datos personales del usuario, incluyendo un campo adicional con una dirección. A la derecha, una sección llamada "Scenes", que presenta toggles para activar o desactivar modos como "Energy Saving Mode", "Movie" y varias opciones de "Push Notifications". La "Time Zone" (Zona Horaria) se mantiene como "UTC +5 Lima".
 
-![Segmento #2 Mock-up Profile](https://i.imgur.com/sYr3uTs.png)
+![Segmento #2 Mock-up Profile](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Mock-up_Profile.png)
 <br>
 
 #### 3. Device Management
 - Esta pantalla presenta una tabla que lista los dispositivos asociados al usuario, con columnas para "Name", "Category" y "Real Time Status". Los dispositivos mostrados incluyen termostatos, aire acondicionado, luces (exteriores e interiores), cerraduras inteligentes y cámaras de video, clasificados en categorías como "Climatization", "Zen Tower" y "Security". Los estados en tiempo real varían entre "Online", "Offline" y "Damaged", lo que proporciona una visión clara del funcionamiento de cada dispositivo. Para cada entrada, un icono de engranaje en la columna de configuración. En la parte superior derecha, un botón "+ Add Device" permite al usuario incorporar nuevos dispositivos a su sistema, lo que hace de esta sección una herramienta central para el control y monitoreo de la infraestructura inteligente.
 
-![Segmento #2 Mock-up Management](https://i.imgur.com/Kf6tYY5.png)
+![Segmento #2 Mock-up Management](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Mock-up_Management.png)
 <br>
 
 #### 4. Configuration
 - Esta vista está organizada en tres áreas principales que permiten al usuario personalizar y gestionar su experiencia. La sección "Notifications" incluye toggles para activar o desactivar alertas de expiración, actualizaciones del sistema, notificaciones de clientes y notificaciones push. La sección "Security and Privacy" ofrece opciones para cambiar la contraseña, configurar la autenticación de dos factores, gestionar sesiones y añadir una dirección de correo electrónico alternativa, todas ellas con un icono de engranaje que sugiere configuraciones adicionales. Finalmente, la sección "Support and Help" proporciona enlaces a FAQs y contacto de soporte.
 
-![Segmento #2 Mock-up Configuration](https://i.imgur.com/gFlZ4yZ.png)
+![Segmento #2 Mock-up Configuration](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_Mock-up_Configuration.png)
 <br>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
@@ -1553,33 +1552,33 @@ Los arquitectos e ingenieros civiles utilizan la plataforma IoBuild para gestion
 
 **1. Profile**
 **User Goal:** Como ingeniero, quiero ver y editar mi infomación.
-![Segmento #1 User Flow #1](https://i.imgur.com/kvUggyz.png)
+![Segmento #1 User Flow #1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_User-Flow%231.png)
 
 **2. Project Management**
 **User Goal:** Como ingeniero, quiero ver, editar y añadir projects en los que estoy trabajando.
-![Segmento #1 User Flow #2](https://i.imgur.com/tXPBba2.png)
+![Segmento #1 User Flow #2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_User-Flow%232.png)
 
 **3. Client Management**
 **User Goal:** Como ingeniero, quiero monitorear los dispositivos de los projectos en los que estoy trabajando.
-![Segmento #1 User Flow #3](https://i.imgur.com/8twMdcS.png)
+![Segmento #1 User Flow #3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_User-Flow%233.png)
 
 **4. Configuration**
 **User Goal:** Como ingeniero, quiero personalizar la configuración de la plataforma.
-![Segmento #1 User Flow #4](https://i.imgur.com/ahMWrPP.png)
+![Segmento #1 User Flow #4](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%231_User-Flow%234.png)
 
 #### Segmento Objetivo #2: Dueños de apartamentos
 
 **1. Profile**
 **User Goal:** Como propietario, quiero ver y editar mi infomación.
-![Segmento #2 User Flow #1](https://i.imgur.com/BvaODWv.png)
+![Segmento #2 User Flow #1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_User-Flow%231.png)
 
 **2. Device Management**
 **User Goal:** Como propietario, quiero monitorear y configurar mis dispositivos.
-![Segmento #2 User Flow #2](https://i.imgur.com/eMS1Dpv.png)
+![Segmento #2 User Flow #2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_User-Flow%232.png)
 
 **3. Configuration**
 **User Goal:** Como propietario, quiero personalizar la configuración de la plataforma.
-![Segmento #2 User Flow #3](https://i.imgur.com/4ToJGYV.png)
+![Segmento #2 User Flow #3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Segmento%232_User-Flow%233.png)
 
 ## 4.5. Web Applications Prototyping.
 En esta etapa se presentan los prototipos de la aplicación web IoBuild, diseñados para navegadores de escritorio. El enfoque está en simular los flujos principales de cada segmento objetivo, garantizando una experiencia clara y funcional en pantallas grandes.
@@ -1615,7 +1614,7 @@ A continuación se presenta el video con los prototipos navegables de ambos segm
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-level EventStorming.
 Para el diseño del Design Level Event Storming se tomó como base el trabajo realizado en el Big Picture Event Storming. Sin embargo, se incorporaron nuevos elementos y detalles adicionales propios de este nivel, los cuales se explican en la siguiente leyenda.
-![imagen design-level eventstorming leyenda](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/549725075_1191933876082227_6146326008305920957_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ytBpGeme2g0Q7kNvwENNyRk&_nc_oc=AdlPk6uyd0dThqCKjxgiYxX04WMl5twidbUSMc7SJzD7qB4x8RjKZKho6TXNqO-kbZY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QH2RHpwuaDH9suFn9qwqYUONioq1DYN1d8VlkwS-u04dA&oe=68F35A84)
+![imagen design-level eventstorming leyenda](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Big-Picture-EventStorming-Leyenda.png)
 - **Aggregate:** Representa el núcleo de consistencia donde se agrupan entidades y objetos de valor. En tu caso, un aggregate puede ser el Proyecto Inteligente, ya que dentro de él se concentran configuraciones (iluminación, clima, seguridad) y el avance de obra que se controla como una unidad de consistencia.
 - **Domain Event:** Son los sucesos significativos que ya ocurrieron en el dominio. Aquí entran eventos como Configuración de iluminación aplicada, Clima del espacio ajustado, Reporte de avance generado o Acceso concedido a inquilino. Cada evento captura un cambio de estado relevante que los demás bounded contexts pueden reaccionar.
 - **Hotspot question improvem:** Señala un punto de incertidumbre, duda o posible conflicto en el proceso. Se utiliza para visibilizar preguntas que aún no tienen respuesta clara, de modo que el equipo pueda discutirlas y mejorarlas más adelante
@@ -1629,33 +1628,33 @@ Para el diseño del Design Level Event Storming se tomó como base el trabajo re
 A continuación se muestra el design level eventstorming de dos de los subdominios planteados para IoBuild:
 
 **Resident Onboarding**<br>
-![Design-level EventStorming](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/552949374_1553184819377247_3139667230600528487_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=w2vHodlnbzIQ7kNvwFfYTQm&_nc_oc=AdmDMoYlCeFaxWrnD5siCy-h0Knk5MFWZgQpBMEH6EEhZbmBtuhGFnWrSPrPp5VNulA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3gEjNw10z5JjLKmoBgR0zYBjJJnUyIHG39Za_s8qx8Jq8w&oe=690E47C2)
+![Design-level EventStorming](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Resident_Onboarding.png)
 El design level eventstorming de Resident Onboarding describe el flujo de incorporación de un nuevo residente al sistema, desde el inicio de sesión del administrador hasta la asignación de un apartamento. El proceso comienza cuando la constructora accede al sistema (autenticación con Google) y selecciona la opción de crear un nuevo usuario. Luego, se llenan los datos correspondientes al residente y se procede a verificar la disponibilidad del apartamento, garantizando que no se encuentre previamente asignado a otra cuenta. Si ocurre un error al ingresar datos o si el departamento ya está ocupado, el sistema despliega notificaciones tanto para el administrador como para el usuario, manteniendo la transparencia en la gestión.
 
 En caso de que el apartamento esté disponible, el sistema lo asigna al nuevo usuario, validando que no exista duplicidad, y se confirma la creación de la cuenta vinculada al departamento. El modelo también plantea la necesidad de mejorar la experiencia mostrando únicamente los apartamentos no asignados, lo que agiliza el proceso de gestión. En resumen, este diseño identifica los comandos, eventos clave y reglas de negocio que permiten asegurar un registro confiable, evitando inconsistencias y garantizando que cada apartamento tenga un único propietario dentro del sistema.
 <br><br>
 
 **Subscription and Payment Management**<br>
-![Design-level EventStorming2](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550214984_814001621202128_4199239677057956828_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=cMoq97Iz5LQQ7kNvwGfvH8l&_nc_oc=AdmXezK1_mM6_k4j0uU9K3FdRk-KXJMAWyOIFDZw5HKZidPdmCH42Pazk9EFtplp0jU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGHDGH26LSwTrvPxpG3IDxuIHufX1ZDLa2M7fvBc3R3OQ&oe=68F34FA5)
+![Design-level EventStorming2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscription_and_Payment_Management.png)
 El design level eventstorming de Subscription and Payment Management describe el flujo completo de gestión de suscripciones en la plataforma, desde que una constructora selecciona un plan hasta la activación del mismo tras un pago exitoso. El proceso inicia con el acceso al catálogo de planes, la selección del plan y la firma del contrato, tras lo cual el sistema inicia el proceso de pago. El usuario procede con el pago y, dependiendo del resultado, el sistema acepta o rechaza la transacción. Solo si el pago es aprobado se activa el plan, la cuenta del cliente se actualiza con el nuevo servicio y se envía una notificación confirmando la activación, habilitando así las funcionalidades contratadas.
 
 En caso de que el pago falle, el sistema gestiona un flujo alternativo que incluye notificación de pago rechazado, procesamiento de reembolso y actualización de la cuenta sin beneficios del plan. Además, se establecen reglas de negocio críticas, como que cada cuenta solo puede tener un plan activo a la vez, y se contemplan preguntas abiertas sobre escenarios conflictivos (por ejemplo, qué ocurre si la constructora accede al plan antes de la confirmación del pago). En conjunto, este diseño permite visualizar los eventos clave, comandos y restricciones que aseguran un manejo transparente y confiable de las suscripciones y pagos dentro del sistema.
 <br><br>
 
 **Smart Project Setup**<br>
-![Design-level EventStorming3](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/554224902_1337197721469986_7378777124213442312_n.png?stp=dst-png_s1080x2048&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Boez4JBqBPYQ7kNvwF32FCQ&_nc_oc=AdlSeeD7jKhS9hfilj9Qdk6d-uefLR8ZBnT-O_mJe7T_72wphfypjv06ESdZZ2FGvZw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3gHSfr-c_KgNoMnI0SrBIGH9WF9oRxuZ3V2GImMs9LJPmA&oe=690E5164)
+![Design-level EventStorming3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Smart_Project_Setup.png)
 El design level eventstorming de Smart Project Setup representa el flujo de configuración de un proyecto inteligente desde la recopilación de requerimientos hasta la transferencia final de control al propietario. El proceso arranca con la recepción de necesidades del cliente por parte de la constructora, el registro del proyecto en la plataforma y la carga de planos junto con las especificaciones técnicas mediante software BIM. Posteriormente, se seleccionan los módulos inteligentes y se realiza una validación con el cliente. Si la validación falla, se ajusta la configuración del proyecto; si es exitosa, se integran dispositivos certificados compatibles con la plataforma IoBuild y se continúa hacia la implementación.
 
 La fase de implementación se desarrolla con soporte de IoBuild y proveedores de hardware inteligente, donde pueden presentarse fallos que generan notificaciones de error. En caso contrario, la implementación avanza hasta completarse y se notifica al cliente. Finalmente, se valida la compatibilidad de los dispositivos integrados y se transfiere el control al propietario, quien recibe la administración del sistema. Este diseño enfatiza los eventos clave, reglas de negocio (como integrar solo dispositivos certificados), y escenarios alternativos frente a fallos, asegurando un proceso ordenado y confiable para la gestión de proyectos inteligentes.
 <br><br>
 **Dashboard and Analytics**<br>
-![Design-level EventStorming4](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550442274_3101359913377622_1489752789219280673_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=gfM71BT1PisQ7kNvwFP6XWk&_nc_oc=Adkj8NvrJZuf--ktwZNcrVk-rw2k3PDr8QzdGmfguHAnVbI0MgWcI-_nbGPcXbu_VuI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGVtTVHVRktl3hj-xkA1wcLSXjxt5LXDj6gNif-QuwB8A&oe=68F33FF5)
+![Design-level EventStorming4](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics.png)
 El design level event storming de Dashboard and Analytics representa el flujo de monitoreo y gestión de dispositivos inteligentes dentro de un sistema. El proceso inicia con la autenticación del usuario y el acceso al dashboard, donde se muestra información detallada de cada dispositivo conectado, incluyendo estado operativo, historial de uso y consumo energético. Desde esta interfaz, el propietario puede seleccionar dispositivos específicos para configurarlos, lo que desencadena la presentación de parámetros y propuestas de optimización (como sugerencias para ahorro de energía).
 
 En paralelo, el sistema permite la generación de reportes sobre métricas de operación. Durante esta fase se realizan validaciones automáticas; si el reporte presenta fallos o incoherencias, se emiten alertas que son enviadas y recibidas por el propietario. Estas alertas pueden detonar la redacción y envío de sugerencias de ajuste, que posteriormente son aprobadas o rechazadas por el usuario. Una sugerencia aceptada actualiza los parámetros configurados en el sistema.
 <br><br>
 **Service Execution and Monitoring**<br>
-![Design-level EventStorming5](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/550931308_831866082712882_7860734570248039804_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ctQWIjUT2NwQ7kNvwF9sunn&_nc_oc=AdlA2b63FcRFsD190YNfhBjhwVQvNQIbU79ZRTDZDSbt-ILys6Vp750haWH6sv4Fo1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QEkOO_gM0NfDSVD0r7QpBBSCy23Vn_BxddEZH6rvMb2VA&oe=68F358EE)
+![Design-level EventStorming5](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Service_Execution_and_Monitoring.png)
 El design level event storming de Service Execution and Monitoring describe el flujo para la gestión de dispositivos vinculados a la plataforma. El proceso comienza con el inicio de sesión del propietario en la aplicación, donde se autentica al usuario. Si la autenticación falla, se genera un evento de sesión fallida; en caso contrario, se accede al sistema y se habilita la navegación hacia la sección de dispositivos. Desde allí, el usuario selecciona el dispositivo a vincular e inicia el proceso de emparejamiento. El sistema valida la vinculación y, dependiendo del resultado, puede completarse exitosamente o presentar fallos que requieren reintentos.
 
 Cuando la vinculación es exitosa, el sistema notifica al usuario y registra el dispositivo como parte de la plataforma, actualizando automáticamente el panel de control. En caso de fallos, se emite una notificación de error y el sistema invita al reintento. Finalmente, una vez confirmada la vinculación, el propietario recibe la notificación de integración, y el dispositivo aparece disponible en su panel de control para ser administrado. Este diseño contempla tanto los escenarios de éxito como los de falla, asegurando un flujo de monitoreo confiable y orientado a la experiencia del usuario.
@@ -1667,7 +1666,7 @@ Aunque sus objetivos son distintos, ambos se conectan a la misma plataforma, que
 
 Este modelo refuerza la misión de IoBuild: acercar la tecnología de los espacios inteligentes a constructoras y propietarios con herramientas prácticas, simples y útiles. Además, gracias a su diseño modular, la plataforma puede adaptarse a diferentes mercados y necesidades sin perder su esencia.
 
-![Software Architecture Context Diagram](https://scontent.flim3-3.fna.fbcdn.net/v/t1.15752-9/550230179_1120666132864238_8594509770681565109_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pjNQOTXgJscQ7kNvwF8lJ8d&_nc_oc=AdnWgtj8gQ2oKvXzE-lHGWTQ8XmRVkO5QS3CYBgykZbiMhNdZwke1XxYz0Kdpo9o89I&_nc_ad=z-m&_nc_cid=1549&_nc_zt=23&_nc_ht=scontent.flim3-3.fna&oh=03_Q7cD3QGGYtgzg3w7TvBkS6x4qs7tK3_AbiggDuyE1smwuzfOpA&oe=68F242EF)
+![Software Architecture Context Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Software_Architecture_Context_Diagram.jpg)
 
 
 ### 4.6.3. Software Architecture Container Diagrams.
@@ -1680,7 +1679,7 @@ Esta SPA se conecta con un API Backend central, encargado de coordinar las opera
 
 Gracias a este diseño modular, IoBuild mantiene una separación clara entre la experiencia de usuario y la lógica de negocio, lo que permite escalar sus funciones y reducir el tiempo de despliegue de nuevas capacidades.
 
-![Software Architecture Container Diagram](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/553687283_9086718501452419_8723445794481417960_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=0MslnR70sPQQ7kNvwGEu3ZG&_nc_oc=AdmKQsRvSIJMTswWm-DAl4qu5btDJdWcsfAmbkWkfGbqp3--fcq2fNmPtNHfVHnneCw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3gGSgJqh051hAQ0RLfjUmxSwx5P20yc8FznyRoj2Yoyoeg&oe=690E5672)
+![Software Architecture Container Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Software_Architecture_Container_Diagram.jpg)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
@@ -1696,14 +1695,14 @@ Finalmente, las API clients (AuthApi, UserApi, DeviceApi, SubscriptionApi, Analy
 
 Gracias a esta estructura modular, IoBuild puede mantener una interfaz reactiva, segura y extensible, en la que cada componente cumple un rol definido dentro del ecosistema de espacios inteligentes.
 
-![Software Architecture Component Diagram](https://i.imgur.com/5uACpiU.png)
+![Software Architecture Component Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Software_Architecture_Component_Diagram.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
 **Identity and Access Management**
 
-![Identity and Access Management Class Diagram](https://i.imgur.com/pz8Yk7u.jpeg)
+![Identity and Access Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Identity_and_Access_Management_Class_Diagram.jpeg)
 Este diagrama muestra el contexto de “Gestión de Identidad y Acceso” (Identity and Access Management) con las capas de Aplicación, Dominio e Infraestructura.
 La capa de Aplicación está representada por AuthService, que orquesta los casos de uso de registro de clientes y residentes, inicio de sesión, recuperación de contraseña, asignación de cuentas y actualización de credenciales.
 En la capa de Dominio se encuentra el agregado raíz User, con atributos de autenticación y estado, además de operaciones como authenticate() y updatePassword(). Los roles y permisos se modelan como entidades asociadas (Role, Permission) y los actores del sistema (Client, Resident) se especializan a partir de User.
@@ -1711,7 +1710,7 @@ La capa de Infraestructura incluye UserRepository y PasswordEncoder, que permite
 
 **Subscriptions and Payments Management**
 
-![Subscriptions and Payments Management Class Diagram](https://i.imgur.com/Lq0cEwL.jpeg)
+![Subscriptions and Payments Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Class_Diagram.jpeg)
 Este diagrama muestra el contexto de “Gestión de Suscripciones y Pagos” (Subscriptions and Payments Management) organizado en capas.
 En la Aplicación, BillingService maneja casos de uso como creación y renovación de suscripciones, cancelación y procesamiento de pagos.
 En la capa de Dominio, el agregado raíz Subscription contiene información del plan contratado (PlanType), el estado de la suscripción y las operaciones de renovación y cancelación. BillingCycle y Payment son entidades dependientes: un ciclo de facturación agrupa múltiples pagos, que reflejan montos, métodos y estados de transacción.
@@ -1719,7 +1718,7 @@ En la Infraestructura, PaymentGateway abstrae la integración con proveedores ex
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Class Diagram](https://i.imgur.com/ochpnVI.jpeg)
+![Profile and Preferences Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profile_and_Preferences_Management_Class_Diagram.jpeg)
 Este diagrama muestra el contexto de “Gestión de Perfiles y Preferencias” (Profile and Preferences Management).
 La Aplicación está representada por ProfileService, que centraliza casos de uso como actualización de datos personales, configuración de idioma y ajustes de notificaciones.
 En el Dominio, el agregado raíz UserProfile modela la información de contacto y métodos de actualización, mientras que Preferences contiene opciones de idioma, temas visuales y notificaciones, y puede asociar múltiples NotificationPreference para personalizar los canales de comunicación.
@@ -1727,7 +1726,7 @@ En la Infraestructura, ProfileRepository persiste y recupera perfiles de usuario
 
 **Service Execution and Monitoring**
 
-![Service Execution and Monitoring Class Diagram](https://i.imgur.com/YZY6wat.jpeg)
+![Service Execution and Monitoring Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Service_Execution_and_Monitoring_Class_Diagram.jpeg)
 Este diagrama muestra el contexto de “Ejecución y Control de Dispositivos” (Service Execution and Monitoring).
 La Aplicación cuenta con DeviceService, responsable de registrar dispositivos, asignarlos a unidades habitacionales, enviar comandos y programar escenarios como riego automático.
 En la capa de Dominio, el agregado raíz Device define atributos como estado, ubicación y tipo de dispositivo, y provee operaciones para actualizar su estado y ejecutar comandos. Asociados al dispositivo están entidades como Command, Telemetry y Alert, que modelan la interacción con el hardware. Scene y Schedule permiten coordinar automatizaciones y rutinas preconfiguradas.
@@ -1735,7 +1734,7 @@ La Infraestructura se compone de IoTGateway, que gestiona la comunicación con l
 
 **Dashboard and Analytics**
 
-![Dashboard and Analytics Class Diagram](https://i.imgur.com/x3jfA3F.jpeg)
+![Dashboard and Analytics Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Class_Diagram.jpeg)
 Este diagrama muestra el contexto de “Monitoreo y Analítica” (Dashboard and Analytics).
 En la Aplicación, AnalyticsService ofrece casos de uso como generar reportes de consumo energético, actualizar paneles de control y consultar métricas históricas.
 La capa de Dominio está organizada alrededor del agregado raíz Dashboard, que agrupa Widgets para mostrar métricas en tiempo real. Report genera documentos con información consolidada, Analytics representa datos agregados de consumo y rendimiento, y MaintenanceNotification alerta sobre mantenimientos preventivos.
@@ -1746,23 +1745,23 @@ En la Infraestructura, DataWarehouse sirve como fuente de datos analíticos y Da
 
 **Identity and Access Management**
 
-![Identity and Access Management Database Diagram](https://i.imgur.com/8Cb07Nl.jpeg)
+![Identity and Access Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Identity_and_Access_Management_Database_Diagram.jpeg)
 
 **Subscriptions and Payments Management**
 
-![Subscriptions and Payments Management Database Diagram](https://i.imgur.com/KTDLL05.jpeg)
+![Subscriptions and Payments Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Database_Diagram.jpeg)
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Database Diagram](https://i.imgur.com/Hxcvsfw.jpeg)
+![Profile and Preferences Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profile_and_Preferences_Management_Database_Diagram.jpeg)
 
 **Service Execution and Monitoring**
 
-![Service Execution and Monitoring Database Diagram](https://i.imgur.com/uiVbsCf.jpeg)
+![Service Execution and Monitoring Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Service_Execution_and_Monitoring_Database_Diagram.jpeg)
 
 **Dashboard and Analytics**
 
-![Dashboard and Analytics Database Diagram](https://i.imgur.com/vQY5jOn.jpeg)
+![Dashboard and Analytics Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Database_Diagram.jpeg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
