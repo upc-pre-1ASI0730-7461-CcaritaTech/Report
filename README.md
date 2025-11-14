@@ -2540,6 +2540,22 @@ A continuación se incluye el link de las entrevistas realiadas: https://goo.su/
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+### 5.4. Video About-the-product
+Link del video about-the-product: https://goo.su/UpfrD0J<br>
+
+El video tiene como propósito principal presentar, de manera clara y atractiva, el modelo de funcionamiento y las funcionalidades clave de IoBuild, la plataforma orientada a la gestión eficiente de proyectos y dispositivos.
+
+En la secuencia, se muestra a un usuario navegando por la Landing Page, donde descubre que la plataforma permite:
+
+Visualizar y comprender rápidamente las capacidades principales del sistema, desde el manejo de proyectos hasta la administración de dispositivos.
+
+Acceder a información detallada sobre cómo IoBuild optimiza los procesos de registro, edición y seguimiento de recursos.
+
+Explorar las ventajas de contar con una interfaz moderna e intuitiva que facilita la gestión técnica sin necesidad de conocimientos avanzados.
+
+A lo largo del video, el usuario interactúa con la Web App, recorriendo secciones clave del sistema, visualizando proyectos existentes, explorando dispositivos vinculados y entendiendo cómo IoBuild centraliza la información para simplificar la toma de decisiones. Todo esto ocurre dentro de una interfaz limpia, moderna y enfocada en ofrecer una experiencia ordenada y funcional.
+
+El video no muestra registro ni inicio de sesión, ya que estas funcionalidades aún no están habilitadas para esta etapa de demostración. En su lugar, el enfoque está en mostrar el valor de la plataforma desde la perspectiva de un usuario que busca comprender cómo IoBuild mejora la gestión y organización antes de crear una cuenta o comenzar a operar dentro del sistema.
 
 
 ## Conclusiones
@@ -2553,6 +2569,19 @@ Las hypothesis statements fueron contrastadas con resultados favorables en vario
 Finalmente, respecto a los criterios de éxito planteados bajo el marco de Lean UX, se concluye que estos son alcanzables siempre que IoBuild mantenga su enfoque en la simplicidad, la accesibilidad y la generación de valor tangible para los distintos segmentos. En conjunto, los resultados obtenidos respaldan que IoBuild cuenta con un potencial sólido para diferenciarse en el mercado inmobiliario, democratizando el acceso a tecnologías inteligentes y contribuyendo a la creación de espacios más sostenibles y personalizados.
 
 
+**Entrega TB1:**
+
+La entrega TB1 del proyecto IoBuild establece los fundamentos conceptuales, técnicos y de diseño necesarios para el desarrollo de la plataforma. Incluye la documentación inicial de la startup, la definición de la problemática y la elaboración de hipótesis y supuestos bajo Lean UX, junto con una investigación de mercado que abarca entrevistas, análisis competitivo, segmentación y construcción de user personas y customer journeys. En el ámbito del diseño, se desarrollaron guías de estilo, arquitectura de información, empathy maps, impact mapping, wireframes y mockups para la Landing Page y la Web App. A nivel técnico, se avanzó en la conceptualización de la arquitectura mediante el C4 Model, diagramas de flujo, wireflows, diagramas de clases y el diseño preliminar de la base de datos en MySQL, complementado con la configuración del entorno de desarrollo y la gestión del repositorio. Finalmente, se realizaron los primeros avances de implementación de la Landing Page y ajustes iniciales en el código, consolidando así las bases para las siguientes etapas del proyecto.
+
+
+### 5.4. Video About-the-team
+
+Link del video about-the-team: https://goo.su/QGKUJm <br>
+En lo referente a la comunicación oral, el equipo mostró una capacidad sobresaliente para debatir, destrabar y avanzar sin rodeos en los temas clave durante las reuniones de planificación, revisión y retrospectiva de IoBuild. Las explicaciones fueron claras, ordenadas y precisas, especialmente al detallar la implementación del sistema de autenticación y los flujos completos para registrar, editar y eliminar proyectos y dispositivos. Esta soltura al comunicar permitió una toma de decisiones ágil y facilitó integrar la retroalimentación de manera efectiva, convirtiendo requerimientos complejos en funcionalidades totalmente operativas.
+
+Respecto a la comunicación escrita, el equipo mantuvo un nivel de documentación sólido y constante durante el sprint. Esto se reflejó en mensajes de commit bien redactados, concisos y trazables, que permitieron seguir el progreso sin perderse en el camino. Asimismo, las descripciones de tareas en Trello desde la implementación de la autenticación segura, pasando por la gestión de compras, hasta las funciones del panel del fabricante y la localización de la aplicación contribuyeron a una coordinación más transparente y organizada. 
+
+A ello se suma la generación de documentación técnica robusta para los nuevos endpoints y funcionalidades, asegurando que el conocimiento quede claro y accesible tanto para futuras iteraciones como para cualquier miembro que se una al proyecto. En resumen, este sprint de IoBuild refleja la sinergia, disciplina y capacidad técnica del equipo, materializadas en funcionalidades críticas que mejoran notablemente la experiencia del usuario y optimizan los procesos de gestión para los fabricantes. La seguridad del sistema, la eficiencia del flujo de compra y la operatividad del panel fueron los pilares del avance logrado, todo gracias a una comunicación oral y escrita que mantuvo al equipo alineado, enfocado y en movimiento constante.
 
 ## Bibliografía
 - CEELA. (2024). Perú – Proyecto CEELA – Eficiencia energética en edificios. Rescato de https://shorturl.at/fAOnK
