@@ -1890,7 +1890,7 @@ El presente Sprint Backlog se orienta a definir la base funcional y visual de la
 
 A continuación, se presenta la tabla de control de estado del Sprint 1, la cual detalla las User Stories asignadas, sus correspondientes tareas (Work Items), descripciones funcionales, estimaciones en horas, responsables y el estado actual de avance.
 <br><br>
-![SprintBacklog n](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/547526985_644909325335591_188202778867180243_n.png?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=GXAwm19KYj8Q7kNvwGWURCE&_nc_oc=AdkpFp7MjRbQUgFEK5ocgFBxDFlK2d6joQ9F3dpCfYh3PkP3sqPzgyC9uU4LeNKbXjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3QGX3vct1TIgQRLNxOfxNOyoQq_acrUHzXlInxuGUr7AIQ&oe=68F1EB32) 
+![SprintBacklog n](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint_Backlog%231.jpg) 
 
 | **Sprint 1**      |                                         |                      |                                                            |                                                                                                                                                     |                        |                 |             |
 |-------------------|-----------------------------------------|----------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|-------------|
@@ -2132,7 +2132,7 @@ El presente Sprint Backlog se orienta a definir la base funcional y visual de la
 
 A continuación, se presenta la tabla de control de estado del Sprint 2, la cual detalla las User Stories asignadas, sus correspondientes tareas (Work Items), descripciones funcionales, estimaciones en horas, responsables y el estado actual de avance.
 <br><br>
-![SprintBacklog n](https://scontent.flim38-1.fna.fbcdn.net/v/t1.15752-9/555622030_1420385199060963_2023494971609453992_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=3oquCGvG5nAQ7kNvwENhnAa&_nc_oc=AdmWwBBj4lR32xKnx9oJIDI6aaChTR4HuuKhi1ukwYx_-toxfVGsdTTermY_5Fr6N7c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&oh=03_Q7cD3gH20wsfg9SFF0aJx5StV1sTiTH8LRLl0W2pmVB848xLgQ&oe=690E77D2)
+![SprintBacklog n](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint_Backlog%232.png)
 
 | *Sprint 2*      |                                          |                      |                                                                    |                                                                                                                                                       |                        |                 |            |
 |-------------------|------------------------------------------|----------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|------------|
