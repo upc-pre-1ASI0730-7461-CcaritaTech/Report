@@ -2504,7 +2504,132 @@ Formulario de preguntas:
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+CARRERA : Ingeniería de Software
+CURSO : Aplicaiones Web
+SECCIÓN : 7401
+PROFESORES : Todos
 
+SITE o APP A EVALUAR:
+IoBuild
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+Consultar información de dispositivos
+Consultar información de proyectos
+Editar información del perfil
+Editar información de un cliente
+Suscribirse a un plan
+Personalizar la configuración y notificaciones
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+Agregar dispositivos
+Acceder a estadísticas avanzadas
+Consultar notificaciones
+
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|---|---|---|
+| 1 | No hay forma de acceder a los dispositivos de forma directa desde el dashboard. | 4 | Information Architecture: Is it usable? |
+| 2 | No hay forma de acceder a proyectos específicos de forma directa desde el dashboard. | 4 | Information Architecture: Is it usable? |
+| 3 | No existe forma de configurar la vista dashboard. | 2 | Information Architecture: Is it controllable? |
+| 4 | No hay control del tipo de dato ingresado en campos que lo requieren. | 4 | Prevención de errores. |
+| 5 | La información del cliente no contiene referencias a sus dispositivos. | 4 | Information Architecture: Is it findable? |
+| 6 | Contactar con soporte redirecciona a una página no relacionada. | 4 | Ayuda y documentación |
+
+DESCRIPCIÓN DE PROBLEMAS:
+
+PROBLEMA #1: No hay forma de acceder a los dispositivos de forma directa desde el dashboard.
+
+SEVERIDAD: 4
+HEURÍSTICA VIOLADA: Information Architecture: Is it usable?
+
+Problema:
+En la pantalla dashboard, se presentan cards con información de dispositivos como “Connected Devices”, su diseño llama al usuario a hacerle click, pero al hacerlo el usuario no es redirigido a la pantalla con información más detallada.
+
+![Problema 1](https://i.imgur.com/hHvhKUi.png)
+
+Recomendación:
+Añadir un enlace que permita acceder a esta información.
+
+PROBLEMA #2: No hay forma de acceder a proyectos específicos de forma directa desde el dashboard.
+
+SEVERIDAD: 4
+HEURÍSTICA VIOLADA: Information Architecture: Is it usable?
+
+Problema:
+En la pantalla dashboard, se presentan cards con información de proyectos en “Projects Overview”, su diseño llama al usuario a hacerle click, pero al hacerlo el usuario no es redirigido a la pantalla con información más detallada.
+
+![Problema 2](https://i.imgur.com/yY70GNc.png)
+
+Recomendación:
+Añadir un enlace que permita acceder a esta información.
+
+PROBLEMA #3: No existe forma de configurar la vista dashboard.
+
+SEVERIDAD: 2
+HEURÍSTICA VIOLADA: Information Architecture: Is it controllable?
+
+Problema:
+En la pantalla dashboard, no existe forma para el usuario de personalizar la vista, el usuario podria preferir cierta información sobre otra.
+
+![Problema 3](https://i.imgur.com/JqyNXIC.png)
+
+Recomendación:
+Permitir cambiar el orden en el que las cards aparecen.
+
+PROBLEMA #4: No hay control del tipo de dato ingresado en campos que lo requieren.
+
+SEVERIDAD: 4
+HEURÍSTICA VIOLADA: Prevención de errores.
+
+Problema:
+Campos como el numero de celular aceptan datos no numericos, no se muestra ninguna advertencia o impedimento.
+
+![Problema 4](https://i.imgur.com/kvBeJDl.png)
+
+Recomendación:
+Rechazar inputs que no correspondan al campo.
+
+PROBLEMA #5: La información del cliente no contiene referencias a sus dispositivos.
+
+SEVERIDAD: 4
+HEURÍSTICA VIOLADA: Information Architecture: Is it findable?
+
+Problema:
+El usuario espera encontrar información de los dispositivos en la vista del cliente.
+
+![Problema 5](https://i.imgur.com/ohVXmt0.png)
+
+Recomendación:
+Añadir un enlace que permita acceder a esta información.
+
+PROBLEMA #6: Contactar con soporte redirecciona a una página no relacionada.
+
+SEVERIDAD: 4
+HEURÍSTICA VIOLADA: Ayuda y documentación
+
+Problema:
+Al seleccionar la opción para contactar con soporte, se redireciona a la landing page, pero el usuario debe buscar la seccion específica para continuar.
+
+![Problema 6-1](https://i.imgur.com/aalff2x.png)
+![Problema 6-2](https://i.imgur.com/tUNGpLg.png)
+
+Recomendación:
+Añadir un enlace directo a soporte.
 
 ## Conclusiones
 
