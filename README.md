@@ -2405,6 +2405,50 @@ Durante el Sprint 3 de IoBuild, el trabajo se centró en el desarrollo e impleme
 
 El enfoque de este sprint estuvo en migrar de una API simulada a una API real, consolidando la infraestructura del backend y garantizando la persistencia y consulta real de datos. Con ello, IoBuild cuenta ahora con una base técnica sólida que permite continuar con la integración completa del sistema y el desarrollo de nuevas funcionalidades.
 
+A continuación se muestra la tabla de los endpoints documentados:
+
+**Endpoints de users**
+
+| **Endpoint**                    | **Acción**                            | **Verbo HTTP** | **Parámetros** | **Commit** |
+|---------------------------------|---------------------------------------| -------------- | -------------- | ---------- |
+| /api/v1/users                   | Obtener detalles de todos lo usuarios | GET            | no parámetros  | ac80137    |
+| /api/v1/users/{userId}          | Obtener detalles de un usuario        | GET            | userId         | ac80137    |
+| /api/v1/users/{userId}/profiles | Obtener datos de perfil de un usuario | GET            | userId         | ac80137    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%236.jpg)
+
+**Endpoints de Autenticación**
+
+| **Endpoint**         | **Acción**                                                   | **Verbo HTTP** | **Parámetros**                                                           | **Commit** |
+| -------------------- | ------------------------------------------------------------ | -------------- |--------------------------------------------------------------------------|------------|
+| /api/v1/auth/sign-up | El usuario ingresa sus credenciales para registrarse         | POST           | { "username": "string", "password": "string", "roles": [  "ROLE_USER" ]} | ac80137    |
+| /api/v1/auth/sign-in | El usuario ingresa su credenciales para ingresar a la pagina | POST           | { "username": "string", "password": "string"}                            | ac80137    |  
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%237.jpg)
+
+**Enpoints de projects**
+
+| **Endpoint**                | **Acción**                               | **Verbo HTTP** | **Parámetros**                                                                                                                    | **Commit** |
+| --------------------------- |------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| /api/v1/projects            | Obtener los proyectos de un usuario      | GET            | UserId                                                                                                                            | ac80137    |
+| /api/v1/projects            | Crear un nuevo proyecto                  | POST           | { "name": "string", "description": "string", "location": "string", "totalUnits": "int", "builderId": "int", "imageUrl": "string"} | ac80137    |
+| api/v1/projects/{projectId} | Obtener un proyecto por id de proyecto   | GET            | projectId                                                                                                                         | ac80137    |
+| api/v1/projects/{projectId} | Eliminar un proyecto por id de proyecto  | DELETE         | projectId                                                                                                                         | ac80137    |
+| api/v1/projects/{projectId} | Actualiza un proyecto por id de proyecto | PUT            | { "name": "string", "description": "string", "location": "string", "builderId": "int", "imageUrl": "string"}  | ac80137    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%238.jpg)
+
+**Enpoints de devices**
+
+| **Endpoint**              | **Acción**                           | **Verbo HTTP** | **Parámetros**                                                                                                                    | **Commit** |
+|---------------------------|--------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| /api/v1/devices           | Obtener los devices de un usuario    | GET            | UserId                                                                                                                            | ac80137    |
+| /api/v1/devices           | Crear un nuevo devices               | POST           | { "name": "string", "description": "string", "location": "string", "totalUnits": "int", "builderId": "int", "imageUrl": "string"} | ac80137    |
+| api/v1/devices/{deviceId} | Obtener un device por id de device   | GET            | deviceId                                                                                                                          | ac80137    |
+| api/v1/devices/{deviceId} | Eliminar un device por id de device  | DELETE         | deviceId                                                                                                                          | ac80137    |
+| api/v1/devices/{deviceId} | Actualiza un device por id de device | PUT            | { "name": "string", "description": "string", "location": "string", "builderId": "int", "imageUrl": "string"}                      | ac80137    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%239.jpg)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
@@ -2572,6 +2616,14 @@ Finalmente, respecto a los criterios de éxito planteados bajo el marco de Lean 
 **Entrega TB1:**
 
 La entrega TB1 del proyecto IoBuild establece los fundamentos conceptuales, técnicos y de diseño necesarios para el desarrollo de la plataforma. Incluye la documentación inicial de la startup, la definición de la problemática y la elaboración de hipótesis y supuestos bajo Lean UX, junto con una investigación de mercado que abarca entrevistas, análisis competitivo, segmentación y construcción de user personas y customer journeys. En el ámbito del diseño, se desarrollaron guías de estilo, arquitectura de información, empathy maps, impact mapping, wireframes y mockups para la Landing Page y la Web App. A nivel técnico, se avanzó en la conceptualización de la arquitectura mediante el C4 Model, diagramas de flujo, wireflows, diagramas de clases y el diseño preliminar de la base de datos en MySQL, complementado con la configuración del entorno de desarrollo y la gestión del repositorio. Finalmente, se realizaron los primeros avances de implementación de la Landing Page y ajustes iniciales en el código, consolidando así las bases para las siguientes etapas del proyecto.
+
+**Entrega TP1:**
+
+La entrega TP1 del proyecto IoBuild consolidó avances clave en diseño, desarrollo frontend y documentación. Se finalizó el prototipo en Figma, integrando todos los ajustes visuales y funcionales para dejarlo completamente listo para la etapa de implementación. En el desarrollo web con Vue, se construyó la estructura base del frontend mediante el header y el dashboard lateral, y se avanzó en la creación de las principales pantallas: Proyectos, Data y Analytics con gráficos y tarjetas informativas, Configuración, Perfil y Clientes, unificándolas en un entorno funcional preparado para el deploy y la validación. Paralelamente, se completaron las correcciones del informe del proyecto según la retroalimentación docente, obteniendo un documento final claro y alineado con los criterios académicos. En conjunto, estos avances fortalecen la continuidad del desarrollo y garantizan que la plataforma mantenga coherencia entre diseño, implementación y objetivos establecidos para IoBuild.
+
+**Entrega TB2:**
+
+La entrega TB2 del proyecto IoBuild logró avances esenciales en el desarrollo del backend, la integración del sistema y la actualización de la documentación. Se implementó el bounded context IAM, desarrollando los endpoints de autenticación y gestión de usuarios, y se definió la estructura general de rutas, métodos y parámetros para todos los bounded contexts. Asimismo, se avanzó en el bounded context Device Management, completando sus endpoints y realizando pruebas iniciales, y se desarrolló el backend del bounded context Projects, abarcando la creación, actualización y visualización de proyectos, seguido de pruebas de integración para asegurar su estabilidad. En el frontend, se incorporaron los videos “About the Product” y “About the Team” en la landing page, y se estableció la comunicación backend–frontend garantizando el flujo correcto de datos mediante las APIs. Además, se corrigieron imágenes y se añadió la documentación del Sprint 3. Finalmente, se ejecutó el deploy del backend, configurando el entorno de producción y asegurando su conexión con la base de datos y el frontend, consolidando así una base técnica robusta para las siguientes etapas del proyecto.
 
 
 ### 5.4. Video About-the-team
