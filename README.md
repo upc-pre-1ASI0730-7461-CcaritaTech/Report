@@ -2419,7 +2419,7 @@ La aplicación backend, se encuentra en el siguiente link: https://iobuild-backe
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-Durante el Sprint 2 de IoBuild, el equipo se enfocó en el desarrollo del backend, implementando la estructura base de controladores, servicios y modelos para la gestión de usuarios, dispositivos y proyectos. Se configuró la base de datos MySQL y se validó su integración con el sistema mediante Workbench.
+Durante el Sprint 3 de IoBuild, el equipo se enfocó en el desarrollo del backend, implementando la estructura base de controladores, servicios y modelos para la gestión de usuarios, dispositivos y proyectos. Se configuró la base de datos MySQL y se validó su integración con el sistema mediante Workbench.
 
 Además, se documentaron y probaron los endpoints REST desde Swagger, garantizando la correcta comunicación con el frontend. Finalmente, se realizó el despliegue del backend en Railway, asegurando su disponibilidad y conexión con la aplicación web.
 
