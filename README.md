@@ -159,6 +159,96 @@ Asimismo, se ha iniciado la conceptualización de la arquitectura de software me
 
 - **Product Backlog.** Construcción colaborativa del backlog priorizado de IoBuild.
 
+
+**TP1 - Desarrollo de la aplicación web en Vue**
+En esta etapa del proyecto IoBuild se lograron avances significativos en diseño, desarrollo y documentación. Se culminaron los cambios del prototipo en Figma, obteniendo una versión final que integra todos los ajustes visuales y funcionales requeridos. Este diseño quedó completamente preparado para iniciar el desarrollo del frontend, garantizando coherencia con las especificaciones del proyecto y una experiencia de usuario sólida.
+
+También, se dio inicio al desarrollo del frontend con la implementación del header y el dashboard lateral, estableciendo la estructura base de navegación. A partir de ello, se avanzó en la construcción de las principales pantallas de la aplicación. Se desarrolló la pantalla de Proyectos, incorporando su diseño, estilos y funcionalidades. Asimismo, se implementó la pantalla de Data y Analytics, integrando gráficos y tarjetas informativas según lo definido en Figma. A esto se sumó el desarrollo de las pantallas de Configuración y Perfil, ambas aplicadas con sus respectivas características visuales y funcionales. Finalmente, se completó la pantalla de Clientes y se unificaron todas las interfaces en un entorno funcional, dejando el frontend listo para proceder con su deploy y validación conjunta.
+
+En paralelo al desarrollo técnico, también se avanzó en el informe del proyecto. Se inició el proceso de corrección tomando en cuenta la retroalimentación del profesor y, posteriormente, se culminaron todos los ajustes solicitados. El documento final presenta una redacción clara, coherente y alineada con los criterios académicos establecidos.
+
+En conjunto, estos avances consolidan una base sólida para las siguientes etapas del proyecto, asegurando que tanto el diseño como la implementación sigan un rumbo consistente y acorde con los objetivos de IoBuild.
+
+**Capturas del avance de los colaboradores en el repositorio**
+![Contributors2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Contributors2.png)
+![Network6](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Network6.png)
+
+**Fabrizio Panta Castro**
+
+- **Corrección del informe del proyecto.** Inició el proceso de revisión del documento considerando la retroalimentación del profesor.
+
+- **Pantalla de Configuración.** Implementó las funcionalidades y ajustes visuales de la pantalla de Configuración en el frontend, basándose en el diseño aprobado en Figma.
+
+**Yeira Shari Huamán Olivos**
+
+- **Consolidación del prototipo final en Figma.** Completó la versión final del diseño, asegurando que integre todos los ajustes requeridos y esté lista para el desarrollo del frontend.
+
+- **Desarrollo de la pantalla de Perfil.** Implementó la pantalla de Perfil del usuario en el frontend, aplicando todas las características visuales y funcionales definidas en Figma.
+
+**Brayan Ccarita Cruz**
+
+- **Inicio del desarrollo del frontend.** Implementó el header y el dashboard lateral, componentes estructurales que establecen la base de navegación de la plataforma.
+
+- **Pantalla de Data y Analytics.** Desarrolló esta sección integrando gráficos, tarjetas informativas y componentes clave definidos en el diseño.
+
+**Jean Niels Arizabal Condori**
+
+- **Ajustes del prototipo en Figma.** Realizó modificaciones visuales y de distribución en el prototipo, actualizando componentes y pantallas para mejorar la coherencia del diseño y reflejar los avances del proyecto.
+
+- **Optimización final del diseño del prototipo.** Culminó los cambios en Figma, integrando todos los ajustes visuales y funcionales necesarios para dejar listo el diseño final del frontend.
+
+- **Desarrollo de la pantalla de Proyectos.** Implementó la estructura, estilos y funcionalidades de la pantalla de Proyectos en el frontend, siguiendo fielmente el diseño establecido.
+
+**Axel Randall Ordoñez Ricaldi**
+
+- **Correcciones finales del informe.** Incorporó todos los ajustes y observaciones del profesor, logrando un documento claro, coherente y alineado con los criterios solicitados.
+
+- **Pantalla de Clientes e integración general.** Desarrolló la pantalla de Clientes del frontend y realizó la integración de todas las pantallas en un entorno unificado, dejando el proyecto listo para el deploy y la validación conjunta.
+
+
+**TB2 - Desarrollo de la web service y web app.**
+Durante esta fase del proyecto se lograron avances importantes en el desarrollo del backend, la integración del sistema y la actualización de la documentación. En primer lugar, se desarrolló el backend correspondiente al bounded context IAM (Identity and Access Management), implementando los endpoints necesarios para la autenticación y la gestión de usuarios. De manera complementaria, se realizó el diseño general de los endpoints del backend, definiendo rutas, métodos y parámetros para cada uno de los bounded contexts, lo que permitió establecer una arquitectura organizada y coherente.
+
+Posteriormente, se inició la implementación del bounded context Device Management, desarrollando los endpoints principales para la gestión de dispositivos. Este proceso avanzó de forma progresiva hasta completar todos los endpoints requeridos, realizando además pruebas iniciales para validar su correcto funcionamiento. Del mismo modo, se implementó el backend del bounded context Projects, desarrollando los endpoints encargados de la creación, actualización y visualización de proyectos. Una vez finalizados, se completaron los endpoints restantes y se llevaron a cabo pruebas de integración para asegurar la estabilidad del módulo.
+
+En cuanto al frontend, se agregaron los videos “About the Product” y “About the Team” en la landing page, fortaleciendo la presentación general del proyecto. Asimismo, se realizó la conexión entre el backend y el frontend, garantizando la comunicación adecuada de los datos mediante las APIs desarrolladas.
+
+Finalmente, se corrigieron las imágenes del informe y se añadió la documentación correspondiente al Sprint 3. Para cerrar esta etapa, se llevó a cabo el deploy del backend, configurando el entorno de producción y asegurando su correcta conexión con la base de datos y con el frontend del proyecto.
+
+**Capturas del avance de los colaboradores en el repositorio**
+![Contributors2]()
+![Network7]()
+
+**Fabrizio Panta Castro**
+
+- **Implementación inicial del bounded context Device Management.** Desarrolló los endpoints principales para la gestión de dispositivos, iniciando la estructura funcional del módulo.
+
+- **Actualización del informe del proyecto.** Corrigió las imágenes del documento e incorporó la documentación correspondiente al Sprint 3.
+
+**Yeira Shari Huamán Olivos**
+
+- **Finalización del bounded context Device Management.** Completó los endpoints restantes del módulo, asegurando su funcionamiento mediante pruebas iniciales.
+
+- **Conexión backend–frontend.** Implementó la comunicación entre ambos entornos, garantizando el flujo correcto de datos a través de las APIs desarrolladas.
+
+**Brayan Ccarita Cruz**
+
+- **Backend del bounded context IAM.** Desarrolló los endpoints responsables de la autenticación y la gestión de usuarios dentro del módulo Identity and Access Management.
+
+- **Integración de contenido multimedia.** Agregó los videos “About the Product” y “About the Team” en la landing page para reforzar la presentación del proyecto.
+
+**Jean Niels Arizabal Condori**
+
+- **Diseño general de los endpoints.** Definió rutas, métodos y parámetros del backend para los distintos bounded contexts, estableciendo una estructura sólida para su implementación.
+
+- **Implementación del backend del bounded context Projects.** Desarrolló los endpoints de creación, actualización y visualización de proyectos, conforme a la arquitectura definida.
+
+**Axel Randall Ordoñez Ricaldi**
+
+- **Finalización del bounded context Projects.** Culminó los endpoints restantes del módulo de Projects en el backend y realizó pruebas de integración.
+
+- **Deploy del backend.** Configuró el entorno de producción, garantizando la conexión correcta entre el backend, la base de datos y el frontend.
+
 # Contenido
 
 
