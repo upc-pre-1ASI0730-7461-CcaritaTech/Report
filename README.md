@@ -205,6 +205,50 @@ En conjunto, estos avances consolidan una base sólida para las siguientes etapa
 
 - **Pantalla de Clientes e integración general.** Desarrolló la pantalla de Clientes del frontend y realizó la integración de todas las pantallas en un entorno unificado, dejando el proyecto listo para el deploy y la validación conjunta.
 
+
+**TB2 - Desarrollo de la web service y web app.**
+Durante esta fase del proyecto se lograron avances importantes en el desarrollo del backend, la integración del sistema y la actualización de la documentación. En primer lugar, se desarrolló el backend correspondiente al bounded context IAM (Identity and Access Management), implementando los endpoints necesarios para la autenticación y la gestión de usuarios. De manera complementaria, se realizó el diseño general de los endpoints del backend, definiendo rutas, métodos y parámetros para cada uno de los bounded contexts, lo que permitió establecer una arquitectura organizada y coherente.
+
+Posteriormente, se inició la implementación del bounded context Device Management, desarrollando los endpoints principales para la gestión de dispositivos. Este proceso avanzó de forma progresiva hasta completar todos los endpoints requeridos, realizando además pruebas iniciales para validar su correcto funcionamiento. Del mismo modo, se implementó el backend del bounded context Projects, desarrollando los endpoints encargados de la creación, actualización y visualización de proyectos. Una vez finalizados, se completaron los endpoints restantes y se llevaron a cabo pruebas de integración para asegurar la estabilidad del módulo.
+
+En cuanto al frontend, se agregaron los videos “About the Product” y “About the Team” en la landing page, fortaleciendo la presentación general del proyecto. Asimismo, se realizó la conexión entre el backend y el frontend, garantizando la comunicación adecuada de los datos mediante las APIs desarrolladas.
+
+Finalmente, se corrigieron las imágenes del informe y se añadió la documentación correspondiente al Sprint 3. Para cerrar esta etapa, se llevó a cabo el deploy del backend, configurando el entorno de producción y asegurando su correcta conexión con la base de datos y con el frontend del proyecto.
+
+**Capturas del avance de los colaboradores en el repositorio**
+![Contributors2]()
+![Network7]()
+
+**Fabrizio Panta Castro**
+
+- **Implementación inicial del bounded context Device Management.** Desarrolló los endpoints principales para la gestión de dispositivos, iniciando la estructura funcional del módulo.
+
+- **Actualización del informe del proyecto.** Corrigió las imágenes del documento e incorporó la documentación correspondiente al Sprint 3.
+
+**Yeira Shari Huamán Olivos**
+
+- **Finalización del bounded context Device Management.** Completó los endpoints restantes del módulo, asegurando su funcionamiento mediante pruebas iniciales.
+
+- **Conexión backend–frontend.** Implementó la comunicación entre ambos entornos, garantizando el flujo correcto de datos a través de las APIs desarrolladas.
+
+**Brayan Ccarita Cruz**
+
+- **Backend del bounded context IAM.** Desarrolló los endpoints responsables de la autenticación y la gestión de usuarios dentro del módulo Identity and Access Management.
+
+- **Integración de contenido multimedia.** Agregó los videos “About the Product” y “About the Team” en la landing page para reforzar la presentación del proyecto.
+
+**Jean Niels Arizabal Condori**
+
+- **Diseño general de los endpoints.** Definió rutas, métodos y parámetros del backend para los distintos bounded contexts, estableciendo una estructura sólida para su implementación.
+
+- **Implementación del backend del bounded context Projects.** Desarrolló los endpoints de creación, actualización y visualización de proyectos, conforme a la arquitectura definida.
+
+**Axel Randall Ordoñez Ricaldi**
+
+- **Finalización del bounded context Projects.** Culminó los endpoints restantes del módulo de Projects en el backend y realizó pruebas de integración.
+
+- **Deploy del backend.** Configuró el entorno de producción, garantizando la conexión correcta entre el backend, la base de datos y el frontend.
+
 # Contenido
 
 
