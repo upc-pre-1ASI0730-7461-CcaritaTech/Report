@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones web - 7461</strong><br>
+    <strong>1ASI0730 - Aplicaciones web - 7461</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
@@ -27,9 +27,10 @@
 |Brayan Roberto Ccarita Cruz|U20221C218|
 |Jean Niels Arizabal Condori|U201919096|
 
-<br> Setiembre 2025
+<br> Noviembre 2025
 </center>  
 
+---
 # Registro de Versiones del Informe
 <center>
 
@@ -216,8 +217,11 @@ En cuanto al frontend, se agregaron los videos “About the Product” y “Abou
 Finalmente, se corrigieron las imágenes del informe y se añadió la documentación correspondiente al Sprint 3. Para cerrar esta etapa, se llevó a cabo el deploy del backend, configurando el entorno de producción y asegurando su correcta conexión con la base de datos y con el frontend del proyecto.
 
 **Capturas del avance de los colaboradores en el repositorio**
-![Contributors2]()
-![Network7]()
+![Pulse1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Pulse1.png)
+![Contributors3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Contributors3.png)
+![Network7](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Network7.png)
+![Network8](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Network8.png)
+![Network9](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Network9.png)
 
 **Fabrizio Panta Castro**
 
