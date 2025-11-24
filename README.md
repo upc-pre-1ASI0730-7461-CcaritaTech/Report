@@ -18,20 +18,18 @@
 </center>
 
 ### <center>Team  Members:</center>
-<center>
 
-| Member                           | Code       |
-|----------------------------------|------------|
-|Axel Randall Ordoñez Ricaldi|U202216827  |
-|Yeira Shari Huaman Olivos        |U202210513  |
-|Fabrizio Martin Panta Castro       |U20231A810  |
-|Brayan Roberto Ccarita Cruz|U20221C218|
-|Jean Niels Arizabal Condori|U201919096|
+| Code        | Member                        |
+|-------------|-------------------------------|
+| U202216827  | Axel Randall Ordoñez Ricaldi  |
+| U202210513  | Yeira Shari Huaman Olivos     |
+| U20231A810  | Fabrizio Martin Panta Castro  |
+| U20221C218  | Brayan Roberto Ccarita Cruz   |
+| U201919096  | Jean Niels Arizabal Condori   |
 
 <br> Noviembre 2025
-</center>  
 <div style="page-break-before: always;"></div>
----
+
 # Registro de Versiones del Informe
 <center>
 
