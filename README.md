@@ -1,10 +1,11 @@
-# <center>COURSE PROJECT</center>
-
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>1ASI0730 - Aplicaciones web - 7461</strong><br>
+    <strong>Periodo 202520</strong>
+    <strong>1ASI0730</strong><br>
+    <strong>Aplicaciones web</strong><br>
+    <strong>7461</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
@@ -29,7 +30,7 @@
 
 <br> Noviembre 2025
 </center>  
-
+<div style="page-break-before: always;"></div>
 ---
 # Registro de Versiones del Informe
 <center>
