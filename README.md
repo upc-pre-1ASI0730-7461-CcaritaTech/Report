@@ -1,10 +1,11 @@
-# <center>COURSE PROJECT</center>
-
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>1ASI0730 - Aplicaciones web - 7461</strong><br>
+    <strong>Periodo 202520</strong>
+    <strong>1ASI0730</strong><br>
+    <strong>Aplicaciones web</strong><br>
+    <strong>7461</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
@@ -17,20 +18,18 @@
 </center>
 
 ### <center>Team  Members:</center>
-<center>
 
-| Member                           | Code       |
-|----------------------------------|------------|
-|Axel Randall Ordoñez Ricaldi|U202216827  |
-|Yeira Shari Huaman Olivos        |U202210513  |
-|Fabrizio Martin Panta Castro       |U20231A810  |
-|Brayan Roberto Ccarita Cruz|U20221C218|
-|Jean Niels Arizabal Condori|U201919096|
+| Code        | Member                        |
+|-------------|-------------------------------|
+| U202216827  | Axel Randall Ordoñez Ricaldi  |
+| U202210513  | Yeira Shari Huaman Olivos     |
+| U20231A810  | Fabrizio Martin Panta Castro  |
+| U20221C218  | Brayan Roberto Ccarita Cruz   |
+| U201919096  | Jean Niels Arizabal Condori   |
 
 <br> Noviembre 2025
-</center>  
+<div style="page-break-before: always;"></div>
 
----
 # Registro de Versiones del Informe
 <center>
 
