@@ -1862,7 +1862,10 @@ El bounded context de Identity and Access Management (IAM) se encarga de gestion
 ![Subscriptions and Payments Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Class_Diagram.jpeg)
 
 **Projects Management**
-![Projects Management Class Diagram](https://i.imgur.com/Jcarrxq.png)
+
+El bounded context de Projects Management gestiona el ciclo de vida de los proyectos de construcción inteligentes dentro de IoBuild. El agregado principal Project encapsula información como nombre, descripción, ubicación, estado y unidades asociadas, permitiendo que arquitectos e ingenieros organicen y supervisen sus desarrollos inmobiliarios. Las entidades Unit representan los espacios individuales (apartamentos, oficinas) dentro de cada proyecto, incluyendo detalles como número de unidad, piso, área y estado de ocupación. Este contexto también define servicios de comandos y consultas que permiten crear, actualizar, listar y eliminar proyectos, manteniendo una separación clara entre la lógica de dominio y la infraestructura de persistencia.
+
+![Projects Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Projects_Class_Diagram.png)
 
 **Profile and Preferences Management**
 
