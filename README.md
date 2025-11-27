@@ -1853,26 +1853,37 @@ Gracias a esta estructura modular, IoBuild puede mantener una interfaz reactiva,
 
 **Identity and Access Management**
 
-![Identity and Access Management Class Diagram](https://i.imgur.com/xRIGS30.png)
+El bounded context de Identity and Access Management (IAM) se encarga de gestionar la autenticación, autorización y administración de usuarios dentro de la plataforma IoBuild. Este contexto define las entidades principales como User (usuario) y Role (rol), estableciendo la base para controlar quién tiene acceso al sistema y qué permisos posee. Además, implementa servicios de hashing de contraseñas mediante BCryptPasswordHasher y generación de tokens JWT a través de JwtTokenService, asegurando la seguridad en cada interacción. Los repositorios y servicios de comandos/consultas facilitan la creación, actualización y consulta de usuarios, mientras que las políticas de autorización protegen los recursos críticos del sistema.
+
+![Identity and Access Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/IAM_Class_Diagram.png)
 
 **Subscriptions and Payments Management**
 
 ![Subscriptions and Payments Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Class_Diagram.jpeg)
 
 **Projects Management**
-![Projects Management Class Diagram](https://i.imgur.com/Jcarrxq.png)
+
+El bounded context de Projects Management gestiona el ciclo de vida de los proyectos de construcción inteligentes dentro de IoBuild. El agregado principal Project encapsula información como nombre, descripción, ubicación, estado y unidades asociadas, permitiendo que arquitectos e ingenieros organicen y supervisen sus desarrollos inmobiliarios. Las entidades Unit representan los espacios individuales (apartamentos, oficinas) dentro de cada proyecto, incluyendo detalles como número de unidad, piso, área y estado de ocupación. Este contexto también define servicios de comandos y consultas que permiten crear, actualizar, listar y eliminar proyectos, manteniendo una separación clara entre la lógica de dominio y la infraestructura de persistencia.
+
+![Projects Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Projects_Class_Diagram.png)
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Class Diagram](https://i.imgur.com/afw8S4p.png)
+El bounded context de Profiles Management administra la información personal y las preferencias de los usuarios dentro de la plataforma IoBuild. El agregado Profile encapsula datos como nombre, teléfono, dirección y configuraciones de usuario, vinculándose directamente con el User del contexto IAM. Las entidades UserPreferences y NotificationSettings permiten personalizar aspectos como idioma, zona horaria y canales de notificación (correo, push, SMS), adaptando la experiencia a las necesidades individuales de cada propietario o ingeniero. Los servicios de comandos y consultas facilitan la creación, actualización y consulta de perfiles, asegurando que la información del usuario esté siempre disponible y actualizada.
 
-**Service Execution and Monitoring**
+![Profile and Preferences Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profiles_Class_Diagram.png)
 
-![Service Execution and Monitoring Class Diagram](https://i.imgur.com/X3YuJHg.png)
+**Devices Management**
 
-**Dashboard and Analytics**
+El bounded context de Devices Management se enfoca en la administración y monitoreo de dispositivos IoT dentro de los espacios inteligentes. El agregado raíz Device representa cada dispositivo físico conectado (luces, termostatos, cámaras, cerraduras, sensores), almacenando su tipo, ubicación, estado operativo y configuración. Las entidades TelemetryData permiten registrar métricas en tiempo real, mientras que DeviceConfiguration facilita la personalización de parámetros específicos de cada equipo. Los servicios de comandos y consultas posibilitan el registro, actualización, eliminación y búsqueda de dispositivos, garantizando que propietarios e ingenieros puedan gestionar su infraestructura inteligente de forma centralizada y eficiente.
 
-![Dashboard and Analytics Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Class_Diagram.jpeg)
+![Devices Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Devices_Class_Diagram.png)
+
+**Analytics**
+
+El bounded context de Analytics se especializa en la recopilación, procesamiento y visualización de métricas operativas dentro de IoBuild. Los agregados principales EnergyConsumption y OccupancyRecord registran datos clave como el consumo energético por dispositivo/unidad y los niveles de ocupación en diferentes períodos de tiempo. Estos datos permiten a ingenieros y propietarios tomar decisiones informadas sobre eficiencia energética, planificación de recursos y optimización de espacios. Los servicios de consulta y repositorios asociados facilitan la extracción de información histórica y la generación de reportes personalizados, contribuyendo al objetivo de crear edificios inteligentes, sostenibles y eficientes.
+
+![Analytics Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/analyticsUML.png)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
