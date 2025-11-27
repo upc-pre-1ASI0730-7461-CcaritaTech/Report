@@ -1879,9 +1879,11 @@ El bounded context de Devices Management se enfoca en la administración y monit
 
 ![Devices Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Devices_Class_Diagram.png)
 
-**Dashboard and Analytics**
+**Analytics**
 
-![Dashboard and Analytics Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Class_Diagram.jpeg)
+El bounded context de Analytics se especializa en la recopilación, procesamiento y visualización de métricas operativas dentro de IoBuild. Los agregados principales EnergyConsumption y OccupancyRecord registran datos clave como el consumo energético por dispositivo/unidad y los niveles de ocupación en diferentes períodos de tiempo. Estos datos permiten a ingenieros y propietarios tomar decisiones informadas sobre eficiencia energética, planificación de recursos y optimización de espacios. Los servicios de consulta y repositorios asociados facilitan la extracción de información histórica y la generación de reportes personalizados, contribuyendo al objetivo de crear edificios inteligentes, sostenibles y eficientes.
+
+![Analytics Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/analyticsUML.png)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
