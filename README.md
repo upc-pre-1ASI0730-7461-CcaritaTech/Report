@@ -1853,7 +1853,9 @@ Gracias a esta estructura modular, IoBuild puede mantener una interfaz reactiva,
 
 **Identity and Access Management**
 
-![Identity and Access Management Class Diagram](https://i.imgur.com/xRIGS30.png)
+El bounded context de Identity and Access Management (IAM) se encarga de gestionar la autenticación, autorización y administración de usuarios dentro de la plataforma IoBuild. Este contexto define las entidades principales como User (usuario) y Role (rol), estableciendo la base para controlar quién tiene acceso al sistema y qué permisos posee. Además, implementa servicios de hashing de contraseñas mediante BCryptPasswordHasher y generación de tokens JWT a través de JwtTokenService, asegurando la seguridad en cada interacción. Los repositorios y servicios de comandos/consultas facilitan la creación, actualización y consulta de usuarios, mientras que las políticas de autorización protegen los recursos críticos del sistema.
+
+![Identity and Access Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/IAM_Class_Diagram.png)
 
 **Subscriptions and Payments Management**
 
