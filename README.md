@@ -1869,7 +1869,9 @@ El bounded context de Projects Management gestiona el ciclo de vida de los proye
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Class Diagram](https://i.imgur.com/afw8S4p.png)
+El bounded context de Profiles Management administra la información personal y las preferencias de los usuarios dentro de la plataforma IoBuild. El agregado Profile encapsula datos como nombre, teléfono, dirección y configuraciones de usuario, vinculándose directamente con el User del contexto IAM. Las entidades UserPreferences y NotificationSettings permiten personalizar aspectos como idioma, zona horaria y canales de notificación (correo, push, SMS), adaptando la experiencia a las necesidades individuales de cada propietario o ingeniero. Los servicios de comandos y consultas facilitan la creación, actualización y consulta de perfiles, asegurando que la información del usuario esté siempre disponible y actualizada.
+
+![Profile and Preferences Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profiles_Class_Diagram.png)
 
 **Service Execution and Monitoring**
 
