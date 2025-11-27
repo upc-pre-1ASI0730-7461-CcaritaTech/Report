@@ -1873,9 +1873,11 @@ El bounded context de Profiles Management administra la información personal y 
 
 ![Profile and Preferences Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profiles_Class_Diagram.png)
 
-**Service Execution and Monitoring**
+**Devices Management**
 
-![Service Execution and Monitoring Class Diagram](https://i.imgur.com/X3YuJHg.png)
+El bounded context de Devices Management se enfoca en la administración y monitoreo de dispositivos IoT dentro de los espacios inteligentes. El agregado raíz Device representa cada dispositivo físico conectado (luces, termostatos, cámaras, cerraduras, sensores), almacenando su tipo, ubicación, estado operativo y configuración. Las entidades TelemetryData permiten registrar métricas en tiempo real, mientras que DeviceConfiguration facilita la personalización de parámetros específicos de cada equipo. Los servicios de comandos y consultas posibilitan el registro, actualización, eliminación y búsqueda de dispositivos, garantizando que propietarios e ingenieros puedan gestionar su infraestructura inteligente de forma centralizada y eficiente.
+
+![Devices Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Devices_Class_Diagram.png)
 
 **Dashboard and Analytics**
 
