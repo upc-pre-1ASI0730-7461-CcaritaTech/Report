@@ -1,13 +1,14 @@
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="100"></img><br>
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Periodo 202520</strong>
+    <strong>Facultad de Ingenieria</strong><br>
+    <strong>Carrera de Ingeniería de Software</strong><br>
+    <strong>Periodo 202520</strong><br>
     <strong>1ASI0730</strong><br>
     <strong>Aplicaciones web</strong><br>
-    <strong>7461</strong><br>
-    <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
-    <br>INFORME TRABAJO FINAL
+    <strong>NRC: 7461</strong><br>
+    <strong>Profesor: Ángel Augusto Velásquez Núñez </strong><br>
+    <br>Informe de Trabajo Final
 </p>
 
 <center>
@@ -17,17 +18,24 @@
 
 </center>
 
-### <center>Team  Members:</center>
+### <center>Miembrso del Equipo:</center>
+
+<div style="display: flex; justify-content: center;">
+<div>
 
 | Code        | Member                        |
 |-------------|-------------------------------|
-| U202216827  | Axel Randall Ordoñez Ricaldi  |
-| U202210513  | Yeira Shari Huaman Olivos     |
-| U20231A810  | Fabrizio Martin Panta Castro  |
-| U20221C218  | Brayan Roberto Ccarita Cruz   |
-| U201919096  | Jean Niels Arizabal Condori   |
+| U202216827  | Ordóñez Ricaldi, Axel Randall |
+| U202210513  | Huamán Olivos, Yeira Shari    |
+| U20231A810  | Panta Castro, Fabrizio Martín |
+| U20221C218  | Ccarita Cruz, Brayan Roberto  |
+| U201919096  | Arizabal Condori, Jean Niels  |
 
-<br> Noviembre 2025
+</div>
+</div>
+
+
+<br> <center>Diciembre 2025</center>
 <div style="page-break-before: always;"></div>
 
 # Registro de Versiones del Informe
@@ -35,7 +43,6 @@
 
 | Version | Fecha      | Autor                 | Descripcion de Modificacion                                                                                                                                                                                                                                                                    |
 |---------|------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.0     | 25/08/2025 | CcaritaTech           | Se crea el documento                                                                                                                                                                                                                                                                           |
 | 0.1     | 27/08/2025 | Axel Ordoñez Ricaldi  | Se han agregado las imágenes y se ha redactado la descripción de cada participante, así como la descripción general de la startup en el perfil.                                                                                                                                                |  
 | 0.2     | 29/08/2025 | Axel Ordoñez Ricaldi  | Primer avance del Capítulo 1, el cual incluye el desarrollo inicial de los antecedentes y la problemática, y se sube el Lean UX Problem Statement, y la elaboración del Problem Statement, el registro de Assumptions y la formulación de los Hypothesis Statements                            |
 | 0.3     | 02/09/2025 | Brayan Ccarita Cruz   | Se revisó y editó el Capítulo 1, incluyendo la sección sobre el Lean UX Process, garantizando la coherencia y claridad del contenido. Además, se integraron los avances de los colaboradores en dicho capítulo. Finalmente, se procedió a subir el informe a la rama develop                   |
@@ -70,6 +77,7 @@
 
 </center>
 
+<div style="page-break-before: always;"></div>
 # Project Report Collaboration Insights
 
 URL de la organización de github: https://github.com/upc-pre-1ASI0730-7461-CcaritaTech
