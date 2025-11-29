@@ -1910,6 +1910,14 @@ El diagrama de Devices Management representa la gestión y monitoreo de disposit
 
 ![Service Execution and Monitoring Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Devices_Database_Diagram.png)
 
+
+**Projects Management**
+
+El diagrama de Projects Management describe la estructura para gestionar proyectos de construcción inteligentes y las unidades asociadas. La tabla projects almacena información clave como nombre, descripción, ubicación, estado actual y el constructor responsable (referenciado por builder_id). Cada proyecto puede contener múltiples unidades (units), que representan espacios individuales (apartamentos, oficinas) con detalles como número de unidad, piso, área y estado de ocupación. La relación con builders permite identificar al responsable del proyecto, mientras que residents vincula a los ocupantes de cada unidad. Este diseño facilita la administración centralizada de proyectos inmobiliarios y sus componentes.
+
+![Projects Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Projects_Database_Diagram.png)
+
+
 **Dashboard and Analytics**
 
 ![Dashboard and Analytics Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Database_Diagram.jpeg)
