@@ -1918,9 +1918,11 @@ El diagrama de Projects Management describe la estructura para gestionar proyect
 ![Projects Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Projects_Database_Diagram.png)
 
 
-**Dashboard and Analytics**
+**Analytics**
 
-![Dashboard and Analytics Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Database_Diagram.jpeg)
+El diagrama de Dashboard and Analytics modela la captura y análisis de métricas operativas en IoBuild. La tabla energy_consumption registra el consumo energético de cada dispositivo y unidad, incluyendo timestamp, valor, unidad de medida y metadatos adicionales en formato JSON. Los registros de ocupación (occupancy_records) capturan porcentajes de ocupación y número de dispositivos activos por unidad en momentos específicos. Finalmente, analytics_reports almacena reportes generados bajo demanda, especificando tipo de reporte, período analizado, proyecto asociado y datos completos en formato JSON. Este modelo permite a ingenieros y propietarios tomar decisiones informadas sobre eficiencia energética, planificación de recursos y optimización de espacios, contribuyendo al objetivo de crear edificios inteligentes y sostenibles.
+
+![Dashboard and Analytics Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Analytics_Database_Diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
