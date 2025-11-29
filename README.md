@@ -1900,7 +1900,9 @@ El diagrama de base de datos de Identity and Access Management (IAM) modela la e
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profile_and_Preferences_Management_Database_Diagram.jpeg)
+El diagrama de Profile and Preferences Management modela la información personal y preferencias de los usuarios dentro de IoBuild. La tabla profiles contiene datos como nombre completo, teléfono y dirección completa (calle, ciudad, estado, código postal y país), vinculándose directamente con los usuarios del sistema. Las preferencias del usuario se almacenan en user_preferences, incluyendo idioma, zona horaria y configuraciones de notificaciones (email, push y SMS). Este modelo permite personalizar la experiencia de cada usuario, adaptando el sistema a sus necesidades individuales y facilitando la gestión de su información personal de forma centralizada.
+
+![Profile and Preferences Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profiles_Database_Diagram.png)
 
 **Service Execution and Monitoring**
 
