@@ -1904,9 +1904,11 @@ El diagrama de Profile and Preferences Management modela la información persona
 
 ![Profile and Preferences Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profiles_Database_Diagram.png)
 
-**Service Execution and Monitoring**
+**Devices Management**
 
-![Service Execution and Monitoring Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Service_Execution_and_Monitoring_Database_Diagram.jpeg)
+El diagrama de Devices Management representa la gestión y monitoreo de dispositivos IoT dentro de la plataforma. La tabla devices almacena información esencial de cada dispositivo (nombre, tipo, ubicación, estado y configuración en formato JSON). Los datos de telemetría se registran en telemetry_data, capturando métricas en tiempo real con sus timestamps correspondientes. La tabla device_configurations mantiene un historial versionado de las configuraciones aplicadas a cada dispositivo, incluyendo parámetros en JSON y fecha de aplicación. Este diseño permite un control granular sobre el estado operativo de los dispositivos, facilita el análisis histórico de su comportamiento y soporta la toma de decisiones basada en datos para optimización energética y mantenimiento predictivo.
+
+![Service Execution and Monitoring Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Devices_Database_Diagram.png)
 
 **Dashboard and Analytics**
 
