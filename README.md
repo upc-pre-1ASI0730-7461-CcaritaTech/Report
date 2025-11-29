@@ -2771,22 +2771,6 @@ CARRERA : Ingeniería de Software
 CURSO : Aplicaiones Web
 SECCIÓN : 7401
 PROFESORES : Todos
-### 5.4. Video About-the-product
-Link del video about-the-product: https://goo.su/UpfrD0J<br>
-
-El video tiene como propósito principal presentar, de manera clara y atractiva, el modelo de funcionamiento y las funcionalidades clave de IoBuild, la plataforma orientada a la gestión eficiente de proyectos y dispositivos.
-
-En la secuencia, se muestra a un usuario navegando por la Landing Page, donde descubre que la plataforma permite:
-
-Visualizar y comprender rápidamente las capacidades principales del sistema, desde el manejo de proyectos hasta la administración de dispositivos.
-
-Acceder a información detallada sobre cómo IoBuild optimiza los procesos de registro, edición y seguimiento de recursos.
-
-Explorar las ventajas de contar con una interfaz moderna e intuitiva que facilita la gestión técnica sin necesidad de conocimientos avanzados.
-
-A lo largo del video, el usuario interactúa con la Web App, recorriendo secciones clave del sistema, visualizando proyectos existentes, explorando dispositivos vinculados y entendiendo cómo IoBuild centraliza la información para simplificar la toma de decisiones. Todo esto ocurre dentro de una interfaz limpia, moderna y enfocada en ofrecer una experiencia ordenada y funcional.
-
-El video no muestra registro ni inicio de sesión, ya que estas funcionalidades aún no están habilitadas para esta etapa de demostración. En su lugar, el enfoque está en mostrar el valor de la plataforma desde la perspectiva de un usuario que busca comprender cómo IoBuild mejora la gestión y organización antes de crear una cuenta o comenzar a operar dentro del sistema.
 
 SITE o APP A EVALUAR:
 IoBuild
@@ -2907,6 +2891,23 @@ Al seleccionar la opción para contactar con soporte, se redireciona a la landin
 
 Recomendación:
 Añadir un enlace directo a soporte.
+
+### 5.4. Video About-the-product
+Link del video about-the-product: https://goo.su/UpfrD0J<br>
+
+El video tiene como propósito principal presentar, de manera clara y atractiva, el modelo de funcionamiento y las funcionalidades clave de IoBuild, la plataforma orientada a la gestión eficiente de proyectos y dispositivos.
+
+En la secuencia, se muestra a un usuario navegando por la Landing Page, donde descubre que la plataforma permite:
+
+Visualizar y comprender rápidamente las capacidades principales del sistema, desde el manejo de proyectos hasta la administración de dispositivos.
+
+Acceder a información detallada sobre cómo IoBuild optimiza los procesos de registro, edición y seguimiento de recursos.
+
+Explorar las ventajas de contar con una interfaz moderna e intuitiva que facilita la gestión técnica sin necesidad de conocimientos avanzados.
+
+A lo largo del video, el usuario interactúa con la Web App, recorriendo secciones clave del sistema, visualizando proyectos existentes, explorando dispositivos vinculados y entendiendo cómo IoBuild centraliza la información para simplificar la toma de decisiones. Todo esto ocurre dentro de una interfaz limpia, moderna y enfocada en ofrecer una experiencia ordenada y funcional.
+
+El video no muestra registro ni inicio de sesión, ya que estas funcionalidades aún no están habilitadas para esta etapa de demostración. En su lugar, el enfoque está en mostrar el valor de la plataforma desde la perspectiva de un usuario que busca comprender cómo IoBuild mejora la gestión y organización antes de crear una cuenta o comenzar a operar dentro del sistema.
 
 ## Conclusiones
 
