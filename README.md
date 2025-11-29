@@ -18,7 +18,7 @@
 
 </center>
 
-### <center>Miembrso del Equipo:</center>
+### <center>Miembros del Equipo:</center>
 
 <div style="display: flex; justify-content: center;">
 <div>
@@ -2670,11 +2670,106 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 
 #### 5.2.4.1. Sprint Planning 4
 
+| **Sprint #**                                 | Sprint 3                                                                                                                                                                     |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**               |                                                                                                                                                                              |
+| **Fecha**                                    | 17/11/2025                                                                                                                                                                   |
+| **Hora**                                     | 16:00 pm (GMT-5)                                                                                                                                                             |
+| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                  |
+| **Preparado por**                            | CcaritaTech Team                                                                                                                                                             |
+| **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari |
+| **Sprint Goal & User Stories**               |                                                                                                                                                                              |
+| **Velocidad del Sprint 3**                   |                                                                                                                                                                              |   
+| **Suma de Puntos de Historia**               |                                                                                                                                                                              |
+
 #### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member                   | GitHub Username |   |    |   |   |  |
+|-------------------------------|-----------------|---|----|---|---|--|
+| Arizabal Condori, Jean Niels  | JeanArizabal    |   |    |   |   |  |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         |   |    |   |   |  |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        |   |    |   |   |  |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      |   |    |   |   |  |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        |   |    |   |   |  |
 
 #### 5.2.4.3. Sprint Backlog 4
 
+
+| *Sprint 2*      |                    |                    |              |               |                      |               |          |
+|-----------------|--------------------|--------------------|--------------|---------------|----------------------|---------------|----------|
+| *User Story*    |                    | *Work-Item / Task* |              |               |                      |               |          |
+| *User Story ID* | *User Story Title* | *Task Id*          | *Task Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status* |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+|                 |                    |                    |              |               |                      |               |          |
+
+
 #### 5.2.4.4. Development Evidence for Sprint Review
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
