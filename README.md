@@ -1890,7 +1890,9 @@ El bounded context de Analytics se especializa en la recopilación, procesamient
 
 **Identity and Access Management**
 
-![Identity and Access Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Identity_and_Access_Management_Database_Diagram.jpeg)
+El diagrama de base de datos de Identity and Access Management (IAM) modela la estructura para gestionar usuarios, roles y permisos dentro de la plataforma IoBuild. La tabla users almacena la información básica de autenticación (nombre de usuario, email y hash de contraseña). Los roles (roles) definen conjuntos de permisos que pueden ser asignados a usuarios mediante la tabla intermedia user_roles. Los permisos específicos (permissions) detallan qué acciones están permitidas sobre qué recursos, y se vinculan a roles mediante role_permissions. Este diseño permite una gestión flexible y escalable de la seguridad, facilitando la asignación dinámica de permisos según el contexto y las necesidades del negocio.
+
+![Identity and Access Management Database Diagram](https://i.imgur.com/Asz60Sd.png)
 
 **Subscriptions and Payments Management**
 
