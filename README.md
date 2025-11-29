@@ -1890,7 +1890,9 @@ El bounded context de Analytics se especializa en la recopilación, procesamient
 
 **Identity and Access Management**
 
-![Identity and Access Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Identity_and_Access_Management_Database_Diagram.jpeg)
+El diagrama de base de datos de Identity and Access Management (IAM) modela la estructura para gestionar usuarios, roles y permisos dentro de la plataforma IoBuild. La tabla users almacena la información básica de autenticación (nombre de usuario, email y hash de contraseña). Los roles (roles) definen conjuntos de permisos que pueden ser asignados a usuarios mediante la tabla intermedia user_roles. Los permisos específicos (permissions) detallan qué acciones están permitidas sobre qué recursos, y se vinculan a roles mediante role_permissions. Este diseño permite una gestión flexible y escalable de la seguridad, facilitando la asignación dinámica de permisos según el contexto y las necesidades del negocio.
+
+![Identity and Access Management Database Diagram](https://i.imgur.com/Asz60Sd.png)
 
 **Subscriptions and Payments Management**
 
@@ -1898,15 +1900,29 @@ El bounded context de Analytics se especializa en la recopilación, procesamient
 
 **Profile and Preferences Management**
 
-![Profile and Preferences Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profile_and_Preferences_Management_Database_Diagram.jpeg)
+El diagrama de Profile and Preferences Management modela la información personal y preferencias de los usuarios dentro de IoBuild. La tabla profiles contiene datos como nombre completo, teléfono y dirección completa (calle, ciudad, estado, código postal y país), vinculándose directamente con los usuarios del sistema. Las preferencias del usuario se almacenan en user_preferences, incluyendo idioma, zona horaria y configuraciones de notificaciones (email, push y SMS). Este modelo permite personalizar la experiencia de cada usuario, adaptando el sistema a sus necesidades individuales y facilitando la gestión de su información personal de forma centralizada.
 
-**Service Execution and Monitoring**
+![Profile and Preferences Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Profiles_Database_Diagram.png)
 
-![Service Execution and Monitoring Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Service_Execution_and_Monitoring_Database_Diagram.jpeg)
+**Devices Management**
 
-**Dashboard and Analytics**
+El diagrama de Devices Management representa la gestión y monitoreo de dispositivos IoT dentro de la plataforma. La tabla devices almacena información esencial de cada dispositivo (nombre, tipo, ubicación, estado y configuración en formato JSON). Los datos de telemetría se registran en telemetry_data, capturando métricas en tiempo real con sus timestamps correspondientes. La tabla device_configurations mantiene un historial versionado de las configuraciones aplicadas a cada dispositivo, incluyendo parámetros en JSON y fecha de aplicación. Este diseño permite un control granular sobre el estado operativo de los dispositivos, facilita el análisis histórico de su comportamiento y soporta la toma de decisiones basada en datos para optimización energética y mantenimiento predictivo.
 
-![Dashboard and Analytics Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Dashboard_and_Analytics_Database_Diagram.jpeg)
+![Service Execution and Monitoring Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Devices_Database_Diagram.png)
+
+
+**Projects Management**
+
+El diagrama de Projects Management describe la estructura para gestionar proyectos de construcción inteligentes y las unidades asociadas. La tabla projects almacena información clave como nombre, descripción, ubicación, estado actual y el constructor responsable (referenciado por builder_id). Cada proyecto puede contener múltiples unidades (units), que representan espacios individuales (apartamentos, oficinas) con detalles como número de unidad, piso, área y estado de ocupación. La relación con builders permite identificar al responsable del proyecto, mientras que residents vincula a los ocupantes de cada unidad. Este diseño facilita la administración centralizada de proyectos inmobiliarios y sus componentes.
+
+![Projects Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Projects_Database_Diagram.png)
+
+
+**Analytics**
+
+El diagrama de Dashboard and Analytics modela la captura y análisis de métricas operativas en IoBuild. La tabla energy_consumption registra el consumo energético de cada dispositivo y unidad, incluyendo timestamp, valor, unidad de medida y metadatos adicionales en formato JSON. Los registros de ocupación (occupancy_records) capturan porcentajes de ocupación y número de dispositivos activos por unidad en momentos específicos. Finalmente, analytics_reports almacena reportes generados bajo demanda, especificando tipo de reporte, período analizado, proyecto asociado y datos completos en formato JSON. Este modelo permite a ingenieros y propietarios tomar decisiones informadas sobre eficiencia energética, planificación de recursos y optimización de espacios, contribuyendo al objetivo de crear edificios inteligentes y sostenibles.
+
+![Dashboard and Analytics Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Analytics_Database_Diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
