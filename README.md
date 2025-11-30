@@ -1871,7 +1871,9 @@ El bounded context de Identity and Access Management (IAM) se encarga de gestion
 
 **Subscriptions and Payments Management**
 
-![Subscriptions and Payments Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Class_Diagram.jpeg)
+El diagrama de clases de Subscriptions representa la estructura del modelo de negocio de suscripciones siguiendo Domain-Driven Design (DDD). Los agregados principales son Subscription (que vincula un builder con un plan específico, controlando estado y vigencia) y Plan (que define características, precio y límites de cada nivel de servicio). El diagrama muestra la separación clara entre capas: Domain (agregados, commands, queries, servicios e interfaces de repositorios), Application (implementación de servicios de comandos y consultas, además del ACL SubscriptionsContextFacade que expone funcionalidades a otros bounded contexts), e Infrastructure (repositorios concretos con Entity Framework y servicios de pago con Stripe). Los commands y queries implementan el patrón CQRS, separando operaciones de escritura (crear/actualizar) de las de lectura (consultas). Este diseño facilita la evolución independiente del contexto, manteniendo bajo acoplamiento con otros módulos del sistema.
+
+![Subscriptions and Payments Management Class Diagram](https://i.imgur.com/RnkkLoH.png)
 
 **Projects Management**
 
@@ -1908,7 +1910,9 @@ El diagrama de base de datos de Identity and Access Management (IAM) modela la e
 
 **Subscriptions and Payments Management**
 
-![Subscriptions and Payments Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Database_Diagram.jpeg)
+El diagrama de base de datos de Subscriptions modela la persistencia del sistema de suscripciones y facturación. La tabla plans almacena los diferentes niveles de servicio disponibles (Basic, Pro, Enterprise), incluyendo precio, descripción, características (en formato texto delimitado), límites de dispositivos y administradores, nivel de soporte, y acceso a API/analytics. La tabla subscriptions vincula cada builder con un plan específico, registrando el estado (active, cancelled, expired), fechas de inicio y fin, facilitando el control de vigencia y renovaciones. Las transacciones financieras se registran en payments, que incluye integración con Stripe mediante el campo stripe_payment_intent_id, almacenando monto, moneda, método de pago y estado. Finalmente, invoices documenta las facturas generadas por cada pago, con número de factura único, montos totales e impuestos, y fechas de emisión, vencimiento y pago. Los índices estratégicos optimizan consultas por builder, plan, estado de suscripción y transacciones de Stripe.
+
+![Subscriptions and Payments Management Database Diagram](https://i.imgur.com/JK84f6p.png)
 
 **Profile and Preferences Management**
 
