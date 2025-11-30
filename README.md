@@ -2668,7 +2668,7 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 
 ### 5.2.4. Sprint 4
 
-Durante el Sprint 4 se estableció la mejora de la plataforma IoBuild, enfocándose en la corrección de errores pendientes y en la integración de funcionalidades necesarias, incluyendo el manejo de suscripciones, para completar el sistema. El trabajo incluyó el ajuste de procesos internos, la mejora en la comunicación entre componentes y la validación del flujo general de la aplicación. Asimismo, se priorizó la estabilidad, la consistencia del diseño y el correcto funcionamiento de las interacciones, consolidando una versión más sólida y pulida del sistema.
+Durante el Sprint 4 se estableció la mejora de la plataforma IoBuild, enfocándose en la corrección de errores pendientes y en la integración de funcionalidades necesarias para completar el sistema. El trabajo incluyó el ajuste de procesos internos, la mejora en la comunicación entre componentes y la validación del flujo general de la aplicación. Asimismo, se priorizó la estabilidad, la consistencia del diseño y el correcto funcionamiento de las interacciones, consolidando una versión más sólida y pulida del sistema.
 
 
 #### 5.2.4.1. Sprint Planning 4
@@ -2687,13 +2687,19 @@ Durante el Sprint 4 se estableció la mejora de la plataforma IoBuild, enfocánd
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Team Member                   | GitHub Username |   |    |   |   |  |
-|-------------------------------|-----------------|---|----|---|---|--|
-| Arizabal Condori, Jean Niels  | JeanArizabal    |   |    |   |   |  |                             
-| Ccarita Cruz, Roberto Brayan  | hallzyx         |   |    |   |   |  |                             
-| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        |   |    |   |   |  |                             
-| Panta Castro, Fabrizio Martin | F4brizio24      |   |    |   |   |  |                             
-| Olivos Huaman, Yeira Shari    | YeiShari        |   |    |   |   |  |
+En este sección se describen los aspectos funcionales más relevantes trabajados durante el Sprint 4, enfocados en la corrección de errores, el refinamiento de módulos existentes y la integración de capacidades necesarias para el funcionamiento completo de la plataforma IoBuild. Cada aspecto desarrollado corresponde a componentes esenciales dentro del sistema, abarcando mejoras en la gestión de dispositivos, administración de proyectos, control de accesos y otros elementos clave que fortalecen la estructura general de la aplicación.
+
+Para cada aspecto se asignó un Líder (L), responsable de la dirección técnica y la implementación principal, así como Colaboradores (C), encargados de apoyar en el desarrollo, validación y documentación de cada módulo.
+
+La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara la distribución de responsabilidades durante el Sprint, garantizando trazabilidad, coordinación y efectividad en el trabajo colaborativo realizado.
+
+| Team Member                   | GitHub Username | IAM | Subscriptions | Devices Management | Clients | Projects Management |
+|-------------------------------|-----------------|-----|---------------|--------------------|---------|-----------|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | C   | C             | C                  | C       | L         |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | L   | C             | C                  | C       | C         |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C   | C             | C                  | L       | C         |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      | C   | C             | L                  | C       | C         |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        | C   | L             | C                  | C       | C         |
 
 #### 5.2.4.3. Sprint Backlog 4
 
