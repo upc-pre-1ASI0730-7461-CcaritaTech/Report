@@ -2781,6 +2781,87 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 de IoBuild, el trabajo se enfocó en completar, refinar y desplegar la plataforma, integrando tanto el frontend como el backend en un entorno funcional y accesible para los usuarios. Este sprint marca la consolidación final del sistema, con toda la infraestructura operativa, conectada y validada.
+
+*Estado Actual:*
+
+- Se finalizó y estabilizó el backend en .NET con MySQL, asegurando el correcto funcionamiento de todos los controladores, servicios y operaciones sobre la base de datos.
+- Todos los módulos trabajados durante los sprints previos quedaron integrados y operativos.
+- La API está deployada y accesible, con su documentación actualizada en Swagger, permitiendo visualizar, probar y validar cada endpoint directamente en el servidor en producción.
+- Se completó también el despliegue del frontend, conectándolo exitosamente con la API real para asegurar el funcionamiento completo de la plataforma desde la interfaz de usuario.
+- Se fortaleció la arquitectura general y se corrigieron detalles finales en la gestión de entidades clave como dispositivos, usuarios, proyectos y clientes, garantizando estabilidad en la interacción y persistencia de datos.
+
+
+El enfoque de este sprint estuvo en llevar toda la plataforma a un estado completamente desplegado y funcional, consolidando la integración entre frontend y backend, y asegurando que IoBuild esté lista para demostraciones, uso real y futuras extensiones.
+
+A continuación se presenta la tabla de los endpoints documentados:
+
+**Enpoints de profiles**
+
+| **Endpoint**                | **Acción**                          | **Verbo HTTP** | **Parámetros**                                                                                                                            | **Commit** |
+|-----------------------------|-------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| /api/v1/profiles            | Crear un nuevo perfil               | POST           | { "userId": "int", "photoUrl": "string", "name": "string", "username": "string", "address": "string", "age": "int", "phoneNumber": "string"} | cbc5ef8    |
+| /api/v1/profiles            | Obtener todos los perfiles          | GET             | no parámetros                                                                                                                             | cbc5ef8    |
+| api/v1/profiles/{profileId} | Obtener un perfil por id de profile | GET            | profileId                                                                                                                                 | cbc5ef8    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2310.jpg)
+
+
+**Enpoints de clients**
+
+| **Endpoint**               | **Acción**                           | **Verbo HTTP** | **Parámetros**                                                                                                                                                                      | **Commit** |
+|----------------------------|--------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| /api/v1/clients/{clientId} | Obtener un cliente por id de cliente | GET            | clientId                                                                                                                                                                            | c88118d    |
+| /api/v1/clients/{clientId} | Actualizar un cliente                | PUT            | { "clientId": "int", "fullName": "string", "projectId": "int", "projectName": "string", "accountStatement": "string", "email": "string", "phoneNumber": "string", "address": "string"} | c88118d    |
+| /api/v1/clients/{clientId} | Eliminar un cliente                  | DELETE         | clientId                                                                                                                                                                            | c88118d    |
+| api/v1/clients             | Obtener todos los clientes           | GET            | no parámetros                                                                                                                                                                       | c88118d    |
+| api/v1/clients             | Crear un nuevo cliente               | POST           | { "fullName": "string", "projectId": "int", "projectName" : "string", "accountStatement": "string", "email": "string", "phoneNumber": "string", "address": "string" }               | c88118d    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2311.jpg)
+
+
+
+**Enpoints de analytics**
+
+| **Endpoint**                       | **Acción**                     | **Verbo HTTP** | **Parámetros**                                                                         | **Commit** |
+|------------------------------------|--------------------------------|----------------|----------------------------------------------------------------------------------------|------------|
+| /api/v1/analytics/metrics/{userId} | Obtener métricas del dashboard | GET            | { "userId": "int", "role": "string" }                                                  | 3b2fd59    |
+| /api/v1/analytics/insights         | Obtener insights analíticos    | GET            | { "projectId": "int", "metric": "string", "startDate": "string", "endDate": "string" } | 3b2fd59    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2312.jpg)
+
+
+
+**Enpoints de payments**
+
+| **Endpoint**                                  | **Acción**                      | **Verbo HTTP** | **Parámetros**                                                                         | **Commit** |
+|-----------------------------------------------|---------------------------------|----------------|----------------------------------------------------------------------------------------|------------|
+| /api/v1/subscriptions/payments/create-session | Crear sesión de pago (checkout) | POST           | { "builderId": "int", "planId": "int", "successUrl": "string", "cancelUrl": "string" } | 72ec803    |
+| /api/v1/subscriptions/payments/confirm        | Confirmar sesión de pago        | POST           | { "builderId": "int", "sessionId": "string" }                                          | 72ec803    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2313.jpg)
+
+**Enpoints de plans**
+
+| **Endpoint**  | **Acción**                           | **Verbo HTTP** | **Parámetros** | **Commit** |
+|---------------|--------------------------------------|----------------|----------------| ---------- |
+| /api/v1/plans | Obtener los devices de un usuario    | GET            | no parámetros  | 14c2496    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2314.jpg)
+
+**Enpoints de subscriptions**
+
+| **Endpoint**              | **Acción**                      | **Verbo HTTP** | **Parámetros**                                                                                         | **Commit** |
+|---------------------------|---------------------------------|----------------|--------------------------------------------------------------------------------------------------------|------------|
+| /api/v1/subscriptions     | Obtener todas las suscripciones | GET            | no parámetros                                                                                          | 3226d3f   |
+| /api/v1/subscriptions     | Crear un suscripción            | POST           | { "builderId": "int", "planId": "int", "status": "string", "startDate": "string", "endDate": "string"} | 3226d3f    |
+| api/v1/subscriptions/{id} | Obtener una suscripción por Id  | GET            | id                                                                                                     | 3226d3f    |
+| api/v1/subscriptions/{id} | Actualizar una suscripción      | PUT            | { "id": "int", "planId": "int", "status": "string", "startDate": "string", "endDate": "string" }       | 3226d3f    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2315.jpg)
+
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
