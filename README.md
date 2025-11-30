@@ -2694,122 +2694,91 @@ Para cada aspecto se asignó un Líder (L), responsable de la dirección técnic
 La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara la distribución de responsabilidades durante el Sprint, garantizando trazabilidad, coordinación y efectividad en el trabajo colaborativo realizado.
 
 | Team Member                   | GitHub Username | IAM | Subscriptions | Devices Management | Clients | Projects Management |
-|-------------------------------|-----------------|-----|---------------|--------------------|---------|-----------|
-| Arizabal Condori, Jean Niels  | JeanArizabal    | C   | C             | C                  | C       | L         |                             
-| Ccarita Cruz, Roberto Brayan  | hallzyx         | L   | C             | C                  | C       | C         |                             
-| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C   | C             | C                  | L       | C         |                             
-| Panta Castro, Fabrizio Martin | F4brizio24      | C   | C             | L                  | C       | C         |                             
-| Olivos Huaman, Yeira Shari    | YeiShari        | C   | L             | C                  | C       | C         |
+|-------------------------------|-----------------|-----|---------------|--------------------|---------|---------------------|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | C   | C             | C                  | C       | L                   |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | L   | C             | C                  | C       | C                   |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C   | C             | C                  | L       | C                   |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      | C   | C             | L                  | C       | C                   |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        | C   | L             | C                  | C       | C                   |
 
 #### 5.2.4.3. Sprint Backlog 4
 
 
-| *Sprint 4*      |                    |                    |              |               |                      |               |          |
-|-----------------|--------------------|--------------------|--------------|---------------|----------------------|---------------|----------|
-| *User Story*    |                    | *Work-Item / Task* |              |               |                      |               |          |
-| *User Story ID* | *User Story Title* | *Task Id*          | *Task Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status* |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
+| Sprint 4      |                                             |                  |                                                |                                                                                                  |                    |                 |        |
+|---------------|---------------------------------------------|------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|-----------------|--------|
+| User Story*   |                                             | Work-Item / Task |                                                |                                                                                                  |                    |                 |        |
+| User Story ID | User Story Title                            | Task Id          | Task Title                                     | Description                                                                                      | Estimation (Hours) | Assigned To     | Status |
+| TS04          | Actualizar la información de un cliente     | TS04T01          | Crear endpoint PUT /clients/{id}               | Implementar la ruta para actualizar los datos de un cliente existente.                           | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS04T02          | Implementar lógica de actualización            | Desarrollar la funcionalidad que modifica los campos permitidos del cliente en la base de datos. | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS04T03          | Validar existencia del cliente                 | Verificar que el cliente enviado en la solicitud exista antes de proceder con la actualización.  | 2                  | Jean Arizabal   | Done   |
+| TS05          | Eliminar un cliente                         | TS05T01          | Crear endpoint DELETE /clients/{id}            | Implementar la ruta que permita eliminar un cliente por su identificador.                        | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS05T02          | Implementar lógica de eliminación              | Desarrollar la operación que borra el registro del cliente en la base de datos.                  | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS05T03          | Validar cliente antes de eliminar              | Confirmar que el cliente exista y no tenga restricciones antes de permitir su eliminación.       | 2                  | Axel Ordoñez    | Done   |
+| TS06          | Soportar ordenación en la lista de clientes | TS06T01          | Agregar parámetros sortBy y sortDirection      | Incorporar los parámetros de ordenación en el endpoint de listado.                               | 2                  | Roberto Ccarita | Done   |
+|               |                                             | TS06T02          | Implementar lógica de ordenamiento             | Desarrollar en la API la funcionalidad para ordenar por columna y dirección.                     | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS06T03          | Validar columnas permitidas                    | Verificar que la columna enviada para ordenar sea válida y esté soportada.                       | 2                  | Roberto Ccarita | Done   |
+| TS07          | Listar clientes                             | TS07T01          | Crear endpoint GET /clients                    | Implementar la ruta para obtener la lista de clientes.                                           | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS07T02          | Implementar filtros opcionales                 | Desarrollar la lógica para filtrar clientes por estado o nombre.                                 | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS07T03          | Implementar paginación básica                  | Agregar parámetros de paginado para optimizar la respuesta del endpoint.                         | 2                  | Jean Arizabal   | Done   |
+| TS08          | Crear un cliente                            | TS08T01          | Crear endpoint POST /clients                   | Implementar la ruta de creación de nuevos clientes.                                              | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS08T02          | Implementar lógica de inserción                | Desarrollar la operación que registra un nuevo cliente en la base de datos.                      | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS08T03          | Validar campos requeridos                      | Verificar que los datos enviados cumplan con los campos obligatorios y formatos esperados.       | 2                  | Axel Ordoñez    | Done   |
+| TS09          | Recuperar un cliente por id                 | TS09T01          | Crear endpoint GET /clients/{id}               | Implementar la ruta para obtener un cliente por su identificador.                                | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS09T02          | Implementar lógica de búsqueda                 | Desarrollar la función que consulta el cliente en la base de datos.                              | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS09T03          | Manejar errores de cliente no encontrado       | Retornar un error adecuado cuando el cliente solicitado no exista.                               | 2                  | Roberto Ccarita | Done   |
+| TS16          | Obtener suscripción actual                  | TS16T01          | Crear endpoint GET /subscriptions/current      | Implementar la ruta que devuelve la suscripción activa del usuario.                              | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS16T02          | Implementar lógica de consulta                 | Desarrollar la funcionalidad que obtiene el plan, costo y beneficios desde la base de datos.     | 3                  | Jean Arizabal   | Done   |
+| TS17          | Listar catálogo de planes                   | TS17T01          | Crear endpoint GET /plans                      | Implementar la ruta para obtener todos los planes disponibles.                                   | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS17T02          | Implementar lógica de listado de planes        | Consultar la base de datos para obtener el catálogo completo de planes.                          | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS17T03          | Estructurar respuesta del catálogo             | Formatear la información para mostrar nombre, precio y beneficios de cada plan.                  | 2                  | Axel Ordoñez    | Done   |
+| TS18          | Cambiar plan de suscripción                 | TS18T01          | Crear endpoint PUT /subscriptions/change       | Implementar la ruta para actualizar el plan actual del usuario.                                  | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS18T02          | Implementar lógica de cambio de plan           | Realizar la actualización del plan en la base de datos validando compatibilidad y reglas.        | 3                  | Roberto Ccarita | Done   |
+| TS19          | Renovar suscripción                         | TS19T01          | Crear endpoint POST /subscriptions/renew       | Implementar la ruta que procesa la renovación de la suscripción.                                 | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS19T02          | Implementar lógica de renovación               | Extender la fecha de vigencia del plan según las reglas del sistema.                             | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS19T03          | Validar suscripción activa                     | Confirmar que el usuario tenga una suscripción vigente antes de permitir la renovación.          | 2                  | Yeira Huaman    | Done   |
+| TS20          | Cancelar suscripción                        | TS20T01          | Crear endpoint POST /subscriptions/cancel      | Implementar la ruta que procesa la cancelación de la suscripción.                                | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS20T02          | Implementar lógica de cancelación              | Actualizar el estado de la suscripción para detener la renovación automática.                    | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS20T03          | Validar estado de la suscripción               | Verificar que la suscripción esté activa y no haya sido cancelada previamente.                   | 2                  | Fabrizio Panta  | Done   |
+| TS21          | Cambiar contraseña del usuario              | TS21T01          | Crear endpoint PUT /users/change-password      | Implementar la ruta para actualizar la contraseña del usuario.                                   | 3                  | Fabrizio Panta  | Done   |
+|               |                                             | TS21T02          | Implementar lógica de validación y hash        | Verificar la contraseña actual, aplicar hash a la nueva y actualizarla.                          | 3                  | Fabrizio Panta  | Done   |
+|               |                                             | TS21T03          | Manejar errores de autenticación               | Retornar mensajes adecuados si la contraseña actual es incorrecta.                               | 2                  | Fabrizio Panta  | Done   |
+| TS22          | Solicitar adición de correo alternativo     | TS22T01          | Crear endpoint POST /users/add-secondary-email | Implementar la ruta para registrar un correo alternativo.                                        | 3                  | Fabrizio Panta  | Done   |
+|               |                                             | TS22T02          | Validar formato y unicidad del correo          | Confirmar que el correo alternativo tenga formato válido y no esté registrado previamente.       | 2                  | Fabrizio Panta  | Done   |
 
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
 A continuación se presenta un registro de los commits realizados en el repositorio upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend durante el Sprint 4. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación del Web Service hasta su despliege.
 
-| Repository | Branch | Commit Id | Commit Message | Commited on (Date) |
-|------------|---------|-----------|----------------|--------------------|
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics | 370f5b6 | feat(analytics): add domain layer. | Nov 13, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics | 3b2fd59 | feat(analytics): add interfaces layer. | Nov 13, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/devices | 0f038d5 | feat(devices): add devices logs to infrastructure layer. | Nov 13, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/projects | 121ec91 | feat(projects): add units logs to application layer. | Nov 13, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 9123871 | Merge pull request #25 from upc-pre-1ASI0730-7461-CcaritaTech/feat/seed-mac-address | Nov 13, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/config | 8b17759 | fix(config): add new allowed origin for production environment | Nov 14, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | development | 51f35cf | Merge pull request #31 from upc-pre-1ASI0730-7461-CcaritaTech/fix/cors-deploy | Nov 14, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 4c31d2a | feat(subscriptions): add commands and queries for subscription management. | Nov 26, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3226d3f | feat(subscriptions): add subscriptions context and seed data for subscription plans. | Nov 27, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 76407f8 | feat(subscriptions): add ModelBuilderExtensions and SubscriptionRepository for subscription management | Nov 27, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 93f570b | feat(clients): implement Client aggregate with properties and methods for management | Nov 27, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 1e128c9 | feat(clients): add ClientQueryService for handling client queries | Nov 28, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | b8f5f6a | feat(subscriptions): add UpdateSubscriptionResource for updating subscription details | Nov 28, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | cc97fee | feat(clients): add client repository finding methods. | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 2eb2989 | feat(clientes): add client entity configuration. | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | 4b9ae83 | feat(user): implement password update and second email handling commands | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | fee4afa | feat(iam): add SecondEmailCommand and SecondEmailResource for handling secondary email | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 6a7edb5 | feat(clients): update connection string and add .dockerignore for development environment | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | cae83f9 | Merge pull request #33 from upc-pre-1ASI0730-7461-CcaritaTech/feat/clients | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | fb82580 | feat(subscriptions): update CreateSubscriptionCommand to use PlanId instead of Plan | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3e169a1 | feat(subscriptions): add ISubscriptionsContextFacade interface for plan management | Nov 29, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 4446ee0 | Merge pull request #34 from upc-pre-1ASI0730-7461-CcaritaTech/feat/subscriptions | Nov 30, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 115911d | Merge pull request #35 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam | Nov 30, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | 7a34c2d | refactor(iam): remove secondemail handling from IUserCommandService and related classes | Nov 30, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | d7bf5be | feat(iam): add SecondEmail property to Profile and implement methods for fetching and updating it | Nov 30, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | 972ee3c | feat(iam): add methods for fetching and setting second email in IProfilesContextFacade and ProfilesController | Nov 30, 2025       |
-| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 010e88e | Merge pull request #37 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam | Nov 30, 2025       |
+| Repository                                                           | Branch             | Commit Id | Commit Message                                                                                                | Commited on (Date) |
+|----------------------------------------------------------------------|--------------------|-----------|---------------------------------------------------------------------------------------------------------------|--------------------|
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics     | 370f5b6   | feat(analytics): add domain layer.                                                                            | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics     | 3b2fd59   | feat(analytics): add interfaces layer.                                                                        | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/devices       | 0f038d5   | feat(devices): add devices logs to infrastructure layer.                                                      | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/projects      | 121ec91   | feat(projects): add units logs to application layer.                                                          | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 9123871   | Merge pull request #25 from upc-pre-1ASI0730-7461-CcaritaTech/feat/seed-mac-address                           | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/config         | 8b17759   | fix(config): add new allowed origin for production environment                                                | Nov 14, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | development        | 51f35cf   | Merge pull request #31 from upc-pre-1ASI0730-7461-CcaritaTech/fix/cors-deploy                                 | Nov 14, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 4c31d2a   | feat(subscriptions): add commands and queries for subscription management.                                    | Nov 26, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3226d3f   | feat(subscriptions): add subscriptions context and seed data for subscription plans.                          | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 76407f8   | feat(subscriptions): add ModelBuilderExtensions and SubscriptionRepository for subscription management        | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 93f570b   | feat(clients): implement Client aggregate with properties and methods for management                          | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 1e128c9   | feat(clients): add ClientQueryService for handling client queries                                             | Nov 28, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | b8f5f6a   | feat(subscriptions): add UpdateSubscriptionResource for updating subscription details                         | Nov 28, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | cc97fee   | feat(clients): add client repository finding methods.                                                         | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 2eb2989   | feat(clientes): add client entity configuration.                                                              | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | 4b9ae83   | feat(user): implement password update and second email handling commands                                      | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | fee4afa   | feat(iam): add SecondEmailCommand and SecondEmailResource for handling secondary email                        | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 6a7edb5   | feat(clients): update connection string and add .dockerignore for development environment                     | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | cae83f9   | Merge pull request #33 from upc-pre-1ASI0730-7461-CcaritaTech/feat/clients                                    | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | fb82580   | feat(subscriptions): update CreateSubscriptionCommand to use PlanId instead of Plan                           | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3e169a1   | feat(subscriptions): add ISubscriptionsContextFacade interface for plan management                            | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 4446ee0   | Merge pull request #34 from upc-pre-1ASI0730-7461-CcaritaTech/feat/subscriptions                              | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 115911d   | Merge pull request #35 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam                                      | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | 7a34c2d   | refactor(iam): remove secondemail handling from IUserCommandService and related classes                       | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | d7bf5be   | feat(iam): add SecondEmail property to Profile and implement methods for fetching and updating it             | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | 972ee3c   | feat(iam): add methods for fetching and setting second email in IProfilesContextFacade and ProfilesController | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 010e88e   | Merge pull request #37 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam                                      | Nov 30, 2025       |
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
