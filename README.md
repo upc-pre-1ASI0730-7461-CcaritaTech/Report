@@ -1829,7 +1829,7 @@ Aunque sus objetivos son distintos, ambos se conectan a la misma plataforma, que
 
 Este modelo refuerza la misión de IoBuild: acercar la tecnología de los espacios inteligentes a constructoras y propietarios con herramientas prácticas, simples y útiles. Además, gracias a su diseño modular, la plataforma puede adaptarse a diferentes mercados y necesidades sin perder su esencia.
 
-![Software Architecture Context Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Software_Architecture_Context_Diagram.jpg)
+![Software Architecture Context Diagram](https://i.imgur.com/uQQUPuU.png)
 
 
 ### 4.6.3. Software Architecture Container Diagrams.
@@ -1842,23 +1842,41 @@ Esta SPA se conecta con un API Backend central, encargado de coordinar las opera
 
 Gracias a este diseño modular, IoBuild mantiene una separación clara entre la experiencia de usuario y la lógica de negocio, lo que permite escalar sus funciones y reducir el tiempo de despliegue de nuevas capacidades.
 
-![Software Architecture Container Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Software_Architecture_Container_Diagram.jpg)
+![Software Architecture Container Diagram](https://i.imgur.com/ms0qPp8.png)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
-El diagrama de componentes muestra la arquitectura interna del contenedor Single Page Application (SPA) de IoBuild, destacando cómo se estructura la lógica del lado del cliente en capas claramente diferenciadas. Esta organización permite mantener una experiencia fluida para los usuarios y una separación clara entre la presentación, la gestión del estado y la comunicación con el backend.
+El diagrama de componentes muestra la estructura interna de la **IoBuild Platform API Application**, destacando cómo sus capacidades principales se organizan en **bounded contexts**, cada uno implementado como un componente independiente en ASP.NET Core.
 
-Las vistas (Auth, Devices, Dashboard, Profile y Subscriptions) representan las pantallas principales con las que interactúan los usuarios. Desde estas vistas, los usuarios pueden iniciar sesión, gestionar dispositivos, visualizar métricas o administrar suscripciones, dependiendo de su rol dentro del sistema (constructor o propietario).
+Dentro de la aplicación API, el dominio está dividido en los siguientes componentes:
 
-Las stores (AuthStore, DeviceStore, DashboardStore, ProfileStore, SubscriptionStore) manejan el estado interno de la aplicación y coordinan la lógica de interacción entre las vistas y los servicios. Estas se encargan de mantener los datos locales sincronizados y de orquestar las operaciones del usuario.
+- **IAM**  
+  Gestiona la autenticación, autorización e identidades mediante JWT y BCrypt.
 
-Las services (AuthService, DeviceService, DashboardService, ProfileService, SubscriptionService) implementan la lógica de negocio en el cliente y actúan como intermediarios entre las stores y las APIs del backend.
+- **Devices**  
+  Administra dispositivos IoT, sus configuraciones y operaciones relacionadas.
 
-Finalmente, las API clients (AuthApi, UserApi, DeviceApi, SubscriptionApi, AnalyticsApi) representan las integraciones con los distintos contextos delimitados del sistema backend. Estas conexiones permiten que la SPA obtenga y envíe información de manera eficiente, coordinando datos de autenticación, dispositivos, suscripciones y analítica.
+- **Projects**  
+  Maneja la creación, administración y ciclo de vida de proyectos, incluyendo gestión de medios con **Cloudinary**.
 
-Gracias a esta estructura modular, IoBuild puede mantener una interfaz reactiva, segura y extensible, en la que cada componente cumple un rol definido dentro del ecosistema de espacios inteligentes.
+- **Profiles**  
+  Gestiona la información y los datos de perfil de los usuarios.
 
-![Software Architecture Component Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Software_Architecture_Component_Diagram.png)
+- **Clients**  
+  Administra la información de clientes y sus relaciones.
+
+- **Subscriptions**  
+  Gestiona planes de suscripción, ciclos de facturación y se integra con **Stripe** para pagos.
+
+- **Analytics**  
+  Procesa y provee datos analíticos sobre dispositivos, proyectos y clientes.
+
+- **Shared**  
+  Contiene funcionalidades compartidas, como repositorios base, patrones de mediación, utilidades y abstracciones comunes.
+
+En conjunto, este diagrama muestra cómo la aplicación API está modularizada, cómo colaboran los diferentes componentes y cómo se conectan tanto con servicios externos como con la base de datos central.
+
+![Software Architecture Component Diagram](https://i.imgur.com/lXAe2ME.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
