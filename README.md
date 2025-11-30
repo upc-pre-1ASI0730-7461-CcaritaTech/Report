@@ -2668,19 +2668,22 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 
 ### 5.2.4. Sprint 4
 
+Durante el Sprint 4 se estableció la mejora de la plataforma IoBuild, enfocándose en la corrección de errores pendientes y en la integración de funcionalidades necesarias, incluyendo el manejo de suscripciones, para completar el sistema. El trabajo incluyó el ajuste de procesos internos, la mejora en la comunicación entre componentes y la validación del flujo general de la aplicación. Asimismo, se priorizó la estabilidad, la consistencia del diseño y el correcto funcionamiento de las interacciones, consolidando una versión más sólida y pulida del sistema.
+
+
 #### 5.2.4.1. Sprint Planning 4
 
-| **Sprint #**                                 | Sprint 3                                                                                                                                                                     |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**               |                                                                                                                                                                              |
-| **Fecha**                                    | 17/11/2025                                                                                                                                                                   |
-| **Hora**                                     | 16:00 pm (GMT-5)                                                                                                                                                             |
-| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                  |
-| **Preparado por**                            | CcaritaTech Team                                                                                                                                                             |
+| **Sprint #**                                 | Sprint 4                                                                                                                                                                       |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**               |                                                                                                                                                                                |
+| **Fecha**                                    | 17/11/2025                                                                                                                                                                     |
+| **Hora**                                     | 17:00 pm (GMT-5)                                                                                                                                                               |
+| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                    |
+| **Preparado por**                            | CcaritaTech Team                                                                                                                                                               |
 | **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari |
-| **Sprint Goal & User Stories**               |                                                                                                                                                                              |
-| **Velocidad del Sprint 3**                   |                                                                                                                                                                              |   
-| **Suma de Puntos de Historia**               |                                                                                                                                                                              |
+| **Sprint Goal & User Stories**               |                                                                                                                                                                                |
+| **Velocidad del Sprint 4**                   |                                                                                                                                                                                |   
+| **Suma de Puntos de Historia**               |                                                                                                                                                                                |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
@@ -2695,7 +2698,7 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 #### 5.2.4.3. Sprint Backlog 4
 
 
-| *Sprint 2*      |                    |                    |              |               |                      |               |          |
+| *Sprint 4*      |                    |                    |              |               |                      |               |          |
 |-----------------|--------------------|--------------------|--------------|---------------|----------------------|---------------|----------|
 | *User Story*    |                    | *Work-Item / Task* |              |               |                      |               |          |
 | *User Story ID* | *User Story Title* | *Task Id*          | *Task Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status* |
