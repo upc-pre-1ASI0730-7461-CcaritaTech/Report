@@ -2779,6 +2779,39 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+A continuación se presenta un registro de los commits realizados en el repositorio upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend durante el Sprint 4. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación del Web Service hasta su despliege.
+
+| Repository | Branch | Commit Id | Commit Message | Commited on (Date) |
+|------------|---------|-----------|----------------|--------------------|
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics | 370f5b6 | feat(analytics): add domain layer. | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics | 3b2fd59 | feat(analytics): add interfaces layer. | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/devices | 0f038d5 | feat(devices): add devices logs to infrastructure layer. | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/projects | 121ec91 | feat(projects): add units logs to application layer. | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 9123871 | Merge pull request #25 from upc-pre-1ASI0730-7461-CcaritaTech/feat/seed-mac-address | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/config | 8b17759 | fix(config): add new allowed origin for production environment | Nov 14, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | development | 51f35cf | Merge pull request #31 from upc-pre-1ASI0730-7461-CcaritaTech/fix/cors-deploy | Nov 14, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 4c31d2a | feat(subscriptions): add commands and queries for subscription management. | Nov 26, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3226d3f | feat(subscriptions): add subscriptions context and seed data for subscription plans. | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 76407f8 | feat(subscriptions): add ModelBuilderExtensions and SubscriptionRepository for subscription management | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 93f570b | feat(clients): implement Client aggregate with properties and methods for management | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 1e128c9 | feat(clients): add ClientQueryService for handling client queries | Nov 28, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | b8f5f6a | feat(subscriptions): add UpdateSubscriptionResource for updating subscription details | Nov 28, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | cc97fee | feat(clients): add client repository finding methods. | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 2eb2989 | feat(clientes): add client entity configuration. | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | 4b9ae83 | feat(user): implement password update and second email handling commands | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | fee4afa | feat(iam): add SecondEmailCommand and SecondEmailResource for handling secondary email | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles | 6a7edb5 | feat(clients): update connection string and add .dockerignore for development environment | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | cae83f9 | Merge pull request #33 from upc-pre-1ASI0730-7461-CcaritaTech/feat/clients | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | fb82580 | feat(subscriptions): update CreateSubscriptionCommand to use PlanId instead of Plan | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3e169a1 | feat(subscriptions): add ISubscriptionsContextFacade interface for plan management | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 4446ee0 | Merge pull request #34 from upc-pre-1ASI0730-7461-CcaritaTech/feat/subscriptions | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 115911d | Merge pull request #35 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | 7a34c2d | refactor(iam): remove secondemail handling from IUserCommandService and related classes | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | d7bf5be | feat(iam): add SecondEmail property to Profile and implement methods for fetching and updating it | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam | 972ee3c | feat(iam): add methods for fetching and setting second email in IProfilesContextFacade and ProfilesController | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop | 010e88e | Merge pull request #37 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam | Nov 30, 2025       |
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 4, el equipo completó la integración final de los nuevos módulos clave de IoBuild, consolidando la plataforma como un sistema robusto y listo para operación real. Este sprint estuvo enfocado en expandir las capacidades del sistema mediante funcionalidades asociadas a gestión de clientes, planes, suscripciones, pagos y analíticas.
