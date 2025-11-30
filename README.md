@@ -2412,11 +2412,18 @@ Durante el Sprint 2 de IoBuild, el desarrollo se centró en la implementación f
 El enfoque de este sprint se centró en las épicas relacionadas con la implementación funcional del front-end y la integración con una API desplegada basada en db.json, que permite simular la interacción con un sistema backend real. Este avance consolidó una versión plenamente operativa de la aplicación web de IoBuild, permitiendo la gestión dinámica de datos y sentando las bases para la posterior incorporación de un backend con lógica de negocio y persistencia avanzada.
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+#### Segunda versión desplegada de la Landing Page
+Durante el Sprint 2 se llevaron a cabo mejoras significativas en la landing page del proyecto, optimizando su diseño, estructura y experiencia de usuario para ofrecer una presentación más clara, atractiva y funcional del sistema. Una vez implementados los cambios, se realizó nuevamente el proceso de despliegue en GitHub Pages, asegurando que la versión actualizada de la landing page estuviera disponible en línea y alineada con los avances del proyecto.
+
+![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
+
+<br>
+
+#### Primera versión desplegada del Frontend
 Durante el Sprint 2 se puso en marcha el proceso completo de deployment de la aplicación web de IoBuild, utilizando Vercel como proveedor de alojamiento y despliegue continuo. Este proceso permitió publicar una versión funcional y accesible de la plataforma, conectada con la API desplegada y preparada para futuras integraciones de servicios web y módulos adicionales.
 
-![Imagen de Deploy Evidence1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence1.png)
-![Imagen de Deploy Evidence2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence2.png)
-![Imagen de Deploy Evidence3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence3.png)
+![Imagen de Deploy Frontend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence1.jpg)
+![Imagen de Deploy Frontend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence2.jpg)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
