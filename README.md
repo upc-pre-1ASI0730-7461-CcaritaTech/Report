@@ -2780,6 +2780,25 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 #### 5.2.4.4. Development Evidence for Sprint Review
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4, el equipo completó la integración final de los nuevos módulos clave de IoBuild, consolidando la plataforma como un sistema robusto y listo para operación real. Este sprint estuvo enfocado en expandir las capacidades del sistema mediante funcionalidades asociadas a gestión de clientes, planes, suscripciones, pagos y analíticas.
+
+- **Clients (clients):** Se implementó la administración completa de clientes, permitiendo registrar, consultar y actualizar entidades asociadas a los proyectos.
+- **Plans (plans):** Se añadió la gestión de planes disponibles en la plataforma, permitiendo consultar sus características, límites, precios y beneficios. Esta información es clave para vincular capacidades del sistema con las suscripciones de cada cliente.
+- **Subscriptions (subscriptions):** Se completó el módulo de suscripciones, encargado de registrar el estado, fechas, plan asociado y vigencia de cada cliente.
+- **Payments (payments):** Se integraron los endpoints de pagos, incluyendo la creación y confirmación de sesiones de checkout. Este módulo permite enlazar suscripciones con procesos de pago externos, obteniendo sessionIds, validando transacciones y asegurando que el estado final de cada suscripción sea correcto.
+- **Analytics (analytics):** Se incorporó el módulo de analítica, que permite consultar métricas relacionadas a dispositivos, proyectos y uso general de la plataforma.
+
+Estas funcionalidades fueron integradas con el Web Service desarrollado previamente, asegurando una experiencia de usuario coherente y fluida. El resultado es una versión completa de IoBuild, que conecta usuarios, administradores y desarrolladores dentro de un entorno digital intuitivo y orientado a la eficiencia.
+
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2310.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2311.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2312.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2313.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2314.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2315.jpg)
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 4 de IoBuild, el trabajo se enfocó en completar, refinar y desplegar la plataforma, integrando tanto el frontend como el backend en un entorno funcional y accesible para los usuarios. Este sprint marca la consolidación final del sistema, con toda la infraestructura operativa, conectada y validada.
