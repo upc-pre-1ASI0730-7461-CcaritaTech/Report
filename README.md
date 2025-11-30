@@ -1910,7 +1910,9 @@ El diagrama de base de datos de Identity and Access Management (IAM) modela la e
 
 **Subscriptions and Payments Management**
 
-![Subscriptions and Payments Management Database Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Database_Diagram.jpeg)
+El diagrama de base de datos de Subscriptions modela la persistencia del sistema de suscripciones y facturación. La tabla plans almacena los diferentes niveles de servicio disponibles (Basic, Pro, Enterprise), incluyendo precio, descripción, características (en formato texto delimitado), límites de dispositivos y administradores, nivel de soporte, y acceso a API/analytics. La tabla subscriptions vincula cada builder con un plan específico, registrando el estado (active, cancelled, expired), fechas de inicio y fin, facilitando el control de vigencia y renovaciones. Las transacciones financieras se registran en payments, que incluye integración con Stripe mediante el campo stripe_payment_intent_id, almacenando monto, moneda, método de pago y estado. Finalmente, invoices documenta las facturas generadas por cada pago, con número de factura único, montos totales e impuestos, y fechas de emisión, vencimiento y pago. Los índices estratégicos optimizan consultas por builder, plan, estado de suscripción y transacciones de Stripe.
+
+![Subscriptions and Payments Management Database Diagram](https://i.imgur.com/JK84f6p.png)
 
 **Profile and Preferences Management**
 
