@@ -2350,6 +2350,7 @@ A continuación, se presenta la tabla de control de estado del Sprint 2, la cual
 | US42 | Acceder a Ayuda y Soporte                                | T01  | Crear sección de ayuda                         | Implementar vista con categorías o preguntas frecuentes.                                         | 4                | Fabrizio Panta  | Done   |
 |      |                                                          | T02  | Integrar sección de contacto                   | Añadir formulario o link directo al soporte.                                                      | 3                | Fabrizio Panta  | Done   |
 
+
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
 A continuación se presenta un registro de los commits realizados en el repositorio upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Frontend durante el Sprint 2. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación de la Web Application hasta su despliege.
@@ -2460,7 +2461,7 @@ Durante el Sprint 3 se desarrolló la API de la plataforma IoBuild, enfocándose
 | **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Preparado por**                            | CcaritaTech Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari                                                                                                                                                                                                                                                                                                                    |
-| **Sprint Goal & User Stories**               | Nuestro enfoque se centra en desarrollar una API funcional, segura y bien estructurada, que sirva como base sólida para la comunicación entre el sistema y las aplicaciones cliente.<br>Buscamos garantizar un flujo de datos eficiente y confiable, facilitando la correcta gestión de la información y el soporte de las funcionalidades principales.<br>Esto se confirmará cuando los endpoints respondan adecuadamente, gestionen los datos sin errores y mantengan la integridad del sistema en todas las operaciones. |
+| **Sprint Goal & User Stories**               | Nuestro enfoque está en brindar las funcionalidades necesarias para que los propietarios puedan mantener el catalogo proyectos y los constructores puedan mantener el catalogo de sus dispositivos a través de la plataforma. Creemos que esto brindará una mejor experiencia para ambos segmentos, permitiéndoles registrar, consultar y actualizar proyectos y dispositivos de forma autónoma y eficiente. Esto se confirmará cuando los propietarios puedan registrar, ver y actualizar proyectos, y los constructores puedan hacer lo mismo con los dispositivos, todo sin errores y de manera fluida a través de la plataforma.. |
 | **Velocidad del Sprint 3**                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |   
 | **Suma de Puntos de Historia**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
@@ -2489,7 +2490,7 @@ A continuación, se presenta la tabla de control de estado del Sprint 3, que det
 
 Link del desarrollo colaborativo en trello: https://goo.su/YTZK
 
-![sprint-backlog-3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint_Backlog%233.jpg)
+![sprint-backlog-3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint_Backlog%233.png)
 
 
 | Sprint 3        |                                                 |                  |                                                      |                                                                                                                                        |                     |                    |         |
@@ -2541,6 +2542,18 @@ Link del desarrollo colaborativo en trello: https://goo.su/YTZK
 |                 |                                                 | TS15T02          | Implementar consulta de datos específicos            | Mostrar datos relevantes (proyectos, métricas, dispositivos propios).                                                                  | 2                   | Roberto Ccarita    | Done    |
 |                 |                                                 | TS15T03          | Manejar errores de acceso no autorizado (401/403)    | Responder con mensajes claros cuando el usuario no tenga permisos.                                                                     | 2                   | Roberto Ccarita    | Done    |
 |                 |                                                 | TS15T04          | Realizar pruebas de integración                      | Probar accesos válidos, intentos sin token, y accesos con roles incorrectos.                                                           | 1                   | Roberto Ccarita    | Done    |
+| US43            | Registrarse en la plataforma                    | US43T01          | Crear formulario de registro                         | Diseñar y construir el formulario para capturar los datos básicos del usuario y su rol.                                                                   | 3                   | Roberto Ccarita    | Done    |
+|                 |                                                 | US43T02          | Implementar validaciones del formulario              | Verificar campos obligatorios, formatos válidos y coincidencia de contraseñas antes de enviar.                                                                  | 3                   | Roberto Ccarita    | Done    |
+| US44            | Iniciar Sesión (Login)                          | US44T01          | Crear formulario de inicio de sesión                 | Construir la interfaz que permita ingresar correo y contraseña.                                                                   | 2                   | Roberto Ccarita    | Done    |
+|                 |                                                 | US44T02          | Implementar validación de credenciales               | Verificar que los campos estén completos y que la contraseña cumpla con el formato requerido.                                                                  | 2                   | Roberto Ccarita    | Done    |
+| US45            | Cerrar Sesión (Logout)                          | US45T01          | Implementar función de cierre de sesión              | Crear la lógica que elimine el token o sesión activa del usuario.                                                                   | 2                   | Roberto Ccarita    | Done    |
+|                 |                                                 | US45T02          | Redireccionar al usuario al login                    | Asegurar que al cerrar sesión el usuario sea enviado a la pantalla de inicio de sesión.                                                                  | 1                   | Roberto Ccarita    | Done    |
+| TS23            | Registrar nuevo usuario                         | TS23T01          | Crear endpoint POST /users/register                  | Implementar la ruta que crea un nuevo usuario en el sistema.                                                                   | 3                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS23T02          | Implementar lógica de registro                       | Guardar nombre, email, contraseña hasheada y rol en la base de datos.                                                                  | 3                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS23T02          | Validar datos obligatorios y duplicados              | Verificar que los campos requeridos estén completos y que el email no exista.                                                                  | 2                   | Roberto Ccarita    | Done    |
+| TS24            | Validar token de sesión                         | TS24T01          | Crear middleware de validación de token              | Implementar la verificación automática del token en todas las rutas protegidas.                                                                   | 3                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS24T02          | Implementar lógica de validación                     | Confirmar firma, expiración y legitimidad del token recibido.                                                                  | 3                   | Roberto Ccarita    | Done    |
+|                 |                                                 | TS24T02          | Manejar errores de autenticación                     | Retornar mensajes específicos cuando el token es inválido o ha expirado.                                                                  | 2                   | Roberto Ccarita    | Done    |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
@@ -2658,9 +2671,14 @@ El backend fue configurado y desplegado exitosamente en un entorno productivo, g
 
 La aplicación backend, se encuentra en el siguiente link: https://iobuild-backend-production.up.railway.app/swagger/index.html
 
-![Imagen de Deploy Evidence1S3](https://i.postimg.cc/pdXRsdQH/aeba3624-6d5b-4fa0-b1fb-94a7a8acff35.jpg)
-![Imagen de Deploy Evidence2S3](https://i.postimg.cc/mrF8fYyP/acad1737-798a-4f2a-98e3-86612b14a2f5.jpg)
-![Imagen de Deploy Evidence3S3](https://i.postimg.cc/50V5hZ00/0a03fbe1-b7e7-4df4-a23e-9d2cc0132afc.jpg)
+#### Tercera versión desplegada de la Landing Page
+![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
+
+#### Segunda versión desplegada del Frontend
+![Imagen de Deploy Frontend](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Deploy_front%232.jpg)
+
+#### Primera versión desplegada del Backend
+![Imagen de Deploy Backend](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Deploy_back.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
