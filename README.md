@@ -1871,7 +1871,9 @@ El bounded context de Identity and Access Management (IAM) se encarga de gestion
 
 **Subscriptions and Payments Management**
 
-![Subscriptions and Payments Management Class Diagram](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%204/Subscriptions_and_Payments_Management_Class_Diagram.jpeg)
+El diagrama de clases de Subscriptions representa la estructura del modelo de negocio de suscripciones siguiendo Domain-Driven Design (DDD). Los agregados principales son Subscription (que vincula un builder con un plan específico, controlando estado y vigencia) y Plan (que define características, precio y límites de cada nivel de servicio). El diagrama muestra la separación clara entre capas: Domain (agregados, commands, queries, servicios e interfaces de repositorios), Application (implementación de servicios de comandos y consultas, además del ACL SubscriptionsContextFacade que expone funcionalidades a otros bounded contexts), e Infrastructure (repositorios concretos con Entity Framework y servicios de pago con Stripe). Los commands y queries implementan el patrón CQRS, separando operaciones de escritura (crear/actualizar) de las de lectura (consultas). Este diseño facilita la evolución independiente del contexto, manteniendo bajo acoplamiento con otros módulos del sistema.
+
+![Subscriptions and Payments Management Class Diagram](https://i.imgur.com/RnkkLoH.png)
 
 **Projects Management**
 
