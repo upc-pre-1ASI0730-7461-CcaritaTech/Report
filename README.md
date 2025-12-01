@@ -3329,64 +3329,62 @@ A ello se suma la generación de documentación técnica robusta para los nuevos
 
 #### ANEXO A: Investigación y Análisis de Usuarios
 
-Repositorio de la organización: <https://github.com/upc-pre-1ASI0730-7461-CcaritaTech>
-
-Figma: <https://shorturl.at/IIxF9>
-
-URL de las entrevistas: upc-pre-2025200-1asi0730-7461-CcaritaTech-needfinding - <https://goo.su/cQjgzUY>
-
-"Anexo: Diagrama de Lean UX Canvas" <https://shorturl.at/zmHgH>
-
-“Anexo: Diagrama User Persona” <https://goo.su/nQxos3>
-
-“Anexo: Diagrama Journey Mapping” <https://shorturl.at/NSujl>
-
-“Anexo: Diagrama Empathy Mapping” <https://shorturl.at/Hnsyi>
-
-“Anexo: Impact Mapping” <https://shorturl.at/7jHsO>
-
-Video demostrativo de la landing page: <https://goo.su/2pvWAVi>
-
 Este anexo contiene la evidencia de la investigación que valida la necesidad de la plataforma IoBuild y sustenta las decisiones de diseño centradas en el usuario.
 
-- A.1. Resumen de Entrevistas a Expertos del Sector Inmobiliario
+**Repositorio de la organización**
+<https://github.com/upc-pre-1ASI0730-7461-CcaritaTech>
 
-Contexto: Se realizaron entrevistas a gerentes de proyectos de construcción y arquitectos con el fin de comprender los desafíos y oportunidades para la implementación de tecnologías inteligentes en el mercado inmobiliario de Perú.
+**URL de las entrevistas: upc-pre-2025200-1asi0730-7461-CcaritaTech-needfinding**
+<https://goo.su/cQjgzUY>
 
-Hallazgos Clave: Las entrevistas revelaron que las principales barreras para la adopción de domótica son los altos costos, la falta de soluciones integradas y la complejidad técnica. Los profesionales destacaron la necesidad de una plataforma que sea intuitiva y accesible, que permita diferenciar sus proyectos y gestionar de forma eficiente la tecnología desde la etapa de construcción.
+<div style="page-break-before: always;"></div>
 
-- A.2. User Persona: Arquitectos e Ingenieros Civiles
-
-Contexto: Basado en los hallazgos de la investigación, se diseñó este perfil para representar a nuestro usuario clave en el segmento B2B, un profesional que busca diferenciar sus proyectos con propuestas de valor innovadoras.
-
-Imagen User Persona 1: https://shorturl.at/do41z<br>
-Figura A.1. User Persona "Arquitectos e Ingenieros Civiles".
-- A.3. Empathy Map: Dueños de apartamentos
-
-Contexto: Este mapa visualiza lo que el usuario final, el propietario, piensa, siente, dice y hace en su interacción con la tecnología del hogar, sirviendo de base para un diseño de interfaz intuitivo y fácil de usar.
-
-Imagen Empathy Mapping 2: https://shorturl.at/G8xvd<br>
-Figura A.2. Empathy Map de los propietarios de apartamentos.
 #### ANEXO B: Documentación del Diseño y la Experiencia de Usuario (UX/UI)
 
 Este anexo incluye los artefactos visuales y la documentación del proceso de diseño que demuestran la planificación de la experiencia de usuario y la interfaz de la plataforma IoBuild.
 
-- B.1. User Journey Map
+**Lean UX Canvas**
+<https://shorturl.at/zmHgH>
 
-Contexto: Este mapa visualiza el viaje completo del usuario con la plataforma, identificando los puntos de interacción y las oportunidades de mejora en cada etapa, desde el conocimiento inicial de IoBuild hasta el uso diario.
+**User Persona**
+- Arquitectos e Ingenieros Civiles
+<https://shorturl.at/do41z>
 
-Imagen User Journey Mapping 1: https://goo.su/j3JjKYm <br>
-Figura B.1. User Journy Map "Arquitectos e Ingenieros Civiles".
+- Propietaros de Apartamentos
+<https://goo.su/nQxos3>
 
-Imagen User Journey Mapping 2: https://goo.su/6dIeR <br>
-Figura B.2. User Journy Map "Propietaros de Apartamentos".
+**Empathy Mapping**
+- Arquitectos e Ingenieros Civiles
+<https://shorturl.at/Hnsyi>
 
-#### ANEXO C: Investigación y Análisis de Usuarios
+- Propietaros de Apartamentos
+<https://shorturl.at/G8xvd>
+
+**User Journey Map**
+- Arquitectos e Ingenieros Civiles
+<https://goo.su/j3JjKYm>
+
+- Propietaros de Apartamentos
+<https://goo.su/6dIeR>
+
+**Impact Mapping**
+<https://shorturl.at/7jHsO>
+
+**Prootipo en Figma**
+<https://shorturl.at/IIxF9>
+
+**Video demostrativo de la landing page**
+<https://goo.su/2pvWAVi>
+
+<div style="page-break-before: always;"></div>
+
+#### ANEXO C: Arquitectura de software
+
 Este anexo contiene material técnico que sustenta la estructura y la viabilidad del proyecto, complementando el análisis presentado en el cuerpo principal del documento.
 
-- C.1. Diagrama de Arquitectura de la Plataforma (Modelo C4)
+Diagrama de Arquitectura de la Plataforma (Modelo C4)
+<https://goo.su/SOIgb>
 
-Contexto: Se presenta un diagrama de la arquitectura de la plataforma IoBuild, siguiendo el modelo C4. Este modelo se utiliza para documentar arquitecturas de software de manera jerárquica y comprensible. En este caso, se ilustra el Diagrama de Contenedores, que desglosa los principales componentes de la plataforma (aplicación web, base de datos, APIs) y sus interacciones.
+<div style="page-break-before: always;"></div>
 
-Imagen Software Architecture Container Diagrams: https://goo.su/SOIgb<br>
-Figura C.1. Diagrama de Contenedores de la plataforma IoBuild.
+#### ANEXO D: Videos de Exposiciones
