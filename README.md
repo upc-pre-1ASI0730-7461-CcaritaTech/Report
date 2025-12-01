@@ -2884,7 +2884,59 @@ A continuación se presenta la tabla de los endpoints documentados:
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### Cuarta versión desplegada de la Landing Page
+Durante el Sprint 4 se llevaron a cabo mejoras importantes en la landing page de IoBuild, orientadas a optimizar su diseño, claridad visual y usabilidad. Estas mejoras incluyeron ajustes en la estructura, actualización de contenidos y refinamientos en la experiencia de usuario, permitiendo presentar una versión más pulida y alineada con la identidad del proyecto.
+
+![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
+
+<br>
+
+#### Tercera versión desplegada del Frontend
+Durante el Sprint 4 se implementaron mejoras significativas en la aplicación web de IoBuild, orientadas a optimizar su rendimiento, usabilidad y coherencia visual. Estas optimizaciones incluyeron ajustes en la estructura de componentes, refinamiento de estilos y corrección de funcionalidades identificadas en iteraciones previas. Una vez completadas estas actualizaciones, se llevó a cabo nuevamente el proceso de despliegue utilizando Vercel como plataforma de alojamiento e integración continua, garantizando que la versión actualizada de la aplicación web estuviera disponible, funcional y alineada con los avances generales del proyecto.
+
+![Imagen de Deploy Frontend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend1.jpg)
+![Imagen de Deploy Frontend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend2.jpg)
+![Imagen de Deploy Frontend3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend3.jpg)
+
+<br>
+
+#### Segunda versión desplegada del Backend
+Durante el Sprint 4 se realizaron mejoras esenciales en el backend de IoBuild, orientadas a optimizar su rendimiento, modularidad y estabilidad dentro del entorno productivo. Estas mejoras incluyeron ajustes en la lógica interna, refinamiento de controladores y se agregaron endpoints restantes. Una vez completadas estas optimizaciones, se procedió al despliegue actualizado del backend utilizando Railway como plataforma de hosting e integración continua. Gracias a la vinculación con el repositorio de GitHub, el proceso de construcción y publicación se automatizó correctamente, asegurando que la versión mejorada del backend estuviera disponible y funcionando de manera eficiente en el entorno productivo.
+
+![Imagen de Deploy Backend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend1.jpg)
+![Imagen de Deploy Backend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend2.jpg)
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4 de IoBuild, el equipo concentró sus esfuerzos en avanzar y consolidar tanto la aplicación web como la RESTful API, enfocadas en los perfiles Owner y Builder. Las tareas principales estuvieron orientadas a completar las vistas pendientes, manejar información dinámica y afianzar el diseño visual y funcional de toda la plataforma.
+
+En esta fase se estableció la estructura fundamental del sistema, incorporando componentes como Clients y Subscriptions, lo que permitió asegurar una navegación coherente, ordenada y totalmente integrada. Además, se añadieron funcionalidades clave como la edición de perfil, la configuración de idioma mediante i18n y diversas opciones de personalización para el usuario, mejorando significativamente la experiencia interactiva.
+
+El diseño visual continuó alineado con la identidad de IoBuild, priorizando la coherencia estética, la adaptabilidad a distintos dispositivos y la facilidad de uso. Se mantuvo una tipografía uniforme y una paleta de colores que refuerza la claridad, el profesionalismo y la modernidad de la plataforma.
+
+La colaboración del equipo se llevó a cabo mediante GitHub, aplicando un flujo de trabajo basado en ramas independientes por funcionalidad, commits estandarizados bajo la convención Conventional Commits y Pull Requests revisados de forma colaborativa. Esto permitió garantizar la calidad del código, su trazabilidad y la consistencia del proyecto.
+
+A continuación, se detallan las contribuciones individuales de cada miembro durante este sprint.
+
+#### Insights
+
+![Imagen de Insights](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Insights.png)
+
+#### Contribuciones por miembro
+
+![Imagen de Insights2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Contribuciones-por-miembro.png)
+
+#### Commits del repositorio
+
+![Imagen de Commits1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Commits1.png)
+![Imagen de Commits2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Commits2.png)
+![Imagen de Commits3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Commits3.png)
+
+#### Network Graph
+
+![Network Graph](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Network.png)
 
 
 ## 5.3. Validation Interviews.
