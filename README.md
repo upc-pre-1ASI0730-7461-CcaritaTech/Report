@@ -2428,6 +2428,7 @@ El enfoque de este sprint se centró en las épicas relacionadas con la implemen
 #### Segunda versión desplegada de la Landing Page
 Durante el Sprint 2 se llevaron a cabo mejoras significativas en la landing page del proyecto, optimizando su diseño, estructura y experiencia de usuario para ofrecer una presentación más clara, atractiva y funcional del sistema. Una vez implementados los cambios, se realizó nuevamente el proceso de despliegue en GitHub Pages, asegurando que la versión actualizada de la landing page estuviera disponible en línea y alineada con los avances del proyecto.
 
+La landing page, se encuentra en el siguiente link: https://upc-pre-1asi0730-7461-ccaritatech.github.io/landing-page-CcaritaTech/
 ![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
 
 <br>
@@ -2435,6 +2436,7 @@ Durante el Sprint 2 se llevaron a cabo mejoras significativas en la landing page
 #### Primera versión desplegada del Frontend
 Durante el Sprint 2 se puso en marcha el proceso completo de deployment de la aplicación web de IoBuild, utilizando Vercel como proveedor de alojamiento y despliegue continuo. Este proceso permitió publicar una versión funcional y accesible de la plataforma, conectada con la API desplegada y preparada para futuras integraciones de servicios web y módulos adicionales.
 
+La aplicación frontend, se encuentra en el siguiente link: https://io-build-frontend.vercel.app/
 ![Imagen de Deploy Frontend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence1.jpg)
 ![Imagen de Deploy Frontend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_de_Deploy_Evidence2.jpg)
 
@@ -2686,18 +2688,28 @@ A continuación se muestra la tabla de los endpoints documentados:
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-Durante el Sprint 3 se implementó el proceso completo de despliegue del backend de IoBuild, utilizando Railway como plataforma de hosting e integración continua. A través de la vinculación directa con el repositorio de GitHub, se automatizó el pipeline de construcción, publicación y actualización del servicio.
-El backend fue configurado y desplegado exitosamente en un entorno productivo, garantizando su conexión con la base de datos en MySQL y la disponibilidad de los endpoints a través de Swagger.
-
-La aplicación backend, se encuentra en el siguiente link: https://iobuild-backend-production.up.railway.app/swagger/index.html
-
 #### Tercera versión desplegada de la Landing Page
+Durante el Sprint 3 se implementaron ajustes y mejoras significativas en la landing page de IoBuild, con el propósito de optimizar su apariencia visual, la organización del contenido y la experiencia general del usuario. Estas actualizaciones contribuyeron a fortalecer la claridad del mensaje, la coherencia del diseño y la accesibilidad de la página.
+
+Una vez completadas las mejoras, se ejecutó nuevamente el proceso de deployment a través de GitHub Pages, garantizando que la versión actualizada y optimizada de la landing page estuviera disponible públicamente, plenamente funcional y en consonancia con el progreso continuo del proyecto.
+
+La landing page, se encuentra en el siguiente link: https://upc-pre-1asi0730-7461-ccaritatech.github.io/landing-page-CcaritaTech/
 ![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
 
 #### Segunda versión desplegada del Frontend
+Durante el Sprint 3 se implementaron mejoras fundamentales en la landing page de IoBuild, orientadas a optimizar su apariencia visual, organización del contenido y experiencia de navegación. Estas actualizaciones contribuyeron a fortalecer la claridad del mensaje, la cohesión del diseño y la accesibilidad de la página para distintos tipos de usuarios.
+
+Una vez concluidos los ajustes, se realizó nuevamente el proceso de deployment mediante GitHub Pages, garantizando que la versión actualizada estuviera disponible de forma pública, completamente funcional y en consonancia con el progreso continuo del proyecto.
+
+La aplicación frontend, se encuentra en el siguiente link: https://io-build-frontend.vercel.app/
 ![Imagen de Deploy Frontend](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Deploy_front%232.jpg)
 
 #### Primera versión desplegada del Backend
+Durante el Sprint 3 se implementó el proceso completo de despliegue del backend de IoBuild, utilizando Railway como plataforma de hosting e integración continua. A través de la vinculación directa con el repositorio de GitHub, se automatizó el pipeline de construcción, publicación y actualización del servicio.
+
+El backend fue configurado y desplegado exitosamente en un entorno productivo, garantizando su conexión con la base de datos en MySQL y la disponibilidad de los endpoints a través de Swagger.
+
+La aplicación backend, se encuentra en el siguiente link: https://iobuild-backend-production.up.railway.app/swagger/index.html
 ![Imagen de Deploy Backend](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Deploy_back.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -2708,21 +2720,21 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 
 #### Insights
 
-![Imagen de Insights](https://i.postimg.cc/CMP0KYVr/pulse.png)
+![Imagen de Insights](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint3_Insights.png)
 
 #### Contribuciones por miembro
 
-![Imagen de Insights2](https://i.postimg.cc/d37x1b8N/contributors.png)
+![Imagen de Contribuciones](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint3_Contribuciones-por-miembro.png)
 
 #### Commits del repositorio
 
-![Imagen de Commits](https://i.postimg.cc/zGS88hDv/commits1.png)
-![Imagen de Commits2](https://i.postimg.cc/J4jGHG4s/commits2.png)
-![Imagen de Commits3](https://i.postimg.cc/nrBcmPx7/commits3.png)
+![Imagen de Commits1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint3_Commits1.png)
+![Imagen de Commits2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint3_Commits2.png)
+![Imagen de Commits3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint3_Commits3.png)
 
 #### Network Graph
 
-![Network Graph](https://i.postimg.cc/NMK392td/networkgraph.png)
+![Network Graph](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint3_Network.png)
 
 ### 5.2.4. Sprint 4
 
@@ -2947,6 +2959,7 @@ A continuación se presenta la tabla de los endpoints documentados:
 #### Cuarta versión desplegada de la Landing Page
 Durante el Sprint 4 se llevaron a cabo mejoras importantes en la landing page de IoBuild, orientadas a optimizar su diseño, claridad visual y usabilidad. Estas mejoras incluyeron ajustes en la estructura, actualización de contenidos y refinamientos en la experiencia de usuario, permitiendo presentar una versión más pulida y alineada con la identidad del proyecto.
 
+La landing page, se encuentra en el siguiente link: https://upc-pre-1asi0730-7461-ccaritatech.github.io/landing-page-CcaritaTech/
 ![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
 
 <br>
@@ -2954,6 +2967,7 @@ Durante el Sprint 4 se llevaron a cabo mejoras importantes en la landing page de
 #### Tercera versión desplegada del Frontend
 Durante el Sprint 4 se implementaron mejoras significativas en la aplicación web de IoBuild, orientadas a optimizar su rendimiento, usabilidad y coherencia visual. Estas optimizaciones incluyeron ajustes en la estructura de componentes, refinamiento de estilos y corrección de funcionalidades identificadas en iteraciones previas. Una vez completadas estas actualizaciones, se llevó a cabo nuevamente el proceso de despliegue utilizando Vercel como plataforma de alojamiento e integración continua, garantizando que la versión actualizada de la aplicación web estuviera disponible, funcional y alineada con los avances generales del proyecto.
 
+La aplicación frontend, se encuentra en el siguiente link: https://io-build-frontend.vercel.app/
 ![Imagen de Deploy Frontend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend1.jpg)
 ![Imagen de Deploy Frontend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend2.jpg)
 ![Imagen de Deploy Frontend3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend3.jpg)
@@ -2963,6 +2977,7 @@ Durante el Sprint 4 se implementaron mejoras significativas en la aplicación we
 #### Segunda versión desplegada del Backend
 Durante el Sprint 4 se realizaron mejoras esenciales en el backend de IoBuild, orientadas a optimizar su rendimiento, modularidad y estabilidad dentro del entorno productivo. Estas mejoras incluyeron ajustes en la lógica interna, refinamiento de controladores y se agregaron endpoints restantes. Una vez completadas estas optimizaciones, se procedió al despliegue actualizado del backend utilizando Railway como plataforma de hosting e integración continua. Gracias a la vinculación con el repositorio de GitHub, el proceso de construcción y publicación se automatizó correctamente, asegurando que la versión mejorada del backend estuviera disponible y funcionando de manera eficiente en el entorno productivo.
 
+La aplicación backend, se encuentra en el siguiente link: https://iobuild-backend-production.up.railway.app/swagger/index.html
 ![Imagen de Deploy Backend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend1.jpg)
 ![Imagen de Deploy Backend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend2.jpg)
 
