@@ -2477,9 +2477,9 @@ A continuación se presenta un registro de los commits realizados en el reposito
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-!()[https://i.imgur.com/5ZtafLR.png]
+![Execution Evidence 1](https://i.imgur.com/5ZtafLR.png)
 
-!()[https://i.imgur.com/gfpCmIZ.png]
+![Execution Evidence 2](https://i.imgur.com/gfpCmIZ.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Durante el Sprint 2 de IoBuild, el desarrollo se centró en la implementación funcional de la aplicación web, integrando la interfaz con una API desplegada basada en la estructura del archivo db.json. Esta API, disponible en https://iobuild-api.arroz.dev/, actúa como una fuente de datos remota simulada, permitiendo el consumo de información dinámica sin necesidad de un backend.
@@ -2847,6 +2847,16 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 
 #### 5.2.4.3. Sprint Backlog 4
+
+El presente Sprint Backlog está orientado a la culminación integral del desarrollo de la plataforma IoBuild, consolidando los avances realizados en entregas anteriores. Durante el Sprint 4 se finalizó la implementación completa de la landing page, la aplicación web y la RESTful API, asegurando su integración correcta y su funcionamiento cohesivo como un sistema unificado.
+
+En esta etapa se pulieron los componentes visuales y funcionales de la interfaz, se completó la lógica necesaria en el frontend, y se estabilizaron los servicios del backend, garantizando la comunicación fluida entre cada módulo. De esta manera, el Sprint 4 marca el cierre del desarrollo principal de la plataforma, permitiendo contar con una versión totalmente operativa y lista para futuras mejoras o despliegues.
+
+A continuación, se presenta la tabla de control de estado del Sprint 4, que detalla las User Stories, sus tareas asociadas (Work Items), descripciones funcionales, estimaciones en horas, responsables y estado actual de avance.
+
+Link del desarrollo colaborativo en trello: https://shorturl.at/Jp9Wx
+
+![sprint-backlog-4](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint_Backlog%234.png)
 
 
 | Sprint 4      |                                             |                  |                                                |                                                                                                  |                    |                 |        |
