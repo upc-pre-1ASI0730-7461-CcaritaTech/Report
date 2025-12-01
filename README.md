@@ -2981,6 +2981,7 @@ A continuación se presenta la tabla de los endpoints documentados:
 #### Cuarta versión desplegada de la Landing Page
 Durante el Sprint 4 se llevaron a cabo mejoras importantes en la landing page de IoBuild, orientadas a optimizar su diseño, claridad visual y usabilidad. Estas mejoras incluyeron ajustes en la estructura, actualización de contenidos y refinamientos en la experiencia de usuario, permitiendo presentar una versión más pulida y alineada con la identidad del proyecto.
 
+
 La landing page, se encuentra en el siguiente link: https://upc-pre-1asi0730-7461-ccaritatech.github.io/landing-page-CcaritaTech/
 ![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
 
@@ -2998,6 +2999,8 @@ La aplicación frontend, se encuentra en el siguiente link: https://io-build-fro
 
 #### Segunda versión desplegada del Backend
 Durante el Sprint 4 se realizaron mejoras esenciales en el backend de IoBuild, orientadas a optimizar su rendimiento, modularidad y estabilidad dentro del entorno productivo. Estas mejoras incluyeron ajustes en la lógica interna, refinamiento de controladores y se agregaron endpoints restantes. Una vez completadas estas optimizaciones, se procedió al despliegue actualizado del backend utilizando Railway como plataforma de hosting e integración continua. Gracias a la vinculación con el repositorio de GitHub, el proceso de construcción y publicación se automatizó correctamente, asegurando que la versión mejorada del backend estuviera disponible y funcionando de manera eficiente en el entorno productivo.
+
+Para garantizar disponibilidad ante cualquier eventualidad, se habilitó un backend alternativo de emergencia, accesible a través del siguiente link: https://io-build-back.arroz.dev/api/v1. Este servidor permite mantener operativa la API y asegurar la continuidad de los servicios en caso de incidencias con la instancia principal.
 
 La aplicación backend, se encuentra en el siguiente link: https://iobuild-backend-production.up.railway.app/swagger/index.html
 ![Imagen de Deploy Backend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend1.jpg)
