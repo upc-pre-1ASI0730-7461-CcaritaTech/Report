@@ -3347,7 +3347,7 @@ Este anexo contiene la evidencia de la investigación que valida la necesidad de
 <https://github.com/upc-pre-1ASI0730-7461-CcaritaTech>
 
 **URL de las entrevistas: upc-pre-2025200-1asi0730-7461-CcaritaTech-needfinding**
-<https://goo.su/cQjgzUY>
+<https://goo.su/5OHYYo>
 
 <div style="page-break-before: always;"></div>
 
@@ -3356,28 +3356,28 @@ Este anexo contiene la evidencia de la investigación que valida la necesidad de
 Este anexo incluye los artefactos visuales y la documentación del proceso de diseño que demuestran la planificación de la experiencia de usuario y la interfaz de la plataforma IoBuild.
 
 **Lean UX Canvas**
-<https://shorturl.at/zmHgH>
+<https://url-shortener.me/16XS>
 
 **User Persona**
 - Arquitectos e Ingenieros Civiles
-<https://shorturl.at/do41z>
+<https://shorturl.at/criHh>
 
 - Propietaros de Apartamentos
-<https://goo.su/nQxos3>
+<https://shorturl.at/dcOjW>
 
 **Empathy Mapping**
 - Arquitectos e Ingenieros Civiles
-<https://shorturl.at/Hnsyi>
+<https://shorturl.at/9nykf>
 
 - Propietaros de Apartamentos
-<https://shorturl.at/G8xvd>
+<https://url-shortener.me/16XB>
 
 **User Journey Map**
 - Arquitectos e Ingenieros Civiles
-<https://goo.su/j3JjKYm>
+<https://url-shortener.me/16XF>
 
 - Propietaros de Apartamentos
-<https://goo.su/6dIeR>
+<https://url-shortener.me/16XI>
 
 **Impact Mapping**
 <https://shorturl.at/7jHsO>
@@ -3386,17 +3386,40 @@ Este anexo incluye los artefactos visuales y la documentación del proceso de di
 <https://shorturl.at/IIxF9>
 
 **Video demostrativo de la landing page**
-<https://goo.su/2pvWAVi>
+<https://goo.su/VrMaF>
 
 <div style="page-break-before: always;"></div>
 
-#### ANEXO C: Arquitectura de software
+#### ANEXO C: Links de aplicaciones desplegadas
 
-Este anexo contiene material técnico que sustenta la estructura y la viabilidad del proyecto, complementando el análisis presentado en el cuerpo principal del documento.
+Este anexo contiene los enlaces a las aplicaciones desplegadas correspondientes a la plataforma IoBuild.
 
-Diagrama de Arquitectura de la Plataforma (Modelo C4)
-<https://goo.su/SOIgb>
+**Landing Page**
+<https://url-shortener.me/16Z8>
+
+**Aplicación Web (Frontend)**
+<https://io-build-frontend.vercel.app/>
+
+**Aplicación Backend (API 1)**
+<https://url-shortener.me/16ZD>
+
+**Aplicación Backend (API 2)**
+<https://io-build-back.arroz.dev/api/v1>
 
 <div style="page-break-before: always;"></div>
 
 #### ANEXO D: Videos de Exposiciones
+
+Este anexo incluye los enlaces a los videos de las exposiciones realizadas durante las distintas etapas del proyecto IoBuild.
+
+**Video de exposición TB1**
+  <https://shorturl.at/0EB3U>
+
+**Video de exposición TP1**
+  <https://shorturl.at/PRpg0>
+
+**Video de exposición TB2**
+  <https://shorturl.at/i3955>
+
+**Video de exposición TF1**
+  <>
