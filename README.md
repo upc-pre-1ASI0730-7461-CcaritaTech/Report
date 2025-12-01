@@ -3322,12 +3322,16 @@ A ello se suma la generación de documentación técnica robusta para los nuevos
 - JLL. (2024). Evolución sostenible: Edificios verdes en América Latina. Rescato de https://shorturl.at/P8l2l
 - Digi. (2024). IoT Aplicaciones para edificios inteligentes: Casos de uso y principales ventajas. Rescato de https://shorturl.at/gfMsP
 - Domotec. (n.d.). Inicio. Rescato de https://shorturl.at/Hd9do
+- MySQL. (n.d.). MySQL. Rescato de https://shorturl.at/8uKim
 - MWF Solutions. (n.d.). Incio. Rescato de https://mwfsolutions.pe/
 - Orbivo Perú. (n.d.). Inicio. Rescato de https://orviboperu.com.pe/
 - JetBrains. (n.d.). WebStorm. Rescatado de https://www.jetbrains.com/webstorm/
 - Lucid Software Inc. (n.d.). Lucidchart. Rescatado de https://shorturl.at/5hKy3
 - Structurizr Ltd. (n.d.). Structurizr. Rescatado de https://structurizr.com/
 - Fowler, M. (2013). GivenWhenThen. Rescatado de https://shorturl.at/rzc4x
+- Docker. (n.d.). Docker Desktop. Rescatado de https://shorturl.at/VDc96
+- Swagger. (n.d.). Swagger UI. Rescatado de https://shorturl.at/s7s36
+- Git SCM. (n.d.). Git. Rescatado de https://git-scm.com/
 
 
 ## Anexos
