@@ -3393,3 +3393,15 @@ Diagrama de Arquitectura de la Plataforma (Modelo C4)
 <div style="page-break-before: always;"></div>
 
 #### ANEXO D: Videos de Exposiciones
+
+**Video de exposición TB1**
+  <https://shorturl.at/0EB3U>
+
+**Video de exposición TP1**
+  <https://shorturl.at/PRpg0>
+
+**Video de exposición TB2**
+  <https://shorturl.at/i3955>
+
+**Video de exposición TF1**
+  <>
