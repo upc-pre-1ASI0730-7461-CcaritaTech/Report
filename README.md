@@ -3385,6 +3385,8 @@ Este anexo incluye los artefactos visuales y la documentación del proceso de di
 
 #### ANEXO C: Links de aplicaciones desplegadas
 
+Este anexo contiene los enlaces a las aplicaciones desplegadas correspondientes a la plataforma IoBuild.
+
 **Landing Page**
 <https://url-shortener.me/16Z8>
 
@@ -3400,6 +3402,8 @@ Este anexo incluye los artefactos visuales y la documentación del proceso de di
 <div style="page-break-before: always;"></div>
 
 #### ANEXO D: Videos de Exposiciones
+
+Este anexo incluye los enlaces a los videos de las exposiciones realizadas durante las distintas etapas del proyecto IoBuild.
 
 **Video de exposición TB1**
   <https://shorturl.at/0EB3U>
