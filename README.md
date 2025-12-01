@@ -268,6 +268,54 @@ Finalmente, se corrigieron las imágenes del informe y se añadió la documentac
 
 - **Deploy del backend.** Configuró el entorno de producción, garantizando la conexión correcta entre el backend, la base de datos y el frontend.
 
+
+**TF1 - Desarrollo de final de web service y web app.**
+
+Durante esta fase final del proyecto se consolidaron los avances más importantes en el desarrollo del backend, la integración completa del sistema y el despliegue final de la plataforma. En primer lugar, se implementaron los bounded contexts de Clients, Subscriptions, Payment y Plans, desarrollando los endpoints necesarios para la gestión de clientes, suscripciones y pagos, y asegurando una arquitectura organizada y coherente para todos los módulos del backend.
+
+Se completaron todas las pruebas de integración y se verificó la correcta comunicación entre los distintos endpoints, asegurando la estabilidad y eficiencia del sistema.
+
+En el frontend, se finalizó la integración de todas las pantallas y flujos, consolidando la presentación de clientes, planes y pagos, así como la interacción con el backend mediante las APIs desarrolladas. Se realizaron pruebas de usabilidad y ajustes finales para garantizar coherencia visual, experiencia de usuario y funcionamiento pleno de la plataforma.
+
+Finalmente, se ejecutó el deploy de la plataforma, configurando los entornos de producción y asegurando la correcta conexión entre backend, frontend y base de datos. Esta entrega marca la versión final de IoBuild, lista para operación y con todos los módulos implementados, integrados y funcionando de manera estable, cerrando así el ciclo de desarrollo del proyecto.
+
+**Capturas del avance de los colaboradores en el repositorio**
+![Contributors4](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Contributors4.png)
+![Network10](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%201/Network10.png)
+
+**Fabrizio Panta Castro**
+
+- **Implementación de ajustes finales y formularios.** Corrigió configuraciones, implementó el formulario para cambio de contraseña y agregó la opción de cuenta de respaldo, contribuyendo a mejorar la usabilidad y la seguridad del sistema.
+
+- **Desarrollo de endpoints y soporte general.** Desarrolló los endpoints necesarios para el cambio de contraseña y la agregación de cuentas de respaldo, además de realizar correcciones y ajustes en el control de versiones y en los reportes del proyecto.
+
+**Yeira Shari Huamán Olivos**
+
+- **Implementación de suscripciones.** Implementó las pantallas y flujos de suscripciones, asegurando la correcta interacción con el sistema y la experiencia de usuario.
+
+- **Desarrollo de endpoints y documentación** Desarrolló los endpoints necesarios para la gestión de suscripciones e incorporó correcciones y documentación de evidencias del Sprint 4, garantizando la trazabilidad y la integridad del proyecto.
+
+**Brayan Ccarita Cruz**
+
+- **Desarrollo del bounded context IAM** Desarrolló los endpoints responsables de la autenticación y la gestión de usuarios dentro del módulo Identity and Access Management, asegurando la seguridad y consistencia de los datos.
+
+- **Pruebas y validación.** Realizó pruebas de integración iniciales para garantizar el correcto funcionamiento de los endpoints desarrollados y la estabilidad del módulo dentro del sistema.
+
+**Jean Niels Arizabal Condori**
+
+- **Diseño y arquitectura de endpoints.** Definió rutas, métodos y parámetros para los distintos bounded contexts, estableciendo una estructura sólida y coherente para la implementación del backend.
+
+- **Integración de contenido multimedia y reportes.** Agregó los videos “About the Product” y “About the Team” en la landing page y realizó correcciones de C4 y formateo en la documentación final del proyecto.
+
+**Axel Randall Ordoñez Ricaldi**
+
+- **Finalización de los bounded contexts Projects y Clients.** Culminó los endpoints restantes del módulo Projects, implementó infraestructura e interfaces de Clients y realizó pruebas de integración para asegurar la funcionalidad completa del sistema.
+
+- **Deploy de la plataforma.** Configuró el entorno de producción, garantizando la correcta conexión entre backend, frontend y base de datos, consolidando la operación final de la plataforma y asegurando su disponibilidad estable.
+
+
+<div style="page-break-before: always;"></div>
+
 # Contenido
 
 
@@ -391,7 +439,7 @@ Finalmente, se corrigieron las imágenes del informe y se añadió la documentac
 
 <!-- [5.4. Video About-the-Product](#54-video-about-the-product)   -->
 
-  
+<div style="page-break-before: always;"></div>
 
 # Student Outcome
 
