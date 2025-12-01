@@ -2726,112 +2726,276 @@ Además, se documentaron y probaron los endpoints REST desde Swagger, garantizan
 
 ### 5.2.4. Sprint 4
 
+Durante el Sprint 4 se estableció la mejora de la plataforma IoBuild, enfocándose en la corrección de errores pendientes y en la integración de funcionalidades necesarias para completar el sistema. El trabajo incluyó el ajuste de procesos internos, la mejora en la comunicación entre componentes y la validación del flujo general de la aplicación. Asimismo, se priorizó la estabilidad, la consistencia del diseño y el correcto funcionamiento de las interacciones, consolidando una versión más sólida y pulida del sistema.
+
+
 #### 5.2.4.1. Sprint Planning 4
 
-| **Sprint #**                                 | Sprint 3                                                                                                                                                                     |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**               |                                                                                                                                                                              |
-| **Fecha**                                    | 17/11/2025                                                                                                                                                                   |
-| **Hora**                                     | 16:00 pm (GMT-5)                                                                                                                                                             |
-| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                  |
-| **Preparado por**                            | CcaritaTech Team                                                                                                                                                             |
-| **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari |
-| **Sprint Goal & User Stories**               |                                                                                                                                                                              |
-| **Velocidad del Sprint 3**                   |                                                                                                                                                                              |
-| **Suma de Puntos de Historia**               |                                                                                                                                                                              |
+| **Sprint #**                                 | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Fecha**                                    | 17/11/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Hora**                                     | 17:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Ubicación**                                | Reunión virtual por Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Preparado por**                            | CcaritaTech Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Participantes (reunión de planificación)** | - Ccarita Cruz, Brayan Roberto <br> - Ordoñez Ricaldi, Axel Randall <br> - Panta Castro, Fabrizio Martin <br> - Arizabal Condori, Jean Niels <br> - Huaman Olivos, Yeira Shari                                                                                                                                                                                                                                                                                                    |
+| **Sprint Goal & User Stories**               | Nuestro enfoque se centra en ofrecer una plataforme estable, clara y coherente, asegurando que cada funcionalidad se integre adecuadamente en la experiencia del usuario. <br>Creemos que esto fortalecerá la interacción dentro del sistema y permitirá una gestión más organizada y comprensible.<br> Esto se confirmará cuando los usuarios puedan navegar sin dificultades, ejercutar sus tareas sin errores y utilizar las funciones esenciales de forma fluida y eficiente. |
+| **Velocidad del Sprint 4**                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |   
+| **Suma de Puntos de Historia**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Team Member                   | GitHub Username |   |    |   |   |  |
-|-------------------------------|-----------------|---|----|---|---|--|
-| Arizabal Condori, Jean Niels  | JeanArizabal    |   |    |   |   |  |
-| Ccarita Cruz, Roberto Brayan  | hallzyx         |   |    |   |   |  |
-| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        |   |    |   |   |  |
-| Panta Castro, Fabrizio Martin | F4brizio24      |   |    |   |   |  |
-| Olivos Huaman, Yeira Shari    | YeiShari        |   |    |   |   |  |
+En este sección se describen los aspectos funcionales más relevantes trabajados durante el Sprint 4, enfocados en la corrección de errores, el refinamiento de módulos existentes y la integración de capacidades necesarias para el funcionamiento completo de la plataforma IoBuild. Cada aspecto desarrollado corresponde a componentes esenciales dentro del sistema, abarcando mejoras en la gestión de dispositivos, administración de proyectos, control de accesos y otros elementos clave que fortalecen la estructura general de la aplicación.
+
+Para cada aspecto se asignó un Líder (L), responsable de la dirección técnica y la implementación principal, así como Colaboradores (C), encargados de apoyar en el desarrollo, validación y documentación de cada módulo.
+
+La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara la distribución de responsabilidades durante el Sprint, garantizando trazabilidad, coordinación y efectividad en el trabajo colaborativo realizado.
+
+| Team Member                   | GitHub Username | IAM | Subscriptions | Devices Management | Clients | Projects Management |
+|-------------------------------|-----------------|-----|---------------|--------------------|---------|---------------------|
+| Arizabal Condori, Jean Niels  | JeanArizabal    | C   | C             | C                  | C       | L                   |                             
+| Ccarita Cruz, Roberto Brayan  | hallzyx         | L   | C             | C                  | C       | C                   |                             
+| Ordoñez Ricaldi, Axel Randall | nOOmzzzz        | C   | C             | C                  | L       | C                   |                             
+| Panta Castro, Fabrizio Martin | F4brizio24      | C   | C             | L                  | C       | C                   |                             
+| Olivos Huaman, Yeira Shari    | YeiShari        | C   | L             | C                  | C       | C                   |
+
 
 #### 5.2.4.3. Sprint Backlog 4
 
 
-| *Sprint 2*      |                    |                    |              |               |                      |               |          |
-|-----------------|--------------------|--------------------|--------------|---------------|----------------------|---------------|----------|
-| *User Story*    |                    | *Work-Item / Task* |              |               |                      |               |          |
-| *User Story ID* | *User Story Title* | *Task Id*          | *Task Title* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status* |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
-|                 |                    |                    |              |               |                      |               |          |
+| Sprint 4      |                                             |                  |                                                |                                                                                                  |                    |                 |        |
+|---------------|---------------------------------------------|------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|-----------------|--------|
+| User Story*   |                                             | Work-Item / Task |                                                |                                                                                                  |                    |                 |        |
+| User Story ID | User Story Title                            | Task Id          | Task Title                                     | Description                                                                                      | Estimation (Hours) | Assigned To     | Status |
+| TS04          | Actualizar la información de un cliente     | TS04T01          | Crear endpoint PUT /clients/{id}               | Implementar la ruta para actualizar los datos de un cliente existente.                           | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS04T02          | Implementar lógica de actualización            | Desarrollar la funcionalidad que modifica los campos permitidos del cliente en la base de datos. | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS04T03          | Validar existencia del cliente                 | Verificar que el cliente enviado en la solicitud exista antes de proceder con la actualización.  | 2                  | Jean Arizabal   | Done   |
+| TS05          | Eliminar un cliente                         | TS05T01          | Crear endpoint DELETE /clients/{id}            | Implementar la ruta que permita eliminar un cliente por su identificador.                        | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS05T02          | Implementar lógica de eliminación              | Desarrollar la operación que borra el registro del cliente en la base de datos.                  | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS05T03          | Validar cliente antes de eliminar              | Confirmar que el cliente exista y no tenga restricciones antes de permitir su eliminación.       | 2                  | Axel Ordoñez    | Done   |
+| TS06          | Soportar ordenación en la lista de clientes | TS06T01          | Agregar parámetros sortBy y sortDirection      | Incorporar los parámetros de ordenación en el endpoint de listado.                               | 2                  | Roberto Ccarita | Done   |
+|               |                                             | TS06T02          | Implementar lógica de ordenamiento             | Desarrollar en la API la funcionalidad para ordenar por columna y dirección.                     | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS06T03          | Validar columnas permitidas                    | Verificar que la columna enviada para ordenar sea válida y esté soportada.                       | 2                  | Roberto Ccarita | Done   |
+| TS07          | Listar clientes                             | TS07T01          | Crear endpoint GET /clients                    | Implementar la ruta para obtener la lista de clientes.                                           | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS07T02          | Implementar filtros opcionales                 | Desarrollar la lógica para filtrar clientes por estado o nombre.                                 | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS07T03          | Implementar paginación básica                  | Agregar parámetros de paginado para optimizar la respuesta del endpoint.                         | 2                  | Jean Arizabal   | Done   |
+| TS08          | Crear un cliente                            | TS08T01          | Crear endpoint POST /clients                   | Implementar la ruta de creación de nuevos clientes.                                              | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS08T02          | Implementar lógica de inserción                | Desarrollar la operación que registra un nuevo cliente en la base de datos.                      | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS08T03          | Validar campos requeridos                      | Verificar que los datos enviados cumplan con los campos obligatorios y formatos esperados.       | 2                  | Axel Ordoñez    | Done   |
+| TS09          | Recuperar un cliente por id                 | TS09T01          | Crear endpoint GET /clients/{id}               | Implementar la ruta para obtener un cliente por su identificador.                                | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS09T02          | Implementar lógica de búsqueda                 | Desarrollar la función que consulta el cliente en la base de datos.                              | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS09T03          | Manejar errores de cliente no encontrado       | Retornar un error adecuado cuando el cliente solicitado no exista.                               | 2                  | Roberto Ccarita | Done   |
+| TS16          | Obtener suscripción actual                  | TS16T01          | Crear endpoint GET /subscriptions/current      | Implementar la ruta que devuelve la suscripción activa del usuario.                              | 3                  | Jean Arizabal   | Done   |
+|               |                                             | TS16T02          | Implementar lógica de consulta                 | Desarrollar la funcionalidad que obtiene el plan, costo y beneficios desde la base de datos.     | 3                  | Jean Arizabal   | Done   |
+| TS17          | Listar catálogo de planes                   | TS17T01          | Crear endpoint GET /plans                      | Implementar la ruta para obtener todos los planes disponibles.                                   | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS17T02          | Implementar lógica de listado de planes        | Consultar la base de datos para obtener el catálogo completo de planes.                          | 3                  | Axel Ordoñez    | Done   |
+|               |                                             | TS17T03          | Estructurar respuesta del catálogo             | Formatear la información para mostrar nombre, precio y beneficios de cada plan.                  | 2                  | Axel Ordoñez    | Done   |
+| TS18          | Cambiar plan de suscripción                 | TS18T01          | Crear endpoint PUT /subscriptions/change       | Implementar la ruta para actualizar el plan actual del usuario.                                  | 3                  | Roberto Ccarita | Done   |
+|               |                                             | TS18T02          | Implementar lógica de cambio de plan           | Realizar la actualización del plan en la base de datos validando compatibilidad y reglas.        | 3                  | Roberto Ccarita | Done   |
+| TS19          | Renovar suscripción                         | TS19T01          | Crear endpoint POST /subscriptions/renew       | Implementar la ruta que procesa la renovación de la suscripción.                                 | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS19T02          | Implementar lógica de renovación               | Extender la fecha de vigencia del plan según las reglas del sistema.                             | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS19T03          | Validar suscripción activa                     | Confirmar que el usuario tenga una suscripción vigente antes de permitir la renovación.          | 2                  | Yeira Huaman    | Done   |
+| TS20          | Cancelar suscripción                        | TS20T01          | Crear endpoint POST /subscriptions/cancel      | Implementar la ruta que procesa la cancelación de la suscripción.                                | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS20T02          | Implementar lógica de cancelación              | Actualizar el estado de la suscripción para detener la renovación automática.                    | 3                  | Yeira Huaman    | Done   |
+|               |                                             | TS20T03          | Validar estado de la suscripción               | Verificar que la suscripción esté activa y no haya sido cancelada previamente.                   | 2                  | Fabrizio Panta  | Done   |
+| TS21          | Cambiar contraseña del usuario              | TS21T01          | Crear endpoint PUT /users/change-password      | Implementar la ruta para actualizar la contraseña del usuario.                                   | 3                  | Fabrizio Panta  | Done   |
+|               |                                             | TS21T02          | Implementar lógica de validación y hash        | Verificar la contraseña actual, aplicar hash a la nueva y actualizarla.                          | 3                  | Fabrizio Panta  | Done   |
+|               |                                             | TS21T03          | Manejar errores de autenticación               | Retornar mensajes adecuados si la contraseña actual es incorrecta.                               | 2                  | Fabrizio Panta  | Done   |
+| TS22          | Solicitar adición de correo alternativo     | TS22T01          | Crear endpoint POST /users/add-secondary-email | Implementar la ruta para registrar un correo alternativo.                                        | 3                  | Fabrizio Panta  | Done   |
+|               |                                             | TS22T02          | Validar formato y unicidad del correo          | Confirmar que el correo alternativo tenga formato válido y no esté registrado previamente.       | 2                  | Fabrizio Panta  | Done   |
 
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+A continuación se presenta un registro de los commits realizados en el repositorio upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend durante el Sprint 4. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación del Web Service hasta su despliege.
+
+| Repository                                                           | Branch             | Commit Id | Commit Message                                                                                                | Commited on (Date) |
+|----------------------------------------------------------------------|--------------------|-----------|---------------------------------------------------------------------------------------------------------------|--------------------|
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics     | 370f5b6   | feat(analytics): add domain layer.                                                                            | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/analytics     | 3b2fd59   | feat(analytics): add interfaces layer.                                                                        | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/devices       | 0f038d5   | feat(devices): add devices logs to infrastructure layer.                                                      | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/projects      | 121ec91   | feat(projects): add units logs to application layer.                                                          | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 9123871   | Merge pull request #25 from upc-pre-1ASI0730-7461-CcaritaTech/feat/seed-mac-address                           | Nov 13, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/config         | 8b17759   | fix(config): add new allowed origin for production environment                                                | Nov 14, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | development        | 51f35cf   | Merge pull request #31 from upc-pre-1ASI0730-7461-CcaritaTech/fix/cors-deploy                                 | Nov 14, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 4c31d2a   | feat(subscriptions): add commands and queries for subscription management.                                    | Nov 26, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3226d3f   | feat(subscriptions): add subscriptions context and seed data for subscription plans.                          | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 76407f8   | feat(subscriptions): add ModelBuilderExtensions and SubscriptionRepository for subscription management        | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 93f570b   | feat(clients): implement Client aggregate with properties and methods for management                          | Nov 27, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 1e128c9   | feat(clients): add ClientQueryService for handling client queries                                             | Nov 28, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | b8f5f6a   | feat(subscriptions): add UpdateSubscriptionResource for updating subscription details                         | Nov 28, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | cc97fee   | feat(clients): add client repository finding methods.                                                         | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 2eb2989   | feat(clientes): add client entity configuration.                                                              | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | 4b9ae83   | feat(user): implement password update and second email handling commands                                      | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | fee4afa   | feat(iam): add SecondEmailCommand and SecondEmailResource for handling secondary email                        | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | fix/profiles       | 6a7edb5   | feat(clients): update connection string and add .dockerignore for development environment                     | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | cae83f9   | Merge pull request #33 from upc-pre-1ASI0730-7461-CcaritaTech/feat/clients                                    | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | fb82580   | feat(subscriptions): update CreateSubscriptionCommand to use PlanId instead of Plan                           | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | feat/subscriptions | 3e169a1   | feat(subscriptions): add ISubscriptionsContextFacade interface for plan management                            | Nov 29, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 4446ee0   | Merge pull request #34 from upc-pre-1ASI0730-7461-CcaritaTech/feat/subscriptions                              | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 115911d   | Merge pull request #35 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam                                      | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | 7a34c2d   | refactor(iam): remove secondemail handling from IUserCommandService and related classes                       | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | d7bf5be   | feat(iam): add SecondEmail property to Profile and implement methods for fetching and updating it             | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | update/iam         | 972ee3c   | feat(iam): add methods for fetching and setting second email in IProfilesContextFacade and ProfilesController | Nov 30, 2025       |
+| https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/IoBuild-Backend | develop            | 010e88e   | Merge pull request #37 from upc-pre-1ASI0730-7461-CcaritaTech/update/iam                                      | Nov 30, 2025       |
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4, el equipo completó la integración final de los nuevos módulos clave de IoBuild, consolidando la plataforma como un sistema robusto y listo para operación real. Este sprint estuvo enfocado en expandir las capacidades del sistema mediante funcionalidades asociadas a gestión de clientes, planes, suscripciones, pagos y analíticas.
+
+- **Clients (clients):** Se implementó la administración completa de clientes, permitiendo registrar, consultar y actualizar entidades asociadas a los proyectos.
+- **Plans (plans):** Se añadió la gestión de planes disponibles en la plataforma, permitiendo consultar sus características, límites, precios y beneficios. Esta información es clave para vincular capacidades del sistema con las suscripciones de cada cliente.
+- **Subscriptions (subscriptions):** Se completó el módulo de suscripciones, encargado de registrar el estado, fechas, plan asociado y vigencia de cada cliente.
+- **Payments (payments):** Se integraron los endpoints de pagos, incluyendo la creación y confirmación de sesiones de checkout. Este módulo permite enlazar suscripciones con procesos de pago externos, obteniendo sessionIds, validando transacciones y asegurando que el estado final de cada suscripción sea correcto.
+- **Analytics (analytics):** Se incorporó el módulo de analítica, que permite consultar métricas relacionadas a dispositivos, proyectos y uso general de la plataforma.
+
+Estas funcionalidades fueron integradas con el Web Service desarrollado previamente, asegurando una experiencia de usuario coherente y fluida. El resultado es una versión completa de IoBuild, que conecta usuarios, administradores y desarrolladores dentro de un entorno digital intuitivo y orientado a la eficiencia.
+
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2310.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2311.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2312.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2313.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2314.jpg)
+![imagen execution evidence](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2315.jpg)
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 de IoBuild, el trabajo se enfocó en completar, refinar y desplegar la plataforma, integrando tanto el frontend como el backend en un entorno funcional y accesible para los usuarios. Este sprint marca la consolidación final del sistema, con toda la infraestructura operativa, conectada y validada.
+
+*Estado Actual:*
+
+- Se finalizó y estabilizó el backend en .NET con MySQL, asegurando el correcto funcionamiento de todos los controladores, servicios y operaciones sobre la base de datos.
+- Todos los módulos trabajados durante los sprints previos quedaron integrados y operativos.
+- La API está deployada y accesible, con su documentación actualizada en Swagger, permitiendo visualizar, probar y validar cada endpoint directamente en el servidor en producción.
+- Se completó también el despliegue del frontend, conectándolo exitosamente con la API real para asegurar el funcionamiento completo de la plataforma desde la interfaz de usuario.
+- Se fortaleció la arquitectura general y se corrigieron detalles finales en la gestión de entidades clave como dispositivos, usuarios, proyectos y clientes, garantizando estabilidad en la interacción y persistencia de datos.
+
+
+El enfoque de este sprint estuvo en llevar toda la plataforma a un estado completamente desplegado y funcional, consolidando la integración entre frontend y backend, y asegurando que IoBuild esté lista para demostraciones, uso real y futuras extensiones.
+
+A continuación se presenta la tabla de los endpoints documentados:
+
+**Enpoints de profiles**
+
+| **Endpoint**                | **Acción**                          | **Verbo HTTP** | **Parámetros**                                                                                                                            | **Commit** |
+|-----------------------------|-------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| /api/v1/profiles            | Crear un nuevo perfil               | POST           | { "userId": "int", "photoUrl": "string", "name": "string", "username": "string", "address": "string", "age": "int", "phoneNumber": "string"} | cbc5ef8    |
+| /api/v1/profiles            | Obtener todos los perfiles          | GET             | no parámetros                                                                                                                             | cbc5ef8    |
+| api/v1/profiles/{profileId} | Obtener un perfil por id de profile | GET            | profileId                                                                                                                                 | cbc5ef8    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2310.jpg)
+
+
+**Enpoints de clients**
+
+| **Endpoint**               | **Acción**                           | **Verbo HTTP** | **Parámetros**                                                                                                                                                                      | **Commit** |
+|----------------------------|--------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| /api/v1/clients/{clientId} | Obtener un cliente por id de cliente | GET            | clientId                                                                                                                                                                            | c88118d    |
+| /api/v1/clients/{clientId} | Actualizar un cliente                | PUT            | { "clientId": "int", "fullName": "string", "projectId": "int", "projectName": "string", "accountStatement": "string", "email": "string", "phoneNumber": "string", "address": "string"} | c88118d    |
+| /api/v1/clients/{clientId} | Eliminar un cliente                  | DELETE         | clientId                                                                                                                                                                            | c88118d    |
+| api/v1/clients             | Obtener todos los clientes           | GET            | no parámetros                                                                                                                                                                       | c88118d    |
+| api/v1/clients             | Crear un nuevo cliente               | POST           | { "fullName": "string", "projectId": "int", "projectName" : "string", "accountStatement": "string", "email": "string", "phoneNumber": "string", "address": "string" }               | c88118d    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2311.jpg)
+
+
+
+**Enpoints de analytics**
+
+| **Endpoint**                       | **Acción**                     | **Verbo HTTP** | **Parámetros**                                                                         | **Commit** |
+|------------------------------------|--------------------------------|----------------|----------------------------------------------------------------------------------------|------------|
+| /api/v1/analytics/metrics/{userId} | Obtener métricas del dashboard | GET            | { "userId": "int", "role": "string" }                                                  | 3b2fd59    |
+| /api/v1/analytics/insights         | Obtener insights analíticos    | GET            | { "projectId": "int", "metric": "string", "startDate": "string", "endDate": "string" } | 3b2fd59    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2312.jpg)
+
+
+
+**Enpoints de payments**
+
+| **Endpoint**                                  | **Acción**                      | **Verbo HTTP** | **Parámetros**                                                                         | **Commit** |
+|-----------------------------------------------|---------------------------------|----------------|----------------------------------------------------------------------------------------|------------|
+| /api/v1/subscriptions/payments/create-session | Crear sesión de pago (checkout) | POST           | { "builderId": "int", "planId": "int", "successUrl": "string", "cancelUrl": "string" } | 72ec803    |
+| /api/v1/subscriptions/payments/confirm        | Confirmar sesión de pago        | POST           | { "builderId": "int", "sessionId": "string" }                                          | 72ec803    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2313.jpg)
+
+**Enpoints de plans**
+
+| **Endpoint**  | **Acción**                           | **Verbo HTTP** | **Parámetros** | **Commit** |
+|---------------|--------------------------------------|----------------|----------------| ---------- |
+| /api/v1/plans | Obtener los devices de un usuario    | GET            | no parámetros  | 14c2496    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2314.jpg)
+
+**Enpoints de subscriptions**
+
+| **Endpoint**              | **Acción**                      | **Verbo HTTP** | **Parámetros**                                                                                         | **Commit** |
+|---------------------------|---------------------------------|----------------|--------------------------------------------------------------------------------------------------------|------------|
+| /api/v1/subscriptions     | Obtener todas las suscripciones | GET            | no parámetros                                                                                          | 3226d3f   |
+| /api/v1/subscriptions     | Crear un suscripción            | POST           | { "builderId": "int", "planId": "int", "status": "string", "startDate": "string", "endDate": "string"} | 3226d3f    |
+| api/v1/subscriptions/{id} | Obtener una suscripción por Id  | GET            | id                                                                                                     | 3226d3f    |
+| api/v1/subscriptions/{id} | Actualizar una suscripción      | PUT            | { "id": "int", "planId": "int", "status": "string", "startDate": "string", "endDate": "string" }       | 3226d3f    |
+
+![imagen service documentation](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Endpoints%2315.jpg)
+
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### Cuarta versión desplegada de la Landing Page
+Durante el Sprint 4 se llevaron a cabo mejoras importantes en la landing page de IoBuild, orientadas a optimizar su diseño, claridad visual y usabilidad. Estas mejoras incluyeron ajustes en la estructura, actualización de contenidos y refinamientos en la experiencia de usuario, permitiendo presentar una versión más pulida y alineada con la identidad del proyecto.
+
+![Imagen de Deploy Landing-Page](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Imagen_deploy.png)
+
+<br>
+
+#### Tercera versión desplegada del Frontend
+Durante el Sprint 4 se implementaron mejoras significativas en la aplicación web de IoBuild, orientadas a optimizar su rendimiento, usabilidad y coherencia visual. Estas optimizaciones incluyeron ajustes en la estructura de componentes, refinamiento de estilos y corrección de funcionalidades identificadas en iteraciones previas. Una vez completadas estas actualizaciones, se llevó a cabo nuevamente el proceso de despliegue utilizando Vercel como plataforma de alojamiento e integración continua, garantizando que la versión actualizada de la aplicación web estuviera disponible, funcional y alineada con los avances generales del proyecto.
+
+![Imagen de Deploy Frontend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend1.jpg)
+![Imagen de Deploy Frontend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend2.jpg)
+![Imagen de Deploy Frontend3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Frontend3.jpg)
+
+<br>
+
+#### Segunda versión desplegada del Backend
+Durante el Sprint 4 se realizaron mejoras esenciales en el backend de IoBuild, orientadas a optimizar su rendimiento, modularidad y estabilidad dentro del entorno productivo. Estas mejoras incluyeron ajustes en la lógica interna, refinamiento de controladores y se agregaron endpoints restantes. Una vez completadas estas optimizaciones, se procedió al despliegue actualizado del backend utilizando Railway como plataforma de hosting e integración continua. Gracias a la vinculación con el repositorio de GitHub, el proceso de construcción y publicación se automatizó correctamente, asegurando que la versión mejorada del backend estuviera disponible y funcionando de manera eficiente en el entorno productivo.
+
+![Imagen de Deploy Backend1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend1.jpg)
+![Imagen de Deploy Backend2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Deploy_Backend2.jpg)
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4 de IoBuild, el equipo concentró sus esfuerzos en avanzar y consolidar tanto la aplicación web como la RESTful API, enfocadas en los perfiles Owner y Builder. Las tareas principales estuvieron orientadas a completar las vistas pendientes, manejar información dinámica y afianzar el diseño visual y funcional de toda la plataforma.
+
+En esta fase se estableció la estructura fundamental del sistema, incorporando componentes como Clients y Subscriptions, lo que permitió asegurar una navegación coherente, ordenada y totalmente integrada. Además, se añadieron funcionalidades clave como la edición de perfil, la configuración de idioma mediante i18n y diversas opciones de personalización para el usuario, mejorando significativamente la experiencia interactiva.
+
+El diseño visual continuó alineado con la identidad de IoBuild, priorizando la coherencia estética, la adaptabilidad a distintos dispositivos y la facilidad de uso. Se mantuvo una tipografía uniforme y una paleta de colores que refuerza la claridad, el profesionalismo y la modernidad de la plataforma.
+
+La colaboración del equipo se llevó a cabo mediante GitHub, aplicando un flujo de trabajo basado en ramas independientes por funcionalidad, commits estandarizados bajo la convención Conventional Commits y Pull Requests revisados de forma colaborativa. Esto permitió garantizar la calidad del código, su trazabilidad y la consistencia del proyecto.
+
+A continuación, se detallan las contribuciones individuales de cada miembro durante este sprint.
+
+#### Insights
+
+![Imagen de Insights](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Insights.png)
+
+#### Contribuciones por miembro
+
+![Imagen de Insights2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Contribuciones-por-miembro.png)
+
+#### Commits del repositorio
+
+![Imagen de Commits1](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Commits1.png)
+![Imagen de Commits2](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Commits2.png)
+![Imagen de Commits3](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Commits3.png)
+
+#### Network Graph
+
+![Network Graph](https://raw.githubusercontent.com/F4brizio24/Imagenes-Proyecto/refs/heads/main/Imagenes/Cap%C3%ADtulo%205/Sprint4_Network.png)
 
 
 ## 5.3. Validation Interviews.
